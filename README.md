@@ -1,2 +1,2 @@
 # nmr-pred
-Prediction of NMR Spectra from Structure
+Use machine learning models to predict NMR Spectra from Structure
