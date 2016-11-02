@@ -11,11 +11,13 @@ import org.openscience.cdk.interfaces.IAtomContainer;
 import org.openscience.cdk.interfaces.IChemFile;
 import org.openscience.cdk.interfaces.IChemObject;
 import org.openscience.cdk.interfaces.IMolecule;
+import org.openscience.cdk.interfaces.IAtom;
 import org.openscience.cdk.io.ISimpleChemObjectReader;
 import org.openscience.cdk.io.ReaderFactory;
 import org.openscience.cdk.qsar.DescriptorEngine;
 import org.openscience.cdk.qsar.IDescriptor;
 import org.openscience.cdk.qsar.IMolecularDescriptor;
+import org.openscience.cdk.qsar.IAtomicDescriptor;
 import org.openscience.cdk.qsar.result.DoubleArrayResult;
 import org.openscience.cdk.qsar.result.DoubleArrayResultType;
 import org.openscience.cdk.qsar.result.DoubleResult;
@@ -26,6 +28,7 @@ import org.openscience.cdk.qsar.result.IntegerResult;
 import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
 import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.qsar.descriptors.molecular.IPMolecularLearningDescriptor;
+import org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor;
 import org.openscience.cdk.smiles.SmilesGenerator;
 
 
@@ -39,7 +42,7 @@ import org.openscience.cdk.smiles.SmilesGenerator;
  * @version 1.0 20/9/2012
  */
 public class GetCDKDescriptors {
-	private static DescriptorEngine ENGINE = new DescriptorEngine(DescriptorEngine.MOLECULAR);
+	private static DescriptorEngine ENGINE = new DescriptorEngine(DescriptorEngine.ATOMIC);
 
 
   /**
@@ -82,7 +85,7 @@ public class GetCDKDescriptors {
     ArrayList<String> colNames = new ArrayList<String>();
     ArrayList<Double[]> values = new ArrayList<Double[]>();
     for (IDescriptor desc : descriptors) {
-      if (desc instanceof IPMolecularLearningDescriptor)
+      if (desc instanceof IPAtomicLearningDescriptor)
         continue;
       String tname = desc.getClass().getName();
       String[] tnamebits = tname.split("\\.");
@@ -94,8 +97,15 @@ public class GetCDKDescriptors {
         colNamesArr[idx] = tname + "-" + colNamesArr[idx];
       }
       colNames.addAll(Arrays.asList(colNamesArr));
-      List<Double[]> valuesList = computeLists(mols, (IMolecularDescriptor) desc);
-      values.addAll(valuesList);
+      for (IAtomContainer mol : mols) {
+        int atomCount = mol.getAtomCount();
+        List<IAtom> atoms = new ArrayList<IAtom>();
+        for (int i = 0; i < atomCount; i++) {
+          atoms.add(mol.getAtom(i));
+        }
+        List<Double[]> valuesList = computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc);
+        values.addAll(valuesList);
+      }
     }
 
     int ncol = values.size();
@@ -139,19 +149,19 @@ public class GetCDKDescriptors {
  }
 
 
- /**
-  * Compute descriptor values, convert to list
-  *
-  * @param List<IMolecule> The molecules
-  * @param IMoleculeDescriptor The descriptor
-  * @return List<Double[]> The descriptor values as list
-  */
 	public static List<Double[]> computeLists(List<IMolecule> mols, IMolecularDescriptor desc )
 	{
     System.out.println("computing descriptor " + getName(desc));
     List<Double[]> values = computeDescriptors(mols, (IMolecularDescriptor) desc);
     return values;
 	}
+
+  public static List<Double[]> computeListsAtomic(IAtomContainer mol, List<IAtom> atoms, IAtomicDescriptor desc )
+  {
+    System.out.println("computing descriptor " + getName(desc));
+    List<Double[]> values = computeDescriptorsAtomic(mol, atoms, desc);
+    return values;
+  }
 
 
  /**
@@ -212,13 +222,6 @@ public class GetCDKDescriptors {
 	}
 
 
- /**
-  * Compute descriptors
-  *
-  * @param List<IMolecule> The molecules
-  * @param IMoleculeDescriptor The descriptor
-  * @return List<Double[]> The results as list
-  */
 	public static List<Double[]> computeDescriptors(List<IMolecule> mols, IMolecularDescriptor descriptor)
 	{
 		List<Double[]> vv = new ArrayList<Double[]>();
@@ -268,6 +271,55 @@ public class GetCDKDescriptors {
 		return vv;
 	}
 
+  public static List<Double[]> computeDescriptorsAtomic(IAtomContainer mol, List<IAtom> atoms, IAtomicDescriptor descriptor)
+  {
+    List<Double[]> vv = new ArrayList<Double[]>();
+
+    //for (int j = 0; j < getSize(descriptor); j++)
+    vv.add(new Double[atoms.size()]);
+
+    for (int i = 0; i < atoms.size(); i++)
+    {
+      if (atoms.get(i) == null)
+      {
+        //for (int j = 0; j < getSize(descriptor); j++)
+          vv.get(0)[i] = null;
+      }
+      else
+      {
+        try
+        {
+          IDescriptorResult res = descriptor.calculate(atoms.get(i), mol).getValue();
+          if (res instanceof IntegerResult)
+            vv.get(0)[i] = (double) ((IntegerResult) res).intValue();
+          else if (res instanceof DoubleResult)
+            vv.get(0)[i] = ((DoubleResult) res).doubleValue();
+          else if (res instanceof DoubleArrayResult)
+            //for (int j = 0; j < getSize(descriptor); j++)
+              vv.get(0)[i] = ((DoubleArrayResult) res).get(0);
+          else if (res instanceof IntegerArrayResult)
+            //for (int j = 0; j < getSize(descriptor); j++)
+              vv.get(0)[i] = (double) ((IntegerArrayResult) res).get(0);
+          else
+            throw new IllegalStateException("Unknown idescriptor result value for '" + descriptor + "' : "
+                + res.getClass());
+        }
+        catch (Throwable e)
+        {
+          System.err.println("Could not compute cdk feature " + descriptor);
+          e.printStackTrace();
+          //for (int j = 0; j < getSize(descriptor); j++)
+            vv.get(0)[i] = null;
+        }
+      }
+      //for (int j = 0; j < getSize(descriptor); j++)
+        if (vv.get(0)[i] != null && (vv.get(0)[i].isNaN() || vv.get(0)[i].isInfinite()))
+          vv.get(0)[i] = null;
+    }
+
+    return vv;
+  }
+
 
  /**
   * Get length of result for a given descriptor
@@ -294,7 +346,20 @@ public class GetCDKDescriptors {
   */
 	private static String getName(IDescriptor descriptor) 
   {
-		return ENGINE.getDictionaryTitle(descriptor.getSpecification()).trim();
+    try
+    {
+      String name = ENGINE.getDictionaryTitle(descriptor.getSpecification()).trim();
+  		if (name != null) {
+        return name;
+      }
+      else {
+        return "";
+      }
+    }
+    catch (Throwable e)
+    {
+      return "";
+    }
 	}
 
 
