@@ -100,15 +100,17 @@ public class GetCDKDescriptors {
       for (IAtomContainer mol : mols) {
         int atomCount = mol.getAtomCount();
         List<IAtom> atoms = new ArrayList<IAtom>();
+        List<Double[]> valuesList = new ArrayList<Double[]>();
         for (int i = 0; i < atomCount; i++) {
           atoms.add(mol.getAtom(i));
+          valuesList.addAll(computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc));
         }
-        List<Double[]> valuesList = computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc);
         values.addAll(valuesList);
       }
     }
 
     int ncol = values.size();
+    System.out.println(ncol);
     int nrow = mols.size();
     FileWriter fstream = new FileWriter(csvOutputPath);
     BufferedWriter out = new BufferedWriter(fstream);

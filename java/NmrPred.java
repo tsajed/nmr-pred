@@ -38,15 +38,6 @@ public class NmrPred {
   	File folder = new File("dataset/");
     ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
     getStructures(nmr_structures, folder);
-
-    DescriptorEngine engine = new DescriptorEngine(DescriptorEngine.ATOMIC);
-    List<IDescriptor> descriptors = engine.getDescriptorInstances();
-    for (IDescriptor desc : descriptors) {
-      if (desc instanceof IPAtomicLearningDescriptor)
-        continue;
-      String tname = desc.getClass().getName();
-      System.out.println(tname);
-    }
   }
 
   static ArrayList<NmrStructure> getChemicalShifts(File folder) {
