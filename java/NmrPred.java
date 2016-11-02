@@ -5,31 +5,7 @@ import java.util.regex.*;
 import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
 
-import org.openscience.cdk.ChemFile;
-import org.openscience.cdk.aromaticity.CDKHueckelAromaticityDetector;
-import org.openscience.cdk.interfaces.IAtomContainer;
-import org.openscience.cdk.interfaces.IChemFile;
-import org.openscience.cdk.interfaces.IChemObject;
-import org.openscience.cdk.interfaces.IMolecule;
-import org.openscience.cdk.interfaces.IAtom;
-import org.openscience.cdk.io.ISimpleChemObjectReader;
-import org.openscience.cdk.io.ReaderFactory;
-import org.openscience.cdk.qsar.DescriptorEngine;
-import org.openscience.cdk.qsar.IDescriptor;
-import org.openscience.cdk.qsar.IMolecularDescriptor;
-import org.openscience.cdk.qsar.IAtomicDescriptor;
-import org.openscience.cdk.qsar.result.DoubleArrayResult;
-import org.openscience.cdk.qsar.result.DoubleArrayResultType;
-import org.openscience.cdk.qsar.result.DoubleResult;
-import org.openscience.cdk.qsar.result.IDescriptorResult;
-import org.openscience.cdk.qsar.result.IntegerArrayResult;
-import org.openscience.cdk.qsar.result.IntegerArrayResultType;
-import org.openscience.cdk.qsar.result.IntegerResult;
-import org.openscience.cdk.tools.manipulator.AtomContainerManipulator;
-import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
-import org.openscience.cdk.qsar.descriptors.molecular.IPMolecularLearningDescriptor;
-import org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor;
-import org.openscience.cdk.smiles.SmilesGenerator;
+import weka.core.Instances;
 
 
 public class NmrPred {
