@@ -7,6 +7,7 @@ import java.nio.charset.StandardCharsets;
 
 import weka.core.*;
 import weka.classifiers.functions.*;
+import weka.classifiers.Evaluation;
 
 
 public class NmrPred {
@@ -51,9 +52,16 @@ public class NmrPred {
     LinearRegression model = new LinearRegression();
     try {
       model.buildClassifier(isTrainingSet);
-      Instance test = isTrainingSet.lastInstance();
-      double ppm = model.classifyInstance(test);
-      System.out.println("Predicted ppm = "+ ppm);
+      //Instance test = isTrainingSet.lastInstance();
+      //double ppm = model.classifyInstance(test);
+      //System.out.println("Predicted ppm = "+ ppm);
+      Evaluation eTest = new Evaluation(isTrainingSet);
+      eTest.evaluateModel(model, isTrainingSet);
+      String strSummary = eTest.toSummaryString();
+      System.out.println(strSummary);
+ 
+      // Get the confusion matrix (not possible with linear regressor)
+      // double[][] cmMatrix = eTest.confusionMatrix();
     }
     catch (Exception e) {
       e.printStackTrace();
