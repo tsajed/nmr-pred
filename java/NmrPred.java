@@ -40,7 +40,7 @@ public class NmrPred {
       for (int i = 0; i < nmr_str.carbon_positions.size(); i++) {
         Instance iExample = new DenseInstance(values.size() + 1);
         for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
-          //System.out.println(String.valueOf(nmr_str.atomic_descriptors.get(j)[7]));
+          System.out.println(String.valueOf(nmr_str.chemical_shifts.get(i)));
           iExample.setValue((Attribute)wekaAttributes.elementAt(j), 
                             nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.carbon_positions.get(i))]);
         }
