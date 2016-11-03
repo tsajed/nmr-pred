@@ -1,0 +1,149 @@
+Sphingosine.mol
+  Mrv0541 02231218252D          
+
+ 21 20  0  0  0  0            999 V2000
+    5.0013    1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2868   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.2868   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -1.4438    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    1.4438    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  1 19  1  0  0  0  0
+  3 20  1  1  0  0  0
+  2 21  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00269
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCC[C@@H](O)[C@@H](N)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H39NO2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-18(21)17(19)16-20/h17-18,20-21H,2-16,19H2,1H3/t17-,18+/m0/s1
+
+> <INCHI_KEY>
+OTKJDMGTUTTYMP-ZWKOTPCHSA-N
+
+> <FORMULA>
+C18H39NO2
+
+> <MOLECULAR_WEIGHT>
+301.5078
+
+> <EXACT_MASS>
+301.298079497
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.493804788767136
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S,3R)-2-aminooctadecane-1,3-diol
+
+> <ALOGPS_LOGP>
+5.20
+
+> <JCHEM_LOGP>
+4.772594245333334
+
+> <ALOGPS_LOGS>
+-4.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+15.262227395125855
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.419876288941946
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.287692505029561
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.48
+
+> <JCHEM_REFRACTIVITY>
+90.92939999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.53e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sphinganine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00269
+
+> <GENERIC_NAME>
+Sphinganine
+
+> <SYNONYMS>
+2-Amino-D-erythro-1,3-Octadecanediol; C18-dihydro-Sphingosine; C18-Dihydrosphingosine; D-Erythro-1,3-Dihydroxy-2-aminooctadecane; D-Erythro-2-Amino-1,3-octadecanediol; D-Erythro-C18-Dihydrosphingosine; D-Erythro-Sphinganine; Dihydro-C18-sphingosine; Dihydrosphingosine; Erythro-Sphinganine; Octadecasphinganine; Sphinganine; [R-(R*,S*)]-2-amino-1,3-Octadecanediol
+
+$$$$

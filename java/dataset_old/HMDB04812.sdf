@@ -1,0 +1,130 @@
+
+  Mrv0541 02231219592D          
+
+ 11 11  0  0  0  0            999 V2000
+   18.4535  -18.0980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3231  -18.0980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3883  -18.8801    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0120  -19.4571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7647  -19.4571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8404  -18.6502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9362  -18.6502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0558  -18.3951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7209  -18.3951    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8009  -17.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9758  -17.6105    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04812
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC=C(O1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4O5/c7-5(8)3-1-2-4(11-3)6(9)10/h1-2H,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+CHTHALBTIRVDBM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H4O5
+
+> <MOLECULAR_WEIGHT>
+156.093
+
+> <EXACT_MASS>
+156.005873238
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.046469592857385
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+furan-2,5-dicarboxylic acid
+
+> <ALOGPS_LOGP>
+0.66
+
+> <JCHEM_LOGP>
+0.26865939966666663
+
+> <ALOGPS_LOGS>
+-1.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.472294433709411
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.759007814238817
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.083447595503466
+
+> <JCHEM_POLAR_SURFACE_AREA>
+87.74000000000001
+
+> <JCHEM_REFRACTIVITY>
+32.838800000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,5-furandicarboxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB04812
+
+> <GENERIC_NAME>
+2,5-Furandicarboxylic acid
+
+> <SYNONYMS>
+(1,5-dimethylhexyl)Hydrazine; 2,5-Furandicarboxylate; Dehydromucate; Dehydromucic acid; Dehydroschleimsaeure; Furan 2,5-dicarboxylate; Furan 2,5-dicarboxylic acid; Furan-2,5-dicarbonsaeure; Furan-2,5-dicarboxylate; Furan-2,5-dicarboxylic acid; Furane-a,a'-dicarboxylate; Furane-a,a'-dicarboxylic acid
+
+$$$$

@@ -1,0 +1,131 @@
+
+  Mrv0541 02231218072D          
+
+ 11 12  0  0  0  0            999 V2000
+    3.0793    1.4002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -1.0751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5744   -0.9140    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0560   -0.2500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647    0.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0793   -1.0751    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7938    0.1625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7938   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5744    0.4140    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0793    0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3647   -0.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00786
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C1NC(=O)C2=CNNC2=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O2/c10-4-2-1-6-9-3(2)7-5(11)8-4/h1H,(H3,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+HXNFUBHNUDHIGC-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N4O2
+
+> <MOLECULAR_WEIGHT>
+152.1109
+
+> <EXACT_MASS>
+152.033425392
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.598807209384207
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H,2H,4H,5H,6H-pyrazolo[3,4-d]pyrimidine-4,6-dione
+
+> <ALOGPS_LOGP>
+-2.01
+
+> <JCHEM_LOGP>
+-1.6700113939999999
+
+> <ALOGPS_LOGS>
+-1.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.509940712611563
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.185454638453015
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6827801224107626
+
+> <JCHEM_POLAR_SURFACE_AREA>
+82.59
+
+> <JCHEM_REFRACTIVITY>
+55.3527
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.32e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oxypurinol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00786
+
+> <GENERIC_NAME>
+Oxypurinol
+
+> <SYNONYMS>
+1H,3H,9H-Alloxanthine; 1H-Pyrazolo[3,4-D]pyrimidin-4,6-diol; 4,6-Dihydroxypyrazolo[3,4-D]pyrimidine; Alloxanthine; Oxipurinol; Oxoallopurinol
+
+$$$$

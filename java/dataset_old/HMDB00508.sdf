@@ -1,0 +1,127 @@
+00508.mol
+  Mrv0541 02231218332D          
+
+ 10  9  0  0  0  0            999 V2000
+   -2.1458   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4296    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7134   -0.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7163   -0.2063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.4296    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1458   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7134   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7163   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  4  8  1  1  0  0  0
+  3  9  1  6  0  0  0
+  5 10  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00508
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H](O)[C@H](O)[C@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H12O5/c6-1-3(8)5(10)4(9)2-7/h3-10H,1-2H2/t3-,4+,5-
+
+> <INCHI_KEY>
+HEBKCHPVOIAQTA-ZXFHETKHSA-N
+
+> <FORMULA>
+C5H12O5
+
+> <MOLECULAR_WEIGHT>
+152.1458
+
+> <EXACT_MASS>
+152.068473494
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.382275245790568
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3s,4S)-pentane-1,2,3,4,5-pentol
+
+> <ALOGPS_LOGP>
+-2.53
+
+> <JCHEM_LOGP>
+-3.099683906666666
+
+> <ALOGPS_LOGS>
+0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.742189661908146
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.760078510562963
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9742034412471314
+
+> <JCHEM_POLAR_SURFACE_AREA>
+101.15
+
+> <JCHEM_REFRACTIVITY>
+32.4411
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.64e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ribitol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00508
+
+> <GENERIC_NAME>
+Ribitol
+
+> <SYNONYMS>
+1,2,3,4,5-Pentanepentol; Adonit; Adonite; Adonitol; Pentitol; Ribitol
+
+$$$$

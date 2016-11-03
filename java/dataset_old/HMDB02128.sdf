@@ -1,0 +1,123 @@
+
+  Mrv0541 02231219222D          
+
+  9  9  0  0  0  0            999 V2000
+   26.1320   -3.4467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7030   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5609   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1320   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4175   -4.6842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4175   -5.5093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8465   -5.5093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1320   -4.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8465   -4.6842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02128
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=CC(=O)N=C(N)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O/c5-2-1-3(9)8-4(6)7-2/h1H,(H5,5,6,7,8,9)
+
+> <INCHI_KEY>
+SWELIMKTDYHAOY-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N4O
+
+> <MOLECULAR_WEIGHT>
+126.1166
+
+> <EXACT_MASS>
+126.054160834
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.37273159208533
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,6-diamino-1,4-dihydropyrimidin-4-one
+
+> <ALOGPS_LOGP>
+-1.43
+
+> <JCHEM_LOGP>
+-1.627665486333333
+
+> <ALOGPS_LOGS>
+-1.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.251795887555813
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.1865454648409273
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.5
+
+> <JCHEM_REFRACTIVITY>
+40.8845
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-aminoisocytosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02128
+
+> <GENERIC_NAME>
+2,4-Diamino-6-hydroxypyrimidine
+
+> <SYNONYMS>
+2,4-Diamino-6-hydroxypyrimidine; 2,4-Diamino-6-pyrimidinone; 2,6-Diamino-4(1H)-pyrimidinone; 2,6-Diamino-4(3H)-pyrimidinone; 2,6-Diamino-4-hydroxypyrimidine; 2,6-Diamino-4-pyrimidinol; 2,6-Diaminopyrimidin-4-one; 6-Aminoisocytosine; 6-Hydroxy-2,4-pyrimidinediamine
+
+$$$$

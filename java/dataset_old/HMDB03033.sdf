@@ -1,0 +1,165 @@
+
+  Mrv0541 02231219382D          
+
+ 28 32  0  0  1  0            999 V2000
+   28.3116  -15.1345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4525  -16.0617    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7074   -9.3053    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6636  -14.4176    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   26.9490  -14.0051    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   27.4910  -15.2193    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   26.9490  -13.1801    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   27.6636  -12.7676    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   28.3780  -14.0051    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3410  -14.5554    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6752  -15.3043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3780  -13.1801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6768  -11.9083    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   27.3180  -16.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4760  -14.5609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1983  -12.7620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9359  -11.4729    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4621  -11.4788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0318  -16.4397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3881  -12.3264    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1917  -11.9026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6458  -15.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4760  -10.5838    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9290  -10.5778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7042  -10.1303    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3458  -13.7374    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3800  -13.5144    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2376  -12.4420    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1  0  0  0
+  1 22  1  0  0  0  0
+  2 22  2  0  0  0  0
+  3 25  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 15  1  1  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 26  1  6  0  0  0
+  6 11  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 27  1  1  0  0  0
+  8 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  8 28  1  6  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 14 19  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 17 21  1  0  0  0  0
+ 17 24  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 22  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 25  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03033
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@@]3(CCC(=O)O3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C=CC2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C22H28O3/c1-20-9-5-15(23)13-14(20)3-4-16-17(20)6-10-21(2)18(16)7-11-22(21)12-8-19(24)25-22/h3-4,13,16-18H,5-12H2,1-2H3/t16-,17+,18+,20+,21+,22-/m1/s1
+
+> <INCHI_KEY>
+UJVLDDZCTMKXJK-WNHSNXHDSA-N
+
+> <FORMULA>
+C22H28O3
+
+> <MOLECULAR_WEIGHT>
+340.4559
+
+> <EXACT_MASS>
+340.203844762
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.76947112682357
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1'S,2R,2'R,10'R,11'S,15'S)-2',15'-dimethylspiro[oxolane-2,14'-tetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecane]-6',8'-diene-5,5'-dione
+
+> <ALOGPS_LOGP>
+2.79
+
+> <JCHEM_LOGP>
+3.595398729
+
+> <ALOGPS_LOGS>
+-4.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+5
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.93862843295016
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.771554231331754
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+97.48279999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.20e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+canrenone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03033
+
+> <GENERIC_NAME>
+Canrenone
+
+> <SYNONYMS>
+17-Hydroxy-3-oxo-17a-pregna-4,6-diene-21-carboxylic acid g-lactone; 17-Hydroxy-3-oxo-17a-pregna-4,6-diene-21-carboxylic acid lactone; 17a-(2-Carboxyethyl)-17b-hydroxyandrosta-4,6-dien-3-one lactone; 17b-Hydroxy-3-oxopregna-4,6-diene-21-carboxylic acid; 20-Spiroxa-4,6-diene-3,21-dione; 3'-(3-Oxo-17b-hydroxyandrosta-4,6-dien-17a-yl)-propionic acid lactone; 3-(17b-Hydroxy-3-oxoandrosta-4,6-dien-17a-yl)propionic acid g-lactone; 3-(17b-Hydroxy-3-oxoandrosta-4,6-dien-17a-yl)propionic acid lactone; 3-(3-Oxo-17b-hydroxy-4,6-androstadien-17a-yl)propionic acid g-lactone; Aldadiene; Canrenone; Phanurane
+
+$$$$

@@ -1,0 +1,129 @@
+120
+  Mrv0541 02231214272D          
+
+ 12 12  0  0  1  0            999 V2000
+    3.7934    1.8067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    1.8067    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.1568    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644    0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    0.5692    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3644   -0.6683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790    1.3942    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3644   -2.3182    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  5  3  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00159
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO2/c10-8(9(11)12)6-7-4-2-1-3-5-7/h1-5,8H,6,10H2,(H,11,12)/t8-/m0/s1
+
+> <INCHI_KEY>
+COLNVLDHVKWLRT-QMMMGPOBSA-N
+
+> <FORMULA>
+C9H11NO2
+
+> <MOLECULAR_WEIGHT>
+165.1891
+
+> <EXACT_MASS>
+165.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.031976384631157
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+-1.35
+
+> <JCHEM_LOGP>
+-1.184438468740489
+
+> <ALOGPS_LOGS>
+-1.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.469229772182635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.446936344396194
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+45.11630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.14e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-phenylalanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00159
+
+> <GENERIC_NAME>
+L-Phenylalanine
+
+> <SYNONYMS>
+(-)-beta-Phenylalanine; (L)-Phenylalanine; (S)-(-)-Phenylalanine; (S)-2-amino-3-phenylpropanoate; (S)-2-amino-3-phenylpropanoic acid; (S)-2-Amino-3-phenylpropionate; (S)-2-Amino-3-phenylpropionic acid; (S)-alpha-Amino-benzenepropanoate; (S)-alpha-Amino-benzenepropanoic acid; (S)-alpha-Amino-beta-phenylpropionate; (S)-alpha-Amino-beta-phenylpropionic acid; (S)-alpha-Aminobenzenepropanoate; (S)-alpha-Aminobenzenepropanoic acid; (S)-alpha-Aminohydrocinnamate; (S)-alpha-Aminohydrocinnamic acid; (S)-Phenylalanine; 3-Phenyl-L-alanine; alpha-Aminohydrocinnamate; alpha-Aminohydrocinnamic acid; beta-Phenyl-alpha-alanine; beta-Phenyl-L-alanine; beta-Phenylalanine; L-2-Amino-3-phenylpropionate; L-2-Amino-3-phenylpropionic acid; Phe; Phenyl-Alanine; Phenylalamine; Phenylalanine
+
+$$$$

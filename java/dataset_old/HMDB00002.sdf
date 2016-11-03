@@ -1,0 +1,111 @@
+1,3-Diaminopropane.mol
+  Mrv0541 02231218172D          
+
+  5  4  0  0  0  0            999 V2000
+   -0.7144    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7144    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4288   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4288   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  1  5  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00002
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCCN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H10N2/c4-2-1-3-5/h1-5H2
+
+> <INCHI_KEY>
+XFNJVJPLKCPIBV-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H10N2
+
+> <MOLECULAR_WEIGHT>
+74.1249
+
+> <EXACT_MASS>
+74.08439833
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.059383875573541
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+propane-1,3-diamine
+
+> <ALOGPS_LOGP>
+-1.41
+
+> <JCHEM_LOGP>
+-1.362482935
+
+> <ALOGPS_LOGS>
+0.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+2
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.469241483553525
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.04
+
+> <JCHEM_REFRACTIVITY>
+22.734
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.37e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α,ω-propanediamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00002
+
+> <GENERIC_NAME>
+1,3-Diaminopropane
+
+> <SYNONYMS>
+1,3-Diamino-N-propane; 1,3-Propanediamine; 1,3-Propylenediamine; 1,3-Trimethylenediamine; 3-Aminopropylamine; a,w-Propanediamine; Propane-1,3-diamine; Trimethylenediamine
+
+$$$$

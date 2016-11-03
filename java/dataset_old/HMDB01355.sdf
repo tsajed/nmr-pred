@@ -1,0 +1,136 @@
+
+  Mrv0541 02231219052D          
+
+ 18 18  0  0  0  0            999 V2000
+   -0.2061   -1.1612    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5084   -0.7489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9242   -0.7489    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2061   -1.9857    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7868   -1.7452    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5084    0.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6353   -1.1612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5119   -2.4014    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2095    0.4948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2231    0.4948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3499   -0.7524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5119   -3.2259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2095    1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2231    1.3192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5084    1.7315    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5084    2.5560    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -0.2061    2.9718    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2265    2.9718    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  CHG  2  16   1  18  -1
+M  END
+> <DATABASE_ID>
+HMDB01355
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14NO5PS/c1-3-14-17(18,15-4-2)16-10-7-5-9(6-8-10)11(12)13/h5-8H,3-4H2,1-2H3
+
+> <INCHI_KEY>
+LCCNCVORNKJIRZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14NO5PS
+
+> <MOLECULAR_WEIGHT>
+291.261
+
+> <EXACT_MASS>
+291.033029765
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.72955622526601
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+O,O-diethyl O-4-nitrophenyl phosphorothioate
+
+> <ALOGPS_LOGP>
+3.76
+
+> <JCHEM_LOGP>
+3.3152064769999994
+
+> <ALOGPS_LOGS>
+-4.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.51
+
+> <JCHEM_REFRACTIVITY>
+72.6892
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+O,O-diethyl O-4-nitrophenyl phosphorothioate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01355
+
+> <GENERIC_NAME>
+Parathion
+
+> <SYNONYMS>
+Alkron; Alleron; American cyanamid 3422; Aphamite; Aqua 9-Parathion; Aralo; Bladan; Bladen; Corothion; Corthione; Danthion; Deoxynucleoside 5'-triphosphate; Diethyl 4-nitrophenyl phosphorothionate; Diethyl O-p-nitrophenyl phosphorothioate; Diethyl O-p-nitrophenyl phosphorothioic acid; Diethyl p-nitrophenyl thionophosphate; Diethyl p-nitrophenyl thiophosphate; Diethyl para-nitrophenol thiophosphate; Diethyl-p-nitrophenyl monothiophosphate; Diethylparathion; Drexel parathion 8E; Durathion; Ecatox; Ethlon; Ethyl parathion; Ethyl parathion (O,O-diethyl-O-p-nitrophenylthiophosphate); Etilon; Foliclal; Folidol; Folidol e e 605; Folidol e605; Folidol oil; Fosfermo; Fosferno; Fosferno 50; Fosfex; Fosfive; Fosova; Fostern; Fostox; Gearphos; Genithion; Kolphos; Kypthion; Lethalaire g-54; Lirothion; Murfos; Niran; Nitrostygmine; Niuif-100; Nourithion; O,O-Diethyl O-p-nitrophenyl phosphorothioate; O,O-Diethyl O-p-nitrophenyl phosphorothioic acid; O,O-Diethyl-O-(p-nitrophenyl)thionophosphate; Oleofos 20; Oleoparaphene; Oleoparathion; OMS 19; Orthophos; p-Nitrophenol O-ester with O,O-diethylphosphorothioate; p-Nitrophenol O-ester with O,O-diethylphosphorothioic acid; PAC; Pacol; Panthion; Paradust; Paramar; Paramar 50; Paraphos; Parathene; Parathion-E; Parawet; Parthion; Penncap e; Pestox plus; Pethion; Phoskil; Phosphemol; Phosphenol; Phosphorothioate; Phosphorothioic acid; Phosphorothioic acid O,O-diethyl-O-(4-nitrophenyl) ester; Phosphostigmine; Rhodiasol; Rhodiatox; Rhodiatrox; Selephos; Sixty-three special e.c; Soprathion; Stabilized ethyl parathion; Stathion; Strathion; Sulfos; Super rodiatox; T-47; Thiomex; Thionspray No.84; Thiophos 3422; Tiofos; Vapophos; Viran; Vitrex
+
+$$$$

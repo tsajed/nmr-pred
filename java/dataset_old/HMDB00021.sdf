@@ -1,0 +1,136 @@
+
+  Mrv0541 02231215422D          
+
+ 14 14  0  0  1  0            999 V2000
+    2.8579    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 I   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+  2 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 12 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00021
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CC1=CC=C(O)C(I)=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10INO3/c10-6-3-5(1-2-8(6)12)4-7(11)9(13)14/h1-3,7,12H,4,11H2,(H,13,14)/t7-/m0/s1
+
+> <INCHI_KEY>
+UQTZMGFTRHFAAM-ZETCQYMHSA-N
+
+> <FORMULA>
+C9H10INO3
+
+> <MOLECULAR_WEIGHT>
+307.0851
+
+> <EXACT_MASS>
+306.970536611
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.54408057914356
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.51
+
+> <JCHEM_LOGP>
+-0.559798647037047
+
+> <ALOGPS_LOGS>
+-2.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+8.335155330087229
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9928460641360015
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.49549159056975
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+60.4597
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.37e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+iodotyrosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00021
+
+> <GENERIC_NAME>
+Iodotyrosine
+
+> <SYNONYMS>
+(2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoate; (2S)-2-amino-3-(4-hydroxy-3-iodophenyl)propanoic acid; 3-Iodo-4-hydroxyphenylalanine; 3-Iodo-L-tyrosine; 3-Iodo-tyrosine; 3-Iodotyrosine; 3-Monoiodo-L-tyrosine; 4-Hydroxy-3-iodophenylalanine; IYR; L-Tyrosine-3-iodo; MIT; Monoiodotyrosine
+
+$$$$

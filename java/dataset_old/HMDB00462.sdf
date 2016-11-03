@@ -1,0 +1,130 @@
+Allantoin.mol
+  Mrv0541 02231218322D          
+
+ 11 11  0  0  0  0            999 V2000
+   -2.1348   -0.2887    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3143   -0.2025    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9018    0.5120    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7623   -0.8156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0086   -0.4800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7059   -0.8925    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4203   -0.4800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1348   -0.8925    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4203    0.3450    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0948    0.3405    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5182    0.8925    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  3 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00462
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC(=O)NC1NC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)
+
+> <INCHI_KEY>
+POJWUDADGALRAB-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N4O3
+
+> <MOLECULAR_WEIGHT>
+158.1154
+
+> <EXACT_MASS>
+158.043990078
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.905948482458907
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2,5-dioxoimidazolidin-4-yl)urea
+
+> <ALOGPS_LOGP>
+-1.95
+
+> <JCHEM_LOGP>
+-2.360540882
+
+> <ALOGPS_LOGS>
+-1.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.625632697864136
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.929712591477083
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3762243606037923
+
+> <JCHEM_POLAR_SURFACE_AREA>
+113.32
+
+> <JCHEM_REFRACTIVITY>
+32.0225
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.73e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+allantoin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00462
+
+> <GENERIC_NAME>
+Allantoin
+
+> <SYNONYMS>
+(S)-allantoin; 2,5-Dioxo-4-imidazolidinyl-urea; 4-Ureido-2,5-Imidazolidinedione; 5-Ureido-Hydantoin; 5-Ureidohydantoin; 5-Ureidohydrantoin; Alantan; Allantoin; Allantol; Alloxantin; AVC/Dienestrolcream; Cordianine; D00121; Fancol TOIN; Glyoxyldiureid; Glyoxyldiureide; Glyoxylic diureide; N-(2,5-Dioxo-4-imidazolidinyl)urea; Psoralon; Sebical; Septalan
+
+$$$$

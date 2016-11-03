@@ -1,0 +1,118 @@
+
+  Mrv0541 02231219482D          
+
+  8  8  0  0  0  0            999 V2000
+   26.2050  -11.6566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7530  -11.4267    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8723  -11.1716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6175  -10.3871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7925  -10.3871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6569  -11.4267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.5376  -11.1716    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2700  -10.8746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03843
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC1CCC(=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O2/c1-2-5-3-4-6(7)8-5/h5H,2-4H2,1H3
+
+> <INCHI_KEY>
+JBFHTYHTHYHCDJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10O2
+
+> <MOLECULAR_WEIGHT>
+114.1424
+
+> <EXACT_MASS>
+114.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.156423963583457
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-ethyloxolan-2-one
+
+> <ALOGPS_LOGP>
+0.77
+
+> <JCHEM_LOGP>
+1.0886487253333332
+
+> <ALOGPS_LOGS>
+-0.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.042532034562416
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+29.2509
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.24e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+gamma-hexalactone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB03843
+
+> <GENERIC_NAME>
+Gamma-Caprolactone
+
+> <SYNONYMS>
+4-Ethyl-4-butanolide; 4-Ethylbutanolide (gamma-hexalactone); 4-Hexanolide; 4-Hydroxy-Hexanoate; 4-Hydroxy-Hexanoic acid; 4-Hydroxy-Hexanoic acid gamma-lactone; 4-Hydroxy-Hexanoic acid lactone; 4-Hydroxyhexanoate; 4-Hydroxyhexanoic acid; 4-Hydroxyhexanoic acid lactone; 5-Ethyldihydro-2(3H)-furanone; 5-Ethyldihydrofuran-2(3H)-one; 5-Ethyltetrahydro-2-furanone; 6-Caprolactone; Dihydro-5-ethyl-2(3H)-furanone; gamma-Caprolactone; gamma-Ethyl-gamma-butyrolactone; gamma-Ethyl-N-butyrolactone; gamma-Ethylbutyrolactone; gamma-Hexalactone; gamma-Hexanolactone; Hexa-4-olide; Hexanolide-1,4; Tonkalide; Toukalide
+
+$$$$

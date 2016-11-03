@@ -108,7 +108,6 @@ public class GetCDKDescriptors {
     }
 
     int ncol = values.size();
-    System.out.println(ncol);
     int nrow = mols.get(0).getAtomCount();
     FileWriter fstream = new FileWriter(csvOutputPath);
     BufferedWriter out = new BufferedWriter(fstream);
@@ -129,6 +128,42 @@ public class GetCDKDescriptors {
       out.write("\n");
     }
     out.flush();
+ }
+
+ public static ArrayList<Double[]> getAtomicDescriptor(String sdf, String descNamesStr) throws java.io.IOException  
+ {
+    List<IMolecule> mols = readMoleculesString(sdf);
+    System.err.println("read " + mols.size() + " compounds");
+    List<IDescriptor> descriptors = ENGINE.getDescriptorInstances();
+    System.err.println("found " + descriptors.size() + " descriptors");
+
+    List<String> descNames = Arrays.asList(descNamesStr.split(","));
+    ArrayList<String> colNames = new ArrayList<String>();
+    ArrayList<Double[]> values = new ArrayList<Double[]>();
+    for (IDescriptor desc : descriptors) {
+      if (desc instanceof IPAtomicLearningDescriptor)
+        continue;
+      String tname = desc.getClass().getName();
+      String[] tnamebits = tname.split("\\.");
+      tname = tnamebits[tnamebits.length-1];
+      if ((descNamesStr.length()>0) && (!descNames.contains(tname)))
+        continue;
+      String[] colNamesArr = desc.getDescriptorNames();
+      for (int idx=0; idx<colNamesArr.length; idx++) {
+        colNamesArr[idx] = tname + "-" + colNamesArr[idx];
+      }
+      colNames.addAll(Arrays.asList(colNamesArr));
+      for (IAtomContainer mol : mols) {
+        int atomCount = mol.getAtomCount();
+        List<IAtom> atoms = new ArrayList<IAtom>();
+        for (int i = 0; i < atomCount; i++) {
+          atoms.add(mol.getAtom(i));
+        }
+        values.addAll(computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc));
+      }
+    }
+
+    return values;
  }
 
 
@@ -222,6 +257,55 @@ public class GetCDKDescriptors {
 		return mols;
 	}
 
+  public static List<IMolecule> readMoleculesString(String sdf)
+  {
+    Vector<IMolecule> mols = new Vector<IMolecule>();
+    if (sdf.equals(""))
+      throw new IllegalArgumentException("No sdf found" + sdf);
+    List<IAtomContainer> list;
+    try
+    {
+      InputStream is = new ByteArrayInputStream(sdf.getBytes("UTF-8"));
+      ISimpleChemObjectReader reader = new ReaderFactory().createReader(new InputStreamReader(is));
+      if (reader == null)
+        throw new IllegalArgumentException("Could not determine input file type");
+      IChemFile content = (IChemFile) reader.read((IChemObject) new ChemFile());
+      list = ChemFileManipulator.getAllAtomContainers(content);
+      reader.close();
+    }
+    catch (Exception e)
+    {
+      e.printStackTrace();
+      return null;
+    }
+
+    for (IAtomContainer iAtomContainer : list)
+    {
+      IMolecule mol = (IMolecule) iAtomContainer;
+      mol = (IMolecule) AtomContainerManipulator.removeHydrogens(mol);
+      try
+      {
+        AtomContainerManipulator.percieveAtomTypesAndConfigureAtoms(mol);
+      }
+      catch (Exception e)
+      {
+        e.printStackTrace();
+      }
+      try
+      {
+        CDKHueckelAromaticityDetector.detectAromaticity(mol);
+      }
+      catch (Exception e)
+      {
+        e.printStackTrace();
+      }
+      if (mol.getAtomCount() == 0)
+        System.err.println("molecule has no atoms");
+      else
+        mols.add(mol);
+    }
+    return mols;
+  }
 
 	public static List<Double[]> computeDescriptors(List<IMolecule> mols, IMolecularDescriptor descriptor)
 	{
@@ -310,12 +394,12 @@ public class GetCDKDescriptors {
           System.err.println("Could not compute cdk feature " + descriptor);
           e.printStackTrace();
           //for (int j = 0; j < getSize(descriptor); j++)
-            vv.get(0)[i] = null;
+            vv.get(0)[i] = 0.0;
         }
       }
       //for (int j = 0; j < getSize(descriptor); j++)
-        if (vv.get(0)[i] != null && (vv.get(0)[i].isNaN() || vv.get(0)[i].isInfinite()))
-          vv.get(0)[i] = null;
+      if (vv.get(0)[i] != null && (vv.get(0)[i].isNaN() || vv.get(0)[i].isInfinite()))
+        vv.get(0)[i] = 0.0;
     }
 
     return vv;

@@ -1,0 +1,135 @@
+Isoxanthopterin.mol
+  Mrv0541 02231218412D          
+
+ 13 14  0  0  0  0            999 V2000
+   -0.7145    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  6  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+  2 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00704
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=NC(=O)C2=C(N1)NC(=O)C=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5N5O2/c7-6-10-4-3(5(13)11-6)8-1-2(12)9-4/h1H,(H4,7,9,10,11,12,13)
+
+> <INCHI_KEY>
+GLKCOBIIZKYKFN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5N5O2
+
+> <MOLECULAR_WEIGHT>
+179.1362
+
+> <EXACT_MASS>
+179.044324429
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.295752686825836
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-1,4,7,8-tetrahydropteridine-4,7-dione
+
+> <ALOGPS_LOGP>
+-0.96
+
+> <JCHEM_LOGP>
+-1.7413570219999999
+
+> <ALOGPS_LOGS>
+-1.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.848621739275087
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.454517541624991
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.0467888396808416
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.94
+
+> <JCHEM_REFRACTIVITY>
+51.84449999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.46e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-1,8-dihydropteridine-4,7-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00704
+
+> <GENERIC_NAME>
+Isoxanthopterin
+
+> <SYNONYMS>
+2-Amino-3H,8H-pteridine-4,7-dione; 2-Amino-4,7-dihydroxypteridine; 2-Aminopteridine-4,7-diol; Isoxanthopterin
+
+$$$$

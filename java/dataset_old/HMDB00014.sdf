@@ -1,0 +1,141 @@
+
+  Mrv0541 02231218172D          
+
+ 16 17  0  0  1  0            999 V2000
+   -0.2649   -0.0103    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5196    0.2409    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9394    0.4989    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5092   -0.7743    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1184   -0.3200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7055    1.0357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6035    0.0034    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3455   -0.7743    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9098   -0.0860    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9360   -1.1286    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4934    1.2801    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3916    0.2546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6001   -1.5794    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0887    0.7123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0005   -0.2993    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8870    0.9463    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  1  0  0  0
+  8 13  1  6  0  0  0
+  9 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+  7  8  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00014
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](CO)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N3O4/c10-7-1-2-12(9(15)11-7)8-3-5(14)6(4-13)16-8/h1-2,5-6,8,13-14H,3-4H2,(H2,10,11,15)/t5-,6+,8+/m0/s1
+
+> <INCHI_KEY>
+CKTSBUTUHBMZGZ-SHYZEUOFSA-N
+
+> <FORMULA>
+C9H13N3O4
+
+> <MOLECULAR_WEIGHT>
+227.2172
+
+> <EXACT_MASS>
+227.090605919
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.64580498145158
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-amino-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2-dihydropyrimidin-2-one
+
+> <ALOGPS_LOGP>
+-1.93
+
+> <JCHEM_LOGP>
+-1.8968792213333328
+
+> <ALOGPS_LOGS>
+-1.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.78754922215456
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.89490158886062
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.0012229381708236398
+
+> <JCHEM_POLAR_SURFACE_AREA>
+108.38
+
+> <JCHEM_REFRACTIVITY>
+53.0341
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.59e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2'-deoxycytidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00014
+
+> <GENERIC_NAME>
+Deoxycytidine
+
+> <SYNONYMS>
+1-(2-Deoxy-b-D-ribofuranosyl)cytosine; 1-(2-Deoxy-beta-D-erythro-pentofuranosyl)-Cytosine; 1-(2-Deoxy-beta-D-ribofuranosyl)cytosine; 1-(2-Deoxy-beta-delta-erythro-pentofuranosyl)-Cytosine; 1-(2-Deoxy-beta-delta-ribofuranosyl)cytosine; 2'-Deoxycytidine; 2-Deoxy-Cytidine; 4-Amino-1-(2-deoxy-b-D-erythro-pentofuranosyl)-2(1H)-pyrimidinone; 4-Amino-1-(2-deoxy-beta-D-erythro-pentofuranosyl)-2(1H)-pyrimidinone; 4-Amino-1-(2-deoxy-beta-delta-erythro-pentofuranosyl)-2(1H)-pyrimidinone; Cytosine deoxyribonucleoside; Cytosine deoxyriboside; Deoxy-Cytidine; Deoxyribose cytidine; Desoxycytidine
+
+$$$$

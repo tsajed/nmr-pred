@@ -1,0 +1,133 @@
+
+  Mrv0541 02231218572D          
+
+ 13 12  0  0  0  0            999 V2000
+   29.7525  -18.0160    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4670  -16.7785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7525  -20.4910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6104  -18.8410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1815  -20.4910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8960  -17.6035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1815  -18.0160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1815  -18.8410    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4670  -19.2535    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4670  -17.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6104  -18.0160    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4670  -20.0785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3250  -17.6035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 12  1  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 10  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01138
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)NC(CCC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO5/c1-4(9)8-5(7(12)13)2-3-6(10)11/h5H,2-3H2,1H3,(H,8,9)(H,10,11)(H,12,13)
+
+> <INCHI_KEY>
+RFMMMVDNIPUKGG-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H11NO5
+
+> <MOLECULAR_WEIGHT>
+189.1659
+
+> <EXACT_MASS>
+189.063722467
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.282618365176702
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-acetamidopentanedioic acid
+
+> <ALOGPS_LOGP>
+-0.67
+
+> <JCHEM_LOGP>
+-1.1130154166666664
+
+> <ALOGPS_LOGS>
+-1.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.288471365407984
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4320224098798344
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.1655024188554406
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.69999999999999
+
+> <JCHEM_REFRACTIVITY>
+40.7315
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetylglutamate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01138
+
+> <GENERIC_NAME>
+N-Acetylglutamic acid
+
+> <SYNONYMS>
+2-Acetamido-L-Glutaraldehydate; 2-Acetamido-L-Glutaraldehydic acid; Ac-Glu-OH; Acetyl-glutamate; Acetyl-L-glutamate; Acetyl-L-glutamic acid; Acetylglutamate; Acetylglutamic acid; DL-Acetylglutamate; DL-Acetylglutamic acid; N-Ac-Glu-OH; N-Acetyl L-glutamate; N-Acetyl L-glutamic acid; N-Acetyl-DL-glutamate; N-Acetyl-DL-glutamic acid; N-Acetyl-Glutamate; N-Acetyl-Glutamic acid; N-Acetyl-L-glutamate; N-Acetyl-L-glutamic acid; N-Acetyl-L-glutamic acid-gamma-semialdehyde; N-Acetylglutamate; N-Acetylglutamic acid; N-Acetylglutamic gamma-semialdehyde
+
+$$$$

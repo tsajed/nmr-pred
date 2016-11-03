@@ -1,0 +1,131 @@
+ 
+  Mrv0541 02231215592D          
+
+ 11 12  0  0  0  0            999 V2000
+   14.2313   -9.4875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2313  -10.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9738   -9.0750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4888   -9.2400    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9738  -10.7250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4888  -10.5600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6750   -9.4875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9738   -8.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9938   -9.9000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6750  -10.2712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4175  -10.6837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00292
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C1NC2=C(NC=N2)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O2/c10-4-2-3(7-1-6-2)8-5(11)9-4/h1H,(H3,6,7,8,9,10,11)
+
+> <INCHI_KEY>
+LRFVTYWOQMYALW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N4O2
+
+> <MOLECULAR_WEIGHT>
+152.1109
+
+> <EXACT_MASS>
+152.033425392
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.70210977018667
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+-0.65
+
+> <JCHEM_LOGP>
+-0.20706379166666647
+
+> <ALOGPS_LOGS>
+-1.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+10.766811632389617
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.954237880526347
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7029128013721097
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.88
+
+> <JCHEM_REFRACTIVITY>
+36.9219
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.91e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+xanthine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00292
+
+> <GENERIC_NAME>
+Xanthine
+
+> <SYNONYMS>
+1H-Purine-2,6-diol; 2,6(1,3)-Purinedion; 2,6-Dihydroxypurine; 2,6-Dioxopurine; 3,7-Dihydro-1H-purine-2,6-dione; 3,7-Dihydropurine-2,6-dione; 9H-Purine-2,6(1H,3H)-dione; 9H-Purine-2,6-diol; Dioxopurine; Isoxanthine; Pseudoxanthine; Purine-2,6(1H,3H)-dione; Purine-2,6-diol; Xanthic oxide; Xanthin; Xanthine
+
+$$$$

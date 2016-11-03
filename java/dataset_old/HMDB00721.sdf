@@ -1,0 +1,129 @@
+
+  Mrv0541 02231218422D          
+
+ 12 12  0  0  0  0            999 V2000
+   25.6569  -13.9097    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3061  -15.9293    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2152  -15.2687    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5917  -14.6917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8771  -16.7543    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2591  -14.2068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0042  -13.4222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1791  -13.4222    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9241  -14.2068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5917  -15.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0437  -14.4618    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.8771  -15.9293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00721
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCC(=O)N1CCCC1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H12N2O3/c8-4-6(10)9-3-1-2-5(9)7(11)12/h5H,1-4,8H2,(H,11,12)
+
+> <INCHI_KEY>
+KZNQNBZMBZJQJO-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H12N2O3
+
+> <MOLECULAR_WEIGHT>
+172.1818
+
+> <EXACT_MASS>
+172.08479226
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.601215851920898
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-(2-aminoacetyl)pyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-2.65
+
+> <JCHEM_LOGP>
+-3.676007803741153
+
+> <ALOGPS_LOGS>
+0.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6122621941395576
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.132394754718373
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.63
+
+> <JCHEM_REFRACTIVITY>
+40.9899
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.79e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+gly-pro
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00721
+
+> <GENERIC_NAME>
+Glycylproline
+
+> <SYNONYMS>
+1-(Aminoacetyl)proline; 1-Glycyl-L-Proline; 1-Glycylproline; GLY-pro; N-Glycyl-L-proline; N-Glycylproline
+
+$$$$

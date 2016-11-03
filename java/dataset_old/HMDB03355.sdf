@@ -1,0 +1,120 @@
+
+  Mrv0541 02231219422D          
+
+  8  7  0  0  0  0            999 V2000
+   23.2152  -11.1336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9297  -12.3711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5021  -11.1336    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7877  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0731  -11.1336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3587  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6442  -11.1336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9297  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03355
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c6-4-2-1-3-5(7)8/h1-4,6H2,(H,7,8)
+
+> <INCHI_KEY>
+JJMDCOVWQOJGCB-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.65225454487906
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-aminopentanoic acid
+
+> <ALOGPS_LOGP>
+-2.75
+
+> <JCHEM_LOGP>
+-2.441462136430473
+
+> <ALOGPS_LOGS>
+0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.6510543313288055
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.205972024771656
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+30.058799999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.06e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-aminovaleric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03355
+
+> <GENERIC_NAME>
+5-Aminopentanoic acid
+
+> <SYNONYMS>
+5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovalerate; 5-Aminovaleric acid; delta-Amino-N-valerate; delta-Amino-N-valeric acid; delta-Aminovalerate; delta-Aminovaleric acid
+
+$$$$

@@ -1,0 +1,123 @@
+
+  Mrv0541 02231219182D          
+
+  8  7  0  0  0  0            999 V2000
+   15.6916  -13.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4061  -13.0288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1206  -13.4413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4061  -12.2038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9772  -13.0288    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2627  -13.4413    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6916  -14.2663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6916  -12.6163    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01987
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC(C)(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O3/c1-3-5(2,8)4(6)7/h8H,3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+MBIQENSCDNJOIY-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O3
+
+> <MOLECULAR_WEIGHT>
+118.1311
+
+> <EXACT_MASS>
+118.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.730470416864481
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-2-methylbutanoic acid
+
+> <ALOGPS_LOGP>
+0.13
+
+> <JCHEM_LOGP>
+0.483458763
+
+> <ALOGPS_LOGS>
+0.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.140030807663564
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.096793172378484
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8451698490140247
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+28.0771
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.49e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-hydroxy-2-methylbutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01987
+
+> <GENERIC_NAME>
+2-Hydroxy-2-methylbutyric acid
+
+> <SYNONYMS>
+(+/-)-2-Hydroxy-2-methylbutanoate; (+/-)-2-Hydroxy-2-methylbutanoic acid; (+/-)-2-Hydroxy-2-methylbutyric acid; (+/-)-a-Hydroxy-a-methylbutyric acid; (+/-)-alpha-Hydroxy-alpha-methylbutyric acid; 2-Hydroxy-2-Methyl Butyrate; 2-Hydroxy-2-Methyl Butyric acid; 2-Hydroxy-2-methyl-butanoate; 2-Hydroxy-2-methyl-Butanoic acid; 2-Hydroxy-2-methyl-butyrate; 2-Hydroxy-2-methyl-Butyric acid; 2-Hydroxy-2-methyl-N-butyrate; 2-Hydroxy-2-methyl-N-butyric acid; 2-Hydroxy-2-methylbutanoate; 2-Hydroxy-2-methylbutanoic acid; 2-Hydroxy-2-methylbutyrate; 2-Hydroxy-2-methylbutyric acid; 2-Methyl-2-hydroxybutyric acid; a-Hydroxy-a-methyl-Butyric acid; a-Hydroxy-a-methylbutyric acid; alpha-Hydroxy-alpha-methyl-Butyric acid; alpha-Hydroxy-alpha-methylbutyric acid
+
+$$$$

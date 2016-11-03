@@ -1,0 +1,165 @@
+17-Hydroxyprogesterone.mol
+  Mrv0541 02231218292D          
+
+ 27 30  0  0  0  0            999 V2000
+   -1.8185   -0.3002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5330   -0.7127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5330   -1.5377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2475   -1.9502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8185   -1.9502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1041   -1.5377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3896   -1.9502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3249   -1.5377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3249   -0.7127    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0393   -0.3002    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8240   -0.5552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3089    0.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8240    0.7797    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.5717    1.1284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2475    0.6552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6436    1.9502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0393    0.5248    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.0393    1.3498    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3249    0.9373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3896    0.5248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3896   -0.3002    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1041   -0.7127    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1041    0.1123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4884    1.5334    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3896   -1.1252    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3249    0.1123    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0393   -1.1252    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  1  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 17 18  1  1  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+  1 22  1  0  0  0  0
+  6 22  1  0  0  0  0
+ 22 23  1  1  0  0  0
+ 13 24  1  6  0  0  0
+ 21 25  1  6  0  0  0
+  9 26  1  1  0  0  0
+ 10 27  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00374
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@](O)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H30O3/c1-13(22)21(24)11-8-18-16-5-4-14-12-15(23)6-9-19(14,2)17(16)7-10-20(18,21)3/h12,16-18,24H,4-11H2,1-3H3/t16-,17+,18+,19+,20+,21+/m1/s1
+
+> <INCHI_KEY>
+DBPWSSGDRRHUNT-CEGNMAFCSA-N
+
+> <FORMULA>
+C21H30O3
+
+> <MOLECULAR_WEIGHT>
+330.4611
+
+> <EXACT_MASS>
+330.219494826
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.92634414157379
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10R,11S,14R,15S)-14-acetyl-14-hydroxy-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-en-5-one
+
+> <ALOGPS_LOGP>
+2.99
+
+> <JCHEM_LOGP>
+3.4011792776666674
+
+> <ALOGPS_LOGS>
+-4.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.598886675440433
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.699646444874293
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8049652826185154
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.370000000000005
+
+> <JCHEM_REFRACTIVITY>
+94.10529999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.93e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxyprogesterone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00374
+
+> <GENERIC_NAME>
+17-Hydroxyprogesterone
+
+> <SYNONYMS>
+17-alpha-Hydroxyprogesterone; 17-Hydroxypregn-4-ene-3,20-dione; 17-Hydroxyprogesterone; 17-OH Progesterone; 17-OHP; 17a-Hydroxypregn-4-ene-3,20-dione; 17a-Hydroxyprogesterone; 17alpha-hydroxyprogesterone; D4-Pregnen-17a-ol-3,20-dione; Gestageno; Gestageno Gador; Hydroxyprogesterone; Pregn-4-en-17a-ol-3,20-dione; Prodix; Prodox
+
+$$$$

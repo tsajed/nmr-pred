@@ -1,0 +1,130 @@
+Thymol
+  Mrv1572001071617102D          
+  Marvin  09140623232D          
+ 11 11  0  0  0  0            999 V2000
+   -0.1299   -0.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444    0.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299   -1.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846    0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2990   -0.3750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444    0.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8444   -1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5846   -1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299    1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1299    2.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01878
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)C1=C(O)C=C(C)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)6-10(9)11/h4-7,11H,1-3H3
+
+> <INCHI_KEY>
+MGSRCZKZVOBKFT-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14O
+
+> <MOLECULAR_WEIGHT>
+150.221
+
+> <EXACT_MASS>
+150.104465071
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+25
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.841403772475083
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-methyl-2-(propan-2-yl)phenol
+
+> <ALOGPS_LOGP>
+3.16
+
+> <JCHEM_LOGP>
+3.428111034333333
+
+> <ALOGPS_LOGS>
+-2.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.592932954134925
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.231344648281415
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+47.270900000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.43e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+thymol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01878
+
+> <GENERIC_NAME>
+Thymol
+
+> <SYNONYMS>
+1-Hydroxy-5-methyl-2-isopropylbenzene; 1-Methyl-3-hydroxy-4-isopropylbenzene; 2-Hydroxy-1-isopropyl-4-methylbenzene; 2-Isopropyl-5-methylphenol; 3-Hydroxy-1-methyl-4-isopropylbenzene; 3-Hydroxy-p-cymene; 3-Methyl-6-isopropylphenol; 3-p-Cymenol; 5-Methyl-2-(1-methylethyl)phenol; 5-Methyl-2-isopropyl-1-phenol; 5-Methyl-2-isopropylphenol; 6-Isopropyl-3-methylphenol; 6-Isopropyl-m-cresol; 6-Isopropyl-p-cresol; Isopropyl cresol; Isopropyl-m-cresol; m-Thymol; p-Cymen-3-ol; Thymate; Thyme camphor; Thymic acid; Thymol; Thymol crystal puriss
+
+$$$$

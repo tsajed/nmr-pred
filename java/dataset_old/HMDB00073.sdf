@@ -1,0 +1,130 @@
+988
+  Mrv0541 02231215092D          
+
+ 11 11  0  0  0  0            999 V2000
+    3.5220    1.9842    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -1.7284    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509   -1.3159    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220   -0.4909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.7466    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00073
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCC1=CC(O)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO2/c9-4-3-6-1-2-7(10)8(11)5-6/h1-2,5,10-11H,3-4,9H2
+
+> <INCHI_KEY>
+VYFYYTLLBUKUHU-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11NO2
+
+> <MOLECULAR_WEIGHT>
+153.1784
+
+> <EXACT_MASS>
+153.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.21092686800737
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(2-aminoethyl)benzene-1,2-diol
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+0.029550238796553663
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+12.925186084800895
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.007776384659529
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.271456202535882
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.48
+
+> <JCHEM_REFRACTIVITY>
+43.248200000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.43e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dopamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00073
+
+> <GENERIC_NAME>
+Dopamine
+
+> <SYNONYMS>
+2-(3,4-Dihydroxyphenyl)ethylamine; 3,4-Dihydroxyphenethylamine; 3,4-Dihydroxyphenylethylamine; 3-Hydroxytyramine; 4-(2-Aminoethyl)-1,2-benzenediol; 4-(2-Aminoethyl)-Pyrocatechol; 4-(2-Aminoethyl)catechol; 4-(2-Aminoethyl)pyrocatechol; a-(3,4-Dihydroxyphenyl)-b-aminoethane; alpha-(3,4-Dihydroxyphenyl)-beta-aminoethane; Deoxyepinephrine; Dopamin; Dopamine; Dopaminum; Dopastat; Dophamine; Dynatra; Hydroxytyramin; Hydroxytyramine; Intropin; Oxytyramine; Revivan
+
+$$$$

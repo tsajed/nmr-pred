@@ -1,0 +1,126 @@
+
+  Mrv0541 02231219192D          
+
+  9  9  0  0  0  0            999 V2000
+   19.3428   -4.0814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3866   -3.0196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4930   -4.6085    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0805   -3.3391    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1604   -4.1236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9451   -4.3786    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9055   -3.3391    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8255   -4.1236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5581   -3.8265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02024
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC1=CN=CN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6N2O2/c8-5(9)1-4-2-6-3-7-4/h2-3H,1H2,(H,6,7)(H,8,9)
+
+> <INCHI_KEY>
+PRJKNHOMHKJCEJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6N2O2
+
+> <MOLECULAR_WEIGHT>
+126.1133
+
+> <EXACT_MASS>
+126.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.472699109880569
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(1H-imidazol-5-yl)acetic acid
+
+> <ALOGPS_LOGP>
+-0.50
+
+> <JCHEM_LOGP>
+-1.3990613301983859
+
+> <ALOGPS_LOGS>
+-0.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.995890284546483
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6538030747064596
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.776708441179222
+
+> <JCHEM_POLAR_SURFACE_AREA>
+65.97999999999999
+
+> <JCHEM_REFRACTIVITY>
+30.197899999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.33e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+IMAC
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02024
+
+> <GENERIC_NAME>
+Imidazoleacetic acid
+
+> <SYNONYMS>
+1H-Imidazol-4-ylacetic acid; 1H-Imidazole-4-acetic acid; 4(5)-Imidazoleacetate; 4-Imidazoleacetate; 4-Imidazoleacetic acid; IAA; IMAC; Imidazol-4-ylacetate; Imidazol-4-ylacetic acid; Imidazole acetate; Imidazole-4-acetate; Imidazole-4-acetic acid; Imidazolyl-4-acetic acid; IZC; Lopac-I-0375
+
+$$$$

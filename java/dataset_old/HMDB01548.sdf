@@ -1,0 +1,136 @@
+
+  Mrv0541 02231219122D          
+
+ 14 14  0  0  1  0            999 V2000
+   13.5797   -6.6905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3643   -6.9453    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.6193   -7.7300    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.4443   -7.7300    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.6992   -6.9453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1344   -8.3974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9292   -8.3974    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4838   -6.6904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3686   -6.4131    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8785   -4.8439    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8390   -5.3736    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4082   -5.8834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0318   -6.4604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6236   -5.6285    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  6  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  6  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01548
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11O8P/c6-3-2(1-12-14(9,10)11)13-5(8)4(3)7/h2-8H,1H2,(H2,9,10,11)/t2-,3-,4-,5?/m1/s1
+
+> <INCHI_KEY>
+KTVPXOYAKDPRHY-SOOFDHNKSA-N
+
+> <FORMULA>
+C5H11O8P
+
+> <MOLECULAR_WEIGHT>
+230.1098
+
+> <EXACT_MASS>
+230.01915384
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.347747478376483
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R)-3,4,5-trihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.07
+
+> <JCHEM_LOGP>
+-2.425770307333333
+
+> <ALOGPS_LOGS>
+-0.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.248502666590342
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2226866612133929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.680084519580305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+136.68
+
+> <JCHEM_REFRACTIVITY>
+40.8338
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.36e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-ribofuranose 5-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01548
+
+> <GENERIC_NAME>
+D-Ribose 5-phosphate
+
+> <SYNONYMS>
+D-Ribose 5-phosphate; D-Ribose-5-P; D-Ribose-5-phosphate; D-Ribose-5-phosphorate; D-Ribose-5-phosphoric acid; Ribose-5-P; Ribose-5-phosphate; Ribose-5-phosphorate; Ribose-5-phosphoric acid; Ribose-5P
+
+$$$$

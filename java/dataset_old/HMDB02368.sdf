@@ -1,0 +1,153 @@
+
+  Mrv0541 02231219302D          
+
+ 26 25  0  0  0  0            999 V2000
+   22.7713  -16.8821    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4858  -18.1196    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4872  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7727  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.2017  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0582  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9162  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3438  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6307  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6321  -14.4070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6321  -13.5820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6292  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3451  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9176  -14.8195    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3465  -13.1695    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9148  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0597  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9176  -15.6446    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3465  -12.3445    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2003  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7741  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2031  -16.0571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.0610  -11.9320    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4858  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4886  -17.2946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2031  -16.8821    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 24  1  0  0  0  0
+  2 24  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 18 22  1  0  0  0  0
+ 19 23  1  0  0  0  0
+ 20 24  1  0  0  0  0
+ 21 25  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 25 26  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02368
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCC\C=C/CCCCCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H46O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24(25)26/h9-10H,2-8,11-23H2,1H3,(H,25,26)/b10-9-
+
+> <INCHI_KEY>
+GWHCXVQVJPWHRF-KTKRTIGZSA-N
+
+> <FORMULA>
+C24H46O2
+
+> <MOLECULAR_WEIGHT>
+366.6208
+
+> <EXACT_MASS>
+366.349780716
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.8326095954167
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(15Z)-tetracos-15-enoic acid
+
+> <ALOGPS_LOGP>
+9.45
+
+> <JCHEM_LOGP>
+9.451210441
+
+> <ALOGPS_LOGS>
+-7.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019655228562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+115.00819999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+21
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.77e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nervonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02368
+
+> <GENERIC_NAME>
+Nervonic acid
+
+> <SYNONYMS>
+(15Z)-tetracos-15-enoate; (15Z)-tetracos-15-enoic acid; (15Z)-Tetracosenoate; (15Z)-Tetracosenoic acid; (Z)-15-Tetracosenoate; (Z)-15-Tetracosenoic acid; 15-Tetracosenoate; 15-Tetracosenoic acid; 15Z-Tetracosenoate; 15Z-Tetracosenoic acid; cis-15-Teracosenoate; cis-15-Teracosenoic acid; cis-15-Tetracosenate; cis-15-Tetracosenic acid; cis-15-Tetracosenoate; cis-15-Tetracosenoic acid; cis-delta(15)-Tetracosenoate; cis-delta(15)-Tetracosenoic acid; cis-Selacholeate; cis-Selacholeic acid; Nervonate; Selacholeate; Selacholeic acid
+
+$$$$

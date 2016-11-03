@@ -1,0 +1,126 @@
+
+  Mrv0541 02231218422D          
+
+  9  9  0  0  1  0            999 V2000
+   25.8832  -14.1738    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9206  -13.0189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3621  -11.6598    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9857  -12.2368    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5732  -13.5063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3183  -12.7217    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   25.3982  -13.5063    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   25.6532  -12.7217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5337  -12.4668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  6  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  9  1  1  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00725
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@H]1CN[C@@H](C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H9NO3/c7-3-1-4(5(8)9)6-2-3/h3-4,6-7H,1-2H2,(H,8,9)/t3-,4+/m1/s1
+
+> <INCHI_KEY>
+PMMYEEVYMWASQN-DMTCNVIQSA-N
+
+> <FORMULA>
+C5H9NO3
+
+> <MOLECULAR_WEIGHT>
+131.1299
+
+> <EXACT_MASS>
+131.058243159
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.291927112580467
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,4R)-4-hydroxypyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-3.31
+
+> <JCHEM_LOGP>
+-3.7163188466782064
+
+> <ALOGPS_LOGS>
+0.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.856641323999913
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6413819507648544
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.617096890348787
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.56
+
+> <JCHEM_REFRACTIVITY>
+29.3822
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.92e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hypro
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00725
+
+> <GENERIC_NAME>
+4-Hydroxyproline
+
+> <SYNONYMS>
+(2S,4R)-4-hydroxy-2-pyrrolidinecarboxylic acid; (2S,4R)-4-hydroxypyrrolidine-2-carboxylic acid; (4R)-4-hydroxy-L-proline; 4-Hydroxy-2-pyrrolidinecarboxylic acid; 4-Hydroxy-L-proline; 4-L-Hydroxyproline; delta-Hydroxyproline; Hydroxiproline; Hydroxy-L-proline; Hydroxy-proline; Hydroxyproline; L-4-Hydroxyproline; L-Hydroxyproline; L-Threo-4-hydroxyproline; LS-hydroxyproline; Oxaceprol; trans-4-Hydroxy-L-proline; trans-4-Hydroxyproline; Trans-hydroxyproline; Trans-L-hydroxyproline
+
+$$$$

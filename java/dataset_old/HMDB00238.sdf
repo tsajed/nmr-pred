@@ -1,0 +1,143 @@
+Serotonin.mol
+  Mrv0541 02231218242D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6500   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.8875    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  1 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 13 16  1  1  0  0  0
+  7 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00238
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@H](O)C(=O)C1=NC2=C(NC1)NC(N)=NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3,15H,2H2,1H3,(H4,10,11,13,14,17)/t3-/m0/s1
+
+> <INCHI_KEY>
+VPVOXUSPXFPWBN-VKHMYHEASA-N
+
+> <FORMULA>
+C9H11N5O3
+
+> <MOLECULAR_WEIGHT>
+237.2153
+
+> <EXACT_MASS>
+237.086189243
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.4407587477117
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(2S)-2-hydroxypropanoyl]-1,4,7,8-tetrahydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.09
+
+> <JCHEM_LOGP>
+-1.3689492123333329
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.571856702943723
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.9295112369614635
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.1599598657850176
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.17
+
+> <JCHEM_REFRACTIVITY>
+67.49680000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+sepiapterin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00238
+
+> <GENERIC_NAME>
+Sepiapterin
+
+> <SYNONYMS>
+(S)-2-amino-7,8-dihydro-6-(2-hydroxy-1-oxopropyl)-4(1H)-Pteridinone; 1-(2-Amino-7,8-dihydro-4-hydroxy-6-pteridinyl)-2-hydroxy-1-Propanone; 2-Amino-6-(S)-lactoyl-7,8-dihydro-4(3H)-pteridinone; 2-Amino-7,8-dihydro-6-[(2S)-2-hydroxy-1-oxopropyl]-4(1H)Pteridinone; L-Sepiapterin; Lopac-S-154; Sepiapterin; Sepiapterine
+
+$$$$

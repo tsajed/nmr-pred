@@ -1,0 +1,149 @@
+
+  Mrv0541 02231217112D          
+
+ 20 21  0  0  1  0            999 V2000
+    0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3819   -1.7224    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -2.5070    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3020   -2.5070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0470   -1.7224    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7376   -1.4675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9091   -0.6605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6937   -0.4056    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4784   -0.1506    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9487   -1.1902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4388    0.3790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6119   -3.1745    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4324   -3.0882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9173   -3.7557    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5817   -4.5094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667   -5.1768    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7613   -4.5956    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2763   -3.9282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4559   -4.0144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  6  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  2  0  0  0  0
+  4 13  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 13 19  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01409
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@H]1C[C@@H](O[C@@H]1COP(O)(O)=O)N1C=CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N2O8P/c12-5-3-8(11-2-1-7(13)10-9(11)14)19-6(5)4-18-20(15,16)17/h1-2,5-6,8,12H,3-4H2,(H,10,13,14)(H2,15,16,17)/t5-,6+,8+/m0/s1
+
+> <INCHI_KEY>
+JSRLJPSBLDHEIO-SHYZEUOFSA-N
+
+> <FORMULA>
+C9H13N2O8P
+
+> <MOLECULAR_WEIGHT>
+308.1819
+
+> <EXACT_MASS>
+308.040951914
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+25.86153720779655
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-5-(2,4-dioxo-1,2,3,4-tetrahydropyrimidin-1-yl)-3-hydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.42
+
+> <JCHEM_LOGP>
+-1.6381701099999995
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.258419473521287
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.232757608087275
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.240343942911336
+
+> <JCHEM_POLAR_SURFACE_AREA>
+145.63
+
+> <JCHEM_REFRACTIVITY>
+61.927800000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.97e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2'-deoxyuridylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01409
+
+> <GENERIC_NAME>
+dUMP
+
+> <SYNONYMS>
+2'-Deoxy-5'-uridylate; 2'-Deoxy-5'-uridylic acid; 2'-Deoxyuridine 5'-monophosphate; 2'-Deoxyuridine 5'-phosphate; 2'-Deoxyuridylate; 2'-Deoxyuridylic acid; Deoxy-UMP; Deoxyuridine 5'-monophosphate; Deoxyuridine 5'-phosphate; Deoxyuridine monophosphate; Deoxyuridylate; Deoxyuridylic acid
+
+$$$$

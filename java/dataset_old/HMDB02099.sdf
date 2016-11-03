@@ -1,0 +1,128 @@
+
+  Mrv0541 02231219222D          
+
+ 11 12  0  0  0  0            999 V2000
+   18.3659   -4.7812    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8708   -3.7949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3659   -6.1089    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1562   -5.0326    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8708   -6.2701    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5853   -5.0326    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8708   -4.6199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5853   -5.8576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8475   -5.4451    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1562   -5.8576    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1562   -3.3824    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  7  2  0  0  0  0
+  4 10  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02099
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CNC1=NC=NC2=C1NC=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H7N5/c1-7-5-4-6(10-2-8-4)11-3-9-5/h2-3H,1H3,(H2,7,8,9,10,11)
+
+> <INCHI_KEY>
+CKOMXBHMKXXTNW-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H7N5
+
+> <MOLECULAR_WEIGHT>
+149.1533
+
+> <EXACT_MASS>
+149.070145249
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.431311220381701
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-methyl-7H-purin-6-amine
+
+> <ALOGPS_LOGP>
+0.19
+
+> <JCHEM_LOGP>
+-0.2717661493333333
+
+> <ALOGPS_LOGS>
+-2.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.23939488190687
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.22301244673302
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.49000000000001
+
+> <JCHEM_REFRACTIVITY>
+43.7129
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.42e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-(methylamino)purine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02099
+
+> <GENERIC_NAME>
+6-Methyladenine
+
+> <SYNONYMS>
+(N-6)-Methyladenine; 6-(Methylamino)purine; 6-MAP; 6-Methylaminopurine; 6-Monomethylaminopurine; Methyl(purin-6-yl)amine; N(Sup6)-Methyladenine; N(Sup6)-Monomethyladenine; N-6-Methyladenine; N-Methyl-9H-purin-6-amine; N-Methyl-Adenine; N-Methyl-N-(9H-purin-6-yl)amine; N-Methyladenine; N6-Methyladenine; N6-Monomethyladenine
+
+$$$$

@@ -1,0 +1,112 @@
+
+  Mrv0541 02231216072D          
+
+  4  3  0  0  0  0            999 V2000
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00863
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3
+
+> <INCHI_KEY>
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H8O
+
+> <MOLECULAR_WEIGHT>
+60.095
+
+> <EXACT_MASS>
+60.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.137381657235111
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+propan-2-ol
+
+> <ALOGPS_LOGP>
+0.04
+
+> <JCHEM_LOGP>
+0.2548059106666668
+
+> <ALOGPS_LOGS>
+0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.262586277858762
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.8091447620645766
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+17.4287
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.78e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isopropyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00863
+
+> <GENERIC_NAME>
+Isopropyl alcohol
+
+> <SYNONYMS>
+2-Propanol; 2-Propyl alcohol; Alcojel; Alkolave; Avantin; Avantine; Hartosol; Isopropanol; Isopropyl alcohol; Lavaco; Petrohol; Takineocol
+
+$$$$

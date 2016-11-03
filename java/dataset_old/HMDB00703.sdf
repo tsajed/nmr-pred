@@ -1,0 +1,130 @@
+
+  Mrv0541 02231216052D          
+
+ 11 11  0  0  1  0            999 V2000
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00703
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@H](C(O)=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c9-7(8(10)11)6-4-2-1-3-5-6/h1-5,7,9H,(H,10,11)/t7-/m0/s1
+
+> <INCHI_KEY>
+IWYDHOAUDWTVEP-ZETCQYMHSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.656944642404085
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-hydroxy-2-phenylacetic acid
+
+> <ALOGPS_LOGP>
+0.66
+
+> <JCHEM_LOGP>
+0.8958356446666668
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.568490699995834
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.751233575646761
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.110158859648652
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+38.7038
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(S)-mandelic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00703
+
+> <GENERIC_NAME>
+Mandelic acid
+
+> <SYNONYMS>
+(RS)-Mandelate; (RS)-Mandelic acid; 2-Hydroxy-2-phenylacetate; 2-Hydroxy-2-phenylacetic acid; 2-Hydroxy-2-phenylethanoate; 2-Hydroxy-2-phenylethanoic acid; 2-Phenyl-2-hydroxyacetate; 2-Phenyl-2-hydroxyacetic acid; 2-Phenylglycolate; 2-Phenylglycolic acid; a-Hydroxy-a-toluate; a-Hydroxy-a-toluic acid; a-Hydroxybenzeneacetate; a-Hydroxybenzeneacetic acid; a-Hydroxyphenylacetate; a-Hydroxyphenylacetic acid; Almond acid; alpha-Hydroxy-alpha-toluate; alpha-Hydroxy-alpha-toluic acid; alpha-Hydroxybenzeneacetate; alpha-Hydroxybenzeneacetic acid; alpha-Hydroxyphenylacetate; alpha-Hydroxyphenylacetic acid; Amygdalate; Amygdalic acid; DL-Amygdalate; DL-Amygdalic acid; DL-Hydroxy(phenyl)acetate; DL-Hydroxy(phenyl)acetic acid; DL-Mandelate; DL-Mandelic acid; Mandelate; Mandelic acid; Paramandelate; Paramandelic acid; Phenylglycolate; Phenylglycolic acid; Phenylhydroxyacetate; Phenylhydroxyacetic acid; Uromaline
+
+$$$$

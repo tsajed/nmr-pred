@@ -1,0 +1,123 @@
+Maleic acid.mol
+  Mrv0541 02231218432D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.7145   -0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020    0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4678    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00754
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)(O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O3/c1-5(2,8)3-4(6)7/h8H,3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+AXFYFNCPONWUHW-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O3
+
+> <MOLECULAR_WEIGHT>
+118.1311
+
+> <EXACT_MASS>
+118.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.74803117886822
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-hydroxy-3-methylbutanoic acid
+
+> <ALOGPS_LOGP>
+-0.12
+
+> <JCHEM_LOGP>
+-0.10642933099999986
+
+> <ALOGPS_LOGS>
+0.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.417396678218886
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.554638714853443
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7419355220135504
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+28.1023
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.84e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-hydroxyisovaleric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00754
+
+> <GENERIC_NAME>
+3-Hydroxyisovaleric acid
+
+> <SYNONYMS>
+3-Hydroxy-3-methyl-Butanoate; 3-Hydroxy-3-methyl-Butanoic acid; 3-Hydroxy-3-methyl-Butyric acid; 3-Hydroxy-3-methylbutanoate; 3-Hydroxy-3-methylbutanoic acid; 3-Hydroxy-3-methylbutyrate; 3-Hydroxy-3-methylbutyric acid; 3-Hydroxy-isovaleric acid; 3-Hydroxyisovalerate; 3-Hydroxyisovaleric acid; 3-OH-isovaleric acid; B-Hydroxy-b-methylbutyrate; B-Hydroxy-b-methylbutyric acid; B-Hydroxyisovalerate; B-Hydroxyisovaleric acid; beta-Hydroxy-beta-methylbutyrate; beta-Hydroxy-beta-methylbutyric acid; beta-Hydroxyisovalerate; beta-Hydroxyisovaleric acid
+
+$$$$

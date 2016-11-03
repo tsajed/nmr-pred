@@ -1,0 +1,130 @@
+Untitled Document-1
+  Mrv0541 02231219592D          
+
+ 11 11  0  0  0  0            999 V2000
+   -1.4437   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6187   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6188    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6188   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8563   -1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8563    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8563   -0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04815
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1=CC(=CC=C1O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c1-5-4-6(8(10)11)2-3-7(5)9/h2-4,9H,1H3,(H,10,11)
+
+> <INCHI_KEY>
+LTFHNKUKQYVHDX-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.012770305365649
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxy-3-methylbenzoic acid
+
+> <ALOGPS_LOGP>
+1.86
+
+> <JCHEM_LOGP>
+1.8406847916666664
+
+> <ALOGPS_LOGS>
+-1.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.030048480614669
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.383307033592631
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.048238962650697
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+40.3363
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.52e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxy-3-methylbenzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB04815
+
+> <GENERIC_NAME>
+4-Hydroxy-3-methylbenzoic acid
+
+> <SYNONYMS>
+3-Methyl-4-hydroxybenzoate; 3-Methyl-4-hydroxybenzoic acid; 4,3-Cresotic acid; 4-Hydroxy-3-methyl-Benzoate; 4-Hydroxy-3-methyl-Benzoic acid; 4-Hydroxy-3-methylbenzoate; 4-Hydroxy-3-methylbenzoic acid
+
+$$$$

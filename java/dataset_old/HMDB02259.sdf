@@ -1,0 +1,139 @@
+
+  Mrv0541 02231219272D          
+
+ 19 18  0  0  0  0            999 V2000
+   15.8838  -10.4487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5983  -11.6863    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3142  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0287  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5997  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7432  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8852  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4576  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1707  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1722  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4563  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8866  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7417  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6011  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0273  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3156  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3128  -10.4487    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0301  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5983  -10.8612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 19  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02259
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H34O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17(18)19/h2-16H2,1H3,(H,18,19)
+
+> <INCHI_KEY>
+KEMQGTRYUADPNZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H34O2
+
+> <MOLECULAR_WEIGHT>
+270.4507
+
+> <EXACT_MASS>
+270.255880332
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.48559046292304
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+heptadecanoic acid
+
+> <ALOGPS_LOGP>
+7.66
+
+> <JCHEM_LOGP>
+6.701151442666667
+
+> <ALOGPS_LOGS>
+-6.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019655228562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+81.68459999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+15
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.51e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+heptadecanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02259
+
+> <GENERIC_NAME>
+Heptadecanoic acid
+
+> <SYNONYMS>
+Heptadecanoate; Heptadecanoic acid; Margarate; Margaric acid; Margarinate; Margarinic acid; Margaroate; Margaroic acid; N-Heptadecanoate; N-Heptadecanoic acid; N-Heptadecoate; N-Heptadecoic acid; N-Heptadecylate; N-Heptadecylic acid; Normal-heptadecanoate; Normal-heptadecanoic acid
+
+$$$$

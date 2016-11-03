@@ -1,0 +1,175 @@
+Cholesterol sulfate.mol
+  Mrv0541 02231218402D          
+
+ 35 38  0  0  0  0            999 V2000
+   -1.6377   -2.8657    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.6377   -2.0407    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9233   -1.6282    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9233   -3.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2088   -2.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -3.2782    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -2.8657    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -2.0407    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9346   -1.6282    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7192   -1.8832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2042   -1.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7192   -0.5483    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9742    0.2363    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3908    0.8197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6043    1.6166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0210    2.1999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2345    2.9968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6511    3.5802    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0314    3.2104    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7811    0.4079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9346   -0.8032    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9346    0.0218    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -0.3907    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -0.8032    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -1.6282    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2088   -2.0407    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2088   -1.2157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3522   -3.2782    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0667   -2.8657    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4792   -3.5802    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6542   -2.1513    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7811   -2.4532    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -2.4532    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -1.2157    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9346   -2.4532    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 12 21  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+  3 26  1  0  0  0  0
+  5 26  1  0  0  0  0
+ 26 27  1  1  0  0  0
+ 28 29  1  0  0  0  0
+ 29 30  2  0  0  0  0
+ 29 31  2  0  0  0  0
+ 29 32  1  0  0  0  0
+  1 28  1  1  0  0  0
+ 25 33  1  6  0  0  0
+  8 34  1  1  0  0  0
+  9 35  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00653
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C27H46O4S/c1-18(2)7-6-8-19(3)23-11-12-24-22-10-9-20-17-21(31-32(28,29)30)13-15-26(20,4)25(22)14-16-27(23,24)5/h9,18-19,21-25H,6-8,10-17H2,1-5H3,(H,28,29,30)/t19-,21+,22+,23-,24+,25+,26+,27-/m1/s1
+
+> <INCHI_KEY>
+BHYOQNUELFTYRT-DPAQBDIFSA-N
+
+> <FORMULA>
+C27H46O4S
+
+> <MOLECULAR_WEIGHT>
+466.717
+
+> <EXACT_MASS>
+466.31168065
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+56.42562919762734
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[(1S,2R,5S,10S,11S,14R,15R)-2,15-dimethyl-14-[(2R)-6-methylheptan-2-yl]tetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-7-en-5-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+3.27
+
+> <JCHEM_LOGP>
+7.1678747986666655
+
+> <ALOGPS_LOGS>
+-6.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.3632758118093493
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+130.60829999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+7.48e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cholesterol sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00653
+
+> <GENERIC_NAME>
+Cholesterol sulfate
+
+> <SYNONYMS>
+5-Cholesten-3b-yl sulfate; 5-Cholesten-3b-yl sulphate; Cholest-5-en-3b-ol sulfate; Cholest-5-en-3b-ol sulphate; Cholesterol 3-sulfate; Cholesterol 3-sulphate; Cholesterol hydrogen sulfate; Cholesterol hydrogen sulphate; Cholesterol sulfate; Cholesterol sulphate; Cholesteryl sulfate; Cholesteryl sulphate
+
+$$$$

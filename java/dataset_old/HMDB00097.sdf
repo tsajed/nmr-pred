@@ -1,0 +1,119 @@
+122
+  Mrv0541 02261416092D          
+
+  7  6  0  0  0  0            999 V2000
+    4.5080    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    0.0000    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7770   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7936    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+HMDB00097
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[N+](C)(C)CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO/c1-6(2,3)4-5-7/h7H,4-5H2,1-3H3/q+1
+
+> <INCHI_KEY>
+OEYIOHPDSNJKLS-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H14NO
+
+> <MOLECULAR_WEIGHT>
+104.1708
+
+> <EXACT_MASS>
+104.107539075
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.565613058013364
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-hydroxyethyl)trimethylazanium
+
+> <ALOGPS_LOGP>
+-3.59
+
+> <JCHEM_LOGP>
+-4.662269162805079
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.968714076810006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.249884462803304
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+42.194
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.61e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+choline
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00097
+
+> <GENERIC_NAME>
+Choline
+
+> <SYNONYMS>
+(2-Hydroxyethyl)trimethyl ammonium; (2-Hydroxyethyl)trimethylammonium; (beta-hydroxyethyl)trimethylammonium; 2-Hydroxy-N,N,N-trimethyl-ethanaminium; 2-Hydroxy-N,N,N-trimethylethanaminium; Bilineurine; Biocolina; Biocoline; Choline; Choline cation; Choline ion; Cholinum; Hepacholine; Hormocline; Lipotril; N,N,N-Trimethylethanol-ammonium; N,N,N-Trimethylethanolammonium; Neocolina; Paresan
+
+$$$$

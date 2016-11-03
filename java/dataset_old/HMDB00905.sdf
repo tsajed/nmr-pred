@@ -1,0 +1,154 @@
+
+  Mrv0541 02231218482D          
+
+ 22 24  0  0  1  0            999 V2000
+    0.9617    0.4182    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5960   -0.0209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1917    0.1708    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2475    1.2510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3312    0.5192    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6761   -0.8677    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4844    0.6761    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0628   -0.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1082    1.2440    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0805    0.1882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4672   -1.2196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1429    0.2055    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8851   -0.5750    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1780   -0.6970    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7390    0.6795    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9305    0.4600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1534   -1.3625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5507   -0.0976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3836   -0.0976    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3871   -0.9339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2164   -0.0976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3871    0.7353    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  3  1  1  1  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 12 16  1  1  0  0  0
+ 13 17  1  6  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 19 22  2  0  0  0  0
+  5  9  1  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00905
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=NC=NC2=C1N=CN2[C@H]1C[C@H](O)[C@@H](COP(O)(O)=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O6P/c11-9-8-10(13-3-12-9)15(4-14-8)7-1-5(16)6(21-7)2-20-22(17,18)19/h3-7,16H,1-2H2,(H2,11,12,13)(H2,17,18,19)/t5-,6+,7+/m0/s1
+
+> <INCHI_KEY>
+KHWCHTKSEGGWEX-RRKCRQDMSA-N
+
+> <FORMULA>
+C10H14N5O6P
+
+> <MOLECULAR_WEIGHT>
+331.2218
+
+> <EXACT_MASS>
+331.068169717
+
+> <JCHEM_ACCEPTOR_COUNT>
+9
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.980174772413907
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,5R)-5-(6-amino-9H-purin-9-yl)-3-hydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.44
+
+> <JCHEM_LOGP>
+-3.8844791959082365
+
+> <ALOGPS_LOGS>
+-2.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.289664971039407
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.2339159389424506
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.977859729475473
+
+> <JCHEM_POLAR_SURFACE_AREA>
+165.83999999999997
+
+> <JCHEM_REFRACTIVITY>
+72.5578
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.71e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+DAMP
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00905
+
+> <GENERIC_NAME>
+Deoxyadenosine monophosphate
+
+> <SYNONYMS>
+2'-dAMP; 2'-Deoxy-5'-adenylate; 2'-Deoxy-5'-adenylic acid; 2'-Deoxy-Adenosine 5'-phosphorate; 2'-Deoxy-Adenosine 5'-phosphoric acid; 2'-Deoxy-AMP; 2'-Deoxyadenosine 5'-monophosphate; 2'-Deoxyadenosine 5'-phosphate; 2'-Deoxyadenosine monophosphate; 2'-Deoxyadenosine-5'-monophosphate; 2'-Deoxyadenosine-5'-phosphate; 2'-Deoxyadenylate; 2'-Deoxyadenylic acid; dAMP; Deoxy-5'-adenylate; Deoxy-5'-adenylic acid; Deoxy-AMP; Deoxyadenosine 5'-monophosphate; Deoxyadenosine 5'-phosphate; Deoxyadenosine monophosphate; Deoxyadenosine-phosphate; Deoxyadenylate; Deoxyadenylic acid; PdA
+
+$$$$

@@ -1,0 +1,117 @@
+
+  Mrv0541 02231217202D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00689
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)CCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O2/c1-5(2)3-4-6(7)8/h5H,3-4H2,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+FGKJLKRYENPLQH-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12O2
+
+> <MOLECULAR_WEIGHT>
+116.1583
+
+> <EXACT_MASS>
+116.083729628
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.062697113252536
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+1.72
+
+> <JCHEM_LOGP>
+1.6533465589999996
+
+> <ALOGPS_LOGS>
+-0.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.090081586138642
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+31.0212
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isocaproate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00689
+
+> <GENERIC_NAME>
+Isocaproic acid
+
+> <SYNONYMS>
+4,4-Dimethylbutanoate; 4,4-Dimethylbutanoic acid; 4-Methyl-N-valerate; 4-Methyl-N-valeric acid; 4-Methyl-pentanoate; 4-Methyl-pentanoic acid; 4-Methyl-Valerate; 4-Methyl-Valeric acid; 4-Methylpentanoate; 4-Methylpentanoic acid; 4-Methylvalerate; 4-Methylvaleric acid; Isobutylacetate; Isobutylacetic acid; Isocaproate; Isocaproic acid; Isohexanoate; Isohexanoic acid; Isohexoate; Isohexoic acid
+
+$$$$

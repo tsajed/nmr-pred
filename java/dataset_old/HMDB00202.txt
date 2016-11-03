@@ -1,0 +1,8 @@
+DUoptxwinnmr USERreza NAMEBiostandards_13C_corr EXPNO130 PROCNO1
+F1226.017ppm F2-23.083ppm MI0.70cm MAXI10000.00cm PC0.500
+          ADDRESS            FREQUENCY         INTENSITY
+                           Hz        PPM
+     1     11189.8    18460.938     183.4855         3.40
+     2     45069.3     5504.524      54.7101         8.31
+     3     54751.1     1801.952      17.9098         9.63
+     4     59462.9        0.054       0.0005         0.81

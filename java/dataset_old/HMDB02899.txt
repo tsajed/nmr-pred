@@ -1,0 +1,13 @@
+Table of Praks
+No.	(ppm)	Height
+1	7.46	0.3993
+
+Table of Multiplets
+No.	Shift1 (ppm)	Hs	Type	Atom1		Multiplet1	 (ppm)
+1	7.46		2	s	13 14		M01		7.46 .. 7.47
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	13	7.46			M01
+2	14	7.46			M01
+

@@ -1,0 +1,107 @@
+1068
+  Mrv0541 02231219282D          
+
+  3  2  0  0  0  0            999 V2000
+    2.3644   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0789    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6499    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02303
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CSC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6S/c1-3-2/h1-2H3
+
+> <INCHI_KEY>
+QMMFVYPAHWMCMS-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H6S
+
+> <MOLECULAR_WEIGHT>
+62.134
+
+> <EXACT_MASS>
+62.019020882
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.2363481552868425
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(methylsulfanyl)methane
+
+> <ALOGPS_LOGP>
+0.59
+
+> <JCHEM_LOGP>
+1.2235795016666668
+
+> <ALOGPS_LOGS>
+-0.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.914377197455742
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+18.8917
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.85e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethyl sulfide
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB02303
+
+> <GENERIC_NAME>
+Dimethylsulfide
+
+> <SYNONYMS>
+  Dimethyl sulfoxide(Reduced);  Methyl sulfide;  Methylthiomethane; (methylsulfanyl)methane; 2-Thiapropane; 2-Thiopropane; Dimethyl monosulfide; Dimethyl sulfide (natural); Dimethyl sulfide [UN1164] [Flammable liquid]; Dimethyl thioether; Dimethylsulfid; DMS; Methanethiomethane; Methyl monosulfide; Methyl thioether; Methylthiomethyl radical; MSM; Reduced-dmso; Thiobis-methane; Thiopropane; [SMe2]
+
+$$$$

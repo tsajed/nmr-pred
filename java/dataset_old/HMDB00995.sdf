@@ -1,0 +1,163 @@
+
+  Mrv0541 02231218512D          
+
+ 26 29  0  0  0  0            999 V2000
+   -0.3804   -0.1956    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3341   -0.6080    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0915   -0.6115    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.3662    0.6506    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0524   -0.1885    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3448   -1.4257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0915   -1.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7990   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1377    0.3591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3306    1.0559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0559    0.6435    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4887   -0.1956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3733   -1.8417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7990   -1.8453    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5064   -0.6115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7776    1.0595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0346    1.6211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4922    0.6364    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5064   -1.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7812    1.8665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2068   -1.8345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0772    2.2718    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4816    2.2683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3839   -1.0026    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3412    0.2595    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0524   -0.9955    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  1  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  2  0  0  0  0
+  8 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  1  0  0  0
+ 12 18  1  0  0  0  0
+ 14 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 20 23  2  0  0  0  0
+  7 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 18  2  0  0  0  0
+  1 24  1  6  0  0  0
+  2 25  1  1  0  0  0
+  5 26  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00995
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC=C(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H28O2/c1-13(22)17-6-7-18-16-5-4-14-12-15(23)8-10-20(14,2)19(16)9-11-21(17,18)3/h6,12,16,18-19H,4-5,7-11H2,1-3H3/t16-,18-,19-,20-,21+/m0/s1
+
+> <INCHI_KEY>
+VRRHHTISESGZFN-RKFFNLMFSA-N
+
+> <FORMULA>
+C21H28O2
+
+> <MOLECULAR_WEIGHT>
+312.4458
+
+> <EXACT_MASS>
+312.20893014
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.7664606445586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10R,11S,15S)-14-acetyl-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-6,13-dien-5-one
+
+> <ALOGPS_LOGP>
+3.80
+
+> <JCHEM_LOGP>
+3.998992101333335
+
+> <ALOGPS_LOGS>
+-4.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.742459518430817
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.978722918838034
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.564489189297514
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+93.58119999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.72e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+16-dehydroprogesterone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00995
+
+> <GENERIC_NAME>
+16-Dehydroprogesterone
+
+> <SYNONYMS>
+16,17-Didehydroprogesterone; 16-Dehydroprogesterone; 3,20-Dioxopregna-4,16-diene; 4,16-Pregnadiene-3,20-dione; D16-Progesterone; D4,16-Pregnadiene-3,20-dione; delta.16-Progesterone; Delta4,16-Pregnadiene-3,20-dione; Pregna-4,16-diene-3,20-dione
+
+$$$$

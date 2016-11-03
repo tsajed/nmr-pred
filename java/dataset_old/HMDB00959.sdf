@@ -1,0 +1,129 @@
+
+  Mrv0541 02231218502D          
+
+ 11 10  0  0  0  0            999 V2000
+   14.3729   -6.9601    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5151   -6.1351    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2295   -4.8976    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6585   -5.7225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0874   -5.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3729   -6.1351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9440   -6.1351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0874   -4.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8019   -6.1351    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5163   -5.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2295   -5.7225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  7 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00959
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C\C=C(/C)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H11NO3/c1-3-5(2)7(11)8-4-6(9)10/h3H,4H2,1-2H3,(H,8,11)(H,9,10)/b5-3+
+
+> <INCHI_KEY>
+WRUSVQOKJIDBLP-HWKANZROSA-N
+
+> <FORMULA>
+C7H11NO3
+
+> <MOLECULAR_WEIGHT>
+157.1671
+
+> <EXACT_MASS>
+157.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.974975171213856
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-[(2E)-2-methylbut-2-enamido]acetic acid
+
+> <ALOGPS_LOGP>
+0.33
+
+> <JCHEM_LOGP>
+0.2098495370000003
+
+> <ALOGPS_LOGS>
+-1.32
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.789016254115076
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.091807942902313
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.2750512313227491
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.39999999999999
+
+> <JCHEM_REFRACTIVITY>
+40.1255
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.52e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(2E)-2-methylbut-2-enamido]acetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00959
+
+> <GENERIC_NAME>
+Tiglylglycine
+
+> <SYNONYMS>
+(E)-N-(2-methyl-1-oxo-2-butenyl)-Glycine ; N-((E)-2-Methyl-but-2-enoyl)-glycine; N-Tigloylglycine; N-Tiglylglycine
+
+$$$$

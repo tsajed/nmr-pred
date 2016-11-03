@@ -1,0 +1,150 @@
+
+  Mrv0541 02231219132D          
+
+ 20 22  0  0  1  0            999 V2000
+   11.1081   -4.5225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5929   -7.8180    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3936   -5.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5484   -7.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1081   -5.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7860   -7.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3735   -7.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6791   -6.9975    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.8226   -5.7600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1081   -6.9975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8226   -6.5850    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3936   -6.5850    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5371   -5.3475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1081   -7.8225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6849   -8.9575    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5484   -9.5290    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1359   -7.9895    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9255   -6.6619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3735   -8.7040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5484   -8.7040    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  8  1  0  0  0  0
+  6  2  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3 12  1  0  0  0  0
+  7  4  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 12  1  1  0  0  0
+  8 18  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 15 20  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 20  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01570
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1=CN([C@H]2CC3OP(O)(=O)OCC3O2)C(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H13N2O7P/c1-5-3-12(10(14)11-9(5)13)8-2-6-7(18-8)4-17-20(15,16)19-6/h3,6-8H,2,4H2,1H3,(H,15,16)(H,11,13,14)/t6?,7?,8-/m1/s1
+
+> <INCHI_KEY>
+QSJFDOVQWZVUQG-KAVNDROISA-N
+
+> <FORMULA>
+C10H13N2O7P
+
+> <MOLECULAR_WEIGHT>
+304.1932
+
+> <EXACT_MASS>
+304.046037292
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.220699407812493
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[(6R)-2-hydroxy-2-oxo-hexahydro-2λ⁵-furo[3,2-d][1,3,2]dioxaphosphinin-6-yl]-5-methyl-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-0.91
+
+> <JCHEM_LOGP>
+-0.34608182933333287
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.960326744881405
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8574617130883175
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.196420020667399
+
+> <JCHEM_POLAR_SURFACE_AREA>
+114.40000000000002
+
+> <JCHEM_REFRACTIVITY>
+62.505900000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-[(6R)-2-hydroxy-2-oxo-tetrahydro-4H-2λ⁵-furo[3,2-d][1,3,2]dioxaphosphinin-6-yl]-5-methyl-3H-pyrimidine-2,4-dione
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01570
+
+> <GENERIC_NAME>
+Thymidine 3',5'-cyclic monophosphate
+
+> <SYNONYMS>
+3',5'-Cyclic thymidine monophosphate; 3',5'-Cyclic TMP; 4H-Furo[3,2-D]-1,3,2-dioxaphosphorin thymidine deriv.; cTMP; Cyclic 3',5'-dTMP; Cyclic 3',5'-thymidylate; Cyclic 3',5'-thymidylic acid; Cyclic TMP; Thymidine 3',5'-cyclic monophosphate; Thymidine 3,5-cyclic monophosphate sodium salt; Thymidine cyclic 3',5'-phosphate; Thymidine cyclophosphate; Thymidine phosphate (cyclic)
+
+$$$$

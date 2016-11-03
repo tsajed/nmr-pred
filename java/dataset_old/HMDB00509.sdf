@@ -1,0 +1,115 @@
+
+  Mrv0541 02231218342D          
+
+  7  6  0  0  0  0            999 V2000
+   11.2908   -7.3772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0053   -8.6148    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1487   -7.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4343   -8.6148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0053   -7.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4343   -7.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7198   -7.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00509
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)=CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O2/c1-4(2)3-5(6)7/h3H,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+YYPNJNDODFVZLE-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O2
+
+> <MOLECULAR_WEIGHT>
+100.1158
+
+> <EXACT_MASS>
+100.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.254334993369937
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylbut-2-enoic acid
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+1.162943559
+
+> <ALOGPS_LOGS>
+-0.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.0217490078951394
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+27.2469
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.11e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β,β-dimethacrylate
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00509
+
+> <GENERIC_NAME>
+Senecioic acid
+
+> <SYNONYMS>
+3,3-Dimethylacrylate; 3,3-Dimethylacrylic acid; 3-Methyl-2-butenoate; 3-Methyl-2-butenoic acid; 3-Methyl-crotonate; 3-Methyl-Crotonic acid; 3-Methylbut-2-enoate; 3-Methylbut-2-enoic acid; 3-Methylcrotonate; 3-Methylcrotonic acid; b,b-Dimethylacrylate; b,b-Dimethylacrylic acid; b-Methylcrotonate; b-Methylcrotonic acid; beta,beta-Dimethacrylate; beta,beta-Dimethacrylic acid; beta,beta-Dimethylacrylate; beta,beta-Dimethylacrylic acid; beta-Methylcrotonate; beta-Methylcrotonic acid; Senecate; Senecic acid; Senecioate; Senecioic acid
+
+$$$$

@@ -1,0 +1,124 @@
+
+  Mrv0541 02231218492D          
+
+ 11 11  0  0  0  0            999 V2000
+   10.1913  -11.5613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1913  -10.7363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9057  -11.9738    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9057  -10.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6202  -11.5613    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3347  -10.3238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3347   -9.4988    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6202  -10.7363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0491   -9.0863    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7636   -9.4988    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0491   -8.2613    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  8  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00930
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)\C=C\C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6+
+
+> <INCHI_KEY>
+WBYWAXJHAXSJNI-VOTSOKGWSA-N
+
+> <FORMULA>
+C9H8O2
+
+> <MOLECULAR_WEIGHT>
+148.1586
+
+> <EXACT_MASS>
+148.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.428464888087149
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-3-phenylprop-2-enoic acid
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+2.13608626
+
+> <ALOGPS_LOGS>
+-2.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.509231934706283
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+43.0599
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cinnamic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00930
+
+> <GENERIC_NAME>
+trans-Cinnamic acid
+
+> <SYNONYMS>
+(2E)-2-Phenyl-2-propenoate; (2E)-2-Phenyl-2-propenoic acid; (2E)-3-Phenyl-2-propenoate; (2E)-3-phenyl-2-Propenoic acid; (E)-3-Phenylacrylate; (E)-3-Phenylacrylic acid; (E)-3-Phenylprop-2-enoate; (E)-3-Phenylprop-2-enoic acid; (E)-Cinnamate; (E)-Cinnamic acid; trans-3-Phenyl-2-propenoate; trans-3-Phenyl-2-propenoic acid; trans-3-Phenylacrylate; trans-3-Phenylacrylic acid; trans-b-Carboxystyrene; trans-beta-Carboxystyrene; trans-Cinnamate; trans-Cinnamic acid
+
+$$$$

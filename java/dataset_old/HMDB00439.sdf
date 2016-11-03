@@ -1,0 +1,132 @@
+2-Furoylglycine.mol
+  Mrv0541 02231218312D          
+
+ 12 12  0  0  0  0            999 V2000
+   -1.7246   -0.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2956   -0.1227    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0101    0.2898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7246   -0.9477    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4390    0.2898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2196   -0.9432    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1333   -0.1227    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8870    0.2128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4390   -0.4003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0265   -1.1148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4189    0.2898    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4189    1.1148    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  2 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00439
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CNC(=O)C1=CC=CO1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO4/c9-6(10)4-8-7(11)5-2-1-3-12-5/h1-3H,4H2,(H,8,11)(H,9,10)
+
+> <INCHI_KEY>
+KSPQDMRTZZYQLM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO4
+
+> <MOLECULAR_WEIGHT>
+169.1348
+
+> <EXACT_MASS>
+169.037507717
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.359050232902362
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(furan-2-ylformamido)acetic acid
+
+> <ALOGPS_LOGP>
+0.10
+
+> <JCHEM_LOGP>
+-0.4142078716666666
+
+> <ALOGPS_LOGS>
+-1.29
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.098908011041573
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.342943158357621
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7835088014486415
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.53999999999999
+
+> <JCHEM_REFRACTIVITY>
+38.5086
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.76e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+furoylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00439
+
+> <GENERIC_NAME>
+2-Furoylglycine
+
+> <SYNONYMS>
+2-Furoylglycine; Furfuroylglycine; Furoylglycine; N-(2-Furanylcarbonyl)glycine; N-(2-Furoyl)glycine; N-(Carboxymethyl)-2-Furancarboxamide; N-2-Furoyl-Glycine; Pyromucurate; Pyromucuric acid; [[(Furan-2-yl)carbonyl]amino]acetate; [[(Furan-2-yl)carbonyl]amino]acetic acid
+
+$$$$

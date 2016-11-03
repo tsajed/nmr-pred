@@ -1,0 +1,152 @@
+215
+  Mrv0541 02231214312D          
+
+ 24 26  0  0  1  0            999 V2000
+    7.9618    1.5353    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7701   -1.0638    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1681    1.5162    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -2.3013    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886   -0.3998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0351    0.3853    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -0.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080   -1.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2284    0.5582    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9569    0.0840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2886   -1.7277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9748    1.3433    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.2388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8721    0.9046    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7100   -0.2529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -0.6513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.4763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5404    1.3883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3783    0.2308    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2935    1.0515    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9145    2.3013    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6150    0.9041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.8888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 22  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 24  3  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 13 17  2  0  0  0  0
+ 14 18  2  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 20  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 24  1  0  0  0  0
+ 19 21  2  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB05038
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H21FN2O/c1-23(2)11-3-10-20(17-5-7-18(21)8-6-17)19-9-4-15(13-22)12-16(19)14-24-20/h4-9,12H,3,10-11,14H2,1-2H3
+
+> <INCHI_KEY>
+WSEQXVZVJXJVFP-UHFFFAOYSA-N
+
+> <FORMULA>
+C20H21FN2O
+
+> <MOLECULAR_WEIGHT>
+324.3919
+
+> <EXACT_MASS>
+324.163791509
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.39617876167769
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[3-(dimethylamino)propyl]-1-(4-fluorophenyl)-1,3-dihydro-2-benzofuran-5-carbonitrile
+
+> <ALOGPS_LOGP>
+3.58
+
+> <JCHEM_LOGP>
+3.764304206333334
+
+> <ALOGPS_LOGS>
+-4.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.784977656720883
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.26
+
+> <JCHEM_REFRACTIVITY>
+94.0202
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.88e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+recital
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB05038
+
+> <GENERIC_NAME>
+Citalopram
+
+> <SYNONYMS>
+Bonitrile; Celexa; Citalopram hydrobromide; Nitalapram
+
+$$$$

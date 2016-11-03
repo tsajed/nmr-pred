@@ -1,0 +1,158 @@
+
+  Mrv0541 02231219072D          
+
+ 24 26  0  0  1  0            999 V2000
+    1.4657    0.1111    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8336    0.5557    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2020    0.6564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5456   -0.7329    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0695    0.3022    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1183    1.3823    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9797    1.3789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9453    0.3230    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3306   -1.0767    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6043    0.8127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1875   -0.4411    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0426   -0.5592    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6052    0.8162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4209   -1.8999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2608    0.3369    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.0108   -0.4411    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.2952   -1.1115    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0457    0.5974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2712   -1.2226    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6675    0.0417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4941    0.0417    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4975   -0.7849    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3208    0.0417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4975    0.8683    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  5  2  1  1  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 13  2  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  6  0  0  0
+ 15 18  1  1  0  0  0
+ 16 19  1  6  0  0  0
+ 18 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 24  2  0  0  0  0
+  6  7  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 15 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01397
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=NC2=C(N=CN2[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N5O8P/c11-10-13-7-4(8(18)14-10)12-2-15(7)9-6(17)5(16)3(23-9)1-22-24(19,20)21/h2-3,5-6,9,16-17H,1H2,(H2,19,20,21)(H3,11,13,14,18)/t3-,5-,6-,9-/m1/s1
+
+> <INCHI_KEY>
+RQFCJASXJCIDSX-UUOKFMHZSA-N
+
+> <FORMULA>
+C10H14N5O8P
+
+> <MOLECULAR_WEIGHT>
+363.2206
+
+> <EXACT_MASS>
+363.057998961
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+30.696692920758398
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R)-5-(2-amino-6-oxo-6,9-dihydro-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.99
+
+> <JCHEM_LOGP>
+-2.9361745949500904
+
+> <ALOGPS_LOGS>
+-2.01
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.250478402365642
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.054667227693082
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.72641092880937
+
+> <JCHEM_POLAR_SURFACE_AREA>
+201.74999999999994
+
+> <JCHEM_REFRACTIVITY>
+75.49399999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.56e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+guanylate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01397
+
+> <GENERIC_NAME>
+Guanosine monophosphate
+
+> <SYNONYMS>
+5'-GMP; E 626; GMP; Guanidine monophosphate; Guanosine 5'-monophosphate; Guanosine 5'-phosphate; Guanosine 5'-phosphorate; Guanosine 5'-phosphoric acid; Guanosine monophosphate; Guanosine-5'-monophosphate; Guanosine-5'-phosphate; Guanosine-phosphate; Guanylate; Guanylic acid
+
+$$$$

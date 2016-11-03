@@ -1,0 +1,121 @@
+
+  Mrv0541 02231217442D          
+
+ 10  9  0  0  0  0            999 V2000
+    2.9980    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4270    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1414    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8559    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5704    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2849    2.5559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7138    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9993    1.3184    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00482
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)
+
+> <INCHI_KEY>
+WWZKQHOCKIZLMA-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H16O2
+
+> <MOLECULAR_WEIGHT>
+144.2114
+
+> <EXACT_MASS>
+144.115029756
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.40417401430573
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+octanoic acid
+
+> <ALOGPS_LOGP>
+2.92
+
+> <JCHEM_LOGP>
+2.700033457666666
+
+> <ALOGPS_LOGS>
+-2.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.192975275996319
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+40.275600000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.07e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+caprylic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00482
+
+> <GENERIC_NAME>
+Caprylic acid
+
+> <SYNONYMS>
+1-Heptanecarboxylate; 1-Heptanecarboxylic acid; Caprylate; Caprylic acid; Emery 657; Kortacid 0899; Lunac 8-95; Lunac 8-98; N-Caprylate; N-Caprylic acid; N-Octanoate; N-Octanoic acid; N-Octoate; N-Octoic acid; N-Octylate; N-Octylic acid; Neo-Fat 8; Neo-Fat 8S; Octylate; Octylic acid; Prifac 2901
+
+$$$$

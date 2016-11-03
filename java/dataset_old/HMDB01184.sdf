@@ -1,0 +1,116 @@
+
+  Mrv0541 02231218582D          
+
+  6  5  0  0  0  0            999 V2000
+   18.2463   -2.9345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5318   -4.1720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2463   -3.7595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8171   -3.7595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9608   -4.1720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1026   -4.1720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01184
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C\C=C\C(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O/c1-3-4-5(2)6/h3-4H,1-2H3/b4-3+
+
+> <INCHI_KEY>
+LABTWGUMFABVFG-ONEGZZNKSA-N
+
+> <FORMULA>
+C5H8O
+
+> <MOLECULAR_WEIGHT>
+84.1164
+
+> <EXACT_MASS>
+84.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.649396744260637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3E)-pent-3-en-2-one
+
+> <ALOGPS_LOGP>
+1.48
+
+> <JCHEM_LOGP>
+1.24920781
+
+> <ALOGPS_LOGS>
+-0.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.861101976908156
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.453989863515021
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+26.516
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.22e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(E)-3-penten-2-one
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01184
+
+> <GENERIC_NAME>
+Methyl propenyl ketone
+
+> <SYNONYMS>
+(3E)-3-Penten-2-one; (3E)-pent-3-en-2-one; (E)-3-Penten-2-one; 2-Oxo-3-pentene; 3-Penten-2-one; 3-Penten-2-one (methyl vinyl ketone); Ethylidene acetone; FEMA No. 3417; Methyl 1-propenyl ketone; Pent-3-en-2-one
+
+$$$$

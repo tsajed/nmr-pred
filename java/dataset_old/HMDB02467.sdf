@@ -1,0 +1,129 @@
+
+  Mrv0541 02231219322D          
+
+ 11 10  0  0  0  0            999 V2000
+   12.0548   -7.8949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7693   -8.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3403   -8.3074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4837   -7.8949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3403   -9.1324    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6258   -7.8949    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1982   -8.3074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4837   -7.0699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0548   -9.5449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6258   -9.5449    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6258   -7.0699    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02467
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O\N=C(/CCC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7NO5/c7-4(8)2-1-3(6-11)5(9)10/h11H,1-2H2,(H,7,8)(H,9,10)/b6-3+
+
+> <INCHI_KEY>
+RSXBEVMDACDZRB-ZZXKWVIFSA-N
+
+> <FORMULA>
+C5H7NO5
+
+> <MOLECULAR_WEIGHT>
+161.1128
+
+> <EXACT_MASS>
+161.032422339
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.619644469117688
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-2-(hydroxyimino)pentanedioic acid
+
+> <ALOGPS_LOGP>
+-0.66
+
+> <JCHEM_LOGP>
+-0.09978351366666657
+
+> <ALOGPS_LOGS>
+-1.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+3.9690918958107515
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.08295656229988
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.8080372107141547
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.19000000000001
+
+> <JCHEM_REFRACTIVITY>
+32.7047
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.35e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-ketoglutaric acid oxime
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02467
+
+> <GENERIC_NAME>
+A-Ketoglutaric acid oxime
+
+> <SYNONYMS>
+2-(Hydroxyimino)- Pentanedioate; 2-(Hydroxyimino)- Pentanedioic acid; 2-Oxime-(8CI)-2-oxoglutarate; 2-Oxime-(8CI)-2-oxoglutaric acid; a-Ketoglutaric acid oxime; alpha-Ketoglutaric acid oxime; Oxime-(6CI,7CI)-2-oxoglutarate; Oxime-(6CI,7CI)-2-oxoglutaric acid
+
+$$$$

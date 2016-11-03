@@ -1,0 +1,130 @@
+Untitled Document-1
+  Mrv0541 02231218462D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.7145    0.8250    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.7145    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  1  7  1  6  0  0  0
+  3  8  1  6  0  0  0
+  4  9  1  6  0  0  0
+  2 10  1  1  0  0  0
+  5 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00849
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@@H]1OC(O)[C@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O5/c1-2-3(7)4(8)5(9)6(10)11-2/h2-10H,1H3/t2-,3-,4+,5+,6?/m0/s1
+
+> <INCHI_KEY>
+SHZGCJCMOBCMKK-JFNONXLTSA-N
+
+> <FORMULA>
+C6H12O5
+
+> <MOLECULAR_WEIGHT>
+164.1565
+
+> <EXACT_MASS>
+164.068473494
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.08971391921179
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R,4R,5R,6S)-6-methyloxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.39
+
+> <JCHEM_LOGP>
+-1.885629251333333
+
+> <ALOGPS_LOGS>
+0.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.724419195509512
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.30218058050956
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6121738272477764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.15
+
+> <JCHEM_REFRACTIVITY>
+34.37969999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.27e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-(+)-rhamnose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00849
+
+> <GENERIC_NAME>
+Rhamnose
+
+> <SYNONYMS>
+6-Deoxy-L(+)-mannose; 6-Deoxy-L-Mannopyranose; 6-Deoxy-L-mannose; 6-Deoxy-Mannose; 6-Deoxyhexopyranose; 6-Deoxyhexose; 6-Deoxymannose; Isodulcit; Isodulcitol; L(+)-Rhamnose; L(+)-Rhamnose monohydrate; L-(+)-Rhamnose; L-(+)-Rhamnose 1-hydrate; L-(+)-Rhamnose Hydrate = 6-Deoxy-L-mannose Monohydrate; L-(+)-Rhamnose monohydrate; L-Mannomethylose; L-Rhamnopyranose; L-Rhamnose; L-Rhamnose for biochemistry; L-Rhamnose Monohydrate; Locaose; Mono(6-deoxy-b-L-mannopyranosyl) ester; Mono(6-deoxy-beta-L-mannopyranosyl) ester; P-(6-Deoxy-b-L-mannopyranosyl) ester; P-(6-Deoxy-beta-L-mannopyranosyl) ester; Rhamnopyranose; Rhamnose; Rhamnosemonohydrate; UDP-Rhamnose; Uridine 5-pyrophosphate; Uridine diphosphate rhamnose
+
+$$$$

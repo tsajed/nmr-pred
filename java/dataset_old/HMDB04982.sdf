@@ -1,0 +1,128 @@
+Untitled Document-5
+  Mrv0541 02231220182D          
+
+ 12 11  0  0  0  0            999 V2000
+   -2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 10  9  1  0  0  0  0
+  2 11  2  0  0  0  0
+  9 12  2  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04982
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC\C=C/CCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12O4/c9-7(10)5-3-1-2-4-6-8(11)12/h1-2H,3-6H2,(H,9,10)(H,11,12)/b2-1-
+
+> <INCHI_KEY>
+LQVYKEXVMZXOAH-UPHRSURJSA-N
+
+> <FORMULA>
+C8H12O4
+
+> <MOLECULAR_WEIGHT>
+172.1785
+
+> <EXACT_MASS>
+172.073558872
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.198916568148917
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4Z)-oct-4-enedioic acid
+
+> <ALOGPS_LOGP>
+0.96
+
+> <JCHEM_LOGP>
+1.0178700359999997
+
+> <ALOGPS_LOGS>
+-1.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.830491640247016
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.077430055226847
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+43.05760000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.16e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cis-4-octenedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB04982
+
+> <GENERIC_NAME>
+cis-4-Octenedioic acid
+
+> <SYNONYMS>
+(Z)-4-Octene-1,8-dioate; (Z)-4-Octene-1,8-dioic acid; cis-4-Octene-1,8-dioate; cis-4-Octene-1,8-dioic acid; cis-4-Octenedioate; cis-4-Octenedioic acid
+
+$$$$

@@ -1,0 +1,131 @@
+4-Hydroxybenzoic acid
+  Mrv1572001071617302D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00500
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O3/c8-6-3-1-5(2-4-6)7(9)10/h1-4,8H,(H,9,10)
+
+> <INCHI_KEY>
+FJKROLUGYXJWQN-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O3
+
+> <MOLECULAR_WEIGHT>
+138.122
+
+> <EXACT_MASS>
+138.031694053
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.939727468110405
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-hydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+1.3272634023333332
+
+> <ALOGPS_LOGS>
+-1.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.67428543984855
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.379964053135935
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.063011046171021
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+35.2951
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.19e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+P-hydroxybenzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00500
+
+> <GENERIC_NAME>
+4-Hydroxybenzoic acid
+
+> <SYNONYMS>
+4-Carboxyphenol; 4-Hydroxy-benzoate; 4-Hydroxy-benzoesaeure; 4-Hydroxy-benzoic acid; 4-Hydroxybenzoate; 4-Hydroxybenzoic acid; p-Carboxyphenol; p-Hydroxy-Benzoate; p-Hydroxy-Benzoic acid; p-Hydroxybenzoate; p-Hydroxybenzoic acid; p-Salicylate; p-Salicylic acid; Paraben-acid
+
+$$$$

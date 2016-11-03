@@ -1,0 +1,122 @@
+513
+  Mrv0541 02231214442D          
+
+  9  8  0  0  0  0            999 V2000
+    2.0930    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0944    0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3799    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01901
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO2/c7-5-3-1-2-4-6(8)9/h1-5,7H2,(H,8,9)
+
+> <INCHI_KEY>
+SLXKOJJOQWFEFD-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H13NO2
+
+> <MOLECULAR_WEIGHT>
+131.1729
+
+> <EXACT_MASS>
+131.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.711240455070765
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-aminohexanoic acid
+
+> <ALOGPS_LOGP>
+-2.69
+
+> <JCHEM_LOGP>
+-1.9971552340836574
+
+> <ALOGPS_LOGS>
+-0.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.726140016186169
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.205507442299444
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+34.6598
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.52e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+aminocaproic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01901
+
+> <GENERIC_NAME>
+Aminocaproic acid
+
+> <SYNONYMS>
+6-Amino-Hexanoate; 6-Amino-Hexanoic acid; 6-Amino-N-hexanoate; 6-Amino-N-hexanoic acid; 6-Aminocaproate; 6-Aminocaproic acid; 6-Aminohexanoate; 6-Aminohexanoic acid; Acepramin; Acepramine; Acikaprin; Afibrin; Amicar; Amikar; Aminokapron; Atsemin; Caplamin; Capracid; Capramol; Capranol; Caprocid; Caprolisin; e-Amino-N-hexanoate; e-Amino-N-hexanoic acid; e-Aminocaproate; e-Aminocaproic acid; e-Aminocaproic acid USP; e-Aminohexanoate; e-Aminohexanoic acid; e-Leucine; e-Norleucine; Epsamon; Epsicapron; Epsikapron; Epsilcapramine; Epsillon-Aminocaproate; Epsillon-Aminocaproic acid; Epsillon-Aminocaproic acid' Epsilcapramin; epsilon S; epsilon-Amino-N-hexanoate; epsilon-Amino-N-hexanoic acid; epsilon-Aminocaproate; epsilon-Aminocaproic acid; epsilon-Aminocaproic acid USP; epsilon-Aminohexanoate; epsilon-Aminohexanoic acid; epsilon-Leucine; epsilon-Norleucine; epsilon-S; H-6-Ahx-OH; H-EAhx-OH; H-epsilon-Acp-OH; Hemocaprol; Hemopar; Hepin; Ipsilon; Omega-Aminocaproate; Omega-Aminocaproic acid; Omega-Aminohexanoate; Omega-Aminohexanoic acid; Respramin; w-Aminocaproate; w-Aminocaproic acid; w-Aminohexanoate; w-Aminohexanoic acid
+
+$$$$

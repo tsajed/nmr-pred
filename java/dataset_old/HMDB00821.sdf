@@ -1,0 +1,136 @@
+Phenylacetylglycine.mol
+  Mrv0541 02231218462D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+  9 14  2  0  0  0  0
+  8  9  1  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00821
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CNC(=O)CC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO3/c12-9(11-7-10(13)14)6-8-4-2-1-3-5-8/h1-5H,6-7H2,(H,11,12)(H,13,14)
+
+> <INCHI_KEY>
+UTYVDVLMYQPLQB-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO3
+
+> <MOLECULAR_WEIGHT>
+193.1992
+
+> <EXACT_MASS>
+193.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.08521233822666
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(2-phenylacetamido)acetic acid
+
+> <ALOGPS_LOGP>
+0.51
+
+> <JCHEM_LOGP>
+0.5057108656666667
+
+> <ALOGPS_LOGS>
+-2.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.646653717913559
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.985264180486056
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7652219342937445
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+50.169100000000014
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.63e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phenylacetylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00821
+
+> <GENERIC_NAME>
+Phenylacetylglycine
+
+> <SYNONYMS>
+((phenylacetyl)amino)acetic acid; N-(Phenylacetyl)-Glycine; N-(Phenylacetyl)glycine; N-Phenacetylglycine; N-Phenylacetylglycine; PAA; PAG; Phenaceturate; Phenaceturic acid; Phenacetylglycine; Phenylacetyl glycine; [(Phenylacetyl)amino]acetate; [(Phenylacetyl)amino]acetic acid
+
+$$$$

@@ -1,0 +1,135 @@
+
+  Mrv0541 09241310162D          
+
+ 14 13  0  0  0  0            999 V2000
+    2.5076    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -0.2350    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5076    1.0025    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7931   -1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3642   -0.2350    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0787    0.1775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2221   -0.2350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4937   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    0.1775    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4937   -1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7792    1.0025    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3503    0.1775    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0648   -0.2350    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2082    0.1775    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  1  1  0  0  0
+  2  6  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7  1  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  1  1  0  0  0
+  9 13  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 14  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00192
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12N2O4S2/c7-3(5(9)10)1-13-14-2-4(8)6(11)12/h3-4H,1-2,7-8H2,(H,9,10)(H,11,12)/t3-,4-/m0/s1
+
+> <INCHI_KEY>
+LEVWYRKDKASIDU-IMJSIDKUSA-N
+
+> <FORMULA>
+C6H12N2O4S2
+
+> <MOLECULAR_WEIGHT>
+240.3
+
+> <EXACT_MASS>
+240.023848262
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.772305661240047
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-amino-3-{[(2R)-2-amino-2-carboxyethyl]disulfanyl}propanoic acid
+
+> <ALOGPS_LOGP>
+-3.16
+
+> <JCHEM_LOGP>
+-5.897687960059564
+
+> <ALOGPS_LOGS>
+-1.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+2.267408279723485
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5564231091903382
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.342140596747571
+
+> <JCHEM_POLAR_SURFACE_AREA>
+126.64000000000001
+
+> <JCHEM_REFRACTIVITY>
+54.87179999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.68e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-cystine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00192
+
+> <GENERIC_NAME>
+L-Cystine
+
+> <SYNONYMS>
+(-)-Cystine; (R-(R*,R*))-3,3'-Dithiobis; 2-Amino-3-(2-amino-2-carboxy-ethyl)disulfanyl-propanoate; 2-Amino-3-(2-amino-2-carboxy-ethyl)disulfanyl-propanoic acid; 2-Amino-3-[(2-amino-2-carboxyethyl)dithio]propanoate; 2-Amino-3-[(2-amino-2-carboxyethyl)dithio]propanoic acid; 3,3'-Dithiobis; 3,3'-Dithiobis-L-Alanine; 3,3'-Dithiobis[2-amino-[R-(R*,R*)]-Propanoate; 3,3'-Dithiobis[2-amino-[R-(R*,R*)]-Propanoic acid; 3,3'-Dithiodialanine; b,b'-Diamino-b,b'-dicarboxydiethyl disulfide; b,b'-Dithiodialanine; beta,beta'-Dithiobisalanine; beta,beta'-Dithiodialanine; Bis(b-amino-b-carboxyethyl) disulfide; Bis(b-amino-beta-carboxyethyl) disulfide; Cysteine disulfide; Cystin; Cystine; Cystine acid; D(+)-3,3'-Dithiobis(2-aminopropanoate; D(+)-3,3'-Dithiobis(2-aminopropanoic acid; Dicysteine; Gelucystine; L-(-)-Cystine; L-Cysteine disulfide; L-Cystin; L-Cystine; Oxidized L-cysteine; [R-(R*,R*)]-3,3'-Dithiobis
+
+$$$$

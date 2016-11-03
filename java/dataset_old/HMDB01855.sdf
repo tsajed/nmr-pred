@@ -1,0 +1,135 @@
+
+  Mrv0541 02231219142D          
+
+ 13 14  0  0  0  0            999 V2000
+   13.3305  -10.3384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3378   -9.5110    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0537   -9.1061    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7653   -9.5236    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7594  -10.3486    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0421  -10.7560    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5517   -9.2742    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0318   -9.9450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5423  -10.6090    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6233   -9.0984    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8121   -8.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2644   -7.8744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5248   -7.0917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9  5  1  0  0  0  0
+  2 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01855
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCCC1=CNC2=CC=C(O)C=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO2/c12-4-3-7-6-11-10-2-1-8(13)5-9(7)10/h1-2,5-6,11-13H,3-4H2
+
+> <INCHI_KEY>
+KQROHCSYOGBQGJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO2
+
+> <MOLECULAR_WEIGHT>
+177.1998
+
+> <EXACT_MASS>
+177.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.856743908450273
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(2-hydroxyethyl)-1H-indol-5-ol
+
+> <ALOGPS_LOGP>
+0.91
+
+> <JCHEM_LOGP>
+1.2897539250000003
+
+> <ALOGPS_LOGS>
+-1.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.891538341234408
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.556124438991318
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.427895964995842
+
+> <JCHEM_POLAR_SURFACE_AREA>
+56.25
+
+> <JCHEM_REFRACTIVITY>
+50.6963
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.18e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxytryptophol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01855
+
+> <GENERIC_NAME>
+5-Hydroxytryptophol
+
+> <SYNONYMS>
+5-HTOL; 5-Hydroxy-1H-indole-3-ethanol; 5-Hydroxy-1H-Indole-3-ethanol(9CI); 5-Hydroxy-3-indole; 5-Hydroxy-3-indoleacetic acid; 5-Hydroxy-indole-acetic acid; 5-Hydroxyindoacetic acid; 5-Hydroxyindol; 5-Hydroxyindolacetate; 5-Hydroxyindolacetic acid; 5-Hydroxyindole-3-ethanol; 5-Hydroxyindole-acetic acid; 5-Hydroxytryptophol; Hydroxyindoleacetic acid; Hydroxytryptophol
+
+$$$$

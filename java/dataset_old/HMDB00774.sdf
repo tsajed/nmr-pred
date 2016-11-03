@@ -1,0 +1,171 @@
+Pristanic acid.mol
+  Mrv0541 02231218442D          
+
+ 30 33  0  0  0  0            999 V2000
+   -0.9182   -0.2480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6327   -0.6605    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6327   -1.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9182   -1.8980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2038   -1.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5107   -1.8980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2252   -1.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2252   -0.6605    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9397   -0.2480    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7243   -0.5029    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2092    0.1645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7243    0.8320    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.9792    1.6166    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3959    2.1999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7761    1.8301    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9397    0.5770    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9397    1.4020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2252    0.9895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5107    0.5770    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5107   -0.2480    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2038   -0.6605    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2038    0.1645    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0616   -1.4855    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4741   -2.1999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6491   -0.7710    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3472   -1.8980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7761   -1.0730    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5107   -1.0730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2252    0.1645    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9397   -1.0730    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  1  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 16 17  1  1  0  0  0
+ 16 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  8 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+  1 21  1  0  0  0  0
+  5 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 23 24  2  0  0  0  0
+ 23 25  2  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+  3 26  1  0  0  0  0
+ 20 28  1  6  0  0  0
+  8 29  1  1  0  0  0
+  9 30  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00774
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2CC(CC[C@]12C)OS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H32O5S/c1-13(22)17-6-7-18-16-5-4-14-12-15(26-27(23,24)25)8-10-20(14,2)19(16)9-11-21(17,18)3/h4,15-19H,5-12H2,1-3H3,(H,23,24,25)/t15?,16-,17+,18-,19-,20-,21+/m0/s1
+
+> <INCHI_KEY>
+DIJBBUIOWGGQOP-OZIWPBGVSA-N
+
+> <FORMULA>
+C21H32O5S
+
+> <MOLECULAR_WEIGHT>
+396.541
+
+> <EXACT_MASS>
+396.197044824
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+43.78569716318254
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+[(1S,2R,10S,11S,14S,15S)-14-acetyl-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-7-en-5-yl]oxidanesulfonic acid
+
+> <ALOGPS_LOGP>
+0.98
+
+> <JCHEM_LOGP>
+3.636344220666668
+
+> <ALOGPS_LOGS>
+-5.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.403038799839706
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.363275371356547
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.357160965943557
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.67
+
+> <JCHEM_REFRACTIVITY>
+103.74849999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+[(1S,2R,10S,11S,14S,15S)-14-acetyl-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-7-en-5-yl]oxidanesulfonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00774
+
+> <GENERIC_NAME>
+Pregnenolone sulfate
+
+> <SYNONYMS>
+5-Pregnen-3b-sulfate-20-one; 5-Pregnen-3b-sulphate-20-one; Pregn-5-en-20-on-3b-yl sulfurate; Pregn-5-en-20-on-3b-yl sulfuric acid; Pregn-5-en-20-one-3b-yl sulfate; Pregn-5-en-20-one-3b-yl sulphate; Pregnenolone 3-sulfate; Pregnenolone 3-sulphate; Pregnenolone 3b-sulfate; Pregnenolone 3b-sulphate; Pregnenolone hydrogen sulfate; Pregnenolone hydrogen sulphate; Pregnenolone monosulfate; Pregnenolone monosulphate; Pregnenolone sulfate; Pregnenolone sulphate
+
+$$$$

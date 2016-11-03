@@ -1,0 +1,125 @@
+
+  Mrv0541 12091422482D          
+
+  9  8  0  0  1  0            999 V2000
+    1.7862   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0311    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  6  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  8  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  4  5  2  0  0  0  0
+  6  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00687
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)C[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO2/c1-4(2)3-5(7)6(8)9/h4-5H,3,7H2,1-2H3,(H,8,9)/t5-/m0/s1
+
+> <INCHI_KEY>
+ROHFNLRQFUQHCH-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H13NO2
+
+> <MOLECULAR_WEIGHT>
+131.1729
+
+> <EXACT_MASS>
+131.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+22
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.159799841686521
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+-1.82
+
+> <JCHEM_LOGP>
+-1.5861571715466434
+
+> <ALOGPS_LOGS>
+-0.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7877088821858544
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.51901425787269
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+34.1709
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.98e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-leucine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00687
+
+> <GENERIC_NAME>
+L-Leucine
+
+> <SYNONYMS>
+(2S)-2-Amino-4-methylpentanoate; (2S)-2-Amino-4-methylpentanoic acid; (S)-(+)-Leucine; (S)-2-Amino-4-methylpentanoate; (S)-2-Amino-4-methylpentanoic acid; (S)-2-Amino-4-methylvalerate; (S)-2-Amino-4-methylvaleric acid; (S)-Leucine; 4-Methyl-L-Norvaline; L-(+)-Leucine; L-a-Aminoisocaproate; L-a-Aminoisocaproic acid; L-alpha-Aminoisocaproate; L-alpha-Aminoisocaproic acid; Leu; Leucine
+
+$$$$

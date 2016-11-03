@@ -1,0 +1,123 @@
+Oenanthic ether.mol
+  Mrv0541 02231218452D          
+
+ 11 10  0  0  0  0            999 V2000
+   -1.0717   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -0.6187    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  1  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00798
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCC(=O)OCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H18O2/c1-3-5-6-7-8-9(10)11-4-2/h3-8H2,1-2H3
+
+> <INCHI_KEY>
+TVQGDYNRXLTQAP-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H18O2
+
+> <MOLECULAR_WEIGHT>
+158.238
+
+> <EXACT_MASS>
+158.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.5611574192191
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethyl heptanoate
+
+> <ALOGPS_LOGP>
+3.39
+
+> <JCHEM_LOGP>
+2.7581668033333324
+
+> <ALOGPS_LOGS>
+-2.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.032123336973473
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+45.1923
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.09e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+wine oil
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00798
+
+> <GENERIC_NAME>
+Oenanthic ether
+
+> <SYNONYMS>
+Cognac oil; Enanthic acid ethyl ester; Enanthylic ether; Ethyl enanthate; Ethyl heptanoate; Ethyl heptanoic acid; Ethyl heptoate; Ethyl heptoic acid; Ethyl heptylate; Ethyl N-heptanoate; Ethyl N-heptanoic acid; Ethyl oenanthate; Ethyl oenanthylate; Oenanthic ether
+
+$$$$

@@ -1,0 +1,119 @@
+
+  Mrv0541 02231219422D          
+
+ 10 10  0  0  1  0            999 V2000
+   20.2112   -7.9496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4967  -11.6622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4967   -9.1871    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   20.2112   -9.5996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2112  -10.4247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7822   -9.5996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4967   -8.3621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7822   -7.9496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4967  -10.8372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7822  -10.4247    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  1  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03375
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=C)[C@H]1CCC(C)=CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3/t10-/m1/s1
+
+> <INCHI_KEY>
+XMGQYMWWDOXHJM-SNVBAGLBSA-N
+
+> <FORMULA>
+C10H16
+
+> <MOLECULAR_WEIGHT>
+136.234
+
+> <EXACT_MASS>
+136.125200512
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.226676344955642
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4S)-1-methyl-4-(prop-1-en-2-yl)cyclohex-1-ene
+
+> <ALOGPS_LOGP>
+4.50
+
+> <JCHEM_LOGP>
+3.2198126516666665
+
+> <ALOGPS_LOGS>
+-2.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+46.4803
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.57e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(-)-limonene
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB03375
+
+> <GENERIC_NAME>
+D-Limonene
+
+> <SYNONYMS>
+(-)-(4S)-Limonene; (-)-(S)-Limonene; (-)-Limonene; 4-Isopropenyl-1-methyl-1-cyclohexene; L-Limonene; Limonene
+
+$$$$

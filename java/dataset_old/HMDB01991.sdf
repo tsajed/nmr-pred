@@ -1,0 +1,133 @@
+
+  Mrv0541 02231219182D          
+
+ 12 13  0  0  0  0            999 V2000
+   17.0338   -3.2225    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6048   -5.6975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5288   -4.2086    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0338   -5.6975    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3192   -4.4600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5288   -5.5364    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7482   -4.4600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7482   -5.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0338   -4.0475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0102   -4.8726    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7851   -3.4243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3192   -5.2850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2 12  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01991
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1C=NC2=C1C(=O)NC(=O)N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6N4O2/c1-10-2-7-4-3(10)5(11)9-6(12)8-4/h2H,1H3,(H2,8,9,11,12)
+
+> <INCHI_KEY>
+PFWLFWPASULGAN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6N4O2
+
+> <MOLECULAR_WEIGHT>
+166.1374
+
+> <EXACT_MASS>
+166.049075456
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.765580625668907
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7-methyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+0.01661227400000012
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.734120976934491
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.307899146071083
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8497959946108037
+
+> <JCHEM_POLAR_SURFACE_AREA>
+76.02000000000001
+
+> <JCHEM_REFRACTIVITY>
+41.818599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.00e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-methylxanthine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01991
+
+> <GENERIC_NAME>
+7-Methylxanthine
+
+> <SYNONYMS>
+2,6-Dihydroxy-7-methylpurine; 3,7-Dihydro-7-methyl-1H-Purine-2,6-dione; 7-Methyl-3,7-dihydro-1H-purine-2,6-dione; 7-Methyl-7H-purine-2,6-diol; 7-Methylxanthin; Heteroxanthin; Heteroxanthine; Methylxanthine
+
+$$$$
