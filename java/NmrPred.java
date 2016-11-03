@@ -5,7 +5,8 @@ import java.util.regex.*;
 import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
 
-import weka.core.Instances;
+import weka.core.*;
+import weka.classifiers.functions.*;
 
 
 public class NmrPred {
@@ -14,6 +15,49 @@ public class NmrPred {
   	File folder = new File("dataset/");
     ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
     getStructures(nmr_structures, folder);
+    for (NmrStructure nmr_str : nmr_structures) {
+      try {
+        nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
+      }
+      catch (Exception e)
+      {
+        e.printStackTrace();
+      }
+    }
+    ArrayList<Double[]> values = nmr_structures.get(0).atomic_descriptors;
+    ArrayList<Attribute> attributes = new ArrayList<Attribute>();
+    for (int i = 0; i < values.size()+1; i++) {
+      attributes.add(new Attribute(String.valueOf(i)));
+    }
+    FastVector wekaAttributes = new FastVector(values.size()+1);
+    for(Attribute a : attributes) {
+      wekaAttributes.addElement(a);
+    }
+    Instances isTrainingSet = new Instances("Rel", wekaAttributes, 500);
+    isTrainingSet.setClassIndex(values.size());
+
+    for (NmrStructure nmr_str : nmr_structures) {
+      for (int i = 0; i < nmr_str.carbon_positions.size(); i++) {
+        Instance iExample = new DenseInstance(values.size() + 1);
+        for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
+          //System.out.println(String.valueOf(nmr_str.atomic_descriptors.get(j)[7]));
+          iExample.setValue((Attribute)wekaAttributes.elementAt(j), 
+                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.carbon_positions.get(i))]);
+        }
+        iExample.setValue((Attribute)wekaAttributes.elementAt(values.size()), nmr_str.chemical_shifts.get(i));
+        isTrainingSet.add(iExample);
+      }
+    }
+    LinearRegression model = new LinearRegression();
+    try {
+      model.buildClassifier(isTrainingSet);
+      Instance test = isTrainingSet.lastInstance();
+      double ppm = model.classifyInstance(test);
+      System.out.println("Predicted ppm = "+ ppm);
+    }
+    catch (Exception e) {
+      e.printStackTrace();
+    }
   }
 
   static ArrayList<NmrStructure> getChemicalShifts(File folder) {

@@ -1,0 +1,136 @@
+Dodecanedioic acid.mol
+  Mrv0541 02231218382D          
+
+ 16 15  0  0  0  0            999 V2000
+    3.5724    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  1 13  2  0  0  0  0
+  1 14  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00623
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H22O4/c13-11(14)9-7-5-3-1-2-4-6-8-10-12(15)16/h1-10H2,(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+TVIDDXQYHWJXFK-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H22O4
+
+> <MOLECULAR_WEIGHT>
+230.3007
+
+> <EXACT_MASS>
+230.151809192
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.848327117644864
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dodecanedioic acid
+
+> <ALOGPS_LOGP>
+2.86
+
+> <JCHEM_LOGP>
+3.1580663526666664
+
+> <ALOGPS_LOGS>
+-2.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.253049650892543
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.650989659564581
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+60.345
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.89e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dodecanedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00623
+
+> <GENERIC_NAME>
+Dodecanedioic acid
+
+> <SYNONYMS>
+1,10-Decanedicarboxylate; 1,10-Decanedicarboxylic acid; 1,10-Dicarboxydecane; 1,12-Dodecanedioate; 1,12-Dodecanedioic acid; Corfree M 2; Decamethylenedicarboxylate; Decamethylenedicarboxylic acid; Dodecanedioate; Dodecanedioic acid; N-Dodecane-a,w-dioate; N-Dodecane-a,w-dioic acid; N-Dodecanedioate; N-Dodecanedioic acid; SL-AH
+
+$$$$

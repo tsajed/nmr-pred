@@ -1,0 +1,124 @@
+
+  Mrv0541 02231218432D          
+
+ 10  9  0  0  0  0            999 V2000
+   21.4256  -11.6931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1387  -11.6931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7112  -12.9306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8532  -12.9306    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2822  -12.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9966  -11.6931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5677  -11.6931    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2822  -12.9306    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7112  -12.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8532  -12.1056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00752
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(CC(O)=O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O4/c1-4(2-5(7)8)3-6(9)10/h4H,2-3H2,1H3,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+XJMMNTGIMDZPMU-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10O4
+
+> <MOLECULAR_WEIGHT>
+146.1412
+
+> <EXACT_MASS>
+146.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.878286512109037
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylpentanedioic acid
+
+> <ALOGPS_LOGP>
+0.33
+
+> <JCHEM_LOGP>
+0.3331047939999997
+
+> <ALOGPS_LOGS>
+-0.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.694332576440712
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9135664414162874
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+32.6866
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.69e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylglutaric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00752
+
+> <GENERIC_NAME>
+Methylglutaric acid
+
+> <SYNONYMS>
+3-Methyl-Glutarate; 3-Methyl-Glutaric acid; 3-Methylglutarate; 3-Methylglutaric acid; 3-Methylpentanedioate; 3-Methylpentanedioic acid; b-Methyl-Glutaric acid; b-Methylglutarate; b-Methylglutaric acid; beta-Methyl-Glutaric acid; beta-Methylglutarate; beta-Methylglutaric acid; Methylglutarate
+
+$$$$

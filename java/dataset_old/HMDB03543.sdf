@@ -1,0 +1,114 @@
+
+  Mrv0541 02231219452D          
+
+  5  4  0  0  0  0            999 V2000
+   18.5585  -13.1523    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9875  -12.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2730  -11.9148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7020  -11.9148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5585  -12.3273    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03543
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCC=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O/c1-2-3-4-5/h4H,2-3H2,1H3
+
+> <INCHI_KEY>
+ZTQSAGDEMFDKMZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O
+
+> <MOLECULAR_WEIGHT>
+72.1057
+
+> <EXACT_MASS>
+72.057514878
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.317781240505962
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butanal
+
+> <ALOGPS_LOGP>
+1.10
+
+> <JCHEM_LOGP>
+0.763142545333333
+
+> <ALOGPS_LOGS>
+-0.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.74213458029772
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.944082299855082
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+20.946199999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.09e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butoxide
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB03543
+
+> <GENERIC_NAME>
+Butanal
+
+> <SYNONYMS>
+1-Butanal; Butaldehyde; Butalyde; Butan-1-al; Butanaldehyde; Butyl aldehyde; Butylaldehyde; Butyral; Butyraldehyd; Butyraldehyde; Butyric aldehyde; Butyrylaldehyde; N-Butanal; N-Butyl aldehyde; N-Butylaldehyde; N-Butyraldehyde
+
+$$$$

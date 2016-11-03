@@ -1,0 +1,131 @@
+
+  Mrv0541 02231220292D          
+
+ 11 12  0  0  0  0            999 V2000
+   11.8227   -9.7454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9977   -9.7454    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5852   -9.0309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9977   -8.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8227   -8.3164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2352   -9.0309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0421   -8.8594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1284   -8.0389    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3747   -7.7033    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6552   -9.4115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4399   -9.1565    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  2  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  5  1  0  0  0  0
+  6  1  2  0  0  0  0
+  7  6  1  0  0  0  0
+  8  7  2  0  0  0  0
+  9  8  1  0  0  0  0
+  9  5  1  0  0  0  0
+ 10  7  1  0  0  0  0
+ 11 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB05785
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCC1=CNC2=CC=CC=C12
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9NO/c11-6-7-5-10-9-4-2-1-3-8(7)9/h1-5,10-11H,6H2
+
+> <INCHI_KEY>
+IVYPNXXAYMYVSP-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H9NO
+
+> <MOLECULAR_WEIGHT>
+147.1739
+
+> <EXACT_MASS>
+147.068413915
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.870666832234884
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1H-indol-3-ylmethanol
+
+> <ALOGPS_LOGP>
+1.66
+
+> <JCHEM_LOGP>
+1.3046580416666664
+
+> <ALOGPS_LOGS>
+-1.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.34307132623539
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.0959887942937
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.7165363605434028
+
+> <JCHEM_POLAR_SURFACE_AREA>
+36.019999999999996
+
+> <JCHEM_REFRACTIVITY>
+43.9604
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.75e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+indole-3-carbinol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB05785
+
+> <GENERIC_NAME>
+Indole-3-carbinol
+
+> <SYNONYMS>
+1H-Indol-3-ylmethanol; 1H-Indole-3-methanol; 3-(Hydroxymethyl)indole; 3-Hydroxymethylindole; 3-Indolecarbinol; 3-Indolylcarbinol; 3-Indolylmethanol; Indinol; Indole-3-carbinol; Indole-3-methanol
+
+$$$$

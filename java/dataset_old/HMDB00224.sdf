@@ -1,0 +1,123 @@
+
+  Mrv0541 02231218242D          
+
+  8  7  0  0  0  0            999 V2000
+   11.8291  -13.0248    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5436  -12.6123    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1146  -13.4373    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4166  -12.3103    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2416  -13.7393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6871  -13.0248    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2581  -13.0248    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9725  -12.6123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00224
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCOP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H8NO4P/c3-1-2-7-8(4,5)6/h1-3H2,(H2,4,5,6)
+
+> <INCHI_KEY>
+SUHOOTKUPISOBE-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H8NO4P
+
+> <MOLECULAR_WEIGHT>
+141.063
+
+> <EXACT_MASS>
+141.019094261
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.11675089618824
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-aminoethoxy)phosphonic acid
+
+> <ALOGPS_LOGP>
+-1.54
+
+> <JCHEM_LOGP>
+-2.4512986210264835
+
+> <ALOGPS_LOGS>
+-0.74
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.565826815298373
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5391795005429323
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.017192603268537
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.77999999999999
+
+> <JCHEM_REFRACTIVITY>
+27.084
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.58e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phosphorylethanolamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00224
+
+> <GENERIC_NAME>
+O-Phosphoethanolamine
+
+> <SYNONYMS>
+2-Amino-Ethanol dihydrogen phosphate; 2-Amino-Ethanol dihydrogen phosphate (ester); 2-Amino-Ethanol phosphate; 2-Aminoethanol O-phosphate; 2-Aminoethyl dihydrogen phosphate; 2-Aminoethyl dihydrogen phosphate (ACD/Name 4.0); 2-Aminoethyl phosphate; Colamine acid phosphate; Colamine phosphate; Colamine phosphoric acid; Colaminephosphoric acid; Colaminphosphoric acid; EAP; Ethamp; Ethanolamine acid phosphate; Ethanolamine O-phosphate; Ethanolamine phosphate; Mono(2-aminoethyl) phosphate; Monoaminoethyl phosphate; O-Phosphocolamine; O-Phosphoethanolamine; O-Phosphonatoethanaminium; O-Phosphorylethanolamine; OPE; PETN; Phosphoethanolamine; Phosphonoethanolamine; Phosphoric acid 2-aminoethyl phenyl ester; Phosphoryethanolamine; Phosphorylethanolamine
+
+$$$$

@@ -1,0 +1,133 @@
+
+  Mrv0541 02231220382D          
+
+ 12 13  0  0  1  0            999 V2000
+   12.9771   -7.4966    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.5464   -8.8314    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.7618   -7.7515    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.7618   -8.5765    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.4922   -8.1640    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0313   -8.1640    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.7222   -6.7119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8013   -9.6161    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5464   -7.4966    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9771   -8.8314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6672   -8.1640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8563   -8.1640    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  6  0  0  0
+  3  1  1  1  0  0  0
+  1  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  8  1  6  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  1  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+ 11  5  2  0  0  0  0
+  6 12  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB06355
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@@H]1O[C@@H]2[C@@H](O)C(=O)O[C@@H]2[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O6/c7-1-3-4(12-5(1)9)2(8)6(10)11-3/h1-5,7-9H/t1-,2-,3-,4-,5-/m1/s1
+
+> <INCHI_KEY>
+OGLCQHRZUSEXNB-WHDMSYDLSA-N
+
+> <FORMULA>
+C6H8O6
+
+> <MOLECULAR_WEIGHT>
+176.1241
+
+> <EXACT_MASS>
+176.032087988
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.373157191896865
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R,3aR,5R,6R,6aR)-3,5,6-trihydroxy-hexahydrofuro[3,2-b]furan-2-one
+
+> <ALOGPS_LOGP>
+-1.93
+
+> <JCHEM_LOGP>
+-1.947793555333333
+
+> <ALOGPS_LOGS>
+0.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.8065345996248
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.144359248692156
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.959730505778521
+
+> <JCHEM_POLAR_SURFACE_AREA>
+96.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+32.2986
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(3R,3aR,5R,6R,6aR)-3,5,6-trihydroxy-tetrahydro-3H-furo[3,2-b]furan-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB06355
+
+> <GENERIC_NAME>
+D-Glucurono-6,3-lactone
+
+> <SYNONYMS>
+D-Glucurone; D-Glucuronic acid; D-Glucuronic acid lactone (van); D-Glucurono-3,6-lactone; D-Glucuronolactone; Dicurone; Glucofuranurono-6,3-lactone; Glucoxy; Glucurolactone; Glucuron; Glucurone; Glucuronic acid lactone; Glucuronolactone (van); Glucuronosan; Gluronsan; Glycurone; Guronsan (van); Reulatt S.S.
+
+$$$$

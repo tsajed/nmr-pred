@@ -1,0 +1,35 @@
+3-(4-Hydroxyphenyl)propionic acid
+HMDB02199
+1DNMR spectrum600MHz in H2O 
+Sample 50mM at PH 7.0
+Reference to DSS
+
+
+Table of Multiplets
+No. 	Hs 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
+1 	2 	t 	7.75 	9 	M01 	2.33 .. 2.54
+2 	2 	t 	7.74 	8 	M02 	2.71 .. 2.88
+3 	2 	d 	8.12 	2 6 	M03 	6.72 .. 6.90
+4 	2 	d 	8.08 	5 3 	M04 	7.05 .. 7.29
+
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	2.420 	1452.96 	0.6017
+2 	2.433 	1460.66 	1.0000
+3 	2.446 	1468.59 	0.6597
+4 	2.789 	1674.14 	0.5975
+5 	2.802 	1682.06 	0.9589
+6 	2.814 	1689.54 	0.5089
+7 	6.829 	4099.41 	0.7759
+8 	6.843 	4107.99 	0.8764
+9 	7.159 	4297.70 	0.8950
+10 	7.173 	4306.06 	0.8544
+
+Table of Assignments
+No. 	Atom 	Multiplet
+1 	9 	M01
+2 	8 	M02
+3 	2 	M03
+4 	6 	M03
+5 	5 	M04
+6 	3 	M04

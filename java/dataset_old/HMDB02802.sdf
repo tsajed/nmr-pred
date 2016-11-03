@@ -1,0 +1,169 @@
+Untitled Document-4
+  Mrv0541 02231219352D          
+
+ 29 32  0  0  0  0            999 V2000
+   -2.8930   -0.7462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8930   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1785   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640   -0.7462    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1785   -0.3337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7495   -1.9837    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0351   -1.5712    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0351   -0.7462    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7495   -0.3337    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6794   -0.3337    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.6794    0.4913    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0351    0.9038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7495    0.4913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4640   -0.5887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9489    0.0788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4640    0.7462    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.6074   -1.9837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640    0.9038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1785    1.1587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1785    1.9837    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8930    0.7462    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6074    1.1587    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6218    1.3143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0351    0.0788    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4640    0.0788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7495   -1.1587    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1285    1.4999    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6794   -1.1587    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10  5  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 10  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 12  1  0  0  0  0
+  2 18  2  0  0  0  0
+ 14 19  2  0  0  0  0
+ 17 20  1  1  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 12 24  1  1  0  0  0
+  9 25  1  1  0  0  0
+  5 26  1  1  0  0  0
+ 10 27  1  6  0  0  0
+ 17 28  1  6  0  0  0
+ 11 29  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02802
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C21H28O5/c1-19-7-5-13(23)9-12(19)3-4-14-15-6-8-21(26,17(25)11-22)20(15,2)10-16(24)18(14)19/h9,14-15,18,22,26H,3-8,10-11H2,1-2H3/t14-,15-,18+,19-,20-,21-/m0/s1
+
+> <INCHI_KEY>
+MFYSYFVPBJMHGN-ZPOLXVRWSA-N
+
+> <FORMULA>
+C21H28O5
+
+> <MOLECULAR_WEIGHT>
+360.444
+
+> <EXACT_MASS>
+360.193674006
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.77994634863237
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2R,10S,11S,14R,15S)-14-hydroxy-14-(2-hydroxyacetyl)-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadec-6-ene-5,17-dione
+
+> <ALOGPS_LOGP>
+1.98
+
+> <JCHEM_LOGP>
+1.6606806883333327
+
+> <ALOGPS_LOGS>
+-3.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.90448417023887
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.576200785155365
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.3299891188847104
+
+> <JCHEM_POLAR_SURFACE_AREA>
+91.67
+
+> <JCHEM_REFRACTIVITY>
+96.47479999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cortisone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02802
+
+> <GENERIC_NAME>
+Cortisone
+
+> <SYNONYMS>
+Andreson; Anusol HC; Balneol-Hc; beta-Hc; Colocort; Compound E; Corlin; Cortadren; Cortandren; Cortef; Cortef Acetate; Cortisal; Cortisate; Cortison; Cortisone Acetate; Cortistal; Cortivite; Cortogen; Cortone; Cortril; Dermacort; Dricort; Flexicort; Florinef; Fludrocortisone Acetate; Glycort; Hemsol-Hc; Hi-Cor; Incortin; Kendall'S compound; Kendall'S Compound E; Locoid; Locoid Lipocream; Micort-Hc; Nogenic HC; Orabase HCA; Pandel; Prestwick_132; Reichstein Fa; Reichstein'S Substance FA; Scheroson; Solu-Cortef; Stie-Cort; Texacort; Westcort
+
+$$$$

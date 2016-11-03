@@ -1,0 +1,122 @@
+
+  Mrv0541 02231219182D          
+
+  9  8  0  0  0  0            999 V2000
+   14.8255  -10.8812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5400  -10.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2545  -10.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5400   -9.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1110  -10.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3966  -10.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8255  -11.7062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8255  -10.0562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1110   -9.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02001
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)(C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O4/c1-5(2,3(6)7)4(8)9/h1-2H3,(H,6,7)(H,8,9)
+
+> <INCHI_KEY>
+OREAFAJWWJHCOT-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O4
+
+> <MOLECULAR_WEIGHT>
+132.1146
+
+> <EXACT_MASS>
+132.042258744
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.86420757075582
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+dimethylpropanedioic acid
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+0.7678833120000002
+
+> <ALOGPS_LOGS>
+0.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.502721330205223
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.493424981474213
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+28.063299999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.61e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethylmalonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02001
+
+> <GENERIC_NAME>
+Dimethylmalonic acid
+
+> <SYNONYMS>
+2,2-Dimethylmalonate; 2,2-Dimethylmalonic acid; 2,2-Propanedicarboxylate; 2,2-Propanedicarboxylic acid; Dimethylmalonate; Propanedioate; Propanedioic acid; Propanedioic acid dimethyl
+
+$$$$

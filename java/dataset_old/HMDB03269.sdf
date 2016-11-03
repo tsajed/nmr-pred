@@ -1,0 +1,134 @@
+
+  Mrv0541 02231219402D          
+
+ 13 13  0  0  0  0            999 V2000
+   27.8236  -14.3568    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5381  -15.5943    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6802  -16.4193    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1092  -16.4193    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6802  -18.8943    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1092  -15.5943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8236  -15.1818    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3947  -16.8318    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3947  -17.6568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6802  -18.0693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3947  -19.3068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1092  -18.0693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1092  -18.8943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03269
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CNC(=O)C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8N2O3/c11-7(12)5-10-8(13)6-2-1-3-9-4-6/h1-4H,5H2,(H,10,13)(H,11,12)
+
+> <INCHI_KEY>
+ZBSGKPYXQINNGF-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8N2O3
+
+> <MOLECULAR_WEIGHT>
+180.1607
+
+> <EXACT_MASS>
+180.053492132
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.92853525664202
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(pyridin-3-ylformamido)acetic acid
+
+> <ALOGPS_LOGP>
+-0.23
+
+> <JCHEM_LOGP>
+-1.461928136771745
+
+> <ALOGPS_LOGS>
+-1.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.920864763318054
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.9431720854386305
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.7257907955296914
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.28999999999999
+
+> <JCHEM_REFRACTIVITY>
+43.960800000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.49e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nicotinuric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03269
+
+> <GENERIC_NAME>
+Nicotinuric acid
+
+> <SYNONYMS>
+N-(3-Pyridinylcarbonyl)-(9CI)-glycine; N-(3-Pyridinylcarbonyl)-glycine; N-(Pyridin-3-ylcarbonyl)glycine; N-Nicotinoyl-(8CI)-Glycine; N-Nicotinoyl-Glycine; N-Nicotinurate; N-Nicotinuric acid; N-Nicotinylglycine; Nicotinoyl-glycine; Nicotinoylglycine; Nicotinurate; Nicotinylglycine
+
+$$$$

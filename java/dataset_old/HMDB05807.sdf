@@ -1,0 +1,135 @@
+Gallic acid
+  Mrv1572001071617312D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+  4 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB05807
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC(O)=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O5/c8-4-1-3(7(11)12)2-5(9)6(4)10/h1-2,8-10H,(H,11,12)
+
+> <INCHI_KEY>
+LNTHITQWFMADLM-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O5
+
+> <MOLECULAR_WEIGHT>
+170.12
+
+> <EXACT_MASS>
+170.021523293
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_ATOM_COUNT>
+18
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.749252353488778
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,4,5-trihydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.17
+
+> <JCHEM_LOGP>
+0.720132759
+
+> <ALOGPS_LOGS>
+-1.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.044962714429534
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9415641190048674
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.048647901640675
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+39.2569
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.94e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+galop
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB05807
+
+> <GENERIC_NAME>
+Gallic acid
+
+> <SYNONYMS>
+3,4,5-Trihydroxy-Benzoate; 3,4,5-Trihydroxy-Benzoic acid; 3,4,5-Trihydroxybenzoate; 3,4,5-Trihydroxybenzoic acid; 3,4,5-Trihydroxybenzoic acid (ACD/Name 4.0); Gallate; Gallic acid; Gallic acid polymer; Gallic acid tech.; Galop; Pyrogallol-5-carboxylic acid
+
+$$$$

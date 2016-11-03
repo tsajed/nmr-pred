@@ -5,6 +5,7 @@ public class NmrStructure {
   ArrayList<Float> chemical_shifts;
   String structure_sdf;
   String hmdb_id;
+  ArrayList<Double[]> atomic_descriptors;
 
   public NmrStructure(ArrayList<String> c_pos, ArrayList<Float> c_shifts, String sdf, String id) {
     carbon_positions = c_pos;

@@ -1,0 +1,122 @@
+3-methyl-2-oxo-Valeric acid.mol
+  Mrv0541 02231218332D          
+
+  9  8  0  0  0  0            999 V2000
+    0.7145    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00491
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC(C)C(=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O3/c1-3-4(2)5(7)6(8)9/h4H,3H2,1-2H3,(H,8,9)
+
+> <INCHI_KEY>
+JVQYSWDUAOAHFM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10O3
+
+> <MOLECULAR_WEIGHT>
+130.1418
+
+> <EXACT_MASS>
+130.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.09233784064118
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methyl-2-oxopentanoic acid
+
+> <ALOGPS_LOGP>
+1.00
+
+> <JCHEM_LOGP>
+1.7539647436666668
+
+> <ALOGPS_LOGS>
+-1.12
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5188639238905273
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.724255725220358
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+31.792099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-methyl-2-oxopentanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00491
+
+> <GENERIC_NAME>
+3-Methyl-2-oxovaleric acid
+
+> <SYNONYMS>
+(3R)-3-Methyl-2-oxopentanoate; (3R)-3-Methyl-2-oxopentanoic acid; (R)-3-methyl-2-oxopentanoate; (R)-3-methyl-2-oxopentanoic acid; (S)-3-methyl-2-oxopentanoate; (S)-3-methyl-2-oxopentanoic acid; 2-Keto-3-methylvalerate; 2-Keto-3-methylvaleric acid; 2-Oxo-3-methyl-N-valerate; 2-Oxo-3-methyl-N-valeric acid; 2-Oxo-3-methylpentanoate; 2-Oxo-3-methylpentanoic acid; 2-Oxo-3-methylvalerate; 2-Oxo-3-methylvaleric acid; 2-Oxoisoleucine; 2-Oxokolavenate; 2-Oxokolavenic acid; 3-Methyl-2-oxo-pentanoate; 3-Methyl-2-oxo-pentanoic acid; 3-Methyl-2-oxo-Valerate; 3-Methyl-2-oxo-Valeric acid; 3-Methyl-2-oxopentanoate; 3-Methyl-2-oxopentanoic acid; 3-Methyl-2-oxovalerate; 3-Methyl-2-oxovaleric; a-Keto-b-Methyl-N-valerate; a-Keto-b-Methyl-N-valeric acid; a-Keto-b-methylvalerate; a-Keto-b-methylvaleric acid; a-Oxo-b-methyl-N-valerate; a-Oxo-b-methyl-N-valeric acid; a-Oxo-b-methylvalerate; a-Oxo-b-methylvaleric acid; alpha-Keto-beta-Methyl-N-valerate; alpha-Keto-beta-Methyl-N-valeric acid; alpha-Keto-beta-methylvalerate; alpha-Keto-beta-methylvaleric acid; alpha-Oxo-beta-methyl-N-valerate; alpha-Oxo-beta-methyl-N-valeric acid; alpha-Oxo-beta-methylvalerate; alpha-Oxo-beta-methylvaleric acid
+
+$$$$

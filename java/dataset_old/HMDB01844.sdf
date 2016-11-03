@@ -1,0 +1,122 @@
+10349
+  Mrv0541 02231219142D          
+
+  9  8  0  0  1  0            999 V2000
+    5.6655   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01844
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(CC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H8O4/c1-3(5(8)9)2-4(6)7/h3H,2H2,1H3,(H,6,7)(H,8,9)
+
+> <INCHI_KEY>
+WXUAQHNMJWJLTG-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H8O4
+
+> <MOLECULAR_WEIGHT>
+132.1146
+
+> <EXACT_MASS>
+132.042258744
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.913735846223009
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylbutanedioic acid
+
+> <ALOGPS_LOGP>
+0.13
+
+> <JCHEM_LOGP>
+0.14450331100000002
+
+> <ALOGPS_LOGS>
+-0.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.578119667709393
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9897992068502925
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+28.1115
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.03e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylsuccinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01844
+
+> <GENERIC_NAME>
+Methylsuccinic acid
+
+> <SYNONYMS>
+(S)-2-Hydroxy-2-methylsuccinate; (S)-2-Hydroxy-2-methylsuccinic acid; (S)-Citramalate; (S)-Citramalic acid; 2-Methylbutanedioate; 2-Methylbutanedioic acid; 2-Methylsuccinate; 2-Methylsuccinic acid; Methyl Succinate; Methyl Succinic acid; Methylbutanedioate; Methylbutanedioic acid; Methylsuccinate; MEZ; Pyrotartarate; Pyrotartaric acid
+
+$$$$

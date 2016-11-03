@@ -1,0 +1,130 @@
+Pyridinoline.mol
+  Mrv0541 02231218452D          
+
+ 12 13  0  0  0  0            999 V2000
+   -0.3572   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+  7 12  1  0  0  0  0
+  1 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00802
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=NC2=NC=CN=C2C(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5N5O/c7-6-10-4-3(5(12)11-6)8-1-2-9-4/h1-2H,(H3,7,9,10,11,12)
+
+> <INCHI_KEY>
+HNXQXTQTPAJEJL-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5N5O
+
+> <MOLECULAR_WEIGHT>
+163.1368
+
+> <EXACT_MASS>
+163.049409807
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.462088316670204
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-3,4-dihydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-0.86
+
+> <JCHEM_LOGP>
+-0.9579753639999999
+
+> <ALOGPS_LOGS>
+-2.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.002980536015437
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.3427589787944956
+
+> <JCHEM_POLAR_SURFACE_AREA>
+93.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+41.8164
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-4-oxopteridine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00802
+
+> <GENERIC_NAME>
+Pterin
+
+> <SYNONYMS>
+2-Amino-1H-pteridin-4-one; 2-Amino-3H-pteridin-4-one; 2-Amino-4(1H)-pteridinone; 2-Amino-4(3H)-pteridinone; 2-Amino-4-hydroxypteridine; 2-Amino-4-oxopteridine; 2-Amino-4-pteridinol; 2-Amino-4-pteridone; 2-Amino-Quinonoid dihydropterin; 2-Aminopteridin-4-one; 4-Oxo-2-aminopteridine; 4-Oxopterin; Pteridoxamine; Pterine
+
+$$$$

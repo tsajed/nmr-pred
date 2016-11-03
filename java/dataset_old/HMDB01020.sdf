@@ -1,0 +1,120 @@
+
+  Mrv0541 02231218522D          
+
+  9  9  0  0  0  0            999 V2000
+    0.0000    0.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7114   -0.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7152   -0.2220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0037    1.0051    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7114   -1.0502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7152   -1.0502    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7039    1.4154    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7152    1.4116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4680    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01020
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN(C)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11N/c1-9(2)8-6-4-3-5-7-8/h3-7H,1-2H3
+
+> <INCHI_KEY>
+JLTDJTHDQAWBAV-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11N
+
+> <MOLECULAR_WEIGHT>
+121.1796
+
+> <EXACT_MASS>
+121.089149357
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.313161482175754
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N,N-dimethylaniline
+
+> <ALOGPS_LOGP>
+2.05
+
+> <JCHEM_LOGP>
+2.0812896746666665
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.02458858699553
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+40.486599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethylaniline
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01020
+
+> <GENERIC_NAME>
+N,N-Dimethylaniline
+
+> <SYNONYMS>
+Dimethylaminobenzene; Dimethylaniline; Dimethylphenylamine; N,N-(Dimethylamino)benzene; N,N-Dimethyl-Benzenamine; N,N-Dimethyl-N-phenylamine; N,N-Dimethylaniline; N,N-Dimethylaniline [UN2253]; N,N-Dimethylbenzenamine
+
+$$$$

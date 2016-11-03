@@ -1,0 +1,125 @@
+
+  Mrv0541 02231219132D          
+
+  9  8  0  0  0  0            999 V2000
+   11.7465   -6.3455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7465   -5.5189    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4575   -6.7566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0315   -6.7609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3162   -6.3497    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8859   -6.3540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6012   -6.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1751   -6.7651    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0318   -7.4540    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  1  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  4  1  0  0  0  0
+  7  5  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  1  0  0  0  0
+  9  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01624
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCC(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O3/c1-2-3-4-5(7)6(8)9/h5,7H,2-4H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+NYHNVHGFPZAZGA-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12O3
+
+> <MOLECULAR_WEIGHT>
+132.1577
+
+> <EXACT_MASS>
+132.07864425
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.038583760539318
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxyhexanoic acid
+
+> <ALOGPS_LOGP>
+0.86
+
+> <JCHEM_LOGP>
+0.939830207
+
+> <ALOGPS_LOGS>
+-0.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.284162726812554
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.257947363146006
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.797522654160839
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+32.565799999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.85e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxyhexanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01624
+
+> <GENERIC_NAME>
+2-Hydroxycaproic acid
+
+> <SYNONYMS>
+2-Hydroxycaproate; 2-Hydroxycaproic acid; 2-Hydroxyhexanoate; 2-Hydroxyhexanoic acid; DL-2-Hydroxycaproate; DL-2-Hydroxycaproic acid; DL-2-Hydroxyhexanoate; DL-2-Hydroxyhexanoic acid; Dl-2-Hydroxyhexanoic acidHydroxyhexanoate; Dl-2-Hydroxyhexanoic acidHydroxyhexanoic acid; DL-Hydroxycaproate; DL-Hydroxycaproic acid; Hydroxy-N-caproate; Hydroxy-N-caproic acid; Hydroxycaproate; Hydroxycaproic acid; Hydroxyhexanoate; Hydroxyhexanoic acid
+
+$$$$

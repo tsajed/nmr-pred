@@ -1,0 +1,132 @@
+
+  Mrv0541 02231219142D          
+
+ 13 14  0  0  0  0            999 V2000
+   12.5271  -15.8481    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3441  -16.4752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7571  -17.3002    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4875  -16.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4875  -17.7127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7730  -16.4752    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0586  -17.7127    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2721  -17.9676    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7730  -18.1252    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2721  -16.6327    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0586  -16.8877    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7730  -15.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3441  -18.1252    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 12  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  2  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01860
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1C=NC2=C1C(=O)N(C)C(=O)N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)11(2)7(13)9-5/h3H,1-2H3,(H,9,13)
+
+> <INCHI_KEY>
+QUNWUDVFRNGTCO-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8N4O2
+
+> <MOLECULAR_WEIGHT>
+180.164
+
+> <EXACT_MASS>
+180.06472552
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.865495165097087
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1,7-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione
+
+> <ALOGPS_LOGP>
+-0.63
+
+> <JCHEM_LOGP>
+0.24028833966666654
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.761286686077602
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8667931938763297
+
+> <JCHEM_POLAR_SURFACE_AREA>
+67.23
+
+> <JCHEM_REFRACTIVITY>
+46.715300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.13e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+paraxanthine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01860
+
+> <GENERIC_NAME>
+Paraxanthine
+
+> <SYNONYMS>
+1,7-Dimethyl-Xanthine; 1,7-Dimethylxanthine
+
+$$$$

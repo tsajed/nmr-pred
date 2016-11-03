@@ -1,0 +1,129 @@
+3-Hydroxycapric acid.mol
+  Mrv0541 02231219252D          
+
+ 11 10  0  0  0  0            999 V2000
+   -1.2375   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375    1.1270    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.4125    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.3020    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -0.3020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02205
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CCS(O)(=O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO5S/c5-3(4(6)7)1-2-11(8,9)10/h3H,1-2,5H2,(H,6,7)(H,8,9,10)/t3-/m0/s1
+
+> <INCHI_KEY>
+VBOQYPQEPHKASR-VKHMYHEASA-N
+
+> <FORMULA>
+C4H9NO5S
+
+> <MOLECULAR_WEIGHT>
+183.183
+
+> <EXACT_MASS>
+183.020143093
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.692732434804245
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-sulfobutanoic acid
+
+> <ALOGPS_LOGP>
+-2.35
+
+> <JCHEM_LOGP>
+-2.90591122812339
+
+> <ALOGPS_LOGS>
+-0.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+1.3892367160594725
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.2525954713848684
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.511223417279629
+
+> <JCHEM_POLAR_SURFACE_AREA>
+117.69000000000001
+
+> <JCHEM_REFRACTIVITY>
+35.3004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.43e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-homocysteic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02205
+
+> <GENERIC_NAME>
+L-Homocysteic acid
+
+> <SYNONYMS>
+L-2-Amino-4-sulfobutyrate; L-2-Amino-4-sulfobutyric acid; L-Homocysteate
+
+$$$$

@@ -1,0 +1,139 @@
+
+  Mrv0541 02231218502D          
+
+ 16 15  0  0  0  0            999 V2000
+    0.8038   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5183    0.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2327   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9472    0.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6617   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6617   -0.9797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3761    0.2578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0893    0.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6252   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3396    0.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3396    1.0828    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0541   -0.1547    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7686    0.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4830   -0.1547    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4830   -0.9797    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1975    0.2578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00953
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCCCCCC(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H17NO5/c12-8(11-7-10(15)16)5-3-1-2-4-6-9(13)14/h1-7H2,(H,11,12)(H,13,14)(H,15,16)
+
+> <INCHI_KEY>
+HXATVKDSYDWTCX-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H17NO5
+
+> <MOLECULAR_WEIGHT>
+231.2457
+
+> <EXACT_MASS>
+231.110672659
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.957174198768545
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+7-[(carboxymethyl)carbamoyl]heptanoic acid
+
+> <ALOGPS_LOGP>
+0.32
+
+> <JCHEM_LOGP>
+0.27450845300000015
+
+> <ALOGPS_LOGS>
+-2.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.610364016354818
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9081223644751866
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9481084226763631
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.7
+
+> <JCHEM_REFRACTIVITY>
+54.7445
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.02e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7-(carboxymethylcarbamoyl)heptanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00953
+
+> <GENERIC_NAME>
+Suberylglycine
+
+> <SYNONYMS>
+Suberylglycin; Suberylglycine
+
+$$$$

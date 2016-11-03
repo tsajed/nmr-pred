@@ -1,0 +1,166 @@
+PG2
+  Mrv0541 02231215562D          
+
+ 29 29  0  0  0  0            999 V2000
+   -3.5770   -0.5674    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7923   -0.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6208    0.4945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8362    0.7494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2231    0.1974    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4385    0.4523    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2670    1.2593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5177    1.5143    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7726    2.2989    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5976    2.2989    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8525    1.5143    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1851    1.0293    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1851    0.2043    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4706   -0.2082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4706   -1.0332    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.1851   -1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8996   -1.0332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6140   -1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3285   -1.0332    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0430   -1.4457    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7485   -1.3744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1901   -0.0154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2877    2.9663    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6372    1.2593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2438   -1.4457    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1048    1.9272    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1959    2.2075    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6648    0.7642    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9763   -0.7412    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 21  1  0  0  0  0
+  1 22  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  8  7  1  1  0  0  0
+  8  9  1  0  0  0  0
+  8 12  1  0  0  0  0
+  8 26  1  6  0  0  0
+  9 10  1  0  0  0  0
+  9 23  1  1  0  0  0
+  9 27  1  6  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 24  2  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 28  1  1  0  0  0
+ 13 14  2  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 25  1  1  0  0  0
+ 15 29  1  1  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01403
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@](O)(CCCCC)\C=C\[C@@]1([H])C(=O)C[C@]([H])(O)[C@]1([H])C\C=C/CCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H32O5/c1-2-3-6-9-15(21)12-13-17-16(18(22)14-19(17)23)10-7-4-5-8-11-20(24)25/h4,7,12-13,15-18,21-22H,2-3,5-6,8-11,14H2,1H3,(H,24,25)/b7-4-,13-12+/t15-,16+,17+,18-/m0/s1
+
+> <INCHI_KEY>
+BHMBVRSPMRCCGG-OUTUXVNYSA-N
+
+> <FORMULA>
+C20H32O5
+
+> <MOLECULAR_WEIGHT>
+352.4651
+
+> <EXACT_MASS>
+352.224974134
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+40.780268785341384
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(5Z)-7-[(1R,2R,5S)-5-hydroxy-2-[(1E,3S)-3-hydroxyoct-1-en-1-yl]-3-oxocyclopentyl]hept-5-enoic acid
+
+> <ALOGPS_LOGP>
+3.12
+
+> <JCHEM_LOGP>
+3.2252701369999994
+
+> <ALOGPS_LOGS>
+-3.61
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.982935976351872
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.404553499966841
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5973979110025343
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+99.43509999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+12
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.60e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+prostaglandin D2
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01403
+
+> <GENERIC_NAME>
+Prostaglandin D2
+
+> <SYNONYMS>
+(5Z,13E)-(15S)-9,15-dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E)-(15S)-9,15-dihydroxy-11-oxoprosta-5,13-dienoic acid; (5z,13e)-(15S)-9-alpha,15-dihydroxy-11-oxoprosta-5,13-dienoate; (5z,13e)-(15S)-9-alpha,15-dihydroxy-11-oxoprosta-5,13-dienoic acid; (5Z,13E)-(15S)-9a,15-Dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E)-(15S)-9a,15-Dihydroxy-11-oxoprosta-5,13-dienoic acid; (5Z,13E)-(15S)-9alpha,15-dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoic acid; (5Z,13E,15S)-9-alpha,15-dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E,15S)-9-alpha,15-dihydroxy-11-oxoprosta-5,13-dienoic acid; (5Z,13E,15S)-9a,15-dihydroxy-11-oxoprosta-5,13-dien-1-oate; (5Z,13E,15S)-9a,15-dihydroxy-11-oxoprosta-5,13-dien-1-oic acid; (5Z,9-alpha,13E,15S)-9,15-dihydroxy-11-oxo-Prosta-5,13-dien-1-oate; (5Z,9-alpha,13E,15S)-9,15-dihydroxy-11-oxo-Prosta-5,13-dien-1-oic acid; (5Z,9alpha,13E,15S)-9,15-dihydroxy-11-oxo-prosta-5,13-dien-1-oate; (5Z,9alpha,13E,15S)-9,15-dihydroxy-11-oxo-prosta-5,13-dien-1-oic acid; 11-Dehydroprostaglandin F2-alpha; 11-Dehydroprostaglandin F2alpha; 9S,15S-Dihydroxy-11-oxo-5Z,13E-prostadienoate; 9S,15S-Dihydroxy-11-oxo-5Z,13E-prostadienoic acid; PGD2; Prostaglandin d2
+
+$$$$

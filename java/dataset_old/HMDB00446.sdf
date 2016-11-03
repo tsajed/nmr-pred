@@ -1,0 +1,133 @@
+
+  Mrv0541 02231218322D          
+
+ 13 12  0  0  0  0            999 V2000
+   12.5087  -10.7788    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2232   -9.5413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3666  -11.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6522  -10.3663    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5087  -14.0789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9377  -11.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2232  -12.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9377  -10.7788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2232  -12.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5087  -13.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2232  -10.3663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3666  -10.7788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0812  -10.3663    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00446
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)NC(CCCCN)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16N2O3/c1-6(11)10-7(8(12)13)4-2-3-5-9/h7H,2-5,9H2,1H3,(H,10,11)(H,12,13)
+
+> <INCHI_KEY>
+VEYYWZRYIYDQJM-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H16N2O3
+
+> <MOLECULAR_WEIGHT>
+188.2242
+
+> <EXACT_MASS>
+188.116092388
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.836151435382586
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-amino-2-acetamidohexanoic acid
+
+> <ALOGPS_LOGP>
+-2.54
+
+> <JCHEM_LOGP>
+-3.1548498338144397
+
+> <ALOGPS_LOGS>
+-1.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.91699810844868
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.894399605659067
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+10.205475361449126
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92.41999999999999
+
+> <JCHEM_REFRACTIVITY>
+47.2533
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.61e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-amino-2-acetamidohexanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00446
+
+> <GENERIC_NAME>
+N-Alpha-acetyllysine
+
+> <SYNONYMS>
+6-Amino-L-2-acetamidohexanoate; 6-Amino-L-2-acetamidohexanoic acid; Acetyllysine; N-a-Acetyl-L-lysine; N-a-Acetyllysine; N-Acetyl poly-L-lysine; N-Acetyl-L-lysine; N-alpha-Acetyl-L-Lysine; N-alpha-Acetyllysine; N2-acetyl-L-Lysine; N2-Acetyllysine
+
+$$$$

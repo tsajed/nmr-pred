@@ -1,0 +1,134 @@
+
+  Mrv0541 02231218432D          
+
+ 13 13  0  0  0  0            999 V2000
+   26.1780  -15.7814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1780  -14.1314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7490  -19.0814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7490  -14.1314    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7490  -15.7814    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7490  -16.6064    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4636  -15.3689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0346  -17.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4636  -17.0189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0346  -17.8439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4636  -17.8439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4636  -14.5439    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7490  -18.2564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00755
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(CC1=CC=C(O)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O4/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8,10-11H,5H2,(H,12,13)
+
+> <INCHI_KEY>
+JVGVDSSUAVXRDY-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O4
+
+> <MOLECULAR_WEIGHT>
+182.1733
+
+> <EXACT_MASS>
+182.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.508950163752104
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-hydroxy-3-(4-hydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+0.8809315280000001
+
+> <ALOGPS_LOGS>
+-1.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.50382828900583
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.5839647995095922
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.8298154633716104
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+45.439700000000016
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.79e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxyphenyllactic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00755
+
+> <GENERIC_NAME>
+Hydroxyphenyllactic acid
+
+> <SYNONYMS>
+(RS)-3-(4-Hydroxyphenyl)lactate; (RS)-3-(4-Hydroxyphenyl)lactic acid; 2-Hydroxy-3-(4-hydroxyphenyl)propanoate; 2-Hydroxy-3-(4-hydroxyphenyl)propanoic acid; 2-Hydroxy-3-(p-hydroxyphenyl)propionate; 2-Hydroxy-3-(p-hydroxyphenyl)propionic acid; 3-(4-Hydroxyphenyl)-DL-lactate; 3-(4-Hydroxyphenyl)-DL-lactic acid; 3-(4-Hydroxyphenyl)lactate; 3-(4-Hydroxyphenyl)lactic acid; 3-(p-Hydroxyphenyl)-Lactate; 3-(p-Hydroxyphenyl)-Lactic acid; 4-Hydroxyphenyllactate; 4-Hydroxyphenyllactic acid; a,4-Dihydroxybenzenepropanoate; a,4-Dihydroxybenzenepropanoic acid; b-(4-Hydroxyphenyl)lactate; b-(4-Hydroxyphenyl)lactic acid; b-(p-Hydroxyphenyl)-DL-lactate; b-(p-Hydroxyphenyl)-DL-lactic acid; b-(p-Hydroxyphenyl)lactate; b-(p-Hydroxyphenyl)lactic acid; beta-(4-Hydroxyphenyl)lactate; beta-(4-Hydroxyphenyl)lactic acid; beta-(p-Hydroxyphenyl)-DL-lactate; beta-(p-Hydroxyphenyl)-DL-lactic acid; beta-(p-Hydroxyphenyl)lactate; beta-(p-Hydroxyphenyl)lactic acid; DL-3-(4-Hydroxyphenyl)lactate; DL-3-(4-Hydroxyphenyl)lactic acid; DL-p-Hydroxyphenyllactate; DL-p-Hydroxyphenyllactic acid; HPLA; Hydroxyphenyllactate
+
+$$$$

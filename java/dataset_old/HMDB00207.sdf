@@ -1,0 +1,141 @@
+Oleic acid.mol
+  Mrv0541 02231218232D          
+
+ 20 19  0  0  0  0            999 V2000
+    4.5375    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5375    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1250    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9500    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7125    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9500    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00207
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCC\C=C/CCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H34O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h9-10H,2-8,11-17H2,1H3,(H,19,20)/b10-9-
+
+> <INCHI_KEY>
+ZQPPMHVWECSIRJ-KTKRTIGZSA-N
+
+> <FORMULA>
+C18H34O2
+
+> <MOLECULAR_WEIGHT>
+282.4614
+
+> <EXACT_MASS>
+282.255880332
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.0923667660576
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(9Z)-octadec-9-enoic acid
+
+> <ALOGPS_LOGP>
+7.68
+
+> <JCHEM_LOGP>
+6.783798451000001
+
+> <ALOGPS_LOGS>
+-6.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.988167283903808
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+87.4022
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+15
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.21e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+oleic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00207
+
+> <GENERIC_NAME>
+Oleic acid
+
+> <SYNONYMS>
+(9Z)-9-Octadecenoate; (9Z)-9-Octadecenoic acid; (9Z)-Octadecenoate; (9Z)-Octadecenoic acid; (Z)-9-Octadecanoate; (Z)-9-Octadecanoic acid; (Z)-Octadec-9-enoate; (Z)-Octadec-9-enoic acid; 9,10-Octadecenoate; 9,10-Octadecenoic acid; 9-(Z)-Octadecenoate; 9-(Z)-Octadecenoic acid; 9-Octadecenoate; 9-Octadecenoic acid; Century cd fatty acid; cis-9-Octadecenoate; cis-9-Octadecenoic acid; cis-Octadec-9-enoate; cis-Octadec-9-enoic acid; cis-Oleate; cis-Oleic acid; Distoline; Emersol 210; Emersol 211; Emersol 213; Emersol 220 White Oleate; Emersol 220 White Oleic acid; Emersol 221 Low Titer White Oleate; Emersol 221 Low Titer White Oleic acid; Emersol 233ll; Emersol 6321; Emersol 6333 NF; Emersol 7021; Glycon ro; Glycon wo; Groco 2; Groco 4; Groco 5L; Groco 6; Industrene 104; Industrene 105; Industrene 205; Industrene 206; L'Acide oleique; Metaupon; Oelsauere; Oleate; Oleic acid extra pure; Oleinate; Oleinic acid; Pamolyn; Pamolyn 100; Pamolyn 100 FG; Pamolyn 100 FGK; Pamolyn 125; Priolene 6900; Red oil; Tego-oleic 130; Vopcolene 27; Wecoline OO; Z-9-Octadecenoate; Z-9-Octadecenoic acid
+
+$$$$

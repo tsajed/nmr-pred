@@ -1,0 +1,113 @@
+
+  Mrv0541 02231216162D          
+
+  6  5  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01873
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O2/c1-3(2)4(5)6/h3H,1-2H3,(H,5,6)
+
+> <INCHI_KEY>
+KQNPFQTWMSNSAP-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O2
+
+> <MOLECULAR_WEIGHT>
+88.1051
+
+> <EXACT_MASS>
+88.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.116588155592678
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylpropanoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+1.020176411
+
+> <ALOGPS_LOGS>
+0.35
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.866878196732949
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+21.845100000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.97e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isobutyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01873
+
+> <GENERIC_NAME>
+Isobutyric acid
+
+> <SYNONYMS>
+2-Methylpropanoate; 2-Methylpropanoic acid; 2-Methylpropionate; 2-Methylpropionic acid; a-Methylpropanoate; a-Methylpropanoic acid; a-Methylpropionate; a-Methylpropionic acid; alpha-Methylpropanoate; alpha-Methylpropanoic acid; alpha-Methylpropionate; alpha-Methylpropionic acid; Dimethylacetate; Dimethylacetic acid; i-Butyrate; i-Butyric acid; Iso-Butyrate; Iso-Butyric acid; Isobutanoate; Isobutanoic acid; Isobutyrate; Isobutyric acid; Isopropylformate; Isopropylformic acid
+
+$$$$

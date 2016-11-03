@@ -1,0 +1,120 @@
+
+  Mrv0541 02231216262D          
+
+  8  7  0  0  0  0            999 V2000
+   -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5230    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00128
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC(=N)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
+
+> <INCHI_KEY>
+BPMFZUMJYQTVII-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H7N3O2
+
+> <MOLECULAR_WEIGHT>
+117.1066
+
+> <EXACT_MASS>
+117.053826483
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.445075102512387
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-carbamimidamidoacetic acid
+
+> <ALOGPS_LOGP>
+-1.76
+
+> <JCHEM_LOGP>
+-3.1262055894355907
+
+> <ALOGPS_LOGS>
+-1.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.3686966251675314
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.241335630709775
+
+> <JCHEM_POLAR_SURFACE_AREA>
+99.20000000000002
+
+> <JCHEM_REFRACTIVITY>
+36.718
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.19e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glycocyamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00128
+
+> <GENERIC_NAME>
+Guanidoacetic acid
+
+> <SYNONYMS>
+(carboxymethyl)-Guanidine; 2-[[Amino(imino)methyl]amino]acetate; 2-[[Amino(imino)methyl]amino]acetic acid; a-Guanidinoacetate; a-Guanidinoacetic acid; alpha-Guanidinoacetate; alpha-Guanidinoacetic acid; b-Guanidinoacetate; b-Guanidinoacetic acid; beta-Guanidinoacetate; beta-Guanidinoacetic acid; Betacyamine; Betasyamine; Glycocyamine; Guanidineacetate; Guanidineacetic acid; Guanidinoacetate; Guanidinoacetic acid; Guanidoacetate; Guanidoacetic acid; Guanidylacetate; Guanidylacetic acid; Guanyl glycine; N-Amidino-Glycine; N-Amidinoglycine; [(aminoiminomethyl)amino]-Acetate; [(aminoiminomethyl)amino]-Acetic acid
+
+$$$$

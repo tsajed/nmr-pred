@@ -1,0 +1,141 @@
+Linoleic acid.mol
+  Mrv0541 02231218402D          
+
+ 20 19  0  0  0  0            999 V2000
+    2.8875    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -2.5006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500   -2.5006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3000   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3000    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3000    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875    2.5006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625    1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3000    1.7862    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+  1 19  2  0  0  0  0
+  1 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00673
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCC\C=C/C\C=C/CCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h6-7,9-10H,2-5,8,11-17H2,1H3,(H,19,20)/b7-6-,10-9-
+
+> <INCHI_KEY>
+OYHQOLUKZRVURQ-HZJYTTRNSA-N
+
+> <FORMULA>
+C18H32O2
+
+> <MOLECULAR_WEIGHT>
+280.4455
+
+> <EXACT_MASS>
+280.240230268
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.86492653946452
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(9Z,12Z)-octadeca-9,12-dienoic acid
+
+> <ALOGPS_LOGP>
+7.06
+
+> <JCHEM_LOGP>
+6.421876794333333
+
+> <ALOGPS_LOGS>
+-6.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.988167283903808
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+88.5188
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.54e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+linoleic
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00673
+
+> <GENERIC_NAME>
+Linoleic acid
+
+> <SYNONYMS>
+(9Z,12Z)-9,12-Octadecadienoate; (9Z,12Z)-9,12-Octadecadienoic acid; (Z,Z)-9,12-Octadecadienoate; (Z,Z)-9,12-Octadecadienoic acid; 9-cis,12-cis-Linoleate; 9-cis,12-cis-Linoleic acid; 9Z,12Z-Linoleate; 9Z,12Z-Linoleic acid; 9Z,12Z-Octadecadienoate; 9Z,12Z-Octadecadienoic acid; All-cis-9,12-Octadecadienoate; All-cis-9,12-Octadecadienoic acid; cis,cis-Linoleate; cis,cis-Linoleic acid; cis-9,cis-12-Octadecadienoate; cis-9,cis-12-Octadecadienoic acid; cis-D9,12-Octadecadienoate; cis-D9,12-Octadecadienoic acid; Emersol 315; Extra Linoleic 90; Linolate; Linoleate; Linoleic acid; Linolic acid; Polylin 515; Unifac 6550
+
+$$$$

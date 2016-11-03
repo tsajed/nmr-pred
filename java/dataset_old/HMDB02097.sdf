@@ -1,0 +1,124 @@
+
+  Mrv0541 02231219212D          
+
+ 11 11  0  0  0  0            999 V2000
+   26.8448   -3.9566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4158   -3.9566    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1302   -7.6691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4158   -8.0815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1302   -4.3691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1302   -6.8441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1302   -5.1941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4158   -6.4316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8448   -6.4316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8448   -5.6065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4158   -5.6065    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02097
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O2/c1-2-7-3-5-8(6-4-7)9(10)11/h3-6H,2H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+ZQVKTHRQIXSMGY-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O2
+
+> <MOLECULAR_WEIGHT>
+150.1745
+
+> <EXACT_MASS>
+150.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.132197001733918
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-ethylbenzoic acid
+
+> <ALOGPS_LOGP>
+2.77
+
+> <JCHEM_LOGP>
+2.588818778333333
+
+> <ALOGPS_LOGS>
+-2.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.249424669368699
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+42.9564
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.32e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-ethylbenzoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB02097
+
+> <GENERIC_NAME>
+4-Ethylbenzoic acid
+
+> <SYNONYMS>
+4-Ethyl Benzoate; 4-Ethyl Benzoic acid; 4-Ethylbenzoate; 4-Ethylbenzoic acid; p-Ethylbenzoate; p-Ethylbenzoic acid
+
+$$$$

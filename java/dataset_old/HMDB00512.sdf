@@ -1,0 +1,138 @@
+Acetylphenylalanine.mol
+  Mrv0541 02231218342D          
+
+ 15 15  0  0  0  0            999 V2000
+   -1.6500   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.3572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.3572    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.7862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  3  2  1  1  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  1 11  2  0  0  0  0
+  1 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+  2 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00512
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO3/c1-8(13)12-10(11(14)15)7-9-5-3-2-4-6-9/h2-6,10H,7H2,1H3,(H,12,13)(H,14,15)/t10-/m0/s1
+
+> <INCHI_KEY>
+CBQJSKKFNMDLON-JTQLQIEISA-N
+
+> <FORMULA>
+C11H13NO3
+
+> <MOLECULAR_WEIGHT>
+207.2258
+
+> <EXACT_MASS>
+207.089543287
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.216101623050896
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-2-acetamido-3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+1.11
+
+> <JCHEM_LOGP>
+0.8964616559999996
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.290533824652464
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.024368699018418
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.477660145665673
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+54.560100000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.67e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetyl-L-phenylalanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00512
+
+> <GENERIC_NAME>
+N-Acetyl-L-phenylalanine
+
+> <SYNONYMS>
+Acetyl-L-phenylalanine; Acetylphenylalanine; L-N-Acetylphenylalanine; N-Acetyl-3-phenyl-L-Alanine; N-Acetyl-L-phenalanine; N-Acetyl-L-phenylalanine; N-Acetylphenylalanine
+
+$$$$

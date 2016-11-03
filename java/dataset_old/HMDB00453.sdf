@@ -1,0 +1,118 @@
+5-Hydroxyhexanoic acid lactone.mol
+  Mrv0541 02231218322D          
+
+  8  8  0  0  0  0            999 V2000
+    0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  1  8  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00453
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1CCCC(=O)O1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O2/c1-5-3-2-4-6(7)8-5/h5H,2-4H2,1H3
+
+> <INCHI_KEY>
+RZTOWFMDBDPERY-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H10O2
+
+> <MOLECULAR_WEIGHT>
+114.1424
+
+> <EXACT_MASS>
+114.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.122193225166743
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+6-methyloxan-2-one
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.010694995333333
+
+> <ALOGPS_LOGS>
+-0.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.0409063905943965
+
+> <JCHEM_POLAR_SURFACE_AREA>
+26.3
+
+> <JCHEM_REFRACTIVITY>
+29.327900000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hexanolactone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00453
+
+> <GENERIC_NAME>
+Delta-Hexanolactone
+
+> <SYNONYMS>
+(RS)-delta-Hexalactone; 5-Hexanolide; 5-Hydroxy-Hexanoate; 5-Hydroxy-Hexanoic acid; 5-Hydroxy-Hexanoic acid lactone; 5-Hydroxyhexanoate; 5-Hydroxyhexanoic acid; 5-Hydroxyhexanoic acid lactone; 6-Methyl-D-valerolactone; 6-Methylvalerolactone; delta-Caprolactone; delta-Hexalactone; delta-Hexanolactone; delta-Hexanolide; delta-Methyl-delta-valerolactone; Hexanolactone; Tetrahydro-6-methyl-2H-pyran-2-one
+
+$$$$

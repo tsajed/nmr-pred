@@ -1,0 +1,122 @@
+
+  Mrv0541 02231219212D          
+
+  9  8  0  0  0  0            999 V2000
+   18.0688  -11.8270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6413  -12.2396    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7833  -13.0646    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9267  -11.0020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4978  -11.8270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7833  -12.2396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9267  -11.8270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2123  -12.2396    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.2123  -13.0646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02092
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC(=C)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H6O4/c1-3(5(8)9)2-4(6)7/h1-2H2,(H,6,7)(H,8,9)
+
+> <INCHI_KEY>
+LVHBHZANLOWSRM-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H6O4
+
+> <MOLECULAR_WEIGHT>
+130.0987
+
+> <EXACT_MASS>
+130.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.058996822042488
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylidenebutanedioic acid
+
+> <ALOGPS_LOGP>
+0.00
+
+> <JCHEM_LOGP>
+0.052824681999999894
+
+> <ALOGPS_LOGS>
+-0.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.492219330986345
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6521044530966424
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+27.9149
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.30e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+itaconic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02092
+
+> <GENERIC_NAME>
+Itaconic acid
+
+> <SYNONYMS>
+  Methylenebutanedioate; 2-Hydroxy-3-Naphthoyl-2-Naphthylamine; 2-Methylenesuccinate; 2-Methylenesuccinic acid; 2-Propene-1,2-dicarboxylate; 2-Propene-1,2-dicarboxylic acid; Itaconate; Methylenebutanedioic acid; Methylenesuccinate; Methylenesuccinic acid; Propylenedicarboxylate; Propylenedicarboxylic acid
+
+$$$$

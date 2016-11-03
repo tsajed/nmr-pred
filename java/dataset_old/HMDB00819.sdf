@@ -1,0 +1,134 @@
+Normetanephrine.mol
+  Mrv0541 02231218452D          
+
+ 13 13  0  0  0  0            999 V2000
+   -0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  1  7  1  0  0  0  0
+  9 10  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 11  1  0  0  0  0
+ 12 13  1  0  0  0  0
+  7 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00819
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC(=CC=C1O)C(O)CN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO3/c1-13-9-4-6(8(12)5-10)2-3-7(9)11/h2-4,8,11-12H,5,10H2,1H3
+
+> <INCHI_KEY>
+YNYAYWLBAHXHLL-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13NO3
+
+> <MOLECULAR_WEIGHT>
+183.2044
+
+> <EXACT_MASS>
+183.089543287
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.10415225256215
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-(2-amino-1-hydroxyethyl)-2-methoxyphenol
+
+> <ALOGPS_LOGP>
+-0.71
+
+> <JCHEM_LOGP>
+-0.38745268118411125
+
+> <ALOGPS_LOGS>
+-1.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.218297680349547
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.98729307048354
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.059036828497016
+
+> <JCHEM_POLAR_SURFACE_AREA>
+75.71
+
+> <JCHEM_REFRACTIVITY>
+48.937999999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+/-)-normetanephrine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00819
+
+> <GENERIC_NAME>
+Normetanephrine
+
+> <SYNONYMS>
+(+/-)-alpha-(aminomethyl)-4-hydroxy-3-methoxy-Benzenemethanol; (+/-)-Normetanephrine; 3-Methoxy-Noradrenaline; 3-O-Methyl-Noradrenaline; 4-(2-Amino-1-hydroxyethyl)-2-methoxyphenol; alpha-(Aminomethyl)-4-hydroxy-3-methoxy-Benzenemethanol; Dl-N-Normetanephrine; Dl-Normetanephrine; L-Normetanephrine; m-O-Methylnorepinephrine; N111; Normetadrenaline; O-Methylnoradrenaline
+
+$$$$

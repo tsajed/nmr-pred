@@ -1,0 +1,124 @@
+
+  Mrv0541 02231219192D          
+
+ 10  9  0  0  0  0            999 V2000
+   16.8167   -6.2291    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9600   -4.1666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5313   -6.6416    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2456   -2.9292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8167   -3.7541    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5313   -4.1666    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8167   -5.4041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5313   -4.9916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1022   -6.6416    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2456   -3.7541    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  1  7  1  0  0  0  0
+  1  9  1  0  0  0  0
+  2 10  1  0  0  0  0
+  4 10  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02005
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CS(=O)CCC(N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO3S/c1-10(9)3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)
+
+> <INCHI_KEY>
+QEFRNWWLZKMPFJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO3S
+
+> <MOLECULAR_WEIGHT>
+165.211
+
+> <EXACT_MASS>
+165.045963913
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.041532251037058
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-4-methanesulfinylbutanoic acid
+
+> <ALOGPS_LOGP>
+-2.40
+
+> <JCHEM_LOGP>
+-4.565261464903274
+
+> <ALOGPS_LOGS>
+-0.49
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.7416965946301604
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.11365628931558
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+39.3427
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.40e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+DL-methionine sulfoxide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02005
+
+> <GENERIC_NAME>
+Methionine sulfoxide
+
+> <SYNONYMS>
+2-Amino-4-(methylsulfinyl)-Butanoate; 2-Amino-4-(methylsulfinyl)-Butanoic acid; alpha-Amino-gamma-(methylsulfinyl)-Butyric acid; DL-Methionine sulfoxide; L-Methionine (S)-S-oxide; L-Methionine R-oxide; L-Methionine sulfoxide; Met-SO; S-Oxide-methionine
+
+$$$$

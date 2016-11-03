@@ -1,0 +1,120 @@
+D-Xylose.mol
+  Mrv0541 02231218222D          
+
+  8  7  0  0  0  0            999 V2000
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  1  6  1  0  0  0  0
+  4  7  2  0  0  0  0
+  4  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00176
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)\C=C/C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4O4/c5-3(6)1-2-4(7)8/h1-2H,(H,5,6)(H,7,8)/b2-1-
+
+> <INCHI_KEY>
+VZCYOOQTPOCHFL-UPHRSURJSA-N
+
+> <FORMULA>
+C4H4O4
+
+> <MOLECULAR_WEIGHT>
+116.0722
+
+> <EXACT_MASS>
+116.010958616
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.19428148254656
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2Z)-but-2-enedioic acid
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+-0.040914331333333324
+
+> <ALOGPS_LOGS>
+-0.68
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.912485134930333
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.0457324172016107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+24.607
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.41e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+maleic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00176
+
+> <GENERIC_NAME>
+Maleic acid
+
+> <SYNONYMS>
+(2Z)-2-Butenedioate; (2Z)-2-Butenedioic acid; (2Z)-but-2-enedioate; (2Z)-but-2-enedioic acid; (2Z)-Butene-2-dioate; (2Z)-Butene-2-dioic acid; (Z)-2-Butenedioate; (Z)-2-Butenedioic acid; (z)-butenedioate; (z)-butenedioic acid; 2-Butenedioate; 2-Butenedioic acid; cis-1,2-Ethylenedicarboxylic acid; cis-2-Butenedioate; cis-2-Butenedioic acid; cis-But-2-enedioate; cis-But-2-enedioic acid; Cis-butenedioate; Cis-butenedioic acid; H2male; Kyselina maleinova; MAE; Maleate; Maleic acid; Maleic acid [NA2215]; Maleinic acid; Malenic acid; Malezid CM; Scotchbond multipurpose etchant; Toxilic acid
+
+$$$$

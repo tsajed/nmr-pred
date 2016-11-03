@@ -1,0 +1,122 @@
+
+  Mrv0541 02231219202D          
+
+  9  8  0  0  0  0            999 V2000
+   27.9132   -3.4480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1988   -4.6855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6263   -4.2730    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4842   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3408   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7698   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0553   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6277   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9132   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02064
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)NCCCCN
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14N2O/c1-6(9)8-5-3-2-4-7/h2-5,7H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+KLZGKIDSEJWEDW-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H14N2O
+
+> <MOLECULAR_WEIGHT>
+130.1882
+
+> <EXACT_MASS>
+130.11061308
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.281189133700957
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-(4-aminobutyl)acetamide
+
+> <ALOGPS_LOGP>
+-0.84
+
+> <JCHEM_LOGP>
+-1.0262736609999996
+
+> <ALOGPS_LOGS>
+0.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.482677381445896
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.904074103997283
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.120000000000005
+
+> <JCHEM_REFRACTIVITY>
+36.8224
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.41e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetylputrescine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02064
+
+> <GENERIC_NAME>
+N-Acetylputrescine
+
+> <SYNONYMS>
+Acetylputrescine; Monoacetylputrescine; N-(4-Aminobutyl)acetamide
+
+$$$$

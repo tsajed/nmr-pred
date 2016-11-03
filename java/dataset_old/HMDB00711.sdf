@@ -1,0 +1,129 @@
+
+  Mrv0541 02231218422D          
+
+ 11 10  0  0  0  0            999 V2000
+   26.3604  -12.6931    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7893  -11.8681    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0749  -10.6305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9314  -11.8681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.2169  -11.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5025  -11.8681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6458  -11.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7879  -11.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3604  -11.8681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0734  -11.8681    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0749  -11.4556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00711
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCC(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O3/c1-2-3-4-5-6-7(9)8(10)11/h7,9H,2-6H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+JKRDADVRIYVCCY-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H16O3
+
+> <MOLECULAR_WEIGHT>
+160.2108
+
+> <EXACT_MASS>
+160.109944378
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.00717072629657
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-hydroxyoctanoic acid
+
+> <ALOGPS_LOGP>
+1.80
+
+> <JCHEM_LOGP>
+1.828967537
+
+> <ALOGPS_LOGS>
+-1.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.284148892109581
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.422499319236623
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.797528711914386
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+41.767799999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+6
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.12e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxyoctanoate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00711
+
+> <GENERIC_NAME>
+Hydroxyoctanoic acid
+
+> <SYNONYMS>
+2-Hydroxycaprylate; 2-Hydroxycaprylic acid; 2-Hydroxyoctanoate; 2-Hydroxyoctanoic acid; a-Hydroxy-N-caprylate; a-Hydroxy-N-caprylic acid; a-Hydroxycaprylate; a-Hydroxycaprylic acid; a-Hydroxyoctanoate; a-Hydroxyoctanoic acid; alpha-Hydroxy-N-caprylate; alpha-Hydroxy-N-caprylic acid; alpha-Hydroxycaprylate; alpha-Hydroxycaprylic acid; alpha-Hydroxyoctanoate; alpha-Hydroxyoctanoic acid; DL-2-Hydroxycaprylate; DL-2-Hydroxycaprylic acid; DL-2-Hydroxyoctanoate; DL-2-Hydroxyoctanoic acid; Hydroxyoctanoate; Hydroxyoctanoic acid
+
+$$$$

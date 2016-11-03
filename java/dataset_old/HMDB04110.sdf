@@ -1,0 +1,120 @@
+
+  Mrv0541 02231216292D          
+
+  8  7  0  0  0  0            999 V2000
+    0.1105   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6039   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04110
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H5O5P/c3-2(4)1-8(5,6)7/h1H2,(H,3,4)(H2,5,6,7)
+
+> <INCHI_KEY>
+XUYJLQHKOGNDPB-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H5O5P
+
+> <MOLECULAR_WEIGHT>
+140.0319
+
+> <EXACT_MASS>
+139.987459782
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.629351340776928
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-phosphonoacetic acid
+
+> <ALOGPS_LOGP>
+-2.58
+
+> <JCHEM_LOGP>
+-1.6011253753333332
+
+> <ALOGPS_LOGS>
+-0.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.175716720456989
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.6377235892899562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83000000000001
+
+> <JCHEM_REFRACTIVITY>
+23.634
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.51e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phosphonoacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB04110
+
+> <GENERIC_NAME>
+Phosphonoacetate
+
+> <SYNONYMS>
+Carboxymethanephosphonate; Carboxymethanephosphonic acid; Disodium carboxymethylphosphonate; Disodium phosphonoacetate; Disodium phosphonoacetate monohydrate; Fosfonet; Fosfonet sodium; Fosfonoacetate; Fosfonoacetic acid; Lopac-P-6909; PAE; Phosphonacetate; Phosphonacetic acid; Phosphonoacetate; Phosphonoacetic acid; PPA
+
+$$$$

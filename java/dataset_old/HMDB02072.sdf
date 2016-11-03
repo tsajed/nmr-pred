@@ -1,0 +1,129 @@
+
+  Mrv0541 02231219212D          
+
+ 12 12  0  0  0  0            999 V2000
+   25.9719   -8.2387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6865   -3.7012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4009   -4.9387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9719   -4.9387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2575   -8.6512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6865   -4.5262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9719   -7.4137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9719   -5.7637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6865   -7.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2575   -7.0012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6865   -6.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2575   -6.1762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02072
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC=C(CC(O)=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O3/c1-12-8-4-2-7(3-5-8)6-9(10)11/h2-5H,6H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+NRPFNQUDKRYCNX-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O3
+
+> <MOLECULAR_WEIGHT>
+166.1739
+
+> <EXACT_MASS>
+166.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.855201156554493
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-methoxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+1.73
+
+> <JCHEM_LOGP>
+1.4533228396666666
+
+> <ALOGPS_LOGS>
+-2.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.116021917653093
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.824732645952242
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+43.8288
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.43e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-methoxyphenylacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02072
+
+> <GENERIC_NAME>
+4-Methoxyphenylacetic acid
+
+> <SYNONYMS>
+(4-Methoxy-phenyl)-acetate; (4-Methoxy-phenyl)-acetic acid; (p-Methoxyphenyl)acetate; (p-Methoxyphenyl)acetic acid; 2-(p-Anisyl)acetate; 2-(p-Anisyl)acetic acid; 4-Methoxy phenylacetic acid; 4-Methoxy-benzeneacetate; 4-Methoxy-benzeneacetic acid; 4-Methoxybenzeneacetate; 4-Methoxybenzeneacetic acid; 4-Methoxyphenylacetate; Homo-p-anisic acid; Homoanisate; Homoanisic acid; p-Methoxy-a-toluate; p-Methoxy-a-toluic acid; p-Methoxy-alpha-toluate; p-Methoxy-alpha-toluic acid; p-Methoxyphenyl-acetate; p-Methoxyphenyl-acetic acid
+
+$$$$

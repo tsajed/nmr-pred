@@ -1,0 +1,145 @@
+863
+  Mrv0541 02231215032D          
+
+ 21 21  0  0  0  0            999 V2000
+    6.6282   -0.5856    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6934   -1.3677    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6501    0.0507    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    2.6063    1.1127    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7587   -0.5856    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4457   -0.5435    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0041    0.8156    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4348    0.3057    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   10.1456   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3609   -0.8827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0259   -0.8827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2412   -1.1377    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1059   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2809   -0.0981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8435   -0.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2304   -0.2885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5871    0.2214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5434   -0.8406    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8326    0.0086    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0479   -0.2464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3909    1.3677    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 10  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 19  1  0  0  0  0
+  7 19  1  0  0  0  0
+  7 21  1  0  0  0  0
+  8 20  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 14  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 19 20  2  0  0  0  0
+M  CHG  2   3  -1   8   1
+M  END
+> <DATABASE_ID>
+HMDB01930
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN\C(NCCSCC1=CC=C(CN(C)C)O1)=C/[N+]([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H22N4O3S/c1-14-13(9-17(18)19)15-6-7-21-10-12-5-4-11(20-12)8-16(2)3/h4-5,9,14-15H,6-8,10H2,1-3H3/b13-9+
+
+> <INCHI_KEY>
+VMXUWOKSQNHOCA-UKTHLTGXSA-N
+
+> <FORMULA>
+C13H22N4O3S
+
+> <MOLECULAR_WEIGHT>
+314.404
+
+> <EXACT_MASS>
+314.14126128
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.575230083655015
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+dimethyl[(5-{[(2-{[(E)-1-(methylamino)-2-nitroethenyl]amino}ethyl)sulfanyl]methyl}furan-2-yl)methyl]amine
+
+> <ALOGPS_LOGP>
+0.79
+
+> <JCHEM_LOGP>
+0.9814784663333328
+
+> <ALOGPS_LOGS>
+-3.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.080816459700243
+
+> <JCHEM_POLAR_SURFACE_AREA>
+86.25999999999999
+
+> <JCHEM_REFRACTIVITY>
+95.15300000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.95e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ranitidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01930
+
+> <GENERIC_NAME>
+Ranitidine
+
+> <SYNONYMS>
+Achedos; Acidex; Atural; Axoban; Coralen; Curan; Duractin; Ezopta; Gastrial; Gastrosedol; Istomar; Logast; Mauran; Microtid; Ptinolin; Quantor; Quicran; Radinat; Randin; Ranidine; Ranin; Raniogas; Ranisen; Raniter; Ranitidina [INN-Spanish]; Ranitidine; Ranitidine (Form I And Form Ii); Ranitidine Base; Ranitidine HCL 1/2 Type; Ranitidine [USAN:BAN:INN]; Ranitidinum [INN-Latin]; Ranitiget; Rantacid; Rantidine; Ratic; Raticina; RND; Sampep; Taural; Ul-Pep; Ulceranin; Urantac; Verlost; Vesyca; Vizerul; Weichilin; Weidos; Xanidine; Zantab; ZANTAC; Zantac (TN); Zantadin
+
+$$$$

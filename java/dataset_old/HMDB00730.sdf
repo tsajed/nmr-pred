@@ -1,0 +1,124 @@
+Isobutyrylglycine.mol
+  Mrv0541 02231218422D          
+
+ 10  9  0  0  0  0            999 V2000
+   -1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.2062    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -1.0312    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00730
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)C(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO3/c1-4(2)6(10)7-3-5(8)9/h4H,3H2,1-2H3,(H,7,10)(H,8,9)
+
+> <INCHI_KEY>
+DCICDMMXFIELDF-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H11NO3
+
+> <MOLECULAR_WEIGHT>
+145.1564
+
+> <EXACT_MASS>
+145.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.558186483444217
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(2-methylpropanamido)acetic acid
+
+> <ALOGPS_LOGP>
+-0.11
+
+> <JCHEM_LOGP>
+-0.08510682866666647
+
+> <ALOGPS_LOGS>
+-0.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.762853347112205
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.062989555850929
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.186656156903307
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+34.6486
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.79e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isobutyrylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00730
+
+> <GENERIC_NAME>
+Isobutyrylglycine
+
+$$$$

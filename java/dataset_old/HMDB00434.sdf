@@ -1,0 +1,133 @@
+3,4-Dimethoxyphenylacetic acid.mol
+  Mrv0541 02231218312D          
+
+ 14 14  0  0  0  0            999 V2000
+    1.7862   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  2  5  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 13 14  1  0  0  0  0
+  7 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00434
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC=C(CC(O)=O)C=C1OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O4/c1-13-8-4-3-7(6-10(11)12)5-9(8)14-2/h3-5H,6H2,1-2H3,(H,11,12)
+
+> <INCHI_KEY>
+WUAXWQRULBZETB-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12O4
+
+> <MOLECULAR_WEIGHT>
+196.1999
+
+> <EXACT_MASS>
+196.073558872
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.735419777812933
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3,4-dimethoxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+1.2956515739999999
+
+> <ALOGPS_LOGS>
+-2.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.861393687418164
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.5925778261371315
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.760000000000005
+
+> <JCHEM_REFRACTIVITY>
+50.292
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.21e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,4-dimethoxyphenylacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00434
+
+> <GENERIC_NAME>
+Homoveratric acid
+
+> <SYNONYMS>
+(3,4-Dimethoxyphenyl)acetate; (3,4-Dimethoxyphenyl)acetic acid; 3,4-Dimethoxybenzeneacetate; 3,4-Dimethoxybenzeneacetic acid; 3,4-Dimethoxyphenylacetate; 3,4-Dimethoxyphenylacetic acid; Homoveratrate
+
+$$$$

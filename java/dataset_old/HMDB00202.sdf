@@ -1,0 +1,120 @@
+
+  Mrv0541 02231217302D          
+
+  8  7  0  0  0  0            999 V2000
+    2.0625    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00202
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O4/c1-2(3(5)6)4(7)8/h2H,1H3,(H,5,6)(H,7,8)
+
+> <INCHI_KEY>
+ZIYVHBGGAOATLY-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6O4
+
+> <MOLECULAR_WEIGHT>
+118.088
+
+> <EXACT_MASS>
+118.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.057853065917069
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-methylpropanedioic acid
+
+> <ALOGPS_LOGP>
+0.17
+
+> <JCHEM_LOGP>
+0.21186901000000008
+
+> <ALOGPS_LOGS>
+0.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.256772105384455
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.4752703991264853
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+23.5623
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylmalonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00202
+
+> <GENERIC_NAME>
+Methylmalonic acid
+
+> <SYNONYMS>
+1,1-Ethanedicarboxylate; 1,1-Ethanedicarboxylic acid; 2-Methylmalonate; 2-Methylmalonic acid; Isosuccinate; Isosuccinic acid; Methyl-Malonate; Methyl-Malonic acid; Methyl-Propanedioate; Methyl-Propanedioic acid; Methylmalonate; Methylmalonic acid; Methylpropanedioate; Methylpropanedioic acid
+
+$$$$

@@ -1,0 +1,130 @@
+
+  Mrv0541 02231216052D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.8579    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00226
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC(=O)NC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N2O4/c8-3-1-2(4(9)10)6-5(11)7-3/h1H,(H,9,10)(H2,6,7,8,11)
+
+> <INCHI_KEY>
+PXQPEWDEAKTCGB-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N2O4
+
+> <MOLECULAR_WEIGHT>
+156.0963
+
+> <EXACT_MASS>
+156.017106626
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.461411040975763
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.89
+
+> <JCHEM_LOGP>
+-1.227664501
+
+> <ALOGPS_LOGS>
+-1.54
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.719801177776969
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.8272668275049813
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.031557162371242
+
+> <JCHEM_POLAR_SURFACE_AREA>
+95.5
+
+> <JCHEM_REFRACTIVITY>
+33.27460000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.51e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+orotic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00226
+
+> <GENERIC_NAME>
+Orotic acid
+
+> <SYNONYMS>
+1,2,3,6-Tetrahydro-2,6-dioxo-4-pyrimidecarboxylic acid; 1,2,3,6-Tetrahydro-2,6-dioxo-4-Pyrimidinecarboxylic acid; 1,2,3,6-Tetrahydro-2,6-dioxopyrimidin-4-carbonsaeure; 2,6-Dihydroxy-4-pyrimidinecarboxylic acid; 2,6-Dihydroxypyrimidine-4-carboxylic acid; 2,6-Dioxo-1,2,3,6-tetrahydro-pyrimidine-4-carboxylic acid; 2,6-Dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid; 6-Carboxy-2,4-dihydroxypyrimidine; 6-Carboxyuracil; 6-Uracilcarboxylic acid; Acide orotique; Acido orotico; Acidum oroticum; Animal galactose factor; Lactinium; Molkensaeure; ORO; Orodin; Oropur; Orotate; Orotic acid; Orotonin; Orotonsan; Orotsaeure; Orotsaure; Oroturic; Orotyl; Uracil-6-carbosaeure; Uracil-6-carboxylate; Uracil-6-carboxylic acid; Vitamin B13; Whey factor
+
+$$$$

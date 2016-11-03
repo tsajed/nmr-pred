@@ -1,0 +1,130 @@
+
+  Mrv0541 02231219312D          
+
+ 11 11  0  0  0  0            999 V2000
+   26.3240  -13.9012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1805  -15.1387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8950  -13.9012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1805  -16.7887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6095  -14.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8950  -15.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8950  -16.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6095  -15.1387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6095  -16.7887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3240  -15.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3240  -16.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02390
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1=C(O)C(=CC=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c1-5-3-2-4-6(7(5)9)8(10)11/h2-4,9H,1H3,(H,10,11)
+
+> <INCHI_KEY>
+WHSXTWFYRGOBGO-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.890108721588039
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-3-methylbenzoic acid
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+2.490684791666667
+
+> <ALOGPS_LOGS>
+-1.72
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.887434553832179
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7957377865848425
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.269370235218735
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+40.33630000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.88e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cresotic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02390
+
+> <GENERIC_NAME>
+3-Cresotinic acid
+
+> <SYNONYMS>
+2,3-Cresotate; 2,3-Cresotic acid; 2,3-Cresotinate; 2,3-Cresotinic acid; 2-Hydroxy-3-methyl-benzoate; 2-Hydroxy-3-methyl-benzoic acid; 2-Hydroxy-3-methylbenzoate; 2-Hydroxy-3-methylbenzoic acid; 2-Hydroxy-m-toluate; 2-Hydroxy-m-toluic acid; 3-Cresotinate; 3-Methyl-2-hydroxybenzoate; 3-Methyl-2-hydroxybenzoic acid; 3-Methylsalicylate; 3-Methylsalicylic acid; beta-Cresotinate; beta-Cresotinic acid; Hydroxytoluic acid; O-Cresotic acid; O-Cresotinic acid; O-Homosalicylic acid
+
+$$$$

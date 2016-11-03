@@ -1,0 +1,126 @@
+CLT
+  Mrv0541 02231215532D          
+
+ 12 12  0  0  0  0            999 V2000
+    1.4968    0.4655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7823    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0678    0.4655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6467    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6467   -0.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3611    0.4655    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3611   -1.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0756    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0756   -0.7720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2112    0.0530    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9257    0.4655    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2112   -0.7720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00543
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCCC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O2/c11-10(12)8-4-7-9-5-2-1-3-6-9/h1-3,5-6H,4,7-8H2,(H,11,12)
+
+> <INCHI_KEY>
+OBKXEAXTFZPCHS-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12O2
+
+> <MOLECULAR_WEIGHT>
+164.2011
+
+> <EXACT_MASS>
+164.083729628
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.993599327584633
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+4-phenylbutanoic acid
+
+> <ALOGPS_LOGP>
+2.29
+
+> <JCHEM_LOGP>
+2.5001314353333326
+
+> <ALOGPS_LOGS>
+-2.51
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.809429616812308
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+46.56760000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.13e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-phenylbutyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00543
+
+> <GENERIC_NAME>
+Benzenebutanoic acid
+
+> <SYNONYMS>
+4-Phenyl-Butyrate; 4-Phenyl-Butyric acid; 4-Phenyl-N-butyrate; 4-Phenyl-N-butyric acid; 4-Phenylbutanoate; 4-Phenylbutanoic acid; 4-Phenylbutyrate; 4-Phenylbutyric acid; Benzenebutanoate; Benzenebutanoic acid; Benzenebutyrate; Benzenebutyric acid; g-Phenyl-Butyrate; g-Phenyl-Butyric acid; g-Phenylbutanoate; g-Phenylbutanoic acid; g-Phenylbutyrate; g-Phenylbutyric acid; gamma-Phenyl-Butyrate; gamma-Phenyl-Butyric acid; gamma-Phenylbutanoate; gamma-Phenylbutanoic acid; gamma-Phenylbutyrate; gamma-Phenylbutyric acid; Omega-Phenylbutanoate; Omega-Phenylbutanoic acid; w-Phenylbutanoate; w-Phenylbutanoic acid
+
+$$$$

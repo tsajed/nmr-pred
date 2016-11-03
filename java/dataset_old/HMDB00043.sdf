@@ -1,0 +1,118 @@
+Betaine.mol
+  Mrv0541 02231218182D          
+
+  8  7  0  0  0  0            999 V2000
+   -1.4289   -0.4678    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.0553    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.7697    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.0553    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    0.3020    0.6592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1270   -0.7697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+M  CHG  2   1  -1   5   1
+M  END
+> <DATABASE_ID>
+HMDB00043
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[N+](C)(C)CC([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c1-6(2,3)4-5(7)8/h4H2,1-3H3
+
+> <INCHI_KEY>
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.10962349652031
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(trimethylazaniumyl)acetate
+
+> <ALOGPS_LOGP>
+-2.70
+
+> <JCHEM_LOGP>
+-4.494183842471745
+
+> <ALOGPS_LOGS>
+-1.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.2595637800263866
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.129999999999995
+
+> <JCHEM_REFRACTIVITY>
+52.8234
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.86e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+Bet
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00043
+
+> <GENERIC_NAME>
+Betaine
+
+> <SYNONYMS>
+(Carboxymethyl)trimethylammonium hydroxide inner salt; (Trimethylammonio)acetate; 1-Carboxy-N,N,N-trimethyl-Methanaminium; 1-Carboxy-N,N,N-trimethyl-Methanaminium hydroxide; 1-Carboxy-N,N,N-trimethylmethanaminium inner salt; a-Earleine; Abromine; alpha-Earleine; Aminocoat; Betafin; Betafin BCR; Betafin BP; Betaine; Cystadane; Ektasolve EE; FinnStim; Glycine betaine; Glycocoll betaine; Glycylbetaine; Greenstim; Loramine AMB 13; Loramine AMB-13; Lycine; N,N,N-Trimethylglycine; Oxyneurine; Rubrine C; Trimethylaminoacetate; Trimethylaminoacetic acid; Trimethylbetaine Glycine; Trimethylglycine; Trimethylglycocoll
+
+$$$$

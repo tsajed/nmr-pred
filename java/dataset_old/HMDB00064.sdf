@@ -1,0 +1,122 @@
+148
+  Mrv0541 02231214282D          
+
+  9  8  0  0  0  0            999 V2000
+    5.6655   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0930    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9509    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00064
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN(CC(O)=O)C(N)=N
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)
+
+> <INCHI_KEY>
+CVSVTCORWBXHQV-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9N3O2
+
+> <MOLECULAR_WEIGHT>
+131.1332
+
+> <EXACT_MASS>
+131.069476547
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.170880209533152
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(1-methylcarbamimidamido)acetic acid
+
+> <ALOGPS_LOGP>
+-1.59
+
+> <JCHEM_LOGP>
+-2.8642238844128185
+
+> <ALOGPS_LOGS>
+-1.50
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.501029063602651
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+12.429771248504041
+
+> <JCHEM_POLAR_SURFACE_AREA>
+90.41
+
+> <JCHEM_REFRACTIVITY>
+42.0127
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.11e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+creatine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00064
+
+> <GENERIC_NAME>
+Creatine
+
+> <SYNONYMS>
+((amino(imino)methyl)(methyl)amino)acetate; ((amino(imino)methyl)(methyl)amino)acetic acid; (alpha-Methylguanido)acetate; (alpha-Methylguanido)acetic acid; Cosmocair C 100; Creatin; Creatine; Creatine hydrate; Kreatin; Krebiozon; Methylguanidoacetate; Methylguanidoacetic acid; N-(Aminoiminomethyl)-N-Methyl-Glycine; N-Methyl-N-guanylglycine; Phosphagen; [[Amino(imino)methyl](methyl)amino]acetate; [[Amino(imino)methyl](methyl)amino]acetic acid
+
+$$$$

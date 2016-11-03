@@ -1,0 +1,144 @@
+
+  Mrv0541 02231219052D          
+
+ 21 21  0  0  0  0            999 V2000
+    7.7837  -15.3638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7837  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5005  -16.6055    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2175  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2175  -15.3638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5005  -14.9499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9319  -14.9513    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2175  -14.5388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5005  -17.4305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9319  -16.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6464  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3608  -16.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0753  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7897  -16.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5043  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2187  -16.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9332  -16.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6476  -16.6041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3608  -17.4291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2187  -17.4291    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3621  -16.1916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 18 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01358
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C\C(\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C)=C/C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C20H28O/c1-16(8-6-9-17(2)13-15-21)11-12-19-18(3)10-7-14-20(19,4)5/h6,8-9,11-13,15H,7,10,14H2,1-5H3/b9-6+,12-11+,16-8+,17-13+
+
+> <INCHI_KEY>
+NCYCYZXNIZJOKI-OVSJKPMPSA-N
+
+> <FORMULA>
+C20H28O
+
+> <MOLECULAR_WEIGHT>
+284.4357
+
+> <EXACT_MASS>
+284.214015518
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.702074250203296
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohex-1-en-1-yl)nona-2,4,6,8-tetraenal
+
+> <ALOGPS_LOGP>
+6.62
+
+> <JCHEM_LOGP>
+4.855751458666667
+
+> <ALOGPS_LOGS>
+-4.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.061304726121949
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+96.8654
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.20e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+retinaldehyde
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01358
+
+> <GENERIC_NAME>
+Retinal
+
+> <SYNONYMS>
+3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-Nonatetraenal; All-E-Retinal; All-epsilon-Retinal; All-trans-Retinal; All-trans-Retinaldehyde; All-trans-retinene; All-trans-Vitamin A aldehyde; alpha-Retinene; Axerophthal; E-Retinal; epsilon-Retinal; Retinal; Retinaldehyde; Retinene; Retinene 1; trans-Retinal; trans-Vitamin A aldehyde; Vitamin A aldehyde; Vitamin A1 aldehyde
+
+$$$$

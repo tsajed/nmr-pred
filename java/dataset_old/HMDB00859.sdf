@@ -1,0 +1,133 @@
+
+  Mrv0541 02231218472D          
+
+ 14 14  0  0  0  0            999 V2000
+   24.7805  -16.1483    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4950  -17.3858    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6369  -18.2108    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0660  -18.2108    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0660  -17.3858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4950  -15.7358    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7805  -16.9733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3514  -18.6234    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3514  -19.4484    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6369  -19.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0660  -19.8609    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6369  -20.6859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0660  -20.6859    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3514  -21.0984    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00859
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC(=O)CNC(=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H11NO3/c1-14-9(12)7-11-10(13)8-5-3-2-4-6-8/h2-6H,7H2,1H3,(H,11,13)
+
+> <INCHI_KEY>
+XTKVNQKOTKPCKM-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H11NO3
+
+> <MOLECULAR_WEIGHT>
+193.1992
+
+> <EXACT_MASS>
+193.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.665716180682722
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+methyl 2-(phenylformamido)acetate
+
+> <ALOGPS_LOGP>
+0.96
+
+> <JCHEM_LOGP>
+0.6714395403333333
+
+> <ALOGPS_LOGS>
+-2.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.934330272610058
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.5181869385233555
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.400000000000006
+
+> <JCHEM_REFRACTIVITY>
+50.88680000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.21e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methyl N-benzoylglycinate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00859
+
+> <GENERIC_NAME>
+Methylhippuric acid
+
+> <SYNONYMS>
+Hippurate methyl ester; Hippuric acid methyl ester; Methyl (benzoylamino)acetate; Methyl benzoylaminoacetate; Methyl benzoylglycinate; Methyl hippurate; Methyl N-benzoylglycinate; N-Benzoyl-Glycine methyl ester; N-Benzoylglycine methyl ester
+
+$$$$

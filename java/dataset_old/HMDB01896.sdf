@@ -1,0 +1,137 @@
+
+  Mrv0541 02231219152D          
+
+ 14 15  0  0  0  0            999 V2000
+   13.1808  -10.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.1808  -11.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8952  -11.5715    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6097  -11.1591    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6097  -10.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8952   -9.9215    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3943  -11.4141    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8793  -10.7465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3943  -10.0792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6493   -9.2945    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4562   -9.1231    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7112   -8.3383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4664   -9.9215    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.4664   -9.0965    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  1  1  0  0  0  0
+  4  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9  5  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01896
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC=C2NC=C(CCO)C2=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H13NO2/c1-14-9-2-3-11-10(6-9)8(4-5-13)7-12-11/h2-3,6-7,12-13H,4-5H2,1H3
+
+> <INCHI_KEY>
+QLWKTGDEPLRFAT-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H13NO2
+
+> <MOLECULAR_WEIGHT>
+191.2264
+
+> <EXACT_MASS>
+191.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.862117557506444
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(5-methoxy-1H-indol-3-yl)ethan-1-ol
+
+> <ALOGPS_LOGP>
+1.84
+
+> <JCHEM_LOGP>
+1.4356479810000002
+
+> <ALOGPS_LOGS>
+-2.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+17.65783223206696
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+15.83195417589852
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.4284988407908514
+
+> <JCHEM_POLAR_SURFACE_AREA>
+45.25
+
+> <JCHEM_REFRACTIVITY>
+55.17860000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.45e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methoxytryptophol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01896
+
+> <GENERIC_NAME>
+5-Methoxytryptophol
+
+> <SYNONYMS>
+5-Methoxy-1H-indole-3-ethanol; 5-Methoxyindole-3-ethanol; 5-Methoxytryptophol; Methoxytryptophol
+
+$$$$

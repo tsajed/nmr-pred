@@ -1,0 +1,109 @@
+Trimethylamine Oxide.mol
+  Mrv0541 02231218482D          
+
+  4  3  0  0  0  0            999 V2000
+   -0.2062    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6187   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6187    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6187    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00906
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H9N/c1-4(2)3/h1-3H3
+
+> <INCHI_KEY>
+GETQZCLCWQTVFV-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H9N
+
+> <MOLECULAR_WEIGHT>
+59.1103
+
+> <EXACT_MASS>
+59.073499293
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+7.638513658561088
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+trimethylamine
+
+> <ALOGPS_LOGP>
+-0.14
+
+> <JCHEM_LOGP>
+0.19016946566666637
+
+> <ALOGPS_LOGS>
+1.04
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.57376321286538
+
+> <JCHEM_POLAR_SURFACE_AREA>
+3.24
+
+> <JCHEM_REFRACTIVITY>
+19.9881
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.54e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trimethylamine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00906
+
+> <GENERIC_NAME>
+Trimethylamine
+
+> <SYNONYMS>
+Dimethylmethaneamine; N,N-Dimethyl-Methanamine; N-Trimethylamine; TMA; Trimethylamine anhydrous; Trimethylamine aqueous solution
+
+$$$$
