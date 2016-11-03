@@ -56,9 +56,14 @@ public class NmrPred {
       //double ppm = model.classifyInstance(test);
       //System.out.println("Predicted ppm = "+ ppm);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      eTest.evaluateModel(model, isTrainingSet);
+      // eTest.evaluateModel(model, isTrainingSet);
+      // String strSummary = eTest.toSummaryString();
+      // System.out.println(strSummary);
+      Random rand = new Random(1);
+      eTest.crossValidateModel(model, isTrainingSet, 2, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
+      //System.out.println(eTest.toMatrixString());
  
       // Get the confusion matrix (not possible with linear regressor)
       // double[][] cmMatrix = eTest.confusionMatrix();
