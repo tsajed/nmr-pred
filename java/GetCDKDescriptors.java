@@ -160,6 +160,10 @@ public class GetCDKDescriptors {
           atoms.add(mol.getAtom(i));
         }
         values.addAll(computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc));
+
+        // for (int i = 0; i < atomCount; i++) {
+        //   System.out.println(mol.getAtom(i).getSymbol());
+        // }
       }
     }
 
