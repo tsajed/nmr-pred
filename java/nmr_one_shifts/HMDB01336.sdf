@@ -1,0 +1,132 @@
+DHY
+  Mrv0541 02231215392D          
+
+ 12 12  0  0  0  0            999 V2000
+    0.4407   -0.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4407   -0.8779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2737   -1.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9882   -0.8779    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9882   -0.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2737    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1552    0.3596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1552    1.1846    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8697    1.5971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4407    1.5971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2737   -2.1154    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7027   -1.2904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01336
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC1=CC(O)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O4/c9-6-2-1-5(3-7(6)10)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)
+
+> <INCHI_KEY>
+CFFZDZCDUFSOFZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O4
+
+> <MOLECULAR_WEIGHT>
+168.1467
+
+> <EXACT_MASS>
+168.042258744
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.708406862574936
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(3,4-dihydroxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.0038634619999998
+
+> <ALOGPS_LOGS>
+-1.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.293556894434504
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6084358670447667
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.289422625216582
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+41.3274
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.23e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,4 dihydroxyphenylacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01336
+
+> <GENERIC_NAME>
+3,4-Dihydroxybenzeneacetic acid
+
+> <SYNONYMS>
+(3,4-dihydroxyphenyl)-Acetic acid; (3,4-Dihydroxyphenyl)acetate; (3,4-Dihydroxyphenyl)acetic acid; 2-(3,4-Dihydroxyphenyl)acetic acid; 3,4-DHPOP; 3,4-Dihydroxy-Benzeneacetic acid; 3,4-Dihydroxy-phenylacetic acid; 3,4-Dihydroxybenzeneacetate; 3,4-Dihydroxybenzeneacetic acid; 3,4-Dihydroxyphenyl acetate; 3,4-Dihydroxyphenyl acetic acid; 3,4-Dihydroxyphenylacetate; 3,4-Dihydroxyphenylacetic acid; DHY; Dihydroxyphenylacetate; Dihydroxyphenylacetic acid; DOPAC; Dopacetate; Dopacetic acid; HAA; Homogentisic acid; Homoprotocatechuate; Homoprotocatechuic acid
+
+$$$$

@@ -1,0 +1,127 @@
+
+  Mrv0541 02231218242D          
+
+ 10  9  0  0  0  0            999 V2000
+   14.5691   -9.5429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9329   -8.9963    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5204   -8.2817    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7580   -8.1713    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4724   -7.7588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7580   -8.8074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7253   -8.6893    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2763   -8.2607    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4724   -6.9338    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4637   -9.2547    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00227
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(O)(CCO)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O4/c1-6(10,2-3-7)4-5(8)9/h7,10H,2-4H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+KJTLQQUUPVSXIM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12O4
+
+> <MOLECULAR_WEIGHT>
+148.1571
+
+> <EXACT_MASS>
+148.073558872
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.541270338264974
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,5-dihydroxy-3-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+-0.90
+
+> <JCHEM_LOGP>
+-1.0933795586666666
+
+> <ALOGPS_LOGS>
+0.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.950224499840974
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.3846810662930205
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.413404454395632
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+34.5114
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.14e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+DL-mevalonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00227
+
+> <GENERIC_NAME>
+Mevalonic acid
+
+> <SYNONYMS>
+(3RS)-Mevalonate; (3RS)-Mevalonic acid; 2,4-Dideoxy-3-C-methylpentonate; 2,4-Dideoxy-3-C-methylpentonic acid; 3,5-Dihydroxy-3-methyl-Valerate; 3,5-Dihydroxy-3-methyl-Valeric acid; 3,5-Dihydroxy-3-methylpentanoate; 3,5-Dihydroxy-3-methylpentanoic acid; 3,5-Dihydroxy-3-methylvalerate; 3,5-Dihydroxy-3-methylvaleric acid; b,D-Dihydroxy-b-methylvalerate; b,D-Dihydroxy-b-methylvaleric acid; b,D-Dihydroxy-beta-methylvalerate; b,D-Dihydroxy-beta-methylvaleric acid; DL-Mevalonate; DL-Mevalonic acid; Hiochic acid; Mevalonate; Mevalonic acid; MK 91; MVA; MVS; RS-Mevalonate; RS-Mevalonic acid
+
+$$$$

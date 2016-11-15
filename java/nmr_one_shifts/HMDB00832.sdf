@@ -1,0 +1,135 @@
+
+  Mrv0541 02231218462D          
+
+ 14 13  0  0  0  0            999 V2000
+   27.1145  -17.7822    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8291  -19.0198    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9724  -16.9573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.2580  -18.1948    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8303  -17.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1159  -18.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5448  -18.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.4013  -17.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2594  -17.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5435  -17.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6870  -18.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9738  -18.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8291  -18.1948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9724  -17.7822    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3 14  2  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00832
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCC(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H19NO3/c1-2-3-4-5-6-7-9(12)11-8-10(13)14/h2-8H2,1H3,(H,11,12)(H,13,14)
+
+> <INCHI_KEY>
+SAVLIIGUQOSOEP-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H19NO3
+
+> <MOLECULAR_WEIGHT>
+201.2628
+
+> <EXACT_MASS>
+201.136493479
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.924265160064024
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-octanamidoacetic acid
+
+> <ALOGPS_LOGP>
+2.07
+
+> <JCHEM_LOGP>
+1.5947502179999993
+
+> <ALOGPS_LOGS>
+-2.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.121574001873853
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.0466220858315705
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.9481071257349546
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.39999999999999
+
+> <JCHEM_REFRACTIVITY>
+53.0791
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+8
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.99e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-octanoylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00832
+
+> <GENERIC_NAME>
+Capryloylglycine
+
+> <SYNONYMS>
+Capryloyl glycine; Capryloylglycine; Caprylylglycine; Lipacide C 8G; N-(1-Oxooctyl)-Glycine; N-(1-Oxooctyl)glycine; N-Octanoyl-Glycine; N-Octanoylglycine
+
+$$$$

@@ -1,0 +1,122 @@
+
+  Mrv0541 02231219512D          
+
+  9  8  0  0  0  0            999 V2000
+   24.1826  -11.7217    0.0000 Se  0  0  0  0  0  0  0  0  0  0  0  0
+   26.3258   -9.6593    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6114   -8.4220    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1826   -9.2469    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8971   -9.6593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1826  -10.8968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8971  -10.4843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4682  -12.1341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6114   -9.2469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03966
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[Se]CCC(N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2Se/c1-9-3-2-4(6)5(7)8/h4H,2-3,6H2,1H3,(H,7,8)
+
+> <INCHI_KEY>
+RJFAYQIBOAGBLC-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H11NO2Se
+
+> <MOLECULAR_WEIGHT>
+196.11
+
+> <EXACT_MASS>
+196.995500429
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.92213323614356
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-4-(methylselanyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-2.46
+
+> <JCHEM_LOGP>
+-3.3019949587229283
+
+> <ALOGPS_LOGS>
+-0.25
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5595213885250399
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.502319448582847
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+42.90740000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.09e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+,-)-selenomethionine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03966
+
+> <GENERIC_NAME>
+Selenomethionine
+
+> <SYNONYMS>
+(+-)-Selenomethionine; (2S)-2-amino-4-(methylseleno)butanoate; (2S)-2-amino-4-(methylseleno)butanoic acid; (S)-2-amino-4-(methylseleno)-Butanoate; (S)-2-amino-4-(methylseleno)-Butanoic acid; (S)-2-Amino-4-(methylseleno)butanoate; (S)-2-Amino-4-(methylseleno)butanoic acid; (S)-2-Amino-4-(methylseleno)butyric acid; 2-Amino-4-(methylseleno)butanoate; 2-Amino-4-(methylseleno)butanoic acid; 2-Amino-4-(methylselenyl)butyrate; 2-Amino-4-(methylselenyl)butyric acid; DL-Selenomethionine; L(+)-Selenomethionine; L-2-Amino-4-(methylselenyl)-Butyric acid; L-Selenomethionine; L-Selenomethioninum; MSE; Selenium methionine; Selenium-L-methionine; Seleno-D,L-methionine; Seleno-DL-methionine; Seleno-L-methionine; Selenomethionine Se 75; SeMet; Sethotope
+
+$$$$

@@ -1,0 +1,136 @@
+
+  Mrv0541 02231218382D          
+
+ 14 14  0  0  0  0            999 V2000
+   15.3793   -8.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6648   -9.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8082   -8.6665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0937   -9.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0937   -9.0790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8082   -7.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6648   -9.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3793  -10.3165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5227   -7.4290    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0937   -7.4290    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9503  -10.3165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3793  -11.1414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5227   -6.6040    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2371   -7.8415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  1  2  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  8  2  0  0  0  0
+  4  5  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+  9 14  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00609
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC(CC1=CC=C(O)C(O)=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11NO4/c10-6(9(13)14)3-5-1-2-7(11)8(12)4-5/h1-2,4,6,11-12H,3,10H2,(H,13,14)
+
+> <INCHI_KEY>
+WTDRDQBEARUVNC-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H11NO4
+
+> <MOLECULAR_WEIGHT>
+197.1879
+
+> <EXACT_MASS>
+197.068807845
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.07984109246297
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-3-(3,4-dihydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-2.32
+
+> <JCHEM_LOGP>
+-1.7921814507627933
+
+> <ALOGPS_LOGS>
+-1.78
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.686049362161093
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.650696949850563
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.055027392905787
+
+> <JCHEM_POLAR_SURFACE_AREA>
+103.78
+
+> <JCHEM_REFRACTIVITY>
+49.0781
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.30e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3',4'-dihydroxyphenylalanine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00609
+
+> <GENERIC_NAME>
+DL-Dopa
+
+> <SYNONYMS>
+(+/-) 3-(3,4-Dihydroxyphenyl)alanine; 2-Amino-3-(3,4-dihydroxyphenyl)propanoate; 2-Amino-3-(3,4-dihydroxyphenyl)propanoic acid; 3,4-Dihydroxy-DL-phenylalanine; 3,4-Dihydroxyphenylalanine; 3-(3,4-Dihydroxyphenyl)-DL-alanine; a-Amino-3,4-dihydroxy-Benzenepropanoate; a-Amino-3,4-dihydroxy-Benzenepropanoic acid; alpha-Amino-3,4-dihydroxy-Benzenepropanoate; alpha-Amino-3,4-dihydroxy-Benzenepropanoic acid; alpha-Amino-Hydrocaffeic acid; b-(3,4-Dihydroxyphenyl)-a-alanine; beta-(3,4-Dihydroxyphenyl)-alpha-alanine; DL-3',4'-Dihydroxyphenylalanine; DL-3,4-Dihydroxyphenylalanine; DL-3-Hydroxytyrosine; DL-4,5-Dihydroxyphenylalanine; DL-b-(3,4-Dihydroxyphenyl)alanine; DL-beta-(3,4-Dihydroxyphenyl)alanine; DL-Dioxyphenylalanine
+
+$$$$

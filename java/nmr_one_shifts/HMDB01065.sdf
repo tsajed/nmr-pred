@@ -1,0 +1,125 @@
+
+  Mrv0541 02231218542D          
+
+ 10 10  0  0  0  0            999 V2000
+   -0.1436    0.0869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1436    0.9070    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8541   -0.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5783   -0.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5669    1.3189    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8579    1.3151    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8541   -1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5783   -1.1565    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2773    0.9108    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1436   -1.5759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01065
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCC(O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO/c9-6-8(10)7-4-2-1-3-5-7/h1-5,8,10H,6,9H2
+
+> <INCHI_KEY>
+ULSIYEODSMZIPX-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11NO
+
+> <MOLECULAR_WEIGHT>
+137.179
+
+> <EXACT_MASS>
+137.084063979
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.18277642195434
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-1-phenylethan-1-ol
+
+> <ALOGPS_LOGP>
+0.31
+
+> <JCHEM_LOGP>
+0.46867930999999985
+
+> <ALOGPS_LOGS>
+-0.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.12832574116739
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.128712325389454
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+40.4939
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β phenylethanolamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01065
+
+> <GENERIC_NAME>
+2-Hydroxyphenethylamine
+
+> <SYNONYMS>
+2-Amino-1-phenyl-1-ethanol; 2-Amino-1-phenylethanol; 2-Amino-1-phenylethanol-1; 2-Hydroxy-2-phenylethylamine; 2-Phenyl-2-hydroxyethylamine; alpha-(Aminomethyl)benzyl alcohol; b-Hydroxyphenethylamine; beta-Hydroxy-beta-phenyl-Ethylamine; beta-Hydroxy-beta-phenylethylamine; beta-Hydroxy-Phenethylamine; beta-Hydroxyphenethylamine; beta-Hydroxyphenylethylamine; beta-Phenethanolamine; beta-Phenylethanolamine; Bisnorephedrine; Dl-beta-Phenyl-beta-hydroxyethylamine; Hydroxyethylamine; Phenethanolamine; Phenylethanolamine
+
+$$$$

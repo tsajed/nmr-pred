@@ -1,0 +1,205 @@
+Dipalmitoylphosphatidylcholine.mol
+  Mrv0541 02231218362D          
+
+ 50 49  0  0  0  0            999 V2000
+   -3.4618   -6.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0493   -5.4730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4618   -4.7586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -4.7586    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -3.9336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -3.5211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -2.6961    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.2868   -2.2836    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -1.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -1.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7158    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4302   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0493   -6.9020    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -5.5836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158   -2.2836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158   -1.4586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302   -1.0461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4302   -0.2211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158    0.1914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7158    1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013    2.2539    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    2.6664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868    3.4914    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    3.9039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724    4.7289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    5.1414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579    5.9664    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    6.3789    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    7.2039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    7.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -1.0461    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -1.4586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7638   -7.3145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3349   -6.4895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6368   -7.6164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1118   -4.7586    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+  1 26  1  0  0  0  0
+  4 27  2  0  0  0  0
+ 29 30  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 31 32  1  0  0  0  0
+ 32 33  1  0  0  0  0
+ 33 34  1  0  0  0  0
+ 34 35  1  0  0  0  0
+ 35 36  1  0  0  0  0
+ 36 37  1  0  0  0  0
+ 37 38  1  0  0  0  0
+ 38 39  1  0  0  0  0
+ 39 40  1  0  0  0  0
+ 40 41  1  0  0  0  0
+ 41 42  1  0  0  0  0
+ 42 43  1  0  0  0  0
+ 43 44  1  0  0  0  0
+ 29 45  2  0  0  0  0
+ 28 29  1  0  0  0  0
+  7 28  1  6  0  0  0
+ 10 46  2  0  0  0  0
+ 26 47  1  0  0  0  0
+ 26 48  1  0  0  0  0
+ 26 49  1  0  0  0  0
+  4 50  1  0  0  0  0
+M  CHG  2  26   1  50  -1
+M  END
+> <DATABASE_ID>
+HMDB00564
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCCC(=O)OC[C@H](COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C40H80NO8P/c1-6-8-10-12-14-16-18-20-22-24-26-28-30-32-39(42)46-36-38(37-48-50(44,45)47-35-34-41(3,4)5)49-40(43)33-31-29-27-25-23-21-19-17-15-13-11-9-7-2/h38H,6-37H2,1-5H3/t38-/m1/s1
+
+> <INCHI_KEY>
+KILNVBDSWZSGLL-KXQOOQHDSA-N
+
+> <FORMULA>
+C40H80NO8P
+
+> <MOLECULAR_WEIGHT>
+734.0389
+
+> <EXACT_MASS>
+733.562155053
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+91.99758602380544
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2-{[(2R)-2,3-bis(hexadecanoyloxy)propyl phosphonato]oxy}ethyl)trimethylazanium
+
+> <ALOGPS_LOGP>
+5.29
+
+> <JCHEM_LOGP>
+8.11379637919492
+
+> <ALOGPS_LOGS>
+-7.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8550572064469137
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.744159309169687
+
+> <JCHEM_POLAR_SURFACE_AREA>
+111.19
+
+> <JCHEM_REFRACTIVITY>
+215.8651
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+40
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.40e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dipalmitoylphosphatidylcholine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00564
+
+> <GENERIC_NAME>
+PC(16:0/16:0)
+
+> <SYNONYMS>
+(R)-4-hydroxy-N,N,N-trimethyl-10-oxo-7-[(1-oxohexadecyl)oxy]-3,5,9-Trioxa-4-phosphapentacosan-1-aminium 4-oxide hydroxide inner salt; (R)-4-hydroxy-N,N,N-trimethyl-10-oxo-7-[(1-oxohexadecyl)oxy]-3,5,9-Trioxa-4-phosphapentacosan-1-aminium 4-oxide inner salt; 1,2-Bis(hexadecanoyl)-sn-glycero-3-phosphocholine; 1,2-Bis(palmitoyl)-sn-glycero-3-phosphocholine; 1,2-Dihexadecanoyl-sn-glycerol-3-phosphorylcholine; 1,2-Dipalmitoyl-3-sn-phosphatidylcholine; 1,2-Dipalmitoyl-L-3-phosphatidylcholine; 1,2-Dipalmitoyl-L-a-lecithin; 1,2-Dipalmitoyl-L-a-phosphatidylcholine; 1,2-Dipalmitoyl-L-alpha-lecithin; 1,2-Dipalmitoyl-L-alpha-phosphatidylcholine; 1,2-Dipalmitoyl-L-lecithin; 1,2-Dipalmitoyl-L-phosphatidylcholine; 1,2-Dipalmitoyl-rac-glycero-3-phosphocholine; 1,2-Dipalmitoyl-sn-3-glycerophosphocholine; 1,2-Dipalmitoyl-sn-glycero-3-phosphatidylcholine; 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine; 1,2-Dipalmitoyl-sn-glycero-3-phosphorylcholine; 1,2-Dipalmitoyl-sn-glycerol-3-phosphocholine; 1,2-Dipalmitoyl-sn-glycerophosphocholine; 1,2-Dipalmitoyl-sn-glycerophosphorylcholine; 1,2-Dipalmitoyl-sn-glyceryl-3-phosphocholine; 1,2-Dipalmitoyl-sn-phosphatidylcholine; 1,2-Dipalmitoylglycero-3-phosphocholine; 1,2-L-a-Dipalmitoylphosphatidylcholine; 1,2-L-alpha-Dipalmitoylphosphatidylcholine; b,g-Dipalmitoyl L-a-phosphatidylcholine; b,g-Dipalmitoyl L-alpha-phosphatidylcholine; b,g-Dipalmitoyl-L-(a)-lecithin; b,g-Dipalmitoyl-L-phosphatidylcholine; Colfosceril palmitate; Dihexadecanoyl-sn-glycero-3-phosphocholine; Dipalmitoyl L-a-phosphatidylcholine; Dipalmitoyl L-alpha-phosphatidylcholine; Dipalmitoyl-L-3-glycerylphosphorylcholine; Dipalmitoyl-L-a-lecithin; Dipalmitoyl-L-a-phosphatidylcholine; Dipalmitoyl-L-alpha-lecithin; Dipalmitoyl-L-alpha-phosphatidylcholine; Dipalmitoyl-sn-3-phosphatidylcholine; Dipalmitoylphosphatidylcholine; DPPC; GPCho(16:0/16:0); GPCho(32:0); L-1,2-Dipalmitoyl-a-lecithin; L-1,2-Dipalmitoyl-alpha-lecithin; L-1,2-Dipalmitoylphosphatidylcholine; L-a-1,2-Dipalmitoyl lecithin; L-a-Dipalmitoylecithin; L-a-Dipalmitoyllecithin; L-a-Dipalmitoylphosphatidylcholine; L-a-DPPC; L-alpha-1,2-Dipalmitoyl lecithin; L-alpha-Dipalmitoylecithin; L-alpha-Dipalmitoyllecithin; L-alpha-Dipalmitoylphosphatidylcholine; L-alpha-DPPC; L-b,g-Dipalmitoyl-a-lecithin; L-b,g-Dipalmitoyl-a-phosphatidylcholine; L-b,g-Dipalmitoyl-alpha-lecithin; L-b,g-Dipalmitoyl-alpha-phosphatidylcholine; L-b,g-Dipalmitoylphosphatidylcholine; L-Dipalmitoyl lecithin; L-DPPC; Lecithin; PC aa C32:0; PC(32:0); Phosphatidylcholine(16:0/16:0); Phosphatidylcholine(32:0); Sn-3-Dipalmitoyllecithin
+
+$$$$

@@ -1,0 +1,116 @@
+
+  Mrv0541 02231218512D          
+
+  6  5  0  0  0  0            999 V2000
+   -0.1178   -0.3459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5967    0.0684    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8324    0.0646    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3189   -0.3383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5853    0.8969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5506   -0.3459    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00965
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCS(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7NO2S/c3-1-2-6(4)5/h1-3H2,(H,4,5)
+
+> <INCHI_KEY>
+VVIUBCNYACGLLV-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H7NO2S
+
+> <MOLECULAR_WEIGHT>
+109.147
+
+> <EXACT_MASS>
+109.019749163
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.155904259627393
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminoethane-1-sulfinic acid
+
+> <ALOGPS_LOGP>
+-1.19
+
+> <JCHEM_LOGP>
+-2.7010849179701624
+
+> <ALOGPS_LOGS>
+-0.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-0.362132122526309
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.639469186673198
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+23.162200000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.88e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hypotaurine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00965
+
+> <GENERIC_NAME>
+Hypotaurine
+
+> <SYNONYMS>
+2-Amino-Ethanesulfinate; 2-Amino-Ethanesulfinic acid; 2-Aminoethanesulfinate; 2-Aminoethanesulfinic acid; 2-Aminoethylsulfinate; 2-Aminoethylsulfinic acid; Cystaminesulfinate; Cystaminesulfinic acid; Hypotaurine
+
+$$$$

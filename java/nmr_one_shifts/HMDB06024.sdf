@@ -1,0 +1,123 @@
+
+  Mrv0541 02231220322D          
+
+  9  9  0  0  1  0            999 V2000
+   13.2746   -4.6567    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8621   -3.9423    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.1475   -4.3548    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4331   -3.9423    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4331   -3.1173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1475   -2.7048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1475   -1.8798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8621   -3.1173    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6871   -3.9423    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  6  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2  9  1  1  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB06024
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@]1(O)CCOC(=O)C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H10O3/c1-6(8)2-3-9-5(7)4-6/h8H,2-4H2,1H3/t6-/m0/s1
+
+> <INCHI_KEY>
+JYVXNLLUYHCIIH-LURJTMIESA-N
+
+> <FORMULA>
+C6H10O3
+
+> <MOLECULAR_WEIGHT>
+130.1418
+
+> <EXACT_MASS>
+130.062994186
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.752369788944394
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(4S)-4-hydroxy-4-methyloxan-2-one
+
+> <ALOGPS_LOGP>
+-0.14
+
+> <JCHEM_LOGP>
+-0.4289084339999999
+
+> <ALOGPS_LOGS>
+0.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.714889435349804
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.923507360977996
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+31.0192
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.11e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4S)-4-hydroxy-4-methyloxan-2-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB06024
+
+> <GENERIC_NAME>
+Mevalonolactone
+
+> <SYNONYMS>
+(+/-) Tetrahydro-4-hydroxy-4-methyl-2H-pyran-2-one; (1)-Tetrahydro-4-hydroxy-4-methyl-2H-pyran-2-one; Divalonic acid; DL-mevalonic acid lactone; DL-Mevalonolactone; Mevalonic acid lactone; Tetrahydro-4-hydroxy-4-methyl-2H-pyran-2-one
+
+$$$$

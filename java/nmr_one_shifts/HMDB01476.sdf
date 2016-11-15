@@ -1,0 +1,130 @@
+
+  Mrv0541 02231217052D          
+
+ 11 11  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01476
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=C(O)C=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO3/c8-6-4(7(10)11)2-1-3-5(6)9/h1-3,9H,8H2,(H,10,11)
+
+> <INCHI_KEY>
+WJXSWCUQABXPFS-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO3
+
+> <MOLECULAR_WEIGHT>
+153.1354
+
+> <EXACT_MASS>
+153.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.183540456911254
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-3-hydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+0.81
+
+> <JCHEM_LOGP>
+1.148337448333333
+
+> <ALOGPS_LOGS>
+-1.16
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+10.367676493177447
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.9368311681755785
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+4.81889092275183
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55000000000001
+
+> <JCHEM_REFRACTIVITY>
+39.9955
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-hydroxyanthranilic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01476
+
+> <GENERIC_NAME>
+3-Hydroxyanthranilic acid
+
+> <SYNONYMS>
+2-Amino-3-hydroxy-Benzoate; 2-Amino-3-hydroxy-Benzoic acid; 2-Amino-3-hydroxybenzoate; 2-Amino-3-hydroxybenzoic acid; 3-Hydroxanthranilate; 3-Hydroxy-2-aminobenzoate; 3-Hydroxy-2-aminobenzoic acid; 3-Hydroxy-Anthranilate; 3-Hydroxy-Anthranilic acid; 3-Hydroxy-anthranilsaeure; 3-Hydroxyanthranilate; 3-Hydroxyanthranilic acid; 3-Hydroxyantranilic acid; 3-OH-anthranilic acid; 3-OHAA; 3-Oxyanthranilate; 3-Oxyanthranilic acid
+
+$$$$

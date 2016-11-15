@@ -1,0 +1,121 @@
+
+  Mrv0541 02231218422D          
+
+  7  6  0  0  0  0            999 V2000
+    9.7275   -7.7872    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6658   -8.0891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1566   -6.9621    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4422   -7.3746    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8712   -7.3746    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1566   -6.1371    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8804   -6.7595    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00729
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O3/c1-4(2,7)3(5)6/h7H,1-2H3,(H,5,6)
+
+> <INCHI_KEY>
+BWLBGMIXKSTLSX-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H8O3
+
+> <MOLECULAR_WEIGHT>
+104.1045
+
+> <EXACT_MASS>
+104.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.872501504091101
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxy-2-methylpropanoic acid
+
+> <ALOGPS_LOGP>
+-0.37
+
+> <JCHEM_LOGP>
+-0.039063632000000056
+
+> <ALOGPS_LOGS>
+0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.40275140597527
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.948421773706818
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7355605250234243
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+23.5531
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.78e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetonate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00729
+
+> <GENERIC_NAME>
+Alpha-Hydroxyisobutyric acid
+
+> <SYNONYMS>
+(ch3)2cohcooh; 2-Hydroxy-2-methylpropanoate; 2-Hydroxy-2-methylpropanoic acid; 2-Hydroxy-2-methylpropionate; 2-Hydroxy-2-methylpropionic acid; 2-Hydroxyisobutyrate; 2-Hydroxyisobutyric acid; 2-Methyllactate; 2-Methyllactic acid; a-HIB; a-Hydroxy-a-methylpropanoate; a-Hydroxy-a-methylpropanoic acid; a-Hydroxyisobutanoate; a-Hydroxyisobutanoic acid; a-Hydroxyisobutyrate; a-Hydroxyisobutyric acid; Acetonate; Acetonic acid; alpha-HIB; alpha-Hydroxy-alpha-methylpropanoate; alpha-Hydroxy-alpha-methylpropanoic acid; alpha-Hydroxyisobutanoate; alpha-Hydroxyisobutanoic acid; alpha-Hydroxyisobutyrate; alpha-Hydroxyisobutyric acid; HIBA; Hydroxydimethylacetate; Hydroxydimethylacetic acid; Hydroxyisobutyrate; L-2-Methyllactate; L-2-Methyllactic acid
+
+$$$$

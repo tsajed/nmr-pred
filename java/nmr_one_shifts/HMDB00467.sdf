@@ -1,0 +1,175 @@
+
+  Mrv0541 02231218322D          
+
+ 32 35  0  0  1  0            999 V2000
+   12.3055   -9.6019    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6374   -9.6019    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0212   -8.6675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5004  -10.7449    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6657   -7.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5915   -8.4596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9440   -7.3641    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3334   -6.5441    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9992   -8.6496    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4778   -9.2891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5181   -6.6704    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1188   -9.2038    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3279   -8.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8551   -8.8316    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0642   -7.7155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7633  -10.4791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1900  -10.5587    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8504   -7.1870    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.4996  -10.1070    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.0729  -10.0275    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.5521   -7.9562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7087   -8.9908    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.2819   -8.9112    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.9263  -10.1866    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0011   -6.0276    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9723   -9.3629    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   11.5455   -9.2833    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   13.7546   -8.1671    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.3366  -10.3995    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6167  -10.6383    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2993   -5.2584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1858   -6.1539    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 18  5  1  6  0  0  0
+ 27  6  1  1  0  0  0
+ 28  7  1  1  0  0  0
+  8 18  1  0  0  0  0
+  8 11  1  0  0  0  0
+ 21  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 22 10  1  0  0  0  0
+ 11 25  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 23 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 27  1  0  0  0  0
+ 15 28  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 19 16  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 24  1  0  0  0  0
+ 18 21  1  0  0  0  0
+ 19 27  1  0  0  0  0
+ 20 29  1  6  0  0  0
+ 21 28  1  0  0  0  0
+ 22 26  1  0  0  0  0
+ 22 28  1  0  0  0  0
+ 23 26  1  0  0  0  0
+ 23 27  1  0  0  0  0
+ 26 24  1  0  0  0  0
+ 24 30  2  0  0  0  0
+ 25 31  1  0  0  0  0
+ 25 32  2  0  0  0  0
+ 19  4  1  1  0  0  0
+ 26  3  1  1  0  0  0
+ 22  2  1  6  0  0  0
+ 23  1  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00467
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CCC([C@@H](C)CCC(O)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])C(=O)C[C@]2([H])C[C@H](O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C24H38O4/c1-14(4-7-21(27)28)17-5-6-18-22-19(9-11-24(17,18)3)23(2)10-8-16(25)12-15(23)13-20(22)26/h14-19,22,25H,4-13H2,1-3H3,(H,27,28)/t14-,15-,16+,17?,18-,19-,22-,23-,24+/m0/s1
+
+> <INCHI_KEY>
+DXOCDBGWDZAYRQ-QPVZPPSOSA-N
+
+> <FORMULA>
+C24H38O4
+
+> <MOLECULAR_WEIGHT>
+390.5561
+
+> <EXACT_MASS>
+390.277009704
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+44.77268811431637
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(4S)-4-[(1S,2S,5R,7S,10R,11S,15R)-5-hydroxy-2,15-dimethyl-9-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-14-yl]pentanoic acid
+
+> <ALOGPS_LOGP>
+3.52
+
+> <JCHEM_LOGP>
+4.098819777333333
+
+> <ALOGPS_LOGS>
+-4.47
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+18.361716911793224
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.556917014493273
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3283852427336238
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+108.34859999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.32e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(4S)-4-[(1S,2S,5R,7S,10R,11S,15R)-5-hydroxy-2,15-dimethyl-9-oxotetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-14-yl]pentanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00467
+
+> <GENERIC_NAME>
+Nutriacholic acid
+
+> <SYNONYMS>
+3a-Hydroxy-7-oxo-5b-cholanoate; 3a-Hydroxy-7-oxo-5b-cholanoic acid; 5b-Cholanic acid-3a-ol-7-one; 7-Ketochenodeoxycholate; 7-Ketochenodeoxycholic acid; 7-Ketolithocholate; 7-Ketolithocholic acid; 7-Oxo-3a-hydroxycholan-24-oate; 7-Oxo-3a-hydroxycholan-24-oic acid; 7-Oxolithocholate; 7-Oxolithocholic acid; Nutriacholate; Nutriacholic acid
+
+$$$$

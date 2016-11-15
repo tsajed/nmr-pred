@@ -1,0 +1,127 @@
+
+  Mrv0541 02231219562D          
+
+ 12 13  0  0  0  0            999 V2000
+   27.6139  -13.1005    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4704  -14.3380    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8994  -12.6879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3283  -12.6879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8994  -11.8629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3283  -11.8629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6139  -11.4504    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1850  -13.1005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1850  -13.9255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7559  -13.9255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4704  -12.6879    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7559  -13.1005    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04350
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C1CCC(NC1)C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2/c1-2-7-12-10(5-1)9-4-3-6-11-8-9/h3-4,6,8,10,12H,1-2,5,7H2
+
+> <INCHI_KEY>
+MTXSIJUGVMTTMU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H14N2
+
+> <MOLECULAR_WEIGHT>
+162.2316
+
+> <EXACT_MASS>
+162.115698458
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.7106866007546
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(piperidin-2-yl)pyridine
+
+> <ALOGPS_LOGP>
+0.90
+
+> <JCHEM_LOGP>
+1.2240554203333331
+
+> <ALOGPS_LOGS>
+-1.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.287684178209366
+
+> <JCHEM_POLAR_SURFACE_AREA>
+24.92
+
+> <JCHEM_REFRACTIVITY>
+48.96130000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.90e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+anabasine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB04350
+
+> <GENERIC_NAME>
+Anabasine
+
+> <SYNONYMS>
+(+-)-Anabasine; (+/-)-Anabasine; (-)-2-(3'-Pyridyl)piperidine; (-)-Anabasine; (S)-3-(2-Piperidinyl)pyridine; 2-(3'-Pyridyl) piperidine; 2-(3-Pyridinyl)piperidine; 3-(2-Piperidinyl)pyridine; Anabasin; Anabazin; DL-Anabasine; L-3-(2'-Piperidyl)pyridine; Neonicotine; Neonikotin; S-(-)-Anabasine
+
+$$$$

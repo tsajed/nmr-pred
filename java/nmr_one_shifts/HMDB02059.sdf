@@ -1,0 +1,137 @@
+12H
+  Mrv0541 02231217072D          
+
+ 15 14  0  0  0  0            999 V2000
+   -3.7259    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0113   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2969    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5823   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8678    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1533   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5612    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2758   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9903    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7048   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4194    0.2274    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1339   -0.1851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4404   -0.1851    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8484    0.2274    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1339   -1.0102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 14  2  0  0  0  0
+ 12 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02059
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCCCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H24O3/c13-11-9-7-5-3-1-2-4-6-8-10-12(14)15/h13H,1-11H2,(H,14,15)
+
+> <INCHI_KEY>
+ZDHCZVWCTKTBRY-UHFFFAOYSA-N
+
+> <FORMULA>
+C12H24O3
+
+> <MOLECULAR_WEIGHT>
+216.3172
+
+> <EXACT_MASS>
+216.172544634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.848770882757584
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+12-hydroxydodecanoic acid
+
+> <ALOGPS_LOGP>
+3.50
+
+> <JCHEM_LOGP>
+3.041629501
+
+> <ALOGPS_LOGS>
+-3.00
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.84394282199214
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019704603348
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9922594590354228
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+60.6083
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+11
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+12-hydroxydodecanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02059
+
+> <GENERIC_NAME>
+12-Hydroxydodecanoic acid
+
+> <SYNONYMS>
+12-Hydroxydodecanoate; 12-Hydroxydodecanoic acid; 12-Hydroxylaurate; 12-Hydroxylauric acid; Omega hydroxy dodecanoate; Omega hydroxy dodecanoic acid; Omega-Hydroxydodecanoate; Omega-Hydroxydodecanoic acid
+
+$$$$

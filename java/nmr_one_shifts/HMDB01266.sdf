@@ -1,0 +1,132 @@
+
+  Mrv0541 02231219012D          
+
+ 12 12  0  0  1  0            999 V2000
+   15.5117   -6.7519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7612   -7.3372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9610   -6.9682    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.6867   -6.1333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2466   -6.5557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5321   -6.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5321   -7.7932    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.8177   -8.2057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2466   -8.2057    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.2466   -9.0307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9610   -7.7932    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   14.6755   -8.2057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  1  0  0  0
+  7  9  1  0  0  0  0
+  9 10  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01266
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O6/c7-2-6(11)5(10)4(9)3(8)1-12-6/h3-5,7-11H,1-2H2/t3-,4+,5-,6+/m0/s1
+
+> <INCHI_KEY>
+LKDRXBCSQODPBY-BGPJRJDNSA-N
+
+> <FORMULA>
+C6H12O6
+
+> <MOLECULAR_WEIGHT>
+180.1559
+
+> <EXACT_MASS>
+180.063388116
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.051261078337294
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.51
+
+> <JCHEM_LOGP>
+-2.7579993179999995
+
+> <ALOGPS_LOGS>
+0.82
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.643871080491373
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.291030669254257
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.450704169945884
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+36.3608
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.19e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-L-sorbopyranose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01266
+
+> <GENERIC_NAME>
+L-Sorbose
+
+> <SYNONYMS>
+alpha-L-Sorbopyranose; Hex-2-ulose; L(-) Sorbose for biochemistry; L(-)-Sorbose; L-(-)-Sorbose; L-(-)-Sorbose 99%; L-1,3,4,5,6-Pentahydroxyhexan-2-one; L-Sorbinose; L-Sorbose; L-Xylo-2-Hexulose; L-Xylo-hexulose; Sorbin; Sorbinose; Sorbose; Xylo-Hexulose
+
+$$$$

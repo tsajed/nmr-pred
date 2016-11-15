@@ -1,0 +1,148 @@
+
+  Mrv0541 02231217362D          
+
+ 19 21  0  0  1  0            999 V2000
+    3.6321    0.6079    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5675   -0.2929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5706    1.5020    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4177    2.6717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -3.1584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -0.8446    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.6834    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8596   -2.1724    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.9209    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9009    0.1932    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1158   -0.0604    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9024    1.0182    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.1182    1.2745    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8646    2.0596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.0959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3411   -1.5084    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0790   -1.9209    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -2.3334    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0959    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  1 13  1  0  0  0  0
+ 10  2  1  1  0  0  0
+ 12  3  1  1  0  0  0
+  4 14  1  0  0  0  0
+  5 18  2  0  0  0  0
+ 11  6  1  6  0  0  0
+  6 15  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 16  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 15 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00195
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1NC=NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6-,7-,10-/m1/s1
+
+> <INCHI_KEY>
+UGQMRVRMYYASKQ-KQYNXXCUSA-N
+
+> <FORMULA>
+C10H12N4O5
+
+> <MOLECULAR_WEIGHT>
+268.2261
+
+> <EXACT_MASS>
+268.080769514
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.596545849817268
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-6,9-dihydro-3H-purin-6-one
+
+> <ALOGPS_LOGP>
+-1.74
+
+> <JCHEM_LOGP>
+-1.9609272363333337
+
+> <ALOGPS_LOGS>
+-1.27
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.456472643759938
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.941792238826917
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.735737342527512
+
+> <JCHEM_POLAR_SURFACE_AREA>
+129.20000000000002
+
+> <JCHEM_REFRACTIVITY>
+60.898399999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.43e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+inosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00195
+
+> <GENERIC_NAME>
+Inosine
+
+> <SYNONYMS>
+(-)-Inosine; 1,9-Dihydro-9-b-D-ribofuranosyl-6H-Purin-6-one; 1,9-Dihydro-9-beta-D-ribofuranosyl-6H-purin-6-one; 1,9-Dihydro-9-beta-delta-ribofuranosyl-6H-purin-6-one; 9-b-D-Ribofuranosyl-Hypoxanthine; 9-b-D-Ribofuranosylhypoxanthine; 9-beta-D-Ribofuranosyl-Hypoxanthine; 9-beta-D-Ribofuranosylhypoxanthine; 9-beta-delta-Ribofuranosyl-Hypoxanthine; 9-beta-delta-Ribofuranosylhypoxanthine; 9beta-D-Ribofuranosylhypoxanthine; 9beta-delta-Ribofuranosylhypoxanthine; Atorel; beta-D-Ribofuranoside hypoxanthine-9; beta-delta-Ribofuranoside hypoxanthine-9; beta-Inosine; HXR; Hypoxanthine 9-beta-D-ribofuranoside; Hypoxanthine 9-beta-delta-ribofuranoside; Hypoxanthine D-riboside; Hypoxanthine nucleoside; Hypoxanthine ribonucleoside; Hypoxanthine riboside; Hypoxanthine-9 beta-D-Ribofuranoside; Hypoxanthine-9 beta-delta-Ribofuranoside; Hypoxanthine-9-beta-D-ribofuranoside; Hypoxanthine-9-beta-delta-ribofuranoside; Hypoxanthine-9-D-ribofuranoside; Hypoxanthine-9-delta-ribofuranoside; Hypoxanthine-ribose; Hypoxanthosine; Indole-3-carboxaldehyde; Ino; Inosie; Iso-prinosine; Oxiamin; Panholic-L; Pantholic-L; Ribonosine; Selfer; Trophicardyl
+
+$$$$

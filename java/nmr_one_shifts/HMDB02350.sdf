@@ -1,0 +1,142 @@
+
+  Mrv0541 02231219302D          
+
+ 19 18  0  0  0  0            999 V2000
+   30.8345  -11.5261    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1200  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4055  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6911  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9767  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2620  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5477  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8331  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1187  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4042  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6897  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9753  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2609  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5462  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.8319  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1174  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4029  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6884  -11.9386    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9739  -11.5261    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02350
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCCCCCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H38O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19/h19H,2-18H2,1H3
+
+> <INCHI_KEY>
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+
+> <FORMULA>
+C18H38O
+
+> <MOLECULAR_WEIGHT>
+270.4937
+
+> <EXACT_MASS>
+270.292265838
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.65386082156949
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+octadecan-1-ol
+
+> <ALOGPS_LOGP>
+8.27
+
+> <JCHEM_LOGP>
+7.029283256
+
+> <ALOGPS_LOGS>
+-6.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.84394282199214
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9922594096606376
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+86.54889999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+5.22e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+stearyl alcohol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02350
+
+> <GENERIC_NAME>
+Octadecanol
+
+> <SYNONYMS>
+1-Hydroxyoctadecane; Alcohol stearylicus; Alfol 18; Atalco S; N-1-Octadecanol; N-Octadecanol; N-Octadecyl alcohol; Octadecan-1-ol; Octadecanol NF; Octadecyl alcohol; Stearal; Stearic alcohol; Stearol; Stearyl alcohol; Stearyl alcohol pure
+
+$$$$

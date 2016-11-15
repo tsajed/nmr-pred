@@ -1,0 +1,126 @@
+
+  Mrv0541 02231219172D          
+
+ 12 12  0  0  0  0            999 V2000
+    7.8005   -4.4928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5150   -4.9054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2294   -4.4928    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9438   -4.9054    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6584   -4.4929    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9438   -5.7305    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5150   -5.7304    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2294   -6.1429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8005   -6.1429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2294   -6.9679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8005   -6.9679    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5150   -7.3804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  5  4  2  0  0  0  0
+  6  4  1  0  0  0  0
+  3  4  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  7  2  0  0  0  0
+ 10  8  2  0  0  0  0
+ 11  9  1  0  0  0  0
+ 12 10  1  0  0  0  0
+ 12 11  2  0  0  0  0
+  2  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01955
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(CC(O)=O)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12O2/c1-8(7-10(11)12)9-5-3-2-4-6-9/h2-6,8H,7H2,1H3,(H,11,12)
+
+> <INCHI_KEY>
+ZZEWMYILWXCRHZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H12O2
+
+> <MOLECULAR_WEIGHT>
+164.2011
+
+> <EXACT_MASS>
+164.083729628
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.51985129219633
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-phenylbutanoic acid
+
+> <ALOGPS_LOGP>
+2.47
+
+> <JCHEM_LOGP>
+2.3425818666666665
+
+> <ALOGPS_LOGS>
+-2.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.792476454512799
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+46.51520000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.39e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β-phenylbutyric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01955
+
+> <GENERIC_NAME>
+3-Phenylbutyric acid
+
+> <SYNONYMS>
+(RS)-3-Phenylbutanoate; (RS)-3-Phenylbutanoic acid; 3-Phenylbutanoate; 3-Phenylbutanoic acid; 3-Phenylbutyrate; 3-Phenylbutyric acid; b-Methylbenzenepropanoate; b-Methylbenzenepropanoic acid; b-Methylhydrocinnamate; b-Methylhydrocinnamic acid; b-Phenyl-N-butyrate; b-Phenyl-N-butyric acid; b-Phenylbutyrate; b-Phenylbutyric acid; beta-Methylbenzenepropanoate; beta-Methylbenzenepropanoic acid; beta-Methylhydrocinnamate; beta-Methylhydrocinnamic acid; beta-Phenyl-N-butyrate; beta-Phenyl-N-butyric acid; beta-Phenylbutyrate; beta-Phenylbutyric acid
+
+$$$$

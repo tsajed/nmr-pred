@@ -1,0 +1,35 @@
+Acetylcystein
+1DNMR spectrum600MHz in H2O
+Sample 25mM at PH 7.0 
+Reference to DSS
+
+
+Table of Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	2.064 	1239.04 	1.0000
+2 	2.887 	1733.34 	0.0227
+3 	2.898 	1739.50 	0.0199
+4 	2.911 	1747.42 	0.1428
+5 	2.919 	1752.27 	0.1757
+6 	2.926 	1756.67 	0.1679
+7 	2.942 	1766.35 	0.0226
+8 	2.950 	1770.75 	0.0186
+9 	4.357 	2615.42 	0.0320
+10 	4.367 	2621.58 	0.0434
+11 	4.370 	2623.34 	0.0465
+12 	4.378 	2628.18 	0.0457
+13 	4.387 	2633.90 	0.0296
+
+Table of Assignments
+No. 	Atom 	Multiplet
+1 	9 	M03
+2 	2 	M02
+3 	3 	M01
+
+Table of Multiplets
+
+No. 	Hs 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	3 	s 	9 	M03 	2.05 .. 2.08
+2 	2 	m 	2 	M02 	2.86 .. 2.99
+3 	1 	m 	3 	M01 	4.33 .. 4.42
+

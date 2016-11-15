@@ -1,0 +1,131 @@
+Salicylic acid
+  Mrv1572001071617312D          
+
+ 10 10  0  0  0  0            999 V2000
+   16.1680  -10.0031    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0521   -8.8508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4701   -8.8471    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7462  -10.0031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4627  -10.4120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7612   -9.2561    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0410  -10.4120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4627  -11.2373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0410  -11.2373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7462  -11.6538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01895
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)
+
+> <INCHI_KEY>
+YGSDEFSMJLZEOE-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O3
+
+> <MOLECULAR_WEIGHT>
+138.122
+
+> <EXACT_MASS>
+138.031694053
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_ATOM_COUNT>
+16
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.814587378025518
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.96
+
+> <JCHEM_LOGP>
+1.977263402333333
+
+> <ALOGPS_LOGS>
+-1.09
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.228682517040586
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7897391795725692
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.285929432184692
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+35.2951
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.13e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+salicylic
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01895
+
+> <GENERIC_NAME>
+Salicylic acid
+
+> <SYNONYMS>
+2-Carboxyphenol; 2-Hydroxybenzenecarboxylate; 2-Hydroxybenzenecarboxylic acid; 2-Hydroxybenzoate; 2-Hydroxybenzoic acid; Advanced Pain Relief Callus Removers; Advanced Pain Relief Corn Removers; Clear away Wart Remover; Compound W; Dr. Scholl'S Callus Removers; Dr. Scholl'S Corn Removers; Dr. Scholl'S Wart Remover Kit; Duofil Wart Remover; Duoplant; Freezone; Ionil; Ionil Plus; K 537; K 557; O-Carboxyphenol; O-Hydroxybenzoate; O-Hydroxybenzoic acid; Phenol-2-carboxylate; Phenol-2-carboxylic acid; Psoriacid-S-Stift; Retarder W; Rutranex; Salicylate; Salicylic acid; Salicylic acid collodion; Salicylic acid Soap; Saligel; Salonil; Stri-Dex; Trans-Ver-Sal
+
+$$$$

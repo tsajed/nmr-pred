@@ -1,0 +1,124 @@
+
+  Mrv0541 02231219562D          
+
+ 11 11  0  0  1  0            999 V2000
+   23.7415  -11.4008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8849   -8.5132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1705  -12.2258    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1705   -9.7507    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   24.4559  -10.1632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8849  -10.1632    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1705   -8.9257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4559   -8.5132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4559  -10.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1705  -11.4008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8849  -10.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
+  2  7  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  1  0  0  0
+  5  9  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04487
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=C)[C@H]1CC=C(C)C(=O)C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9H,1,5-6H2,2-3H3/t9-/m0/s1
+
+> <INCHI_KEY>
+ULDHMXUKGWMISQ-VIFPVBQESA-N
+
+> <FORMULA>
+C10H14O
+
+> <MOLECULAR_WEIGHT>
+150.2176
+
+> <EXACT_MASS>
+150.10446507
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.648981956783295
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(5S)-2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one
+
+> <ALOGPS_LOGP>
+2.77
+
+> <JCHEM_LOGP>
+2.552529290333333
+
+> <ALOGPS_LOGS>
+-2.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.655503656223822
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+47.1735
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.16e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+carvone, (+)-
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB04487
+
+> <GENERIC_NAME>
+(+)-(S)-Carvone
+
+> <SYNONYMS>
+(+)-Carvone; (S)-(+)-Carvone; (S)-Carvone; 2-Methyl-5-(1-methylethenyl)-2-cyclohexen-1-one; Carvol; D-(+)-Carvone; D-Carvone; D-p-Mentha-6,8(9)-dien-2-one
+
+$$$$

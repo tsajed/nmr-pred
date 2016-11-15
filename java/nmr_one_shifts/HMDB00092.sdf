@@ -1,0 +1,118 @@
+
+  Mrv0541 02231215572D          
+
+  7  6  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00092
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN(C)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO2/c1-5(2)3-4(6)7/h3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+FFDGPVCHZBVARC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H9NO2
+
+> <MOLECULAR_WEIGHT>
+103.1198
+
+> <EXACT_MASS>
+103.063328537
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.470047738620824
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(dimethylamino)acetic acid
+
+> <ALOGPS_LOGP>
+-1.70
+
+> <JCHEM_LOGP>
+-3.0607825071662678
+
+> <ALOGPS_LOGS>
+0.96
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8808127451470078
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.691600277978429
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.54
+
+> <JCHEM_REFRACTIVITY>
+26.0727
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.39e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dimethylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00092
+
+> <GENERIC_NAME>
+Dimethylglycine
+
+> <SYNONYMS>
+(Dimethylamino)acetate; (Dimethylamino)acetic acid; 2-(Dimethylamino)acetate; 2-(Dimethylamino)acetic acid; Dimethylglycine; N,N-Dimethylaminoacetate; N,N-Dimethylaminoacetic acid; N,N-Dimethylglycine; N-Methylsarcosine N,N-dimethyl-Glycine
+
+$$$$

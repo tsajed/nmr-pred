@@ -1,0 +1,133 @@
+
+  Mrv0541 02231219152D          
+
+ 13 12  0  0  1  0            999 V2000
+    4.3862   -4.6980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1007   -4.2855    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.8152   -4.6980    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.5297   -4.2855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2441   -4.6980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5297   -3.4605    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8152   -5.5230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1007   -3.4604    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8152   -3.0480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3862   -3.0479    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6718   -4.2854    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9572   -4.6980    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6718   -3.4604    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  2  1  0  0  0  0
+  4  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+  6  4  2  0  0  0  0
+  3  7  1  6  0  0  0
+  2  8  1  6  0  0  0
+  9  8  1  0  0  0  0
+ 10  8  2  0  0  0  0
+ 11  1  1  0  0  0  0
+ 12 11  1  0  0  0  0
+ 13 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01874
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@H]([C@H](CC(O)=O)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8O7/c7-3(8)1-2(5(10)11)4(9)6(12)13/h2,4,9H,1H2,(H,7,8)(H,10,11)(H,12,13)/t2-,4+/m0/s1
+
+> <INCHI_KEY>
+ODBLHEXUDAPZAU-ZAFYKAAXSA-N
+
+> <FORMULA>
+C6H8O7
+
+> <MOLECULAR_WEIGHT>
+192.1235
+
+> <EXACT_MASS>
+192.02700261
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.536697318164773
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1R,2S)-1-hydroxypropane-1,2,3-tricarboxylic acid
+
+> <ALOGPS_LOGP>
+-0.35
+
+> <JCHEM_LOGP>
+-1.4463282496666667
+
+> <ALOGPS_LOGS>
+-0.56
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+4.676758742531204
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.068323851495592
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.021353286822632
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.13000000000002
+
+> <JCHEM_REFRACTIVITY>
+35.716100000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.25e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+threo-DS(+)-isocitrate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01874
+
+> <GENERIC_NAME>
+D-threo-Isocitric acid
+
+> <SYNONYMS>
+(+)-threo-isocitrate; (+)-threo-isocitric acid; (1R,2S)-1-Hydroxypropane-1,2,3-tricarboxylate; (1R,2S)-1-hydroxypropane-1,2,3-tricarboxylic acid; (2R,3S)-Isocitrate; 3-Carboxy-2,3-dideoxy-L-threo-pentaric acid; D-(+)-Threo-isocitric acid(2R,3S)-Isocitric acid; D-Threo-isocitrate; DS-threo-isocitrate; DS-threo-isocitric acid; ICI; ICT; Isocitric acid; Threo-D-(+)-isocitrate; Threo-D-(+)-isocitric acid; Threo-DS(+)-isocitrate; Threo-DS(+)-isocitric acid; Threo-isocitrate
+
+$$$$

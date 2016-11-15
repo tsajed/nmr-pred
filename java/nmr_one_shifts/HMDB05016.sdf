@@ -1,0 +1,146 @@
+285
+  Mrv0541 02231214342D          
+
+ 20 21  0  0  1  0            999 V2000
+    2.1615    0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2866    0.1106    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9866    1.5395    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741   -0.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9866    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -1.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885   -1.0165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8596   -1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2885   -1.8415    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741   -2.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8116    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2241    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2241   -0.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5741    2.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8116    1.5395    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0491    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0491   -0.6040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4616    0.1106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6991    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 16  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB05016
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC=C(C=C1)C(CN(C)C)C1(O)CCCCC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H27NO2/c1-18(2)13-16(17(19)11-5-4-6-12-17)14-7-9-15(20-3)10-8-14/h7-10,16,19H,4-6,11-13H2,1-3H3
+
+> <INCHI_KEY>
+PNVNVHUZROJLTJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H27NO2
+
+> <MOLECULAR_WEIGHT>
+277.4018
+
+> <EXACT_MASS>
+277.204179113
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.33187255826194
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexan-1-ol
+
+> <ALOGPS_LOGP>
+2.69
+
+> <JCHEM_LOGP>
+2.7385227043333327
+
+> <ALOGPS_LOGS>
+-3.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.420211448909786
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.907956538395576
+
+> <JCHEM_POLAR_SURFACE_AREA>
+32.7
+
+> <JCHEM_REFRACTIVITY>
+83.02420000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.30e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+venlafaxine
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB05016
+
+> <GENERIC_NAME>
+Venlafaxine
+
+> <SYNONYMS>
+Efectin; Efexor; Effexor; Trevilor; Venlafaxin; Venlafexine
+
+$$$$

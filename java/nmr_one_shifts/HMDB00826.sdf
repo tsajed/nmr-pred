@@ -1,0 +1,135 @@
+Pentadecanoic acid.mol
+  Mrv0541 02231218462D          
+
+ 17 16  0  0  0  0            999 V2000
+    4.2868    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2868   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2868   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0013   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0013    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+  1 16  2  0  0  0  0
+  1 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00826
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15(16)17/h2-14H2,1H3,(H,16,17)
+
+> <INCHI_KEY>
+WQEPLUUGTLDZJY-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H30O2
+
+> <MOLECULAR_WEIGHT>
+242.3975
+
+> <EXACT_MASS>
+242.224580204
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.23103383147928
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pentadecanoic acid
+
+> <ALOGPS_LOGP>
+6.65
+
+> <JCHEM_LOGP>
+5.812014112666667
+
+> <ALOGPS_LOGS>
+-5.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019655228562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+72.48259999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+13
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.34e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pentadecanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00826
+
+> <GENERIC_NAME>
+Pentadecanoic acid
+
+> <SYNONYMS>
+N-Pentadecanoate; N-Pentadecanoic acid; N-Pentadecylate; N-Pentadecylic acid; Pentadecanoate; Pentadecanoic acid; Pentadecyclate; Pentadecyclic acid
+
+$$$$

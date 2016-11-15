@@ -1,0 +1,139 @@
+
+  Mrv0541 02231219332D          
+
+ 17 17  0  0  0  0            999 V2000
+   21.2735  -11.7871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8445  -10.9620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7024  -10.9620    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.7024   -6.8369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2735   -6.8369    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5591  -12.1996    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1300  -10.5495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4170  -10.5495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9880   -7.2495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9880   -8.0745    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2735   -8.4870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2735  -10.9620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9880  -10.5495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5591  -10.5495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2735   -9.3120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5591   -9.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9880   -9.7245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 15  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02511
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC(\C=C\C(O)=O)=CC(OC)=C1OC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C12H14O5/c1-15-9-6-8(4-5-11(13)14)7-10(16-2)12(9)17-3/h4-7H,1-3H3,(H,13,14)/b5-4+
+
+> <INCHI_KEY>
+YTFVRYKNXDADBI-SNAWJCMRSA-N
+
+> <FORMULA>
+C12H14O5
+
+> <MOLECULAR_WEIGHT>
+238.2366
+
+> <EXACT_MASS>
+238.084123558
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.16535914536476
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-3-(3,4,5-trimethoxyphenyl)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+2.24
+
+> <JCHEM_LOGP>
+1.6630724629999993
+
+> <ALOGPS_LOGS>
+-3.05
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.708908487912579
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.446646512913645
+
+> <JCHEM_POLAR_SURFACE_AREA>
+64.99000000000001
+
+> <JCHEM_REFRACTIVITY>
+62.449500000000015
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.12e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,4,5-trimethoxycinnamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02511
+
+> <GENERIC_NAME>
+3,4,5-Trimethoxycinnamic acid
+
+> <SYNONYMS>
+3,4,5-Trimethoxy cinnamate; 3,4,5-Trimethoxy cinnamic acid; 3,4,5-Trimethoxycinnamate; 3,4,5-Trimethoxyphenylacrylate; 3,4,5-Trimethoxyphenylacrylic acid; O-Methylsinapate; O-Methylsinapic acid
+
+$$$$

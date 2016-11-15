@@ -1,0 +1,126 @@
+ 
+  Mrv0541 02231218252D          
+ 
+  9  9  0  0  1  0            999 V2000
+   14.4136  -10.0946    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   13.7020  -10.5071    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4136   -9.2696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1288  -10.5071    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9944  -10.0946    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9944   -9.2696    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1251  -11.5508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8403  -10.0908    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2791  -10.5034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  1  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00267
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)[C@@H]1CCC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H7NO3/c7-4-2-1-3(6-4)5(8)9/h3H,1-2H2,(H,6,7)(H,8,9)/t3-/m0/s1
+
+> <INCHI_KEY>
+ODHCTXKNWHHXJC-VKHMYHEASA-N
+
+> <FORMULA>
+C5H7NO3
+
+> <MOLECULAR_WEIGHT>
+129.114
+
+> <EXACT_MASS>
+129.042593095
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.556351102681205
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-5-oxopyrrolidine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+-1.01
+
+> <JCHEM_LOGP>
+-0.8896697023333333
+
+> <ALOGPS_LOGS>
+0.07
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+12.760445138872768
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.6133555504913617
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.7569547770416478
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+28.0878
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.51e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyroglutamic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00267
+
+> <GENERIC_NAME>
+Pyroglutamic acid
+
+> <SYNONYMS>
+(-)-2-Pyrrolidone-5-carboxylate; (-)-2-Pyrrolidone-5-carboxylic acid; (-)-Pyroglutamate; (-)-Pyroglutamic acid; (5S)-2-Oxopyrrolidine-5-carboxylate; (5S)-2-Oxopyrrolidine-5-carboxylic acid; (S)-(-)-2-Pyrrolidone-5-carboxylate; (S)-(-)-2-Pyrrolidone-5-carboxylic acid; (S)-(-)-g-Butyrolactam-g-carboxylate; (S)-(-)-g-Butyrolactam-g-carboxylic acid; (S)-(-)-gamma-Butyrolactam-gamma-carboxylate; (S)-(-)-gamma-Butyrolactam-gamma-carboxylic acid; (S)-2-Pyrrolidone-5-carboxylate; (S)-2-Pyrrolidone-5-carboxylic acid; (S)-5-Oxo-2-pyrrolidinecarboxylate; (S)-5-Oxo-2-pyrrolidinecarboxylic acid; (S)-Pyroglutamate; (S)-Pyroglutamic acid; 2-L-Pyrrolidone-5-carboxylate; 2-L-Pyrrolidone-5-carboxylic acid; 2-Oxopyrrolidine-5(S)-carboxylate; 2-Oxopyrrolidine-5(S)-carboxylic acid; 2-Pyrrolidinone-5-carboxylate; 2-Pyrrolidinone-5-carboxylic acid; 5-Carboxy-2-pyrrolidinone; 5-L-Oxoproline; 5-Oxo-L-proline; 5-Oxoproline; 5-Pyrrolidinone-2-carboxylate; 5-Pyrrolidinone-2-carboxylic acid; Ajidew A 100; Glutimate; Glutimic acid; Glutiminate; Glutiminic acid; L-2-Pyrrolidone-5-carboxylate; L-2-Pyrrolidone-5-carboxylic acid; L-5-Carboxy-2-pyrrolidinone; L-5-Oxo-2-pyrrolidinecarboxylate; L-5-Oxo-2-pyrrolidinecarboxylic acid; L-5-Oxoproline; L-Glutamic acid g-lactam; L-Glutimate; L-Glutimic acid; L-Glutiminate; L-Glutiminic acid; L-Pyroglutamate; L-Pyroglutamic acid; L-Pyrrolidinonecarboxylate; L-Pyrrolidinonecarboxylic acid; L-Pyrrolidonecarboxylate; L-Pyrrolidonecarboxylic acid; Oxoproline; Oxopyrrolidinecarboxylate; Oxopyrrolidinecarboxylic acid; Pidolate; Pidolic acid; Pidolidone; Pyroglutamate; Pyroglutamic acid; Pyrrolidinonecarboxylate; Pyrrolidinonecarboxylic acid; Pyrrolidone-5-carboxylate; Pyrrolidone-5-carboxylic acid; Pyrrolidonecarboxylic acid
+
+$$$$

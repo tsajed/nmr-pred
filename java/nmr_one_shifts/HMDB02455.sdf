@@ -1,0 +1,121 @@
+
+  Mrv0541 02231219322D          
+
+  7  6  0  0  0  0            999 V2000
+   18.7655  -10.1021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6234  -10.1021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9090   -8.8645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4800   -9.6895    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1945  -10.9271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9090   -9.6895    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1945  -10.1021    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02455
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C\C(=N/O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H5NO3/c1-2(4-7)3(5)6/h7H,1H3,(H,5,6)/b4-2+
+
+> <INCHI_KEY>
+MVGBKLTYYAYYGY-DUXPYHPUSA-N
+
+> <FORMULA>
+C3H5NO3
+
+> <MOLECULAR_WEIGHT>
+103.0767
+
+> <EXACT_MASS>
+103.026943031
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.712947174361343
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2E)-2-(hydroxyimino)propanoic acid
+
+> <ALOGPS_LOGP>
+-0.45
+
+> <JCHEM_LOGP>
+0.07535373933333342
+
+> <ALOGPS_LOGS>
+-0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+11.030753191399501
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4214764862153864
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.5551397143826033
+
+> <JCHEM_POLAR_SURFACE_AREA>
+69.89
+
+> <JCHEM_REFRACTIVITY>
+21.8114
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.64e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyruvic oxime
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02455
+
+> <GENERIC_NAME>
+Pyruvatoxime
+
+> <SYNONYMS>
+2-(Hydroxyimino)propanoate; 2-(Hydroxyimino)propanoic acid; 2-Oximinopropanoate; 2-Oximinopropanoic acid; Pyruvate oxime; Pyruvic oxime
+
+$$$$

@@ -1,0 +1,125 @@
+
+  Mrv0541 02231219352D          
+
+ 10 10  0  0  0  0            999 V2000
+   28.6185  -15.5904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3130  -16.1716    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5716  -18.9485    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1591  -17.6790    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4691  -17.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5716  -19.7735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.1335  -16.2578    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9841  -17.6790    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9042  -18.4636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2391  -18.4636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02820
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1C=NC(CC(O)=O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H8N2O2/c1-8-3-5(7-4-8)2-6(9)10/h3-4H,2H2,1H3,(H,9,10)
+
+> <INCHI_KEY>
+ZHCKPJGJQOPTLB-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H8N2O2
+
+> <MOLECULAR_WEIGHT>
+140.1399
+
+> <EXACT_MASS>
+140.05857751
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.685673940200225
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(1-methyl-1H-imidazol-4-yl)acetic acid
+
+> <ALOGPS_LOGP>
+-0.22
+
+> <JCHEM_LOGP>
+-1.1630740442859269
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.684647876555134
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.4534930755175495
+
+> <JCHEM_POLAR_SURFACE_AREA>
+55.12
+
+> <JCHEM_REFRACTIVITY>
+34.845099999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.88e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+methylimidazoleacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02820
+
+> <GENERIC_NAME>
+Methylimidazoleacetic acid
+
+> <SYNONYMS>
+1,4-Methyl-imidazoleacetic acid; 1,4-Methylimidazoleacetate; 1-Methyl-1H-Imidazole-4-acetate; 1-Methyl-1H-Imidazole-4-acetic acid; 1-Methyl-4-imidazoleacetate; 1-Methyl-4-imidazoleacetic acid; 1-Methylimidazole-4-acetate; Methylimidazole acetate; Methylimidazoleacetate; Methylimidazoleacetic acid; MIAA; N Tau-methylimidazoleacetic acid; Tele-methylimidazoleacetate; Tele-methylimidazoleacetic acid
+
+$$$$

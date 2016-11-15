@@ -1,0 +1,110 @@
+
+  Mrv0541 02231215052D          
+
+  3  2  0  0  0  0            999 V2000
+    2.0930   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8075    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5219   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00108
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
+
+> <INCHI_KEY>
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H6O
+
+> <MOLECULAR_WEIGHT>
+46.0684
+
+> <EXACT_MASS>
+46.041864814
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.303762677439431
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+ethanol
+
+> <ALOGPS_LOGP>
+-0.40
+
+> <JCHEM_LOGP>
+-0.1617691140000001
+
+> <ALOGPS_LOGS>
+1.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.47061524791562
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.155552890561707
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+13.0099
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.79e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ethyl alcohol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00108
+
+> <GENERIC_NAME>
+Ethanol
+
+> <SYNONYMS>
+1-Hydroxyethane; Absolute alcohol; Absolute ethanol; Absolute ethyl alcohol; Aethanol; Aethylalkohol; Alcare Hand Degermer; Alcohol; Alcohols; Alcool ethylique; Alcool etilico; Algrain; Alkohol; Alkoholu etylowego; Anhydrol; Anhydrous alcohol; Cologne spirit; Cologne spirits; Dehydrated alcohol; Dehydrated ethanol; Denatured alcohol; Denatured ethanol; Desinfektol EL; Diluted Alcohol; Distilled spirits; Ethanol 200 proof; Ethanol solution; Ethicap; Ethyl alc; Ethyl alcohol; Ethyl alcohol anhydrous; Ethyl alcohol in alcoholic beverages; Ethyl alcohol usp; Ethyl hydrate; Ethyl hydroxide; Fermentation alcohol; Grain alcohol; Hinetoless; Hydroxyethane; Infinity Pure; Jaysol; Jaysol S; Lux; Methylcarbinol; Molasses alcohol; Potato alcohol; Punctilious ethyl alcohol; Pyro; Silent spirit; Spirit; Spirits of wine; Spirt; Synasol; Tecsol; Tecsol C; Thanol; Undenatured Ethanol
+
+$$$$

@@ -1,0 +1,152 @@
+
+  Mrv0541 02231219152D          
+
+ 21 23  0  0  1  0            999 V2000
+   16.4326   -6.8994    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3041   -7.7530    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7739   -5.2295    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7182   -3.1869    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2891   -4.0119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8616   -5.2494    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.1470   -6.4869    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.1470   -5.6619    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   17.8616   -6.8994    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3136   -6.9280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0610   -5.6448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7182   -4.0119    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0038   -4.4244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5760   -5.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5760   -6.4869    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4326   -5.2494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0610   -6.5041    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3136   -5.2208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4326   -4.4244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0038   -5.2494    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7182   -5.6619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  2 10  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 16  1  1  0  0  0
+  9 15  1  0  0  0  0
+ 10 15  2  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 17  2  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 19  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 16 19  2  0  0  0  0
+ 16 21  1  0  0  0  0
+ 20 21  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01871
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H14O6/c16-8-4-11(18)9-6-13(20)15(21-14(9)5-8)7-1-2-10(17)12(19)3-7/h1-5,13,15-20H,6H2/t13-,15-/m1/s1
+
+> <INCHI_KEY>
+PFTAWBLQPZVEMU-UKRRQHHQSA-N
+
+> <FORMULA>
+C15H14O6
+
+> <MOLECULAR_WEIGHT>
+290.2681
+
+> <EXACT_MASS>
+290.07903818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.13324240379487
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-1-benzopyran-3,5,7-triol
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.795107015333333
+
+> <ALOGPS_LOGS>
+-2.65
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.62402269729718
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.00457381362944
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.289719332242856
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+73.99970000000003
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.45e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ent-epicatechin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01871
+
+> <GENERIC_NAME>
+Epicatechin
+
+> <SYNONYMS>
+(-)-Epicatechin; (-)-Epicatechol; (2R,3R)-(-)-Epicatechin; 3,3',4',5,7-Pentahydroxyflavane; alpha-Catechin; Epicatechol; Epigallocatechin; L(-)-Epicatechin; L-Acacatechin; L-Epicatechin; L-Epicatechol
+
+$$$$

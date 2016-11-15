@@ -1,0 +1,160 @@
+1137
+  Mrv0541 02231215162D          
+
+ 26 29  0  0  1  0            999 V2000
+    5.2224    2.1733    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7572   -0.3074    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3574    0.1203    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3958   -2.3388    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0858   -1.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.3482    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2357   -1.1610    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    2.1733    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    2.1733    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4948   -1.5965    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.5080    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224   -0.3018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    2.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645    1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7506   -1.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.1107    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2224    1.3482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9594   -1.5429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9370    0.9357    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4980   -2.4214    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6460   -0.2975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    2.5858    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6571   -1.1156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3796   -1.5139    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 23  2  0  0  0  0
+  4 26  1  0  0  0  0
+  5 26  2  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 20  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
+  8 24  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 22  1  1  0  0  0
+ 12 14  1  0  0  0  0
+ 12 19  2  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 18 21  2  0  0  0  0
+ 18 23  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 25  2  0  0  0  0
+ 23 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01929
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@H]1COC2=C3N1C=C(C(O)=O)C(=O)C3=CC(F)=C2N1CCN(C)CC1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H20FN3O4/c1-10-9-26-17-14-11(16(23)12(18(24)25)8-22(10)14)7-13(19)15(17)21-5-3-20(2)4-6-21/h7-8,10H,3-6,9H2,1-2H3,(H,24,25)/t10-/m0/s1
+
+> <INCHI_KEY>
+GSDSWSVVBLHKDQ-JTQLQIEISA-N
+
+> <FORMULA>
+C18H20FN3O4
+
+> <MOLECULAR_WEIGHT>
+361.3675
+
+> <EXACT_MASS>
+361.143784348
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+36.69213757881419
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2S)-7-fluoro-2-methyl-6-(4-methylpiperazin-1-yl)-10-oxo-4-oxa-1-azatricyclo[7.3.1.0⁵,¹³]trideca-5(13),6,8,11-tetraene-11-carboxylic acid
+
+> <ALOGPS_LOGP>
+-0.02
+
+> <JCHEM_LOGP>
+0.6542797531974264
+
+> <ALOGPS_LOGS>
+-2.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.447057267648649
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+6.201449203748399
+
+> <JCHEM_POLAR_SURFACE_AREA>
+73.32
+
+> <JCHEM_REFRACTIVITY>
+94.93590000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.44e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+levofloxacin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01929
+
+> <GENERIC_NAME>
+Levofloxacin
+
+> <SYNONYMS>
+Floxin; Levofloxacin; Levofloxacin hydrate; Ofloxacin; Quixin
+
+$$$$

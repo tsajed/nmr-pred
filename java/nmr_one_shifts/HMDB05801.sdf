@@ -1,0 +1,152 @@
+KMP
+  Mrv0541 02231215462D          
+
+ 21 23  0  0  0  0            999 V2000
+   -2.4633   -0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7488   -1.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0344   -0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0344    0.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7488    0.4691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4633    0.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3199   -1.1809    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3946   -0.7684    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3946    0.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1091    0.4691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1091    1.2941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8235    1.7066    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5380    1.2941    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5380    0.4691    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8235    0.0566    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3199    0.4691    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3199   -2.0059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2525    1.7066    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1091   -1.1809    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1778    0.4691    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7488   -2.0059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 21  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  7  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 16  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6 20  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 17  2  0  0  0  0
+  8  9  2  0  0  0  0
+  8 19  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 16  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB05801
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O1)C=C(O)C=C2O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H10O6/c16-8-3-1-7(2-4-8)15-14(20)13(19)12-10(18)5-9(17)6-11(12)21-15/h1-6,16-18,20H
+
+> <INCHI_KEY>
+IYRMWMYZSQPJKC-UHFFFAOYSA-N
+
+> <FORMULA>
+C15H10O6
+
+> <MOLECULAR_WEIGHT>
+286.2363
+
+> <EXACT_MASS>
+286.047738052
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.594716193157304
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3,5,7-trihydroxy-2-(4-hydroxyphenyl)-4H-chromen-4-one
+
+> <ALOGPS_LOGP>
+1.99
+
+> <JCHEM_LOGP>
+2.4598647856666664
+
+> <ALOGPS_LOGS>
+-3.21
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+7.89257195245359
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+6.441140431756837
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.9216266505038364
+
+> <JCHEM_POLAR_SURFACE_AREA>
+107.22000000000001
+
+> <JCHEM_REFRACTIVITY>
+74.8813
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.78e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+kaempferol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB05801
+
+> <GENERIC_NAME>
+Kaempferol
+
+> <SYNONYMS>
+3,4',5,7-Tetrahydroxy-Flavone (7CI,8CI); 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one; 3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-4H-chromen-4-one; Kampferol; Kampherol; Populnetin; Rhamnolutein; Trifolitin
+
+$$$$

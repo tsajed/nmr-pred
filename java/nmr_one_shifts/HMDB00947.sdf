@@ -1,0 +1,127 @@
+Uracil.mol
+  Mrv0541 02231218502D          
+
+ 13 12  0  0  0  0            999 V2000
+    2.8579    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8579   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5724   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5724    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00947
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H22O2/c1-2-3-4-5-6-7-8-9-10-11(12)13/h2-10H2,1H3,(H,12,13)
+
+> <INCHI_KEY>
+ZDPHROOEEOARMN-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H22O2
+
+> <MOLECULAR_WEIGHT>
+186.2912
+
+> <EXACT_MASS>
+186.161979948
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.726368536383696
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+undecanoic acid
+
+> <ALOGPS_LOGP>
+4.49
+
+> <JCHEM_LOGP>
+4.033739452666666
+
+> <ALOGPS_LOGS>
+-3.91
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019655228562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+54.078599999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.28e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+undecanoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00947
+
+> <GENERIC_NAME>
+Undecanoic acid
+
+> <SYNONYMS>
+1-Decanecarboxylate; 1-Decanecarboxylic acid; Hendecanoate; Hendecanoic acid; N-Undecanoate; N-Undecanoic acid; N-Undecoate; N-Undecoic acid; N-Undecylate; N-Undecylic acid; Undecanoate; Undecanoic acid; Undecylate; Undecylic acid
+
+$$$$

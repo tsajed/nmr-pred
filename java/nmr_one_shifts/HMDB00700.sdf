@@ -1,0 +1,119 @@
+
+  Mrv0541 02231217072D          
+
+  6  5  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00700
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O3/c4-2-1-3(5)6/h4H,1-2H2,(H,5,6)
+
+> <INCHI_KEY>
+ALRHLSYJTWAHJZ-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6O3
+
+> <MOLECULAR_WEIGHT>
+90.0779
+
+> <EXACT_MASS>
+90.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.150999882305161
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+-0.95
+
+> <JCHEM_LOGP>
+-0.8035810240000001
+
+> <ALOGPS_LOGS>
+0.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+16.02280713040642
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.201252954149806
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.477742482637333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+19.0453
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.47e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hydroxypropionic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00700
+
+> <GENERIC_NAME>
+Hydroxypropionic acid
+
+> <SYNONYMS>
+2-Deoxyglycerate; 2-Deoxyglyceric acid; 3-Hydroxypropanoate; 3-Hydroxypropanoic acid; 3-Hydroxypropionate; 3-Hydroxypropionic acid; b-Hydroxypropionate; b-Hydroxypropionic acid; b-Lactate; b-Lactic acid; beta-Hydroxypropionate; beta-Hydroxypropionic acid; beta-Lactate; beta-Lactic acid; Ethylenelactate; Ethylenelactic acid; Hydracrylic acid; Hydroxypropionate
+
+$$$$

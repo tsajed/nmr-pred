@@ -1,0 +1,115 @@
+
+  Mrv0541 02231217092D          
+
+  7  6  0  0  0  0            999 V2000
+    1.2375    2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00718
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O2/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H,6,7)
+
+> <INCHI_KEY>
+GWYFCOCPABKNJV-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O2
+
+> <MOLECULAR_WEIGHT>
+102.1317
+
+> <EXACT_MASS>
+102.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.98666636521121
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methylbutanoic acid
+
+> <ALOGPS_LOGP>
+1.26
+
+> <JCHEM_LOGP>
+1.208777894
+
+> <ALOGPS_LOGS>
+-0.20
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.01023295557517
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+26.4202
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.49e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+isovaleric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00718
+
+> <GENERIC_NAME>
+Isovaleric acid
+
+> <SYNONYMS>
+3-Methyl butyric acid; 3-Methyl-N-butyrate; 3-Methyl-N-butyric acid; 3-Methylbutanoate; 3-Methylbutanoic acid; 3-Methylbutyrate; 3-Methylbutyric acid: isopropyl-Acetate; 3-Methylbutyric acid: isopropyl-Acetic acid; b-Methylbutyrate; b-Methylbutyric acid; beta-Methylbutyrate; beta-Methylbutyric acid; Delphinate; Delphinic acid; Isopentanoate; Isopentanoic acid; Isopropylacetate; Isopropylacetic acid; Isovalerate; Isovalerianate; Isovalerianic acid; Isovaleric acid
+
+$$$$

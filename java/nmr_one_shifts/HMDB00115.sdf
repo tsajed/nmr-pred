@@ -1,0 +1,117 @@
+
+  Mrv0541 02231216412D          
+
+  5  4  0  0  0  0            999 V2000
+    0.8250    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00115
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H4O3/c3-1-2(4)5/h3H,1H2,(H,4,5)
+
+> <INCHI_KEY>
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H4O3
+
+> <MOLECULAR_WEIGHT>
+76.0514
+
+> <EXACT_MASS>
+76.016043994
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.195837007972225
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-hydroxyacetic acid
+
+> <ALOGPS_LOGP>
+-1.02
+
+> <JCHEM_LOGP>
+-1.0405937603333335
+
+> <ALOGPS_LOGS>
+0.90
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.780077957574235
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.526322592592504
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6133096708862027
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+14.345899999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.08e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glycolic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00115
+
+> <GENERIC_NAME>
+Glycolic acid
+
+> <SYNONYMS>
+2-Hydroxyacetate; 2-Hydroxyacetic acid; a-Hydroxyacetate; a-Hydroxyacetic acid; alpha-Hydroxyacetate; alpha-Hydroxyacetic acid; Glycocide; Glycolate; Glycolic acid; Glycollate; Glycollic acid; GlyPure; GlyPure 70; Hydroxyacetate; Hydroxyacetic acid; Hydroxyethanoate; Hydroxyethanoic acid; Sodium glycolate
+
+$$$$

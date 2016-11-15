@@ -1,0 +1,149 @@
+
+  Mrv0541 02231218542D          
+
+ 21 20  0  0  0  0            999 V2000
+   24.6226  -16.7507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4805  -17.5757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7661  -18.8132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1936  -20.0507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4805  -15.1007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4792  -18.8132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0515  -15.1007    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9082  -16.3382    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3371  -17.9882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1936  -17.5757    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0515  -17.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.0515  -16.7507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9082  -17.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6226  -17.5757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9082  -18.8132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7661  -16.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7661  -17.9882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1936  -19.2257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7661  -15.5132    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1936  -16.7507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.4792  -16.3382    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  2  0  0  0  0
+  2 17  1  0  0  0  0
+  3 17  2  0  0  0  0
+  4 18  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6 18  2  0  0  0  0
+  7 19  2  0  0  0  0
+  8 20  2  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 19  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01067
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H16N2O8/c1-5(14)12-7(4-9(17)18)10(19)13-6(11(20)21)2-3-8(15)16/h6-7H,2-4H2,1H3,(H,12,14)(H,13,19)(H,15,16)(H,17,18)(H,20,21)
+
+> <INCHI_KEY>
+OPVPGKGADVGKTG-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H16N2O8
+
+> <MOLECULAR_WEIGHT>
+304.2533
+
+> <EXACT_MASS>
+304.090665498
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+27.003794345487837
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(3-carboxy-2-acetamidopropanamido)pentanedioic acid
+
+> <ALOGPS_LOGP>
+-1.10
+
+> <JCHEM_LOGP>
+-2.291346324
+
+> <ALOGPS_LOGS>
+-1.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-3
+
+> <JCHEM_PKA>
+3.724445892825244
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1274589500994616
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.4413927254512164
+
+> <JCHEM_POLAR_SURFACE_AREA>
+170.1
+
+> <JCHEM_REFRACTIVITY>
+64.06430000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.29e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-(3-carboxy-2-acetamidopropanamido)pentanedioic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01067
+
+> <GENERIC_NAME>
+N-Acetylaspartylglutamic acid
+
+> <SYNONYMS>
+a-Spaglumic acid; Acetyl-a-L-aspartylglutamic acid; Acetyl-alpha-L-aspartylglutamic acid; alpha-Spaglumic acid; Isospaglumic acid; N-(N-Acetylaspartyl)glutamic acid; N-Acetyl-a-aspartylglutamic acid; N-Acetyl-a-L-aspartyl-L-glutamic acid; N-Acetyl-alpha-aspartylglutamic acid; N-Acetyl-alpha-L-aspartyl-L-glutamic acid; N-Acetyl-L-aspartyl-L-glutamic acid; NAAG
+
+$$$$

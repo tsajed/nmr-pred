@@ -1,0 +1,124 @@
+
+  Mrv0541 02231218362D          
+
+ 11 11  0  0  0  0            999 V2000
+   13.3763   -2.2476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9473   -2.2476    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2329   -3.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5184   -3.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2329   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9473   -3.8976    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8039   -3.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5184   -2.2476    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8039   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6619   -3.4851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6619   -2.6601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  9  2  0  0  0  0
+  8  9  1  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00567
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)\C=C/C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-7H,(H,10,11)/b7-6-
+
+> <INCHI_KEY>
+WBYWAXJHAXSJNI-SREVYHEPSA-N
+
+> <FORMULA>
+C9H8O2
+
+> <MOLECULAR_WEIGHT>
+148.1586
+
+> <EXACT_MASS>
+148.0524295
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.026333361618914
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2Z)-3-phenylprop-2-enoic acid
+
+> <ALOGPS_LOGP>
+2.38
+
+> <JCHEM_LOGP>
+2.13608626
+
+> <ALOGPS_LOGS>
+-2.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.009231934706283
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+43.059900000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.18e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cis-cinnamic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00567
+
+> <GENERIC_NAME>
+Cinnamic acid
+
+> <SYNONYMS>
+(E)-3-phenyl-2-propenoate; (E)-3-phenyl-2-propenoic acid; 3-Phenyl-2-propenoate; 3-Phenyl-2-propenoic acid; 3-Phenyl-acrylate; 3-Phenyl-acrylic acid; 3-Phenylacrylate; 3-Phenylacrylic acid; 3-Phenylpropenoate; 3-Phenylpropenoic acid; Benzenepropenoate; Benzenepropenoic acid; Benzylideneacetic acid; beta-Phenylacrylic acid; Cinnamate; Cinnamic acid; Cinnamylic acid; Phenylacrylate; Phenylacrylic acid
+
+$$$$

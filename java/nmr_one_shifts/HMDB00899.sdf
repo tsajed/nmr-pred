@@ -1,0 +1,158 @@
+1561
+  Mrv0541 02231215332D          
+
+ 25 28  0  0  1  0            999 V2000
+    7.1353    1.7956    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6498   -1.7578    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6697   -0.0648    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3842   -0.4772    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9191   -0.4829    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0985   -0.0648    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.0985    0.7601    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9125   -1.3421    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6697    0.7601    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3974   -1.3363    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3842    1.1725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6566   -1.7717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8790   -0.3162    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1546   -0.0176    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8790    1.0115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9254    0.3420    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1409   -1.7956    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3604    0.3477    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0985    1.5850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3726   -0.4531    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3657   -1.3480    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2413    0.2652    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9581   -0.8028    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1683   -0.7210    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9150   -2.0020    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  2  0  0  0  0
+  2 21  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 22  1  6  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 23  1  1  0  0  0
+  5  8  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 16  1  1  0  0  0
+  6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 24  1  6  0  0  0
+  7 11  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 19  1  1  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 25  1  6  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 13 18  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 17 21  1  0  0  0  0
+ 20 21  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00899
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H28O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h12,14-16H,3-11H2,1-2H3/t12-,14-,15-,16-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+RAJWOBJTTGJROA-WZNAKSSCSA-N
+
+> <FORMULA>
+C19H28O2
+
+> <MOLECULAR_WEIGHT>
+288.4244
+
+> <EXACT_MASS>
+288.20893014
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+33.840335487316494
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S,7S,10R,11S,15S)-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecane-5,14-dione
+
+> <ALOGPS_LOGP>
+3.40
+
+> <JCHEM_LOGP>
+3.9747853383333336
+
+> <ALOGPS_LOGS>
+-4.59
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.776207883092308
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.108868634299542
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+82.7808
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.39e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+androstanedione
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00899
+
+> <GENERIC_NAME>
+Androstanedione
+
+> <SYNONYMS>
+(5a)-Androstane-3,17-dione; 5-alpha-Androstane-3,17-dione; 5a-Androsta-3,17-dione; 5a-Androstan-3,17-dione; 5a-Androstane-3, 17-dione; 5a-Androstane-3,17-dione; 5a-Androstanedione; 5alpha-Androstane-3,17-dione; Androstane-3,17-dione; Androstane-3,7-dione; Androstanedione
+
+$$$$

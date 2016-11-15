@@ -1,0 +1,125 @@
+2,3-dihydroxy-Valeric acid.mol
+  Mrv0541 02231218312D          
+
+  9  8  0  0  0  0            999 V2000
+    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  1  6  2  0  0  0  0
+  1  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  2  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00421
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC(O)C(O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H10O4/c1-2-3(6)4(7)5(8)9/h3-4,6-7H,2H2,1H3,(H,8,9)
+
+> <INCHI_KEY>
+CJXCLBPFKGZXJP-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H10O4
+
+> <MOLECULAR_WEIGHT>
+134.1305
+
+> <EXACT_MASS>
+134.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.71720600638373
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2,3-dihydroxypentanoic acid
+
+> <ALOGPS_LOGP>
+-0.87
+
+> <JCHEM_LOGP>
+-0.579642065
+
+> <ALOGPS_LOGS>
+0.42
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.264842121326641
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8016080976510094
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.254534149492307
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+29.326299999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.49e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3-dihydroxyvaleric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00421
+
+> <GENERIC_NAME>
+2,3-Dihydroxyvaleric acid
+
+> <SYNONYMS>
+2,3-Dihydroxy-Valerate; 2,3-Dihydroxy-Valeric acid; 2,3-Dihydroxyvalerate
+
+$$$$

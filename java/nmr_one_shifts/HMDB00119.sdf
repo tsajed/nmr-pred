@@ -1,0 +1,114 @@
+
+  Mrv0541 02231217372D          
+
+  5  4  0  0  0  0            999 V2000
+    2.0625   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00119
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H2O3/c3-1-2(4)5/h1H,(H,4,5)
+
+> <INCHI_KEY>
+HHLFWLYXYJOTON-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H2O3
+
+> <MOLECULAR_WEIGHT>
+74.0355
+
+> <EXACT_MASS>
+74.00039393
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+5.350371249099962
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-oxoacetic acid
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.13367503833333333
+
+> <ALOGPS_LOGS>
+0.48
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.605312628420254
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-9.240766856996258
+
+> <JCHEM_POLAR_SURFACE_AREA>
+54.37
+
+> <JCHEM_REFRACTIVITY>
+13.5
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.24e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glyoxylic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00119
+
+> <GENERIC_NAME>
+Glyoxylic acid
+
+> <SYNONYMS>
+a-Ketoacetate; a-Ketoacetic acid; alpha-Ketoacetate; alpha-Ketoacetic acid; Formylformate; Formylformic acid; Glyoxalate; Glyoxalic acid; Glyoxylate; Glyoxylic acid; Oxalaldehydate; Oxalaldehydic acid; Oxoacetate; Oxoacetic acid; Oxoethanoate; Oxoethanoic acid
+
+$$$$

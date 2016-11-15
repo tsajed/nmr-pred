@@ -1,0 +1,137 @@
+2-Hydroxydecanedioic acid.mol
+  Mrv0541 02231218312D          
+
+ 15 14  0  0  0  0            999 V2000
+    3.2083    0.2602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5023   -0.1668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7845    0.2399    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0739   -0.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3557    0.2267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3550   -0.1924    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0732    0.2135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7838   -0.2056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5021    0.2003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2127   -0.2188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2121    1.2294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9310   -0.1377    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2051   -1.2294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9310    0.1871    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5050   -1.0186    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  1 11  2  0  0  0  0
+  1 12  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00424
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(CCCCCCCC(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O5/c11-8(10(14)15)6-4-2-1-3-5-7-9(12)13/h8,11H,1-7H2,(H,12,13)(H,14,15)
+
+> <INCHI_KEY>
+LPIOYESQKJFWPQ-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O5
+
+> <MOLECULAR_WEIGHT>
+218.2469
+
+> <EXACT_MASS>
+218.115423686
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.383498888261546
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-hydroxydecanedioic acid
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+1.3978631019999996
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.834206020743932
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.15977916410913
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.7975287125165815
+
+> <JCHEM_POLAR_SURFACE_AREA>
+94.83
+
+> <JCHEM_REFRACTIVITY>
+52.6352
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+9
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.42e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-hydroxysebacic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00424
+
+> <GENERIC_NAME>
+2-Hydroxydecanedioic acid
+
+> <SYNONYMS>
+2-Hydroxy-Decandioate; 2-Hydroxy-Decandioic acid; 2-Hydroxydecanedioate; 2-Hydroxydecanedioic acid; 2-Hydroxysebacate; 2-Hydroxysebacic acid; a-Hydroxysebasate; a-Hydroxysebasic acid; alpha-Hydroxysebasate; alpha-Hydroxysebasic acid
+
+$$$$

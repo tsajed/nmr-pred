@@ -1,0 +1,119 @@
+
+  Mrv0541 02231216402D          
+
+  6  5  0  0  1  0            999 V2000
+    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    0.7145    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0625    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01311
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@@H](O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)/t2-/m1/s1
+
+> <INCHI_KEY>
+JVTAAEKCZFNVCJ-UWTATZPHSA-N
+
+> <FORMULA>
+C3H6O3
+
+> <MOLECULAR_WEIGHT>
+90.0779
+
+> <EXACT_MASS>
+90.031694058
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.053681838559434
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-hydroxypropanoic acid
+
+> <ALOGPS_LOGP>
+-0.79
+
+> <JCHEM_LOGP>
+-0.47182951800000017
+
+> <ALOGPS_LOGS>
+0.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.593508084825753
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.784942414122652
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.6696493832413326
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+18.839800000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.62e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+D-lactic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01311
+
+> <GENERIC_NAME>
+D-Lactic acid
+
+> <SYNONYMS>
+(-)-Lactate; (-)-Lactic acid; (R)-(-)-Lactate; (R)-(-)-Lactic acid; (R)-2-Hydroxypropanoate; (R)-2-Hydroxypropanoic acid; (R)-2-Hydroxypropionate; (R)-2-Hydroxypropionic acid; (R)-a-Hydroxypropionate; (R)-a-Hydroxypropionic acid; (R)-alpha-Hydroxypropionate; (R)-alpha-Hydroxypropionic acid; (R)-Lactate; (R)-Lactic acid; D-(-)-Lactate; D-(-)-Lactic acid; D-2-Hydroxypropanoate; D-2-Hydroxypropanoic acid; D-2-Hydroxypropionate; D-2-Hydroxypropionic acid; D-Lactate; D-Lactic acid; delta-(-)-Lactate; delta-(-)-Lactic acid; delta-2-Hydroxypropanoate; delta-2-Hydroxypropanoic acid; delta-2-Hydroxypropionate; delta-2-Hydroxypropionic acid; delta-Lactate; delta-Lactic acid; DLA; L-(+)-Lactate; L-Lactic acid; Propel; Tisulac
+
+$$$$

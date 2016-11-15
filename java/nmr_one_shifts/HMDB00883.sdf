@@ -1,0 +1,120 @@
+
+  Mrv0541 09241312492D          
+
+  8  7  0  0  0  0            999 V2000
+    0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3094    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.9281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  1  0  0  0
+  6  4  1  0  0  0  0
+  7  6  1  0  0  0  0
+  8  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00883
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H11NO2/c1-3(2)4(6)5(7)8/h3-4H,6H2,1-2H3,(H,7,8)/t4-/m0/s1
+
+> <INCHI_KEY>
+KZSNJWFQEVHDMF-BYPYZUCNSA-N
+
+> <FORMULA>
+C5H11NO2
+
+> <MOLECULAR_WEIGHT>
+117.1463
+
+> <EXACT_MASS>
+117.078978601
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+12.191412403732404
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-methylbutanoic acid
+
+> <ALOGPS_LOGP>
+-2.29
+
+> <JCHEM_LOGP>
+-1.953136464200883
+
+> <ALOGPS_LOGS>
+0.26
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7172733818557755
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.599176382928611
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.31999999999999
+
+> <JCHEM_REFRACTIVITY>
+29.4929
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.14e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-valine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00883
+
+> <GENERIC_NAME>
+L-Valine
+
+> <SYNONYMS>
+(2S)-2-Amino-3-methylbutanoate; (2S)-2-Amino-3-methylbutanoic acid; (S)-2-amino-3-methyl-Butanoate; (S)-2-amino-3-methyl-Butanoic acid; (S)-2-Amino-3-methylbutanoate; (S)-2-Amino-3-methylbutanoic acid; (S)-2-Amino-3-methylbutyrate; (S)-2-Amino-3-methylbutyric acid; (S)-a-Amino-b-methylbutyrate; (S)-a-Amino-b-methylbutyric acid; (S)-alpha-Amino-beta-methylbutyrate; (S)-alpha-Amino-beta-methylbutyric acid; (S)-Valine; 2-Amino-3-methylbutanoate; 2-Amino-3-methylbutanoic acid; 2-Amino-3-methylbutyrate; 2-Amino-3-methylbutyric acid; L-(+)-a-Aminoisovalerate; L-(+)-a-Aminoisovaleric acid; L-(+)-alpha-Aminoisovalerate; L-(+)-alpha-Aminoisovaleric acid; L-a-Amino-b-methylbutyrate; L-a-Amino-b-methylbutyric acid; L-alpha-Amino-beta-methylbutyrate; L-alpha-Amino-beta-methylbutyric acid; L-Valine; Valine
+
+$$$$

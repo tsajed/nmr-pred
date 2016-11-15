@@ -1,0 +1,132 @@
+
+  Mrv0541 02231219082D          
+
+ 12 12  0  0  0  0            999 V2000
+   -0.1168    0.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5978    0.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8383    0.0034    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1134    1.2369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5978   -0.8280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3055    0.4157    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8383   -0.8280    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5461    0.4157    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5978    1.6457    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1168   -1.2471    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0202    0.0034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5495   -1.2369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01431
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1=C(O)C(CN)=C(CO)C=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H12N2O2/c1-5-8(12)7(2-9)6(4-11)3-10-5/h3,11-12H,2,4,9H2,1H3
+
+> <INCHI_KEY>
+NHZMQXZHNVQTQA-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H12N2O2
+
+> <MOLECULAR_WEIGHT>
+168.1931
+
+> <EXACT_MASS>
+168.089877638
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.528717433360413
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(aminomethyl)-5-(hydroxymethyl)-2-methylpyridin-3-ol
+
+> <ALOGPS_LOGP>
+-1.23
+
+> <JCHEM_LOGP>
+-1.589605463719245
+
+> <ALOGPS_LOGS>
+-0.76
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.852555941994702
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.816021014375491
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.816237080860606
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.37
+
+> <JCHEM_REFRACTIVITY>
+45.76279999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.90e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyridoxamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01431
+
+> <GENERIC_NAME>
+Pyridoxamine
+
+> <SYNONYMS>
+2-Methyl-4-aminomethyl-5-hydroxymethyl-3-Pyridinol; 4-(Aminomethyl)-5-(hydroxymethyl)-2-methyl-3-pyridinol; 4-(Aminomethyl)-5-hydroxy-6-methyl-3-Pyridinemethanol; PM; Pyridoxylamine
+
+$$$$

@@ -1,0 +1,117 @@
+
+  Mrv0541 02231219202D          
+
+  6  6  0  0  0  0            999 V2000
+   18.7986   -4.4667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3466   -4.6966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6791   -4.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.9340   -3.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7591   -3.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0140   -4.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02039
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C1CCCN1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H7NO/c6-4-2-1-3-5-4/h1-3H2,(H,5,6)
+
+> <INCHI_KEY>
+HNJBEVLQSNELDL-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H7NO
+
+> <MOLECULAR_WEIGHT>
+85.1045
+
+> <EXACT_MASS>
+85.052763851
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.701107143343416
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyrrolidin-2-one
+
+> <ALOGPS_LOGP>
+-0.90
+
+> <JCHEM_LOGP>
+-0.5796092983333335
+
+> <ALOGPS_LOGS>
+0.80
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.745904083510869
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.18488202635506
+
+> <JCHEM_POLAR_SURFACE_AREA>
+29.1
+
+> <JCHEM_REFRACTIVITY>
+22.2579
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.37e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+pyrrolidone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB02039
+
+> <GENERIC_NAME>
+2-Pyrrolidinone
+
+> <SYNONYMS>
+1-Methyl-2-pyrrolidinone; 2-Oxopyrrolidine; 2-Pyrol4-aminobutyric acid lactam; 2-Pyrrolidinone; 2-Pyrrolidone; 2-Pyrrolidone for synthesis; 2-Pyrrolidone-Butyrolactam; alpha-Pyrrolidinone; alpha-Pyrrolidone; Aminobutyric acid lactam; Aminobutyric lactam; Aminobutyrolactam; Butyrolactam; gamma-Aminobutyric lactam; gamma-Butyrolactam; N-Methyl-2-pyrrolidinone; Pyrrolidin-2-one; Pyrrolidinone; Pyrrolidon; Pyrrolidone; Pyrrolidone-2; Tetrahydropyrrolone
+
+$$$$

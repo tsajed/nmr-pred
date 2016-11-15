@@ -1,0 +1,125 @@
+
+  Mrv0541 02231219182D          
+
+  9  8  0  0  0  0            999 V2000
+   13.4655  -11.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1800  -12.2434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8945  -11.8309    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6090  -12.2434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8945  -11.0058    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1800  -13.0684    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1800  -11.4184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3832  -11.2048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7511  -12.2434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  1  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01975
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCC(O)(CC)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O3/c1-3-6(9,4-2)5(7)8/h9H,3-4H2,1-2H3,(H,7,8)
+
+> <INCHI_KEY>
+LXVSANCQXSSLPA-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H12O3
+
+> <MOLECULAR_WEIGHT>
+132.1577
+
+> <EXACT_MASS>
+132.07864425
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.672227167482513
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-ethyl-2-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+0.52
+
+> <JCHEM_LOGP>
+1.005981158
+
+> <ALOGPS_LOGS>
+0.15
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.916560738917497
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.208748201721341
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.9382417854830125
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+32.601099999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.87e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-ethyl-2-hydroxybutyric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01975
+
+> <GENERIC_NAME>
+2-Ethyl-2-Hydroxybutyric acid
+
+> <SYNONYMS>
+2-Ethyl-2-hydroxybutanoate; 2-Ethyl-2-hydroxybutanoic acid; 2-Ethyl-2-Hydroxybutyrate
+
+$$$$

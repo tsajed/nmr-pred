@@ -1,0 +1,127 @@
+
+  Mrv0541 02231218502D          
+
+ 10  9  0  0  1  0            999 V2000
+   16.8205   -7.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5349   -5.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3916   -6.8877    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9638   -6.4751    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1060   -5.6502    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2492   -7.7126    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8205   -6.8877    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   17.5349   -6.4751    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   16.1060   -6.4751    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2492   -6.8877    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  8  2  1  1  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00956
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O[C@H]([C@@H](O)C(O)=O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6O6/c5-1(3(7)8)2(6)4(9)10/h1-2,5-6H,(H,7,8)(H,9,10)/t1-,2-/m1/s1
+
+> <INCHI_KEY>
+FEWJPZIEWOKRBE-JCYAYHJZSA-N
+
+> <FORMULA>
+C4H6O6
+
+> <MOLECULAR_WEIGHT>
+150.0868
+
+> <EXACT_MASS>
+150.016437924
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.32706332503022
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3R)-2,3-dihydroxybutanedioic acid
+
+> <ALOGPS_LOGP>
+-1.27
+
+> <JCHEM_LOGP>
+-1.8287998886666665
+
+> <ALOGPS_LOGS>
+0.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+4.792876457889947
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7190410038171646
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.330574673439462
+
+> <JCHEM_POLAR_SURFACE_AREA>
+115.06
+
+> <JCHEM_REFRACTIVITY>
+26.2134
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.61e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L(+)-tartaric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00956
+
+> <GENERIC_NAME>
+Tartaric acid
+
+> <SYNONYMS>
+(+)-(2R,3R)-Tartaric acid; (+)-tartarate; (+)-tartaric acid; (1R,2R)-1,2-Dihydroxyethane-1,2-dicarboxylic acid; (2R,3R)-2,3-dihydroxybutanedioate; (2R,3R)-2,3-dihydroxybutanedioic acid; (2R,3R)-2,3-dihydroxysuccinic acid; (2R,3R)-2,3-tartaric acid; (2R,3R)-Tartarate; (2R,3R)-Tartaric acid; (R,R)-(+)-tartaric acid; (R,R)-tartarate; (R,R)-tartaric acid; (R,R)-tartrate; 1,2-Dihydroxyethane-1,2-dicarboxylic acid; 2,3-Dihydroxy-succinate; 2,3-Dihydroxy-succinic acid; 2,3-Dihydroxybutanedioate; 2,3-Dihydroxybutanedioic acid; 2,3-Dihydroxysuccinic acid; D-a,b-Dihydroxysuccinic acid; D-Tartaric acid; Dextrotartaric acid; L(+)-Tartaric acid; L-(+)-Tartaric acid; L-Tartarate; L-Tartaric acid; L-Threaric acid; Natural tartaric acid; Rechtsweinsaeure; TAR; Tartarate; Tartaric acid; Tartrate; Threaric acid; TLA; Weinsaeure
+
+$$$$

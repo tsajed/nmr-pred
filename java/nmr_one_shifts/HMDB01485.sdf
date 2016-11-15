@@ -1,0 +1,114 @@
+
+  Mrv0541 02231216122D          
+
+  8  7  0  0  0  0            999 V2000
+    1.0461    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7605    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01485
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3
+
+> <INCHI_KEY>
+TVMXDCGIABBOFY-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H18
+
+> <MOLECULAR_WEIGHT>
+114.2285
+
+> <EXACT_MASS>
+114.140850576
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.41530104779647
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+octane
+
+> <ALOGPS_LOGP>
+4.73
+
+> <JCHEM_LOGP>
+4.020275222666667
+
+> <ALOGPS_LOGS>
+-4.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_POLAR_SURFACE_AREA>
+0
+
+> <JCHEM_REFRACTIVITY>
+38.6102
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.37e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+octane
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01485
+
+> <GENERIC_NAME>
+Octane
+
+> <SYNONYMS>
+N-Octane; Octane
+
+$$$$

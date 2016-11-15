@@ -1,0 +1,131 @@
+
+  Mrv0541 02231218202D          
+
+ 12 11  0  0  1  0            999 V2000
+   13.6187   -7.7492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9043   -9.8116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3332   -9.8116    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1899   -7.7492    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7620   -8.9867    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7610   -8.5741    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6187   -8.5741    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.9043   -8.9867    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.3332   -8.9867    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.1899   -8.5741    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.0475   -8.5741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4755   -8.9867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  8  2  1  6  0  0  0
+  9  3  1  1  0  0  0
+ 10  4  1  6  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00107
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4+,5+,6-
+
+> <INCHI_KEY>
+FBPFZTCFMRRESA-GUCUJZIJSA-N
+
+> <FORMULA>
+C6H14O6
+
+> <MOLECULAR_WEIGHT>
+182.1718
+
+> <EXACT_MASS>
+182.07903818
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.246117178806152
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R,3S,4R,5S)-hexane-1,2,3,4,5,6-hexol
+
+> <ALOGPS_LOGP>
+-2.68
+
+> <JCHEM_LOGP>
+-3.7300188486666666
+
+> <ALOGPS_LOGS>
+0.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.37874915684328
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.585200956788803
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.974211614825128
+
+> <JCHEM_POLAR_SURFACE_AREA>
+121.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+38.403600000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.29e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+galactitol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00107
+
+> <GENERIC_NAME>
+Galactitol
+
+> <SYNONYMS>
+Ambap5938; D-Dulcitol; Dulcite; Dulcitol; Dulcose; Euonymit; Galactitol; Hexitol; Melampyrin; Melampyrit; Melampyrite; Melampyrum; Meso-galactitol
+
+$$$$

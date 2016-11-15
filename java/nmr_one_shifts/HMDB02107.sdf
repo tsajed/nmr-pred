@@ -1,0 +1,129 @@
+
+  Mrv0541 02231216262D          
+
+ 12 12  0  0  0  0            999 V2000
+    2.1434    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8579    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  4  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02107
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H6O4/c9-7(10)5-3-1-2-4-6(5)8(11)12/h1-4H,(H,9,10)(H,11,12)
+
+> <INCHI_KEY>
+XNGIFLGASWRNHJ-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H6O4
+
+> <MOLECULAR_WEIGHT>
+166.1308
+
+> <EXACT_MASS>
+166.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.94689103596764
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+benzene-1,2-dicarboxylic acid
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+1.2884116319999999
+
+> <ALOGPS_LOGS>
+-1.73
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+5.488012703021749
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.9412111090751636
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.6
+
+> <JCHEM_REFRACTIVITY>
+40.5704
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.12e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phthalic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02107
+
+> <GENERIC_NAME>
+Phthalic acid
+
+> <SYNONYMS>
+Alizarinate; Alizarinic acid; M 2; Naphthalinate; Naphthalinic acid; O-Benzenedicarboxylate; O-Benzenedicarboxylic acid; O-Carboxybenzoate; O-Carboxybenzoic acid; O-Dicarboxybenzene; Phthalate; Phthalic acid; Phthalinate; Phthalinic acid; Sunftal 20
+
+$$$$

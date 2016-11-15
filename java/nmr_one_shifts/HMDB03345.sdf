@@ -1,0 +1,132 @@
+
+  Mrv0541 02231219422D          
+
+ 12 12  0  0  1  0            999 V2000
+   26.2084  -13.7915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3505  -14.6165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3505  -16.2665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2084  -16.2665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7795  -17.0915    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7795  -14.6165    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2084  -14.6165    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.0650  -15.0290    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   25.4940  -15.0290    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   24.0650  -15.8540    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   25.4940  -15.8540    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   24.7795  -16.2665    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  8  2  1  1  0  0  0
+ 10  3  1  1  0  0  0
+ 11  4  1  1  0  0  0
+ 12  5  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9  7  1  6  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03345
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6+/m1/s1
+
+> <INCHI_KEY>
+WQZGKKKJIJFFOK-DVKNGEFBSA-N
+
+> <FORMULA>
+C6H12O6
+
+> <MOLECULAR_WEIGHT>
+180.1559
+
+> <EXACT_MASS>
+180.063388116
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.09261590186258
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol
+
+> <ALOGPS_LOGP>
+-2.57
+
+> <JCHEM_LOGP>
+-2.932539218
+
+> <ALOGPS_LOGS>
+0.64
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.687538461190869
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.298101552080594
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9810792051782764
+
+> <JCHEM_POLAR_SURFACE_AREA>
+110.38000000000001
+
+> <JCHEM_REFRACTIVITY>
+35.923399999999994
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.82e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-glucose
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03345
+
+> <GENERIC_NAME>
+Alpha-D-Glucose
+
+> <SYNONYMS>
+a-D-Glucopyranose; a-D-Glucose; a-Dextrose; a-Glucose; alpha-D-Glucopyranose; alpha-D-Glucose; alpha-delta-Glucopyranose; alpha-delta-Glucose; alpha-Dextrose; alpha-Glucose; Hexopyranose
+
+$$$$

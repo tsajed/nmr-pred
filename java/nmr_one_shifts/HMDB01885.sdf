@@ -1,0 +1,136 @@
+Untitled Document-1
+  Mrv0541 02231219152D          
+
+ 14 14  0  0  0  0            999 V2000
+   -2.4750   -1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4750    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2375   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750    0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.0717    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12  7  1  0  0  0  0
+ 10 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01885
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC(CC1=CC(Cl)=C(O)C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10ClNO3/c10-6-3-5(1-2-8(6)12)4-7(11)9(13)14/h1-3,7,12H,4,11H2,(H,13,14)
+
+> <INCHI_KEY>
+ACWBBAGYTKWBCD-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10ClNO3
+
+> <MOLECULAR_WEIGHT>
+215.634
+
+> <EXACT_MASS>
+215.034920898
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.351929982702558
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-3-(3-chloro-4-hydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.65
+
+> <JCHEM_LOGP>
+-0.8850358142060988
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+7.922885095364729
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.5613557553897812
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.470030440170163
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+51.90200000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+monochlorotyrosine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01885
+
+> <GENERIC_NAME>
+3-Chlorotyrosine
+
+> <SYNONYMS>
+3-Chloro-L-tyrosine; Chlorotyrosine; L-(8CI)-3-chloro-Tyrosine; Monochlorotyrosine
+
+$$$$
