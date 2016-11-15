@@ -1,0 +1,136 @@
+
+  Mrv0541 02231218502D          
+
+ 14 14  0  0  0  0            999 V2000
+   16.8663   -9.1650    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2953   -9.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.7242   -5.0399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2953   -5.0399    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2953   -7.5150    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5809   -8.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5809   -7.9275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0098   -7.9275    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2953   -9.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0098   -8.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2953   -6.6900    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0098   -6.2775    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1518   -8.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0098   -5.4524    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 14  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00954
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=C(O)C=CC(\C=C\C(O)=O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H10O4/c1-14-9-6-7(2-4-8(9)11)3-5-10(12)13/h2-6,11H,1H3,(H,12,13)/b5-3+
+
+> <INCHI_KEY>
+KSEBMYQBYZTDHS-HWKANZROSA-N
+
+> <FORMULA>
+C10H10O4
+
+> <MOLECULAR_WEIGHT>
+194.184
+
+> <EXACT_MASS>
+194.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.18010367078505
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoic acid
+
+> <ALOGPS_LOGP>
+1.58
+
+> <JCHEM_LOGP>
+1.6748496726666668
+
+> <ALOGPS_LOGS>
+-2.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.982312921511172
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7673485922827705
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.89396153310966
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+51.504000000000005
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.06e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ferulic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00954
+
+> <GENERIC_NAME>
+trans-Ferulic acid
+
+> <SYNONYMS>
+(2E)-3-(4-Hydroxy-3-methoxyphenyl)-2-propenoate; (2E)-3-(4-Hydroxy-3-methoxyphenyl)-2-propenoic acid; (E)-3-(4-Hydroxy-3-methoxyphenyl)-2-propenoate; (E)-3-(4-Hydroxy-3-methoxyphenyl)-2-propenoic acid; (E)-4-hydroxy-3-methoxy-Cinnamate; (E)-4-hydroxy-3-methoxy-Cinnamic acid; (E)-4-Hydroxy-3-methoxycinnamate; (E)-4-Hydroxy-3-methoxycinnamic acid; (E)-Ferulate; (E)-Ferulic acid; 3-(4-Hydroxy-3-methoxyphenyl)propenoate; 3-(4-Hydroxy-3-methoxyphenyl)propenoic acid; 4-Hydroxy-3-methoxycinnamate; 4-Hydroxy-3-methoxycinnamic acid; Ferulate; Ferulic acid; trans-4-Hydroxy-3-methoxycinnamate; trans-4-Hydroxy-3-methoxycinnamic acid; trans-Ferulate; trans-Ferulic acid
+
+$$$$

@@ -1,0 +1,123 @@
+
+  Mrv0541 09241312372D          
+
+  8  7  0  0  0  0            999 V2000
+    0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    0.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.3094    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.3094    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000   -1.1344    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.1031    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.9281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.3094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+  4  5  1  1  0  0  0
+  6  4  1  0  0  0  0
+  6  7  1  1  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00167
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@@H](O)[C@H](N)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H9NO3/c1-2(6)3(5)4(7)8/h2-3,6H,5H2,1H3,(H,7,8)/t2-,3+/m1/s1
+
+> <INCHI_KEY>
+AYFVYJQAPQTCCC-GBXIJSLDSA-N
+
+> <FORMULA>
+C4H9NO3
+
+> <MOLECULAR_WEIGHT>
+119.1192
+
+> <EXACT_MASS>
+119.058243159
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.078258022254149
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R)-2-amino-3-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-3.01
+
+> <JCHEM_LOGP>
+-3.4709635238772347
+
+> <ALOGPS_LOGS>
+0.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.953369305664726
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.207432028688761
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.002504827404067
+
+> <JCHEM_POLAR_SURFACE_AREA>
+83.55
+
+> <JCHEM_REFRACTIVITY>
+26.4598
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.77e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-threonine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00167
+
+> <GENERIC_NAME>
+L-Threonine
+
+> <SYNONYMS>
+(2S,3R)-(-)-Threonine; (2S,3R)-2-Amino-3-hydroxybutyrate; (2S,3R)-2-Amino-3-hydroxybutyric acid; (R-(R*,S*))-2-Amino-3-hydroxybutanoate; (R-(R*,S*))-2-Amino-3-hydroxybutanoic acid; (S)-Threonine; 2-Amino-3-hydroxybutanoate; 2-Amino-3-hydroxybutanoic acid; 2-Amino-3-hydroxybutyrate; 2-Amino-3-hydroxybutyric acid; L-(-)-Threonine; L-2-Amino-3-hydroxybutyrate; L-2-Amino-3-hydroxybutyric acid; L-alpha-Amino-beta-hydroxybutyrate; L-alpha-Amino-beta-hydroxybutyric acid; Threonin; Threonine; [R-(R*,S*)]-2-amino-3-hydroxy-Butanoate; [R-(R*,S*)]-2-amino-3-hydroxy-Butanoic acid; [R-(R*,S*)]-2-Amino-3-hydroxybutanoate; [R-(R*,S*)]-2-Amino-3-hydroxybutanoic acid
+
+$$$$

@@ -1,0 +1,128 @@
+
+  Mrv0541 02231217232D          
+
+ 10 10  0  0  0  0            999 V2000
+    2.1434    1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01123
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC1=CC=CC=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c8-6-4-2-1-3-5(6)7(9)10/h1-4H,8H2,(H,9,10)
+
+> <INCHI_KEY>
+RWZYAGGXGHYGMB-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.287028169676379
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminobenzoic acid
+
+> <ALOGPS_LOGP>
+0.78
+
+> <JCHEM_LOGP>
+1.4519027699999998
+
+> <ALOGPS_LOGS>
+-1.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+19.44069433947566
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.892673611619119
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+1.9474348350285466
+
+> <JCHEM_POLAR_SURFACE_AREA>
+63.32
+
+> <JCHEM_REFRACTIVITY>
+38.0146
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.81e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-aminobenzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01123
+
+> <GENERIC_NAME>
+2-Aminobenzoic acid
+
+> <SYNONYMS>
+1-Amino-2-carboxybenzene; 2-Amino-Benzoate; 2-Amino-Benzoic acid; 2-Aminobenzoate; 2-Aminobenzoic acid; 2-Aminophenylacetate; 2-Aminophenylacetic acid; 2-Carboxyaniline; Anthranate; Anthranic acid; Anthranilate; Anthranilic acid; Anthranilic acid gr; Carboxyaniline; H-2-Abz-OH; Kyselina anthranilova; Kyselina O-aminobenzoova; O-Amino-Benzoate; O-Amino-Benzoic acid; O-Aminobenzoate; O-Aminobenzoic acid; O-Anthranilate; O-Anthranilic acid; O-Carboxyaniline; Ortho-amidobenzoate; Ortho-amidobenzoic acid; Ortho-aminobenzoate; Ortho-aminobenzoic acid; Vitamin L; Vitamin L1
+
+$$$$

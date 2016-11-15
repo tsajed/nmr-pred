@@ -1,0 +1,159 @@
+3b-Androsterone.mol
+  Mrv0541 02231218292D          
+
+ 24 27  0  0  0  0            999 V2000
+   -1.3492   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0637   -0.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0637   -1.3448    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7782   -1.7573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3492   -1.7573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6348   -1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797   -1.7573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7942   -1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7942   -0.5198    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5086   -0.1073    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2933   -0.3622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7782    0.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2933    0.9727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5482    1.7573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5086    0.7177    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.5086    1.5427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7942    1.1302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797    0.7177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797   -0.1073    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6348   -0.5198    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6348    0.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797   -0.9323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7942    0.3052    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5086   -0.9323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  1  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  1 20  1  0  0  0  0
+  6 20  1  0  0  0  0
+ 20 21  1  1  0  0  0
+ 19 22  1  6  0  0  0
+  9 23  1  1  0  0  0
+ 10 24  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00365
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2C[C@@H](O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H30O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h12-16,20H,3-11H2,1-2H3/t12?,13-,14-,15-,16-,18-,19-/m0/s1
+
+> <INCHI_KEY>
+QGXBDMJGAMFCBF-QRIARFFBSA-N
+
+> <FORMULA>
+C19H30O2
+
+> <MOLECULAR_WEIGHT>
+290.4403
+
+> <EXACT_MASS>
+290.224580204
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.70088120268906
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S,5S,10R,11S,15S)-5-hydroxy-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-14-one
+
+> <ALOGPS_LOGP>
+3.71
+
+> <JCHEM_LOGP>
+3.7672845366666667
+
+> <ALOGPS_LOGS>
+-4.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.96171995034024
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.296396321120497
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3569559187002107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+83.80890000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.34e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+epi-androsterone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00365
+
+> <GENERIC_NAME>
+Epiandrosterone
+
+> <SYNONYMS>
+3-Epiandrosterone; 3b-Androsterone; 3b-Hydroxy-17-oxo-5a-androstane; 3b-Hydroxy-5a-androstan-17-one; 3b-Hydroxy-5a-androstane-17-one; 3b-Hydroxyandrostan-17-one; 3b-Hydroxyetioallocholan-17-one; 3b-OH-5a-Androstane-17-one; 5a-Androstan-3b-ol-17-one; 5a-Androstane-3b-ol-17-one; D-Epiandrosterone; Epi-andosterone; Epi-Androsterone; Iso-Androsterone; Isoandrosterone; trans-Androsterone
+
+$$$$

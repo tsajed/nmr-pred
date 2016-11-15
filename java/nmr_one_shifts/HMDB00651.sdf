@@ -1,0 +1,149 @@
+decanoylcar.mol
+  Mrv0541 02231218392D          
+
+ 22 21  0  0  0  0            999 V2000
+    2.5006    0.5635    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.6740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    1.8010    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+    4.6441    1.8010    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296   -1.0865    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    3.2151   -0.6740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6441   -1.4990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5171   -1.8010    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3422   -0.3721    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3573    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3573    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9296    1.3885    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9296    0.1510    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6441    0.5635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2 12  2  0  0  0  0
+  3 18  1  0  0  0  0
+  4 18  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8 18  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 21  1  0  0  0  0
+ 21 22  1  0  0  0  0
+ 12  1  1  0  0  0  0
+M  CHG  2   3  -1   5   1
+M  END
+> <DATABASE_ID>
+HMDB00651
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCC(=O)OC(CC([O-])=O)C[N+](C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C17H33NO4/c1-5-6-7-8-9-10-11-12-17(21)22-15(13-16(19)20)14-18(2,3)4/h15H,5-14H2,1-4H3
+
+> <INCHI_KEY>
+LZOSYCMHQXPBFU-UHFFFAOYSA-N
+
+> <FORMULA>
+C17H33NO4
+
+> <MOLECULAR_WEIGHT>
+315.4482
+
+> <EXACT_MASS>
+315.240958549
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+37.598610398991816
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-(decanoyloxy)-4-(trimethylazaniumyl)butanoate
+
+> <ALOGPS_LOGP>
+-0.85
+
+> <JCHEM_LOGP>
+-0.633864135805079
+
+> <ALOGPS_LOGS>
+-6.44
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.216763902737658
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.057186892022333
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.43
+
+> <JCHEM_REFRACTIVITY>
+109.4707
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.35e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+-)-decanoylcarnitine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00651
+
+> <GENERIC_NAME>
+Decanoylcarnitine
+
+> <SYNONYMS>
+Decanoyl-L-carnitine; Decanoylcarnitine
+
+$$$$

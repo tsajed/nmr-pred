@@ -1,0 +1,142 @@
+Untitled Document-4
+  Mrv0541 02231219402D          
+
+ 17 17  0  0  0  0            999 V2000
+   -0.7145    1.2375    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.7145    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    0.4125    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.0000    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    1.6500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7145   -2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  1  1  0  0  0  0
+  2  7  1  6  0  0  0
+  3  8  1  6  0  0  0
+  4  9  1  6  0  0  0
+  1 10  1  1  0  0  0
+  5 11  1  1  0  0  0
+  8 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 12 16  1  6  0  0  0
+ 10 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03254
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@@H](O[C@H]1[C@@H](N)[C@H](O)O[C@H](CO)[C@H]1O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H17NO7/c1-3(8(13)14)16-7-5(10)9(15)17-4(2-11)6(7)12/h3-7,9,11-12,15H,2,10H2,1H3,(H,13,14)/t3-,4-,5-,6-,7+,9-/m1/s1
+
+> <INCHI_KEY>
+MSFSPUZXLOGKHJ-LEISLEKSSA-N
+
+> <FORMULA>
+C9H17NO7
+
+> <MOLECULAR_WEIGHT>
+251.2338
+
+> <EXACT_MASS>
+251.100501903
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.58206497122821
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2R)-2-{[(2R,3R,4S,5S,6R)-3-amino-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy}propanoic acid
+
+> <ALOGPS_LOGP>
+-3.13
+
+> <JCHEM_LOGP>
+-4.614715255918833
+
+> <ALOGPS_LOGS>
+-0.22
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.73613012642159
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.328594007566756
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.122175144111422
+
+> <JCHEM_POLAR_SURFACE_AREA>
+142.47
+
+> <JCHEM_REFRACTIVITY>
+52.9106
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.52e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(2R)-2-{[(2R,3R,4S,5S,6R)-3-amino-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy}propanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03254
+
+> <GENERIC_NAME>
+Muramic acid
+
+> <SYNONYMS>
+(+)-Muramate; (+)-Muramic acid; 3-O-alpha-Carboxyethyl-D-glucosamine; 3-O-alpha-Carboxyethyl-delta-glucosamine; Muramate; Muramic acid hydrate; Murexide
+
+$$$$

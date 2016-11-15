@@ -1,0 +1,119 @@
+
+  Mrv0541 02231219092D          
+
+  9  8  0  0  0  0            999 V2000
+    0.3081    0.3766    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4040    0.7840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3081   -0.4484    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9620    0.8798    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2739   -0.2088    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1195    0.3732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0236   -0.8593    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8315    0.7840    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0236   -1.6843    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01460
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCOP(O)(=S)OCC
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H11O3PS/c1-3-6-8(5,9)7-4-2/h3-4H2,1-2H3,(H,5,9)
+
+> <INCHI_KEY>
+PKUWKAXTAVNIJR-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H11O3PS
+
+> <MOLECULAR_WEIGHT>
+170.167
+
+> <EXACT_MASS>
+170.01665142
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.971204640704492
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+diethoxy(sulfanylidene)phosphinous acid
+
+> <ALOGPS_LOGP>
+1.22
+
+> <JCHEM_LOGP>
+1.3393031163333333
+
+> <ALOGPS_LOGS>
+-1.45
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.862167083302326
+
+> <JCHEM_POLAR_SURFACE_AREA>
+38.69
+
+> <JCHEM_REFRACTIVITY>
+41.1046
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.06e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+DETP
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01460
+
+> <GENERIC_NAME>
+Diethylthiophosphate
+
+> <SYNONYMS>
+DETP; Diethylthiophosphate; Diethylthiophosphorate; Diethylthiophosphoric acid; O,O-Diethyl phosphorothionate
+
+$$$$

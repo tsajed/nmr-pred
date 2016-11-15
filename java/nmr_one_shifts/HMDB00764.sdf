@@ -1,0 +1,124 @@
+
+  Mrv0541 02231215542D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    3.3000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    3.7125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  6 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00764
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O2/c10-9(11)7-6-8-4-2-1-3-5-8/h1-5H,6-7H2,(H,10,11)
+
+> <INCHI_KEY>
+XMIIGOLPHOKFCH-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O2
+
+> <MOLECULAR_WEIGHT>
+150.1745
+
+> <EXACT_MASS>
+150.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.943854511513786
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-phenylpropanoic acid
+
+> <ALOGPS_LOGP>
+1.84
+
+> <JCHEM_LOGP>
+2.0555627703333332
+
+> <ALOGPS_LOGS>
+-1.95
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.728925328917475
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+41.9666
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.70e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-phenylpropionic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00764
+
+> <GENERIC_NAME>
+Hydrocinnamic acid
+
+> <SYNONYMS>
+3-Phenyl-N-propionate; 3-Phenyl-N-propionic acid; 3-Phenylpropanoate; 3-Phenylpropanoic acid; 3-Phenylpropionate; 3-Phenylpropionic acid; b-Phenylpropionate; b-Phenylpropionic acid; Benzenepropionate; Benzenepropionic acid; Benzylacetate; Benzylacetic acid; beta-Phenylpropionate; beta-Phenylpropionic acid; Dihydrocinnamate; Dihydrocinnamic acid; Hydrocinnamate; Hydrocinnamic acid; Omega-Phenylpropanoate; Omega-Phenylpropanoic acid; w-Phenylpropanoate; w-Phenylpropanoic acid
+
+$$$$

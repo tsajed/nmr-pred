@@ -1,0 +1,128 @@
+
+  Mrv0541 02231219322D          
+
+ 10 10  0  0  0  0            999 V2000
+   23.7016  -11.8350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8320  -11.8350    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7668  -12.6171    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3904  -13.1941    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3146  -12.3871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2188  -12.3871    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0993  -12.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4342  -12.1321    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3542  -11.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1793  -11.3475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  2  0  0  0  0
+  8 10  2  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02432
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCC1=CC=C(O1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H6O4/c7-3-4-1-2-5(10-4)6(8)9/h1-2,7H,3H2,(H,8,9)
+
+> <INCHI_KEY>
+PCSKKIUURRTAEM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H6O4
+
+> <MOLECULAR_WEIGHT>
+142.1094
+
+> <EXACT_MASS>
+142.02660868
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.011448051358101
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-(hydroxymethyl)furan-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.11
+
+> <JCHEM_LOGP>
+-0.1562732756666666
+
+> <ALOGPS_LOGS>
+-0.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.819647882391092
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.1124524626721026
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.4162668621192864
+
+> <JCHEM_POLAR_SURFACE_AREA>
+70.67
+
+> <JCHEM_REFRACTIVITY>
+32.3985
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.09e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-hydroxymethyl-2-furoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02432
+
+> <GENERIC_NAME>
+Sumiki's acid
+
+> <SYNONYMS>
+5-(Hydroxymethyl)- 2-Furancarboxylate; 5-(Hydroxymethyl)-2-Furoate; 5-(Hydroxymethyl)-2-Furoic acid; 5-Hydroxymethyl-2-furancarboxylate; 5-Hydroxymethyl-2-furancarboxylic acid; 5-Hydroxymethyl-2-furoate; 5-Hydroxymethyl-2-furoic acid; 5-Hydroxymethyl-furan-2-carboxylate; 5-Hydroxymethyl-furan-2-carboxylic acid; 5-Hydroxymethylfuran-2-carboxylic acid ; 5-Hydroxymethylfuranoate; 5-Hydroxymethylfuranoic acid; 5-Hydroxymethylfuroate; 5-Hydroxymethylfuroic acid
+
+$$$$

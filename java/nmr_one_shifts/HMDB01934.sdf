@@ -1,0 +1,127 @@
+
+  Mrv0541 02231219172D          
+
+ 12 13  0  0  1  0            999 V2000
+   10.6821   -8.1129    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0068   -8.5842    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.2541   -8.2465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5471   -7.0119    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2541   -7.4305    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3504   -8.5771    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6821   -7.2722    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2741   -9.3686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1077   -9.3686    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5471   -8.6546    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8330   -7.4199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8330   -8.2465    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  6  1  1  0  0  0  0
+  7  1  1  0  0  0  0
+  2  3  1  1  0  0  0
+  8  2  1  0  0  0  0
+  5  3  2  0  0  0  0
+ 10  3  1  0  0  0  0
+  5  4  1  0  0  0  0
+ 11  4  2  0  0  0  0
+  9  6  1  0  0  0  0
+  9  8  1  0  0  0  0
+ 12 10  2  0  0  0  0
+ 12 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01934
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1CCC[C@H]1C1=CN=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3/t10-/m0/s1
+
+> <INCHI_KEY>
+SNICXCGAKADSCV-JTQLQIEISA-N
+
+> <FORMULA>
+C10H14N2
+
+> <MOLECULAR_WEIGHT>
+162.2316
+
+> <EXACT_MASS>
+162.115698458
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.58909809719573
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(2S)-1-methylpyrrolidin-2-yl]pyridine
+
+> <ALOGPS_LOGP>
+0.87
+
+> <JCHEM_LOGP>
+1.1625346926666664
+
+> <ALOGPS_LOGS>
+-0.24
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.861872125269352
+
+> <JCHEM_POLAR_SURFACE_AREA>
+16.130000000000003
+
+> <JCHEM_REFRACTIVITY>
+49.655
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.33e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nicoderm CQ
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01934
+
+> <GENERIC_NAME>
+L(-)-Nicotine pestanal
+
+> <SYNONYMS>
+(+)-Nicotine; (-)-3-(1-Methyl-2-pyrrolidyl)pyridine; (-)-3-(N-Methylpyrrolidino)pyridine; (-)-Nicotine; (R)-3-(1-Methyl-2-pyrrolidinyl)pyridine; (R,S)-Nicotine; (S)-(-)-Nicotine; (S)-3-(1-methylpyrrolidin-2-yl)pyridine; (S)-Nicotine; 1-Methyl-2-(3-pyridal)-pyrrolidene; 1-Methyl-2-(3-pyridal)-Pyrrolidine; 1-Methyl-2-(3-pyridiyl)pyrrolidine; 1-Methyl-2-(3-pyridyl)pyrrolidine; 2'-beta-H-Nicotine; 3-(1-Methyl-2-pyrollidinyl)pyridine; 3-(1-Methyl-2-pyrrolidinyl)-Pyridine; 3-(1-Methyl-2-pyrrolidinyl)pyridine; 3-(1-Methylpyrrolidin-2-yl)pyridine; 3-(N-Methylpyrollidino)pyridine; 3-(N-Methylpyrrolidino)pyridine; 3-N-Methylpyrrolidine; a -N-Methylpyrrolidine; a-N-Methylpyrrolidine; alpha-N-Methylpyrrolidine; beta-Pyridyl-alpha-N-methylpyrrolidine; D-Nicotine; delta-Nicotine; Destruxol; DL-tetrahydronicotyrine; Fumeto bac; Habitrol; L-3-(1-Methyl-2-pyrrolidyl)pyridine; L-Nicotine; Methyl-2-pyrrolidinyl)pyridine; Nicoderm; Nicotine; Nicotine Polacrilex; Nicotine [UN1654]; R)-(+)-Nicotine
+
+$$$$

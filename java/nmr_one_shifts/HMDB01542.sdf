@@ -1,0 +1,161 @@
+
+  Mrv0541 02231219122D          
+
+ 26 27  0  0  1  0            999 V2000
+    0.5213    0.5892    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5213    1.4202    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2313    0.1700    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.1359    0.2757    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2313    1.8281    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1888    1.8281    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9528    0.5892    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2313   -0.6535    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8460   -0.1359    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.9528    1.4202    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9027    1.4202    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6666    0.1776    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5637    0.2720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8460   -0.9670    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.6628    1.8318    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6666   -0.6421    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2775   -0.1359    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5637   -1.3862    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.1322   -1.3786    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3804   -1.0500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9565   -1.0538    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2775   -0.9670    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9877    0.2720    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5674   -2.2095    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9914   -1.3749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6978   -0.1359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  6  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  1  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  1  0  0  0
+  9  4  1  1  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  6  0  0  0
+  9 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  1  0  0  0
+ 12 16  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 19  1  6  0  0  0
+ 16 20  1  0  0  0  0
+ 16 21  2  0  0  0  0
+ 17 22  1  0  0  0  0
+ 17 23  1  1  0  0  0
+ 18 24  1  1  0  0  0
+ 22 25  1  1  0  0  0
+ 23 26  1  0  0  0  0
+  7 10  1  0  0  0  0
+ 18 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01542
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(=O)N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H25NO11/c1-4(18)15-7-9(20)12(6(3-17)24-13(7)23)26-14-11(22)10(21)8(19)5(2-16)25-14/h5-14,16-17,19-23H,2-3H2,1H3,(H,15,18)/t5-,6-,7-,8+,9-,10+,11-,12-,13-,14+/m1/s1
+
+> <INCHI_KEY>
+KFEUJDWYNGMDBV-LODBTCKLSA-N
+
+> <FORMULA>
+C14H25NO11
+
+> <MOLECULAR_WEIGHT>
+383.3484
+
+> <EXACT_MASS>
+383.142760647
+
+> <JCHEM_ACCEPTOR_COUNT>
+11
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+35.67228039890038
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+8
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(2R,3R,4R,5S,6R)-2,4-dihydroxy-6-(hydroxymethyl)-5-{[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}oxan-3-yl]acetamide
+
+> <ALOGPS_LOGP>
+-2.80
+
+> <JCHEM_LOGP>
+-4.991410057333334
+
+> <ALOGPS_LOGS>
+-0.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.231138627153623
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.501288100055472
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981083565282729
+
+> <JCHEM_POLAR_SURFACE_AREA>
+198.39999999999998
+
+> <JCHEM_REFRACTIVITY>
+79.43799999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+2.59e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-acetyllactosamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01542
+
+> <GENERIC_NAME>
+N-Acetyllactosamine
+
+> <SYNONYMS>
+beta-D-Galactosyl-1,4-N-acetyl-beta-D-glucosamine; beta-D-Galactosyl-1,4-N-acetyl-D-glucosamine; beta-delta-Galactosyl-1,4-N-acetyl-beta-delta-glucosamine; beta-delta-Galactosyl-1,4-N-acetyl-delta-glucosamine; D-Galactopyranosyl; delta-Galactopyranosyl; N-Acetyl-Lactosamine; N-Acetyllactosamine
+
+$$$$

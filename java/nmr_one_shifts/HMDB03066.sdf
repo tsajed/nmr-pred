@@ -1,0 +1,138 @@
+
+  Mrv0541 02231219382D          
+
+ 16 17  0  0  0  0            999 V2000
+   14.1635  -11.0138    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5926  -11.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1635  -13.4888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8781  -11.4262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1635  -12.6638    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8781  -12.2512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5926  -10.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3070  -11.4262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8781  -13.9012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4491  -13.9012    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3070   -9.7763    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0214  -11.0138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8781  -14.7262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4491  -14.7262    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0214  -10.1888    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1635  -15.1388    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  2  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 14  2  0  0  0  0
+ 11 15  2  0  0  0  0
+ 12 15  1  0  0  0  0
+ 13 16  2  0  0  0  0
+ 14 16  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03066
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C(\C=C\C1=CC=CC=C1)C1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C15H12O/c16-15(14-9-5-2-6-10-14)12-11-13-7-3-1-4-8-13/h1-12H/b12-11+
+
+> <INCHI_KEY>
+DQFBYFPFKXHELB-VAWYXSNFSA-N
+
+> <FORMULA>
+C15H12O
+
+> <MOLECULAR_WEIGHT>
+208.2552
+
+> <EXACT_MASS>
+208.088815006
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.72494760122555
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(2E)-1,3-diphenylprop-2-en-1-one
+
+> <ALOGPS_LOGP>
+3.63
+
+> <JCHEM_LOGP>
+3.8903253089999996
+
+> <ALOGPS_LOGS>
+-4.53
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.908574825151867
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.303976722038771
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+66.87700000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.16e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trans-chalcone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB03066
+
+> <GENERIC_NAME>
+Chalcone
+
+> <SYNONYMS>
+(2E)-1,3-Diphenyl-2-propen-1-one; 1, 3-Diphenyl-1-propen-3-one; 1,3-Diphenyl-2-propen-1-one; 1,3-Diphenyl-2-propenone; 1,3-Diphenylpropenone; 1-Benzoyl-1-phenylethene; 1-Benzoyl-2-phenylethene; 1-Benzoyl-2-phenylethylene; 1-Phenyl-2-benzoylethylene; 2-Benzalacetophenone; 2-Benzylideneacetophenone; 3-Phenyl-Acrylophenone; 3-Phenylacrylophenone; a-Benzylideneacetophenone; alpha-Benzylideneacetophenone; b-Benzoylstyrene; b-Phenylacrylophenone; Benzalacetophenone; Benzylideneacetophenone; Benzylidenecetophenone; beta-Benzoylstyrene; beta-Phenylacrylophenone; Chalcone (ACD/Name 4.0); Chalkone; Cinnamophenone; Phenyl 2-phenylvinyl ketone; Phenyl styryl ketone; Styryl phenyl ketone
+
+$$$$

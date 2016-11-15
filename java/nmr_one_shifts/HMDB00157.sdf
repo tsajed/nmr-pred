@@ -1,0 +1,129 @@
+Hypoxanthine.mol
+  Mrv0541 02231218212D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.8643    0.2549    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3492   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8643   -1.0799    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6348   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3492   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3492    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6348    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6348    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0797    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  1 10  1  0  0  0  0
+  4 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00157
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC1=NC=NC2=C1NC=N2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H4N4O/c10-5-3-4(7-1-6-3)8-2-9-5/h1-2H,(H2,6,7,8,9,10)
+
+> <INCHI_KEY>
+FDGQSTZJBFJUBT-UHFFFAOYSA-N
+
+> <FORMULA>
+C5H4N4O
+
+> <MOLECULAR_WEIGHT>
+136.1115
+
+> <EXACT_MASS>
+136.03851077
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.817749402233227
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+7H-purin-6-ol
+
+> <ALOGPS_LOGP>
+-0.55
+
+> <JCHEM_LOGP>
+-0.048109598333333205
+
+> <ALOGPS_LOGS>
+-1.02
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+14.946029351382613
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.715984501399717
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+2.6603865379310188
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.69
+
+> <JCHEM_REFRACTIVITY>
+35.49999999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.30e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+6-hydroxypurine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00157
+
+> <GENERIC_NAME>
+Hypoxanthine
+
+> <SYNONYMS>
+1,7-Dihydro-6H-purin-6-one; 1,7-Dihydro-6H-purine-6-one; 1H,7H-Hypoxanthine; 3H-Purin-6-ol; 4-Hydroxy-1H-purine; 6(1H)-Purinone; 6-Hydroxy-1H-purine; 6-Hydroxypurine; 6-Oxopurine; 7H-Purin-6-ol; 9H-Purin-6(1H)-one; 9H-Purin-6-ol; Hypoxanthine enol; Purin-6(1H)-one; Purin-6(3H)-one; Purin-6-ol; Purine-6-ol; Sarcine; Sarkin; Sarkine
+
+$$$$

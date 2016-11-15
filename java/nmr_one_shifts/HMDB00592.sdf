@@ -1,0 +1,140 @@
+
+  Mrv0541 02231218362D          
+
+ 16 16  0  0  1  0            999 V2000
+   23.7357  -12.2258    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7357   -9.7507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5922  -10.1632    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5922   -8.5132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.4501   -8.5132    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7357  -11.4008    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.7357  -13.0508    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.5607  -12.2258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9107  -12.2258    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.0212   -7.6882    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.3067   -8.9257    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   22.3067   -9.7507    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   23.0212   -8.5132    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   23.0212  -10.1632    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   23.7357   -8.9257    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   23.0212  -10.9883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  2  0  0  0  0
+  2 14  1  0  0  0  0
+  2 15  1  0  0  0  0
+ 12  3  1  1  0  0  0
+ 11  4  1  6  0  0  0
+ 15  5  1  6  0  0  0
+  6 16  1  0  0  0  0
+ 13 10  1  1  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00592
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@H]1[C@H](O)O[C@H](COS(O)(=O)=O)[C@@H](O)[C@@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13NO8S/c7-3-5(9)4(8)2(15-6(3)10)1-14-16(11,12)13/h2-6,8-10H,1,7H2,(H,11,12,13)/t2-,3-,4-,5-,6-/m1/s1
+
+> <INCHI_KEY>
+MTDHILKWIRSIHB-QZABAPFNSA-N
+
+> <FORMULA>
+C6H13NO8S
+
+> <MOLECULAR_WEIGHT>
+259.234
+
+> <EXACT_MASS>
+259.036187087
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.375918668403333
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4R,5R,6R)-5-amino-3,4,6-trihydroxyoxan-2-yl]methoxy}sulfonic acid
+
+> <ALOGPS_LOGP>
+-2.30
+
+> <JCHEM_LOGP>
+-3.993959344941042
+
+> <ALOGPS_LOGS>
+-0.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.727468589260997
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.8795458232818172
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+8.229727115001346
+
+> <JCHEM_POLAR_SURFACE_AREA>
+159.54000000000002
+
+> <JCHEM_REFRACTIVITY>
+47.57270000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.29e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glucosamine 6-sulfate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00592
+
+> <GENERIC_NAME>
+Glucosamine 6-sulfate
+
+> <SYNONYMS>
+2-Amino-2-deoxy-D-Glucose 6-sulfate; 2-Amino-2-deoxy-D-Glucose 6-sulphate; D-Glucosamine-6-sulfate; D-Glucosamine-6-sulphate; Glucosamine 6-O-sulfate; Glucosamine 6-O-sulphate; Glucosamine 6-sulfate; Glucosamine 6-sulphate
+
+$$$$

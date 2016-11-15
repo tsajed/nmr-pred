@@ -1,0 +1,132 @@
+388
+  Mrv0541 02231214382D          
+
+ 12 12  0  0  1  0            999 V2000
+    2.3645    1.0808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.8068    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935    1.9058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791    0.6683    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.7935    1.0808    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.1568    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -0.5693    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7935   -1.3943    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -1.8068    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5080    2.3183    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  1  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+  9 11  2  0  0  0  0
+ 10 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02182
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CNC[C@H](O)C1=CC(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13NO2/c1-10-6-9(12)7-3-2-4-8(11)5-7/h2-5,9-12H,6H2,1H3/t9-/m0/s1
+
+> <INCHI_KEY>
+SONNWYBIRXJNDC-VIFPVBQESA-N
+
+> <FORMULA>
+C9H13NO2
+
+> <MOLECULAR_WEIGHT>
+167.205
+
+> <EXACT_MASS>
+167.094628665
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.19963475509828
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-[(1R)-1-hydroxy-2-(methylamino)ethyl]phenol
+
+> <ALOGPS_LOGP>
+-0.69
+
+> <JCHEM_LOGP>
+-0.07016072310749853
+
+> <ALOGPS_LOGS>
+-0.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA>
+14.239851398869074
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.067801130196546
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.687080513614072
+
+> <JCHEM_POLAR_SURFACE_AREA>
+52.49
+
+> <JCHEM_REFRACTIVITY>
+47.2494
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+phenylephrine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02182
+
+> <GENERIC_NAME>
+Phenylephrine
+
+> <SYNONYMS>
+Adrianol; Ak-Dilate; Ak-Nefrin; Alcon efrin; Alconefrin Nasal Drops 12; Alconefrin Nasal Drops 25; Alconefrin Nasal Drops 50; Alconefrin Nasal Spray 25; Biomydrin; Dilatair; Dionephrine; Doktors; Duration; Fenilefrina; I-Phrine; Isophrim; Isophrin; Isopto Frin; m-Methylaminoethanolphenol; m-Oxedrine; m-Sympathol; m-Sympatol; m-Synephrine; Mesaton; Mesatone; Mesatonum; Metaoxedrin; Metaoxedrine; Metaoxedrinum; Metasympatol; Metasynephrine; Mezaton; Minims Phenylephrine; Mydfrin; Neo-Synephrine; Neo-Synephrine Nasal Drops; Neo-Synephrine Nasal Jelly; Neo-Synephrine Nasal Spray; Neo-Synephrine Pediatric Nasal Drops; Neofrin; Neophryn; Neosynephrine; Nostril; Nostril Spray Pump; Nostril Spray Pump Mild; Ocu-Phrin Sterile Eye Drops; Ocu-Phrin Sterile Ophthalmic Solution; Ocugestrin; Phenoptic; Phenylephrinum; Prefrin; Prefrin Liquifilm; Pyracort D; R(-)-Mezaton; R(-)-Phenylephrine; Relief Eye Drops for Red Eyes; Rhinall; Spersaphrine; Vicks Sinex; Visadron
+
+$$$$

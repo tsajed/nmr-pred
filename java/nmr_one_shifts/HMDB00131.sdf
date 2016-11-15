@@ -1,0 +1,119 @@
+
+  Mrv0541 02231217242D          
+
+  6  5  0  0  0  0            999 V2000
+    2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00131
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OCC(O)CO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H8O3/c4-1-3(6)2-5/h3-6H,1-2H2
+
+> <INCHI_KEY>
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H8O3
+
+> <MOLECULAR_WEIGHT>
+92.0938
+
+> <EXACT_MASS>
+92.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+8.93434998006785
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+propane-1,2,3-triol
+
+> <ALOGPS_LOGP>
+-1.93
+
+> <JCHEM_LOGP>
+-1.8390140226666665
+
+> <ALOGPS_LOGS>
+1.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.167747933654137
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+13.605499310321004
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9679773519640786
+
+> <JCHEM_POLAR_SURFACE_AREA>
+60.69
+
+> <JCHEM_REFRACTIVITY>
+20.516099999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.17e+03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glycerol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00131
+
+> <GENERIC_NAME>
+Glycerol
+
+> <SYNONYMS>
+1,2,3-Trihydroxypropane; Bulbold; Cristal; E 422; Emery 916; Glyceol Opthalgan; Glycerin; Glycerine; Glyceritol; Glycerol; Glycyl alcohol; Glyrol; Glysanin; IFP; Incorporation factor; Mackstat H 66; Osmoglyn; Pricerine 9091; Propanetriol; RG-S; Trihydroxypropane; Tryhydroxypropane
+
+$$$$

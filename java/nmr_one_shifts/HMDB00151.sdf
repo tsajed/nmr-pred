@@ -1,0 +1,157 @@
+783
+  Mrv0541 02231215002D          
+
+ 23 26  0  0  1  0            999 V2000
+    7.5775    1.7429    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0917   -1.8105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5406    0.7074    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    6.5406   -0.1176    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8262   -0.5300    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1119   -0.1176    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    7.3211    0.9588    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8262    1.1199    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3211   -0.3689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1119    0.7074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8026    0.2949    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8395   -1.3891    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5406    1.5323    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3612   -0.5356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0987   -1.8245    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3545   -1.3948    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5966   -0.0703    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5829   -1.8483    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8147   -0.5058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8078   -1.4008    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6105   -0.7738    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4003   -0.8555    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6833    0.2124    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  7  1  1  1  0  0  0
+  2 20  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 13  1  1  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 21  1  6  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 22  1  1  0  0  0
+  6 10  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 23  1  6  0  0  0
+  7 11  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 16  2  0  0  0  0
+ 14 17  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  2  0  0  0  0
+ 18 20  2  0  0  0  0
+ 19 20  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00151
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C18H24O2/c1-18-9-8-14-13-5-3-12(19)10-11(13)2-4-15(14)16(18)6-7-17(18)20/h3,5,10,14-17,19-20H,2,4,6-9H2,1H3/t14-,15-,16+,17+,18+/m1/s1
+
+> <INCHI_KEY>
+VOXZDWNPVJITMN-ZBRFXRBCSA-N
+
+> <FORMULA>
+C18H24O2
+
+> <MOLECULAR_WEIGHT>
+272.382
+
+> <EXACT_MASS>
+272.177630012
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+32.13020970384841
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,10R,11S,14S,15S)-15-methyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-2(7),3,5-triene-5,14-diol
+
+> <ALOGPS_LOGP>
+3.57
+
+> <JCHEM_LOGP>
+3.745501328333334
+
+> <ALOGPS_LOGS>
+-4.11
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.37769223665565
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.327060716263132
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.8839974156894889
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+79.9047
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.13e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(-)-estradiol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00151
+
+> <GENERIC_NAME>
+Estradiol
+
+> <SYNONYMS>
+(+)-3,17b-Estradiol; (17b)-Estra-1,3,5(10)-triene-3,17-diol; 13b-Methyl-1,3,5(10)-gonatriene-3,17b-ol; 17b-Estradiol; 17b-Oestradiol; 3,17-Epidihydroxyestratriene; 3,17b-Dihydroxyestra-1,3,5(10)-triene; 3,17b-Estradiol; Aerodiol; Agofollin; Altrad; Amnestrogen; Aquadiol; b-Estradiol; Bardiol; beta-Estradiol; Climaderm; Climara; Compudose; Corpagen; D-Estradiol; D-Oestradiol; delta-Estradiol; delta-Oestradiol; Dermestril; Dihydro-Theelin; Dihydrofollicular hormone; Dihydrofolliculin; Dihydromenformon; Dihydrotheelin; Dihydroxyestrin; Dimenformon; Diogyn; Diogynets; Divigel; Encore; Epiestriol 50; Estra-1,3,5(10)-triene-3,17b-diol; Estrace; Estraderm TTS; Estradiol; Estradiol-17-beta; Estradot; Estraldine; Estring Vaginal Ring; Estroclim; Estroclim 50; Estrogel; Estrogel HBF; Estrovite; Evorel; Femestral; Femogen; Follicyclin; Gelestra; Ginosedol; Gynergon; Gynoestryl; Lamdiol; Macrodiol; Menorest; Nordicol; Oesclim; Oestergon; Oestra-1,3,5(10)-triene-3,17b-diol; Oestradiol; Oestrogel; Oestroglandol; Ovahormon; Ovasterol; Ovastevol; Ovocyclin; Ovocylin; Perlatanol; Primofol; Profoliol; Profoliol B; Progynon; Progynon DH; Sandrena 1; Syndiol; Systen; Vivelle; Zumenon
+
+$$$$

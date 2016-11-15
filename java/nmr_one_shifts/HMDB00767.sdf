@@ -1,0 +1,143 @@
+Pteridine.mol
+  Mrv0541 02231218442D          
+
+ 17 18  0  0  0  0            999 V2000
+    1.9210    1.4172    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0072    0.5967    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3398    0.1118    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5861    0.4474    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4998    1.2678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1673    1.7528    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5884    1.9021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4260   -0.7087    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0814   -0.0376    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0814   -0.8626    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5861   -1.3475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8660   -1.1175    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.1209   -1.9021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3509   -0.4501    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.8660    0.2174    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1759   -0.4501    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5884   -1.1645    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  2  0  0  0  0
+  3  8  2  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  6  0  0  0
+ 10 12  1  0  0  0  0
+ 12 13  1  6  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 16  1  1  0  0  0
+ 16 17  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9  4  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00767
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)C1=CNC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H12N2O6/c12-2-4-5(13)6(14)7(17-4)3-1-10-9(16)11-8(3)15/h1,4-7,12-14H,2H2,(H2,10,11,15,16)/t4-,5-,6-,7+/m1/s1
+
+> <INCHI_KEY>
+PTJWIQPHWPFNBW-GBNDHIKLSA-N
+
+> <FORMULA>
+C9H12N2O6
+
+> <MOLECULAR_WEIGHT>
+244.2014
+
+> <EXACT_MASS>
+244.069536126
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.808472011489208
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+5-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-2.01
+
+> <JCHEM_LOGP>
+-3.1001478630000006
+
+> <ALOGPS_LOGS>
+-0.58
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.63960644670361
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.549381944030799
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.9792001006523368
+
+> <JCHEM_POLAR_SURFACE_AREA>
+128.12
+
+> <JCHEM_REFRACTIVITY>
+52.44100000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.38e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β-pseudouridine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00767
+
+> <GENERIC_NAME>
+Pseudouridine
+
+> <SYNONYMS>
+5-(b-D-Ribofuranosyl)uracil; 5-(b-delta-Ribofuranosyl)uracil; 5-b-D-Ribofuranosyl-Uracil; 5-beta-delta-Ribofuranosyl-Uracil; 5-Ribosyluracil; b-D-Pseudouridine; b-Pseudouridine; beta-delta-Pseudouridine; beta-Pseudouridine; Pseudouridine; Pseudouridine C; y-Uridine
+
+$$$$

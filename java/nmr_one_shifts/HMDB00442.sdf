@@ -1,0 +1,121 @@
+
+  Mrv0541 02231218312D          
+
+  7  6  0  0  1  0            999 V2000
+   14.1591   -9.7969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0170   -9.7969    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3026  -11.0345    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8736  -10.2094    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.5881   -9.7969    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8736  -11.0345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3026  -10.2094    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  4  1  1  6  0  0  0
+  2  7  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00442
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@H](O)CC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O3/c1-3(5)2-4(6)7/h3,5H,2H2,1H3,(H,6,7)/t3-/m0/s1
+
+> <INCHI_KEY>
+WHBMMWSBFZVSSR-VKHMYHEASA-N
+
+> <FORMULA>
+C4H8O3
+
+> <MOLECULAR_WEIGHT>
+104.1045
+
+> <EXACT_MASS>
+104.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.93581670934862
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3S)-3-hydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-0.50
+
+> <JCHEM_LOGP>
+-0.38700599933333335
+
+> <ALOGPS_LOGS>
+0.71
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.695695082377142
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.406291419798768
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.6205133689113183
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+23.4641
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.39e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+β-hydroxybutyrate,l
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00442
+
+> <GENERIC_NAME>
+(S)-3-Hydroxybutyric acid
+
+> <SYNONYMS>
+(+)-3-Hydroxy-N-butyric acid; (+)-3-Hydroxybutyric acid; (3S)-3-hydroxy-Butanoate; (3S)-3-hydroxy-Butanoic acid; (3S)-3-Hydroxybutyric acid; (S)-3-hydroxy-2-methyl-Propanoate; (S)-3-hydroxy-2-methyl-Propanoic acid; (S)-3-hydroxy-Butanoate; (S)-3-hydroxy-Butanoic acid; (S)-3-hydroxybutanoate; (S)-3-Hydroxybutanoic acid; (S)-3-Hydroxybutyrate; (S)-b-Hydroxyisobutyrate; (S)-b-Hydroxyisobutyric acid; (S)-beta-Hydroxyisobutyrate; (S)-beta-Hydroxyisobutyric acid; L-(+)-2-Methyl-Hydracrylate; L-(+)-2-Methyl-Hydracrylic acid; L-(+)-3-Hydroxybutyric acid; L-(+)-b-Hydroxyisobutyrate; L-(+)-b-Hydroxyisobutyric acid; L-(+)-beta-Hydroxyisobutyrate; L-(+)-beta-Hydroxyisobutyric acid; L-3-Hydroxybutyric acid; L-beta-Hydroxybutyrate
+
+$$$$

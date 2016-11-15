@@ -1,0 +1,130 @@
+117
+  Mrv0541 02231214272D          
+
+ 11 11  0  0  1  0            999 V2000
+    5.7803    0.3693    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3388   -0.9898    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3174   -0.7099    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2111    0.8791    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9049    0.5597    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7695   -0.4799    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3826    0.0721    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9849   -0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1672   -0.1828    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7299    0.5597    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  7  4  1  6  0  0  0
+  5 10  1  0  0  0  0
+  5 11  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00177
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CC1=CN=CN1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/t5-/m0/s1
+
+> <INCHI_KEY>
+HNDVDQJCIGZPNO-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H9N3O2
+
+> <MOLECULAR_WEIGHT>
+155.1546
+
+> <EXACT_MASS>
+155.069476547
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.670259477860855
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-3.09
+
+> <JCHEM_LOGP>
+-3.6160224799542067
+
+> <ALOGPS_LOGS>
+-0.40
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.941172308417478
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.849972676704367
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.437137464922305
+
+> <JCHEM_POLAR_SURFACE_AREA>
+92
+
+> <JCHEM_REFRACTIVITY>
+38.059
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.20e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-histidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00177
+
+> <GENERIC_NAME>
+L-Histidine
+
+> <SYNONYMS>
+(S)-1H-Imidazole-4-alanine; (S)-2-Amino-3-(4-imidazolyl)propionsaeure; (S)-4-(2-Amino-2-carboxyethyl)imidazole; (S)-a-Amino-1H-imidazole-4-propanoate; (S)-a-Amino-1H-imidazole-4-propanoic acid; (S)-alpha-Amino-1H-imidazole-4-propanoate; (S)-alpha-Amino-1H-imidazole-4-propanoic acid; (S)-alpha-Amino-1H-imidazole-4-propionate; (S)-alpha-Amino-1H-imidazole-4-propionic acid; (S)-Histidine; (S)1H-Imidazole-4-alanine; 3-(1H-Imidazol-4-yl)-L-Alanine; Amino-1H-imidazole-4-propanoate; Amino-1H-imidazole-4-propanoic acid; Amino-4-imidazoleproprionate; Amino-4-imidazoleproprionic acid; Glyoxaline-5-alanine; His; Histidine; L-(-)-Histidine
+
+$$$$

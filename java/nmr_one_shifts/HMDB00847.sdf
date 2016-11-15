@@ -1,0 +1,123 @@
+
+  Mrv0541 02231218462D          
+
+ 11 10  0  0  0  0            999 V2000
+    0.1290    0.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5846   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8466   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2984    0.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5603    0.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0159   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7296    0.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2740   -0.9377    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9878    0.3038    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4434   -0.1138    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00847
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H18O2/c1-2-3-4-5-6-7-8-9(10)11/h2-8H2,1H3,(H,10,11)
+
+> <INCHI_KEY>
+FBUKVWPVBMHYJY-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H18O2
+
+> <MOLECULAR_WEIGHT>
+158.238
+
+> <EXACT_MASS>
+158.13067982
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+19.49190001939506
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+nonanoic acid
+
+> <ALOGPS_LOGP>
+3.47
+
+> <JCHEM_LOGP>
+3.1446021226666656
+
+> <ALOGPS_LOGS>
+-2.75
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.229180104974018
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+44.876599999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.81e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+nonanoic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00847
+
+> <GENERIC_NAME>
+Pelargonic acid
+
+> <SYNONYMS>
+1-Nonanoate; 1-Nonanoic acid; 1-Octanecarboxylate; 1-Octanecarboxylic acid; Cirrasol 185a; Emery 1202; Emery'S L-114; Emfac 1202; Hexacid C-9; N-Nonanoate; N-Nonanoic acid; N-Nonoate; N-Nonoic acid; N-Nonylate; N-Nonylic acid; N-Pelargonate; N-Pelargonic acid; Nonanoate; Nonanoic acid; Nonoate; Nonoic acid; Nonylate; Nonylic acid; Pelargate; Pelargic acid; Pelargon; Pelargonate; Pelargonic acid; Pergonate; Pergonic acid
+
+$$$$

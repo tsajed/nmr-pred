@@ -1,0 +1,128 @@
+5PV
+  Mrv0541 02231217232D          
+
+ 13 13  0  0  0  0            999 V2000
+   -1.0563   -0.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7708   -0.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4853   -0.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4853    0.7791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7708    1.1916    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0563    0.7791    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3419   -0.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3726   -0.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0871   -0.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015   -0.0459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5160   -0.4584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2305   -0.0459    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5160   -1.2834    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02043
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCCCC1=CC=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H14O2/c12-11(13)9-5-4-8-10-6-2-1-3-7-10/h1-3,6-7H,4-5,8-9H2,(H,12,13)
+
+> <INCHI_KEY>
+BYHDDXPKOZIZRV-UHFFFAOYSA-N
+
+> <FORMULA>
+C11H14O2
+
+> <MOLECULAR_WEIGHT>
+178.2277
+
+> <EXACT_MASS>
+178.099379692
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.112580185383017
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-phenylpentanoic acid
+
+> <ALOGPS_LOGP>
+2.81
+
+> <JCHEM_LOGP>
+2.944700100333333
+
+> <ALOGPS_LOGS>
+-2.94
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.9403773022308055
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+51.1686
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.04e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+5-phenylvaleric acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB02043
+
+> <GENERIC_NAME>
+5-Phenylvaleric acid
+
+> <SYNONYMS>
+5-Phenyl Valeric acid; 5-Phenyl-pentanoate; 5-Phenyl-pentanoic acid; 5-Phenylpentanoate; 5-Phenylpentanoic acid; 5-Phenylvalerate; 5-Phenzylvaleric acid; Benzenepentanoate; Benzenepentanoic acid; Phenylpentanoate; Phenylpentanoic acid; Phenylvaleric acid
+
+$$$$

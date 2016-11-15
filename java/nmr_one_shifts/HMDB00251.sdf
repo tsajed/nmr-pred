@@ -1,0 +1,118 @@
+
+  Mrv0541 02231215512D          
+
+  7  6  0  0  0  0            999 V2000
+    0.1105   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00251
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCS(O)(=O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6)
+
+> <INCHI_KEY>
+XOAAWQZATWQOTB-UHFFFAOYSA-N
+
+> <FORMULA>
+C2H7NO3S
+
+> <MOLECULAR_WEIGHT>
+125.147
+
+> <EXACT_MASS>
+125.014663785
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.824350988998518
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-aminoethane-1-sulfonic acid
+
+> <ALOGPS_LOGP>
+-2.19
+
+> <JCHEM_LOGP>
+-2.6146873946423876
+
+> <ALOGPS_LOGS>
+-0.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+-1.4937847370487942
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.343935759428495
+
+> <JCHEM_POLAR_SURFACE_AREA>
+80.39
+
+> <JCHEM_REFRACTIVITY>
+24.605100000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.05e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+taurine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00251
+
+> <GENERIC_NAME>
+Taurine
+
+> <SYNONYMS>
+1-Aminoethane-2-sulfonate; 1-Aminoethane-2-sulfonic acid; 2-Aminoethanesulfonate; 2-Aminoethanesulfonic acid; 2-Aminoethylsulfonate; 2-Aminoethylsulfonic acid; 2-Sulfoethylamine; Aminoethylsulfonate; Aminoethylsulfonic acid; b-Aminoethylsulfonate; b-Aminoethylsulfonic acid; beta-Aminoethylsulfonate; beta-Aminoethylsulfonic acid; Taurine
+
+$$$$

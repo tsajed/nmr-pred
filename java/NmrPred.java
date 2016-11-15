@@ -18,6 +18,7 @@ public class NmrPred {
     getStructures(nmr_structures, folder);
     for (NmrStructure nmr_str : nmr_structures) {
       try {
+        System.out.println(nmr_str.hmdb_id);
         nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
       }
       catch (Exception e)

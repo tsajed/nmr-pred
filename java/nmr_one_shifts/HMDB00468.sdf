@@ -1,0 +1,143 @@
+Biopterin.mol
+  Mrv0541 02231218322D          
+
+ 17 18  0  0  0  0            999 V2000
+   -1.6500   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0625    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6500    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8250   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4125   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125   -1.4289    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8250   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0625    0.0000    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6500    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0625   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8875    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  1 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  6  0  0  0
+ 12 16  1  6  0  0  0
+  7 12  1  0  0  0  0
+  2 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00468
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[C@H](O)[C@H](O)C1=NC2=C(NC(N)=NC2=O)N=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H11N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h2-3,6,15-16H,1H3,(H3,10,11,13,14,17)/t3-,6-/m0/s1
+
+> <INCHI_KEY>
+LHQIJBMDNUYRAM-DZSWIPIPSA-N
+
+> <FORMULA>
+C9H11N5O3
+
+> <MOLECULAR_WEIGHT>
+237.2153
+
+> <EXACT_MASS>
+237.086189243
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.413137621584298
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-1,4-dihydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-0.87
+
+> <JCHEM_LOGP>
+-1.1878131399999998
+
+> <ALOGPS_LOGS>
+-1.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.558885566742017
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+7.598080591573374
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2993716193172986
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.72000000000003
+
+> <JCHEM_REFRACTIVITY>
+58.1331
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.06e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-1H-pteridin-4-one
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00468
+
+> <GENERIC_NAME>
+Biopterin
+
+> <SYNONYMS>
+(-)-Biopterin; (1'R,1'S) Biopterin; 2-Amino-6-(L-erythro-1,2-dihydroxypropyl)-4(3H)-Pteridinone; 6-Biopterin; Biopterin; L-Biopterin; L-Erythro-Biopterin; Pterin H B2; [S-(R*,S*)]-2-amino-6-(1,2-dihydroxypropyl)-4(1H)-Pteridinone
+
+$$$$

@@ -1,0 +1,125 @@
+Threono-1,4-lactone.mol
+  Mrv0541 02231218502D          
+
+  9  8  0  0  0  0            999 V2000
+   -0.2063    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062    0.0000    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0313    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2063   -0.7145    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0313   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0313    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  1  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  1  0  0  0
+  4  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00943
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@@H](O)[C@H](O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H8O5/c5-1-2(6)3(7)4(8)9/h2-3,5-7H,1H2,(H,8,9)/t2-,3+/m1/s1
+
+> <INCHI_KEY>
+JPIJQSOTBSSVTP-GBXIJSLDSA-N
+
+> <FORMULA>
+C4H8O5
+
+> <MOLECULAR_WEIGHT>
+136.1033
+
+> <EXACT_MASS>
+136.037173366
+
+> <JCHEM_ACCEPTOR_COUNT>
+5
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.606817729723062
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S,3R)-2,3,4-trihydroxybutanoic acid
+
+> <ALOGPS_LOGP>
+-2.11
+
+> <JCHEM_LOGP>
+-2.149074426666667
+
+> <ALOGPS_LOGS>
+0.55
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+13.025178139889814
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.4007287139451505
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.981778620620938
+
+> <JCHEM_POLAR_SURFACE_AREA>
+97.99
+
+> <JCHEM_REFRACTIVITY>
+26.346
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.88e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+threonic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00943
+
+> <GENERIC_NAME>
+Threonic acid
+
+> <SYNONYMS>
+(R*,S*)-2,3,4-trihydroxy-Butanoate; (R*,S*)-2,3,4-trihydroxy-Butanoic acid; Threo-2,3,4-Trihydroxybutyrate; Threo-2,3,4-Trihydroxybutyric acid; Threonate
+
+$$$$

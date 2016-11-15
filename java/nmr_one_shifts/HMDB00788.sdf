@@ -1,0 +1,149 @@
+
+  Mrv0541 02231218442D          
+
+ 20 21  0  0  1  0            999 V2000
+   22.0177  -14.2859    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1372  -14.0308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5826  -15.7379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9672  -15.6516    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1141  -12.9759    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5417  -12.5634    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6851  -10.5009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2562  -13.8009    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6851  -12.9759    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3996  -11.7384    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3526  -14.2859    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   23.0976  -15.0704    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   22.6851  -13.8009    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   22.2726  -15.0704    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   21.7877  -15.7379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9707  -12.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3996  -12.5634    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9707  -11.7384    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.6851  -11.3259    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.2562  -12.9759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 14  1  0  0  0  0
+ 11  2  1  6  0  0  0
+ 12  3  1  6  0  0  0
+  4 15  1  0  0  0  0
+  5 17  2  0  0  0  0
+  6 20  1  0  0  0  0
+  7 19  2  0  0  0  0
+  8 20  2  0  0  0  0
+ 13  9  1  1  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  1  0  0  0
+ 16 18  2  0  0  0  0
+ 16 20  1  0  0  0  0
+ 18 19  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00788
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C(=O)NC(=O)C=C1C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H12N2O8/c13-2-4-6(15)7(16)8(20-4)12-3(9(17)18)1-5(14)11-10(12)19/h1,4,6-8,13,15-16H,2H2,(H,17,18)(H,11,14,19)/t4-,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+FKCRAVPPBFWEJD-XVFCMESISA-N
+
+> <FORMULA>
+C10H12N2O8
+
+> <MOLECULAR_WEIGHT>
+288.2109
+
+> <EXACT_MASS>
+288.05936537
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+24.99464803517388
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid
+
+> <ALOGPS_LOGP>
+-2.04
+
+> <JCHEM_LOGP>
+-2.7876156426666667
+
+> <ALOGPS_LOGS>
+-0.81
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.682367621598052
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.8566931418927357
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.980299871615192
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.63000000000002
+
+> <JCHEM_REFRACTIVITY>
+59.870900000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.47e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+orotidine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00788
+
+> <GENERIC_NAME>
+Orotidine
+
+> <SYNONYMS>
+6-Carboxyuridine; Orotic acid riboside; Orotidine
+
+$$$$

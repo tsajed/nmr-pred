@@ -1,0 +1,26 @@
+Hypotaurine (HMDB00965)
+1H NMR spectrum 600 MHz in H2O
+Sample 25 mM at pH 7.0
+Referenced to DSS
+
+Table of Peaks
+
+No. (ppm) (Hz) Height
+1 2.648 1589.41 0.4276
+2 2.659 1596.34 0.9079
+3 2.671 1603.27 0.4484
+4 3.326 1996.72 0.4964
+5 3.338 2003.65 1.0000
+6 3.349 2010.58 0.4572
+
+Table of Multiplets
+
+No. Shift1 (ppm) Hs Type J (Hz) Atom1 Multiplet1 (ppm)
+1 2.66 2 t 6.93 4 M02 2.63 .. 2.70
+2 3.34 2 t 6.93 5 M01 3.30 .. 3.37
+
+Table of Assignments
+
+No. Atom Exp. Shift (ppm) Multiplet
+1 4 2.66 M02
+2 5 3.34 M01

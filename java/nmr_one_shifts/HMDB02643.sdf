@@ -1,0 +1,134 @@
+
+  Mrv0541 02231219342D          
+
+ 13 13  0  0  0  0            999 V2000
+   23.2170  -13.7100    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.3604  -12.4725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5025  -16.5975    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9315  -12.4725    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9315  -14.1225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6460  -13.7100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6460  -12.8850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2170  -16.1850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9315  -14.9475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2170  -15.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9315  -16.5975    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6460  -15.3600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6460  -16.1850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+  9 10  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 13  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02643
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(CC(O)=O)C1=CC(O)=CC=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O4/c10-7-3-1-2-6(4-7)8(11)5-9(12)13/h1-4,8,10-11H,5H2,(H,12,13)
+
+> <INCHI_KEY>
+KHTAGVZHYUZYMF-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O4
+
+> <MOLECULAR_WEIGHT>
+182.1733
+
+> <EXACT_MASS>
+182.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.308563596161367
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-hydroxy-3-(3-hydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+0.68
+
+> <JCHEM_LOGP>
+0.677093841666667
+
+> <ALOGPS_LOGS>
+-1.46
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.366546387463833
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9429308279967894
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.1637676884793553
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+45.30900000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.31e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+mhpha
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02643
+
+> <GENERIC_NAME>
+3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid
+
+> <SYNONYMS>
+(3-Hydroxyphenyl)hydracrylate; (3-Hydroxyphenyl)hydracrylic acid; 3'-Hydroxyphenylhydracrylic acid; 3-(3-Hydroxyphenyl)-3-hydroxypropanoate; 3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid; 3-(3-Hydroxyphenyl)-3-hydroxypropionate; 3-(3-Hydroxyphenyl)-3-hydroxypropionic acid; 3-(3-Hydroxyphenyl)hydracrylate; 3-(3-Hydroxyphenyl)hydracrylic acid; 3-(m-Hydroxyphenyl)hydracrylate; 3-(m-Hydroxyphenyl)hydracrylic acid; 3-Hydroxy-3-(3-hydroxyphenyl)propionic acid; 3-Hydroxyphenyl-hydracrylic acid; b-(m-Hydroxyphenyl)hydracrylate; b-(m-Hydroxyphenyl)hydracrylic acid; beta-(m-Hydroxyphenyl)hydracrylate; beta-(m-Hydroxyphenyl)hydracrylic acid; HPHPA
+
+$$$$

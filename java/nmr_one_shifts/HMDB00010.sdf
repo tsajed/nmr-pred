@@ -1,0 +1,161 @@
+2-Methoxyestrone.mol
+  Mrv0541 02231218172D          
+
+ 25 28  0  0  0  0            999 V2000
+   -1.7065   -1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4209   -1.7573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7065   -0.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9920   -0.1073    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9920   -1.7573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2775   -1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4369   -1.7573    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -1.3448    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514   -0.5198    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8659   -0.1073    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.6505   -0.3622    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1354    0.3052    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6505    0.9727    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9054    1.7573    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8659    0.7177    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8659    1.5427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514    1.1302    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4369    0.7177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4369   -0.1073    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2775   -0.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4209   -0.1073    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1354   -0.5198    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4369   -0.9323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1514    0.3052    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8659   -0.9323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  1  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+ 15 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 19 20  1  0  0  0  0
+  4 20  1  0  0  0  0
+  6 20  2  0  0  0  0
+ 21 22  1  0  0  0  0
+  3 21  1  0  0  0  0
+ 19 23  1  6  0  0  0
+  9 24  1  1  0  0  0
+ 10 25  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00010
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C(OC)=C3
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H24O3/c1-19-8-7-12-13(15(19)5-6-18(19)21)4-3-11-9-16(20)17(22-2)10-14(11)12/h9-10,12-13,15,20H,3-8H2,1-2H3/t12-,13+,15-,19-/m0/s1
+
+> <INCHI_KEY>
+WHEUWNKSCXYKBU-QPWUGHHJSA-N
+
+> <FORMULA>
+C19H24O3
+
+> <MOLECULAR_WEIGHT>
+300.3921
+
+> <EXACT_MASS>
+300.172544634
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.33860792942589
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,10R,11S,15S)-5-hydroxy-4-methoxy-15-methyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-2(7),3,5-trien-14-one
+
+> <ALOGPS_LOGP>
+3.50
+
+> <JCHEM_LOGP>
+4.151357768333334
+
+> <ALOGPS_LOGS>
+-4.60
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.957534419499726
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.290800079568816
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.882521938422315
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+85.54559999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.49e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2-methoxyestrone
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00010
+
+> <GENERIC_NAME>
+2-Methoxyestrone
+
+> <SYNONYMS>
+2-(8S,9S,13S,14S)-3-Hydroxy-2-methoxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-17-one; 2-Hydroxyestrone 2-methyl ether; 2-Methoxy-17-oxoestra-1,3,5(10)-trien-3-ol; 2-Methoxy-3-hydroxyestra-1,3,5(10)-trien-17-one; 3-Hydroxy-2-methoxy-Estra-1,3,5(10)-trien-17-one; 3-Hydroxy-2-methoxyestra-1,3,5(10)-trien-17-one; Methoxy-Estrone
+
+$$$$

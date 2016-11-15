@@ -1,0 +1,141 @@
+L-Hexanoylcarnitine.mol
+  Mrv0541 02231218432D          
+
+ 18 17  0  0  0  0            999 V2000
+    1.7862    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2062    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.3572    0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.2062    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    1.0717   -0.6188    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -1.0313    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2151   -0.6188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -1.8563    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0881   -0.5082    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9131    0.9207    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2151   -0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    1.4437    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.8562    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    1.8563    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+  6 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  2  5  1  6  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 18  1  0  0  0  0
+  3 16  1  0  0  0  0
+M  CHG  2   4   1  18  -1
+M  END
+> <DATABASE_ID>
+HMDB00756
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C13H25NO4/c1-5-6-7-8-13(17)18-11(9-12(15)16)10-14(2,3)4/h11H,5-10H2,1-4H3/t11-/m1/s1
+
+> <INCHI_KEY>
+VVPRQWTYSNDTEA-LLVKDONJSA-N
+
+> <FORMULA>
+C13H25NO4
+
+> <MOLECULAR_WEIGHT>
+259.3419
+
+> <EXACT_MASS>
+259.178358293
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+28.813641317096163
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(3R)-3-(hexanoyloxy)-4-(trimethylazaniumyl)butanoate
+
+> <ALOGPS_LOGP>
+-1.68
+
+> <JCHEM_LOGP>
+-2.4121387958050784
+
+> <ALOGPS_LOGS>
+-4.86
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.216763902737658
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.0571868789043
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.43
+
+> <JCHEM_REFRACTIVITY>
+91.0667
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+10
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.30e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hexanoyl-L-carnitine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00756
+
+> <GENERIC_NAME>
+L-Hexanoylcarnitine
+
+> <SYNONYMS>
+(R)-3-carboxy-N,N,N-trimethyl-2-[(1-oxohexyl)oxy]-1-Propanaminium inner salt; (R)-Caproylcarnitine; Hexanoate; Hexanoic acid; Hexanoic acid ester with L-(3-carboxy-2-hydroxypropyl)trimethylammonium hydroxide inner salt; Hexanoyl-L-carnitine; L-Carnitine hexanoyl ester; L-Hexanoate; L-Hexanoic acid; L-Hexanoic acid ester with (3-carboxy-2-hydroxypropyl)trimethylammonium hydroxide inner salt; L-Hexanoylcarnitine
+
+$$$$

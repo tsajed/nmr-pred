@@ -1,0 +1,130 @@
+
+  Mrv0541 02231218182D          
+
+ 11 11  0  0  0  0            999 V2000
+   -0.0653    0.3368    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6565    0.7493    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0688   -0.4882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7735    0.7562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3681    0.3266    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6428   -0.9040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4919    0.3472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3612   -0.5018    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2068    0.7666    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5022   -0.4744    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0727   -0.9178    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00020
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c9-7-3-1-6(2-4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)
+
+> <INCHI_KEY>
+XQXPVVBIMDBYFF-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.826780263933353
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(4-hydroxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.3074287836666667
+
+> <ALOGPS_LOGS>
+-1.33
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.508099347910598
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9984367127077793
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.9585563884254755
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+39.3465
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.12e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxyphenylacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00020
+
+> <GENERIC_NAME>
+p-Hydroxyphenylacetic acid
+
+> <SYNONYMS>
+(4-hydroxy-phenyl)-acetate; (4-hydroxy-phenyl)-acetic acid; (4-Hydroxy-phenyl)-essigsaeure; (4-hydroxyphenyl)acetate; (4-hydroxyphenyl)acetic acid; (p-hydroxyphenyl)-Acetate; (p-hydroxyphenyl)-Acetic acid; (p-Hydroxyphenyl)acetate; (p-Hydroxyphenyl)acetic acid; 4-Hydroxy-Benzeneacetate; 4-Hydroxy-Benzeneacetic acid; 4-Hydroxybenzeneacetate; 4-Hydroxybenzeneacetic acid; 4-hydroxyphenyl-acetic acid; 4-Hydroxyphenylacetate; 4-Hydroxyphenylacetic acid; p-Hydroxyphenylacetate; p-Hydroxyphenylacetic acid; Parahydroxy phenylacetate; Parahydroxy phenylacetic acid; Parahydroxyphenylacetate
+
+$$$$

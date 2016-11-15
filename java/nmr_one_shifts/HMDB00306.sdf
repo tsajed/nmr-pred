@@ -1,0 +1,125 @@
+Indole-3-acetic acid.mol
+  Mrv0541 02231218262D          
+
+ 10 10  0  0  0  0            999 V2000
+   -2.2687   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4438   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0312    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2062    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4438    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2687    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0313   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2062   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  4 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00306
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NCCC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H11NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5-6,9H2
+
+> <INCHI_KEY>
+DZGWFCGJZKJUFP-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H11NO
+
+> <MOLECULAR_WEIGHT>
+137.179
+
+> <EXACT_MASS>
+137.084063979
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+15.332804080654087
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-(2-aminoethyl)phenol
+
+> <ALOGPS_LOGP>
+-0.14
+
+> <JCHEM_LOGP>
+0.6797131598312175
+
+> <ALOGPS_LOGS>
+-1.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.410817992116419
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.663317955732815
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.25
+
+> <JCHEM_REFRACTIVITY>
+41.267300000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+5.72e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+tyramine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00306
+
+> <GENERIC_NAME>
+Tyramine
+
+> <SYNONYMS>
+2-(4'-Hydroxyphenyl)ethylamine; 2-(4-Hydroxyphenyl)ethylamine; 2-(p-Hydroxyphenyl)ethylamine; 4- (2-Aminoethyl)-Phenol; 4-(2-Aminoethyl)-Phenol; 4-(2-Aminoethyl)-phenol(thyramin); 4-(2-Aminoethyl)phenol; 4-Hydroxy-b-phenylethylamine; 4-Hydroxy-Benzeneethanamine; 4-Hydroxy-beta-phenylethylamine; 4-Hydroxyphenethylamine; 4-Hydroxyphenylethylamine; a-(4-Hydroxyphenyl)-b-aminoethane; alpha-(4-Hydroxyphenyl)-beta-aminoethane; alpha.-(4-Hydroxyphenyl)-beta-aminoethane; b-(4-Hydroxyphenyl)ethylamine; beta-(4-Hydroxyphenyl)ethylamine; p-(2-Aminoethyl)-Phenol; p-(2-Aminoethyl)phenol; P-beta-Aminoethylphenol; P-Hydroxy-b-phenethylamine; P-Hydroxy-b-phenylethylamine; P-Hydroxy-beta-phenethylamine; P-Hydroxy-beta-phenylethylamine; P-Hydroxyphenethylamine; P-Hydroxyphenylethylamine; P-Tyramine; Systogene; Tenosin-wirkstoff; Tocosine; Tyramin; Tyramine base; Tyrosamine; Uteramine
+
+$$$$

@@ -1,0 +1,158 @@
+Ellagic acid
+  Mrv1572001071617302D          
+
+ 22 25  0  0  0  0            999 V2000
+    6.2684    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0309    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4434    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0309   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2059   -1.7309    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9684   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9684    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3184    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4934    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7309   -0.3020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3184   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9684    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5559    2.5559    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7934    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  2  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+  9 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+  6 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 12 18  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 14 20  1  0  0  0  0
+ 20 21  2  0  0  0  0
+ 20 22  1  0  0  0  0
+  5 22  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02899
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC1=C(O)C2=C3C(=C1)C(=O)OC1=C3C(=CC(O)=C1O)C(=O)O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H6O8/c15-5-1-3-7-8-4(14(20)22-11(7)9(5)17)2-6(16)10(18)12(8)21-13(3)19/h1-2,15-18H
+
+> <INCHI_KEY>
+AFSDNFLWKVMVRB-UHFFFAOYSA-N
+
+> <FORMULA>
+C14H6O8
+
+> <MOLECULAR_WEIGHT>
+302.194
+
+> <EXACT_MASS>
+302.006267153
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_ATOM_COUNT>
+28
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+26.33823800600257
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+4
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+6,7,13,14-tetrahydroxy-2,9-dioxatetracyclo[6.6.2.0⁴,¹⁶.0¹¹,¹⁵]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione
+
+> <ALOGPS_LOGP>
+1.59
+
+> <JCHEM_LOGP>
+2.315922418
+
+> <ALOGPS_LOGS>
+-2.57
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.223512033465745
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.538315807620176
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.79589214812241
+
+> <JCHEM_POLAR_SURFACE_AREA>
+133.52
+
+> <JCHEM_REFRACTIVITY>
+70.60760000000002
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+8.23e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ellagic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02899
+
+> <GENERIC_NAME>
+Ellagic acid
+
+> <SYNONYMS>
+Alizarine Yellow; Benzoarate; Benzoaric acid; Elagostasine; Eleagate; Eleagic acid; Ellagate; Ellagic acid; Ellagic acid dihydrate; Ellagic acid hydrate; Gallogen; Lagistase; Llagate; Llagic acid
+
+$$$$

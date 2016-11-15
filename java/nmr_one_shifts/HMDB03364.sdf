@@ -1,0 +1,118 @@
+
+  Mrv0541 02231219422D          
+
+  8  8  0  0  0  0            999 V2000
+   18.9714  -11.2749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9714  -14.5749    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9714  -12.0999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9714  -13.7499    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2570  -12.5124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6859  -12.5124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2570  -13.3373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6859  -13.3373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0  0  0  0
+  2  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6  8  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03364
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C1C=CC(=O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H4O2/c7-5-1-2-6(8)4-3-5/h1-4H
+
+> <INCHI_KEY>
+AZQWKYJCGOJGHM-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H4O2
+
+> <MOLECULAR_WEIGHT>
+108.0948
+
+> <EXACT_MASS>
+108.021129372
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.745918249108636
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+cyclohexa-2,5-diene-1,4-dione
+
+> <ALOGPS_LOGP>
+0.21
+
+> <JCHEM_LOGP>
+1.0241138113333332
+
+> <ALOGPS_LOGS>
+-0.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.670583839914011
+
+> <JCHEM_POLAR_SURFACE_AREA>
+34.14
+
+> <JCHEM_REFRACTIVITY>
+31.028799999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.54e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+quinone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB03364
+
+> <GENERIC_NAME>
+Quinone
+
+> <SYNONYMS>
+1,4-Benzoquine; 1,4-Benzoquinone; 1,4-Cyclohexadiene dioxide; 1,4-Cyclohexadienedione; 1,4-Diossibenzene; 1,4-Dioxy-benzol; 1,4-Dioxybenzene; 2,5-Cyclohexadiene-1,4-dione; 2,5-cyclohexadiene-1-4-dione; Benzo-1,4-quinone; Benzo-chinon; Benzoquinone; Benzoquinone [UN2587]; Chinon; Chinone; Cyclohexadiene-1,4-dione; Cyclohexadienedione; Eldoquin; p-Benzoquinone; p-Chinon; p-Quinone; Para-Benzoquinone; Para-Quinone; Quinone1,4-Benzoquinone; Semiquinone anion; Semiquinone radicals
+
+$$$$

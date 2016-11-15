@@ -1,0 +1,134 @@
+3,4-Dihydroxyhydrocinnamic acid.mol
+  Mrv0541 02231218312D          
+
+ 13 13  0  0  0  0            999 V2000
+   -1.7862    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  4  9  2  0  0  0  0
+  1 10  2  0  0  0  0
+  1 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00423
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CCC1=CC=C(O)C(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O4/c10-7-3-1-6(5-8(7)11)2-4-9(12)13/h1,3,5,10-11H,2,4H2,(H,12,13)
+
+> <INCHI_KEY>
+DZAUWHJDUNRCTF-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O4
+
+> <MOLECULAR_WEIGHT>
+182.1733
+
+> <EXACT_MASS>
+182.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.848789876051526
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(3,4-dihydroxyphenyl)propanoic acid
+
+> <ALOGPS_LOGP>
+1.04
+
+> <JCHEM_LOGP>
+1.448432127
+
+> <ALOGPS_LOGS>
+-1.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.290319681157882
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.8379150142223004
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.28908665826041
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+45.9284
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dihydrocaffeic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00423
+
+> <GENERIC_NAME>
+3,4-Dihydroxyhydrocinnamic acid
+
+> <SYNONYMS>
+3,4-Dihydroxy-(6CI,7CI,8CI)Hydrocinnamate; 3,4-Dihydroxy-(6CI,7CI,8CI)Hydrocinnamic acid; 3,4-Dihydroxy-b-phenylpropionate; 3,4-Dihydroxy-b-phenylpropionic acid; 3,4-Dihydroxy-beta-phenylpropionate; 3,4-Dihydroxy-beta-phenylpropionic acid; 3,4-Dihydroxybenzenepropionate; 3,4-Dihydroxybenzenepropionic acid; 3,4-Dihydroxydihydrocinnamate; 3,4-Dihydroxydihydrocinnamic acid; 3,4-Dihydroxyhydrocinnamate; 3,4-Dihydroxyhydrocinnamic acid; 3,4-Dihydroxyphenylpropionate; 3,4-Dihydroxyphenylpropionic acid; 3-(3,4-Dihydroxyphenyl)propanoate; 3-(3,4-Dihydroxyphenyl)propanoic acid; 3-(3,4-Dihydroxyphenyl)propionate; 3-(3,4-Dihydroxyphenyl)propionic acid; Dihydrocaffeate; Dihydrocaffeic acid; Hydrocaffeate; Hydrocaffeic acid
+
+$$$$

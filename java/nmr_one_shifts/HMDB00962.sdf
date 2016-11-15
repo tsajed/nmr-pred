@@ -1,0 +1,129 @@
+
+  Mrv0541 02231218512D          
+
+ 12 12  0  0  0  0            999 V2000
+    9.8950   -6.8097    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0700   -6.8097    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8225   -6.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4825   -5.5310    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1425   -6.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8438   -5.6135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5863   -6.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2875   -5.6135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9888   -6.0260    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7313   -5.6135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4325   -6.0260    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7313   -4.7885    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  1  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00962
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+NC(=O)CCCCC1CCSS1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NOS2/c9-8(10)4-2-1-3-7-5-6-11-12-7/h7H,1-6H2,(H2,9,10)
+
+> <INCHI_KEY>
+FCCDDURTIIUXBY-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H15NOS2
+
+> <MOLECULAR_WEIGHT>
+205.341
+
+> <EXACT_MASS>
+205.059505487
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+22.38431805787616
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+5-(1,2-dithiolan-3-yl)pentanamide
+
+> <ALOGPS_LOGP>
+2.30
+
+> <JCHEM_LOGP>
+1.3068367939999996
+
+> <ALOGPS_LOGS>
+-3.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.44904972488411
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.5791115631472391
+
+> <JCHEM_POLAR_SURFACE_AREA>
+43.09
+
+> <JCHEM_REFRACTIVITY>
+56.1936
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.01e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+lipoamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00962
+
+> <GENERIC_NAME>
+Lipoamide
+
+> <SYNONYMS>
+1,2-Dithiolane-3-pentanamide; 5-(1,2-Dithiolan-3-yl)-pentanamide; 5-(1,2-Dithiolan-3-yl)pentanamide; 5-(1,2-Dithiolan-3-yl)valeramide; 5-(Dithiolan-3-yl)valeramide; alpha-Lipoate; alpha-Lipoic acid; alpha-Lipoic acid amide; Dl-6-Thioctic amide; DL-lipoamide; Lipamide; Lipoacin; Lipoamid; Lipoicin; Lipozyme; Lypoaran; Pathoclon; Thioami; Thioctamid; Thioctamide; Thioctic acid amide; Thioctic acid amide (jan); Thiotomin; Ticolin; Vitamin N
+
+$$$$

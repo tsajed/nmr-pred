@@ -1,0 +1,123 @@
+3-Methylindole.mol
+  Mrv0541 02231218322D          
+
+ 10 11  0  0  0  0            999 V2000
+    0.8622    0.9838    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3502    0.3186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8683   -0.3511    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0825   -0.0997    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6301   -0.5155    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3464   -0.1062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3502    0.7188    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6376    1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0788    0.7253    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1268   -1.1345    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  1  9  1  0  0  0  0
+  4  9  2  0  0  0  0
+  3 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00466
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC1=CNC2=C1C=CC=C2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H9N/c1-7-6-10-9-5-3-2-4-8(7)9/h2-6,10H,1H3
+
+> <INCHI_KEY>
+ZFRKQXVRDFCRJG-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H9N
+
+> <MOLECULAR_WEIGHT>
+131.1745
+
+> <EXACT_MASS>
+131.073499293
+
+> <JCHEM_ACCEPTOR_COUNT>
+0
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.947043858415478
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-methyl-1H-indole
+
+> <ALOGPS_LOGP>
+2.58
+
+> <JCHEM_LOGP>
+2.5854291983333333
+
+> <ALOGPS_LOGS>
+-1.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+17.483126674098358
+
+> <JCHEM_POLAR_SURFACE_AREA>
+15.79
+
+> <JCHEM_REFRACTIVITY>
+42.18569999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.09e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+scatole
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00466
+
+> <GENERIC_NAME>
+3-Methylindole
+
+> <SYNONYMS>
+3-Methyl-1H-indole; 3-Methylindole; 3-MI; b-Methylindole; beta-Methylindole; Scatole; Skatol; Skatole
+
+$$$$

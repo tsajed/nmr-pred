@@ -1,0 +1,137 @@
+
+  Mrv0541 02231219182D          
+
+ 14 15  0  0  0  0            999 V2000
+   19.6448   -4.8676    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8431   -3.2173    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4139   -5.6926    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3382   -4.2035    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8431   -5.6926    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3382   -5.5315    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1284   -4.4550    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5575   -5.2800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5575   -4.4550    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.8197   -4.8676    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8431   -4.0424    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1284   -5.2800    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5946   -3.4193    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8431   -6.5177    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2 11  2  0  0  0  0
+  3 12  2  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01982
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1C(=O)NC2=C1C(=O)NC(=O)N2C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N4O3/c1-10-3-4(8-6(10)13)11(2)7(14)9-5(3)12/h1-2H3,(H,8,13)(H,9,12,14)
+
+> <INCHI_KEY>
+HMLZLHKHNBLLJD-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H8N4O3
+
+> <MOLECULAR_WEIGHT>
+196.1634
+
+> <EXACT_MASS>
+196.059640142
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.69108590108653
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,7-dimethyl-2,3,6,7,8,9-hexahydro-1H-purine-2,6,8-trione
+
+> <ALOGPS_LOGP>
+-0.61
+
+> <JCHEM_LOGP>
+-1.0968408043333333
+
+> <ALOGPS_LOGS>
+-1.31
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+9.314126160972181
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+8.12966218404884
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.024680278721663
+
+> <JCHEM_POLAR_SURFACE_AREA>
+81.75
+
+> <JCHEM_REFRACTIVITY>
+55.422000000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+9.62e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,7-dimethyluric acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01982
+
+> <GENERIC_NAME>
+3,7-Dimethyluric acid
+
+> <SYNONYMS>
+3,7-Dimethyl-2,6,8-trihydroxypurine; 3,7-Dimethyl-7,9-dihydro-1H-purine-2,6,8(3H)-trione
+
+$$$$

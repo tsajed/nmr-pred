@@ -1,0 +1,124 @@
+
+  Mrv0541 02231219462D          
+
+  8  8  0  0  0  0            999 V2000
+   24.4142  -15.7665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5099  -15.7665    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.3746  -14.7269    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9621  -15.9965    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8596  -14.0594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5495  -14.7269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6295  -15.5115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2946  -15.5115    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  2  0  0  0  0
+  2  8  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03646
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CN1CC(=O)NC1=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H6N2O2/c1-6-2-3(7)5-4(6)8/h2H2,1H3,(H,5,7,8)
+
+> <INCHI_KEY>
+RHYBFKMFHLPQPH-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H6N2O2
+
+> <MOLECULAR_WEIGHT>
+114.1026
+
+> <EXACT_MASS>
+114.042927446
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+10.248660447521676
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-methylimidazolidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.20
+
+> <JCHEM_LOGP>
+-1.2265444019999998
+
+> <ALOGPS_LOGS>
+0.37
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.819921013126056
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.94049778083705
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-8.47878856766443
+
+> <JCHEM_POLAR_SURFACE_AREA>
+49.410000000000004
+
+> <JCHEM_REFRACTIVITY>
+25.9428
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.65e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-methylhydantoin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03646
+
+> <GENERIC_NAME>
+N-Methylhydantoin
+
+> <SYNONYMS>
+1-Methyl-2,4-imidazolidinedione; 1-Methyl-Hydantoin; 1-Methyldiazolidine-2,4-dione; 1-Methylhydantoin; 1-Methylimidazolidine-2,4-dione; Dioxy-creatinine; N-Methylimidazolidine-2,4-dione
+
+$$$$

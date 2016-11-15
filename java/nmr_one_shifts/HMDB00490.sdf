@@ -1,0 +1,163 @@
+AE2
+  Mrv0541 02231216302D          
+
+ 26 29  0  0  0  0            999 V2000
+    1.3350   -0.7296    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1471   -0.5844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4274    0.1916    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.2395    0.3368    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8956    0.8223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0834    0.6771    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5516    1.3078    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2605    1.1626    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5408    0.3866    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0090   -0.2441    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.8031   -0.0989    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.2893   -1.0200    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1014   -1.1652    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6332   -0.5345    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3529    0.2414    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.0042    0.7478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6871    0.2848    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4578   -0.5077    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9641   -1.1590    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9931   -1.2769    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5228   -0.8748    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8038   -0.2548    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2818    1.2263    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9172    0.8330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1921   -0.7923    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2130    0.8083    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  6  0  0  0
+  3  5  1  0  0  0  0
+  3 22  1  1  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 23  1  1  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 24  1  1  0  0  0
+ 10 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 25  1  6  0  0  0
+ 11 21  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 14 20  1  1  0  0  0
+ 15 16  1  0  0  0  0
+ 15 26  1  6  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 18 19  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00490
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@]2([H])C[C@]([H])(O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C19H30O2/c1-18-9-7-13(20)11-12(18)3-4-14-15-5-6-17(21)19(15,2)10-8-16(14)18/h12-16,20H,3-11H2,1-2H3/t12-,13-,14+,15+,16+,18+,19+/m1/s1
+
+> <INCHI_KEY>
+QGXBDMJGAMFCBF-BNSUEQOYSA-N
+
+> <FORMULA>
+C19H30O2
+
+> <MOLECULAR_WEIGHT>
+290.4403
+
+> <EXACT_MASS>
+290.224580204
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.359920062969245
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+(1S,2S,5R,7R,10R,11S,15S)-5-hydroxy-2,15-dimethyltetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadecan-14-one
+
+> <ALOGPS_LOGP>
+3.71
+
+> <JCHEM_LOGP>
+3.7672845366666667
+
+> <ALOGPS_LOGS>
+-4.66
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+19.96171995034024
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.296396321120497
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3569559187002107
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+83.8089
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.34e-03 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+α-etiocholanolone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00490
+
+> <GENERIC_NAME>
+Etiocholanolone
+
+> <SYNONYMS>
+3a-Etiocholanolone; 3a-Hydroxy-5b-androstane-17-one; 3alpha-Hydroxy-5beta-androstan-17-one; 3alpha-Hydroxyetiocholan-17-one; 5 beta Androsterone; 5-Isoandrosterone; 5b-Androstan-3a-ol-17-one; 5b-Androstane-3a-ol-17-one; 5b-Androsterone; a-Etiocholanolone; Aetiocholanolone; alpha-Etiocholanolone
+
+$$$$

@@ -1,0 +1,140 @@
+
+  Mrv0541 04111217072D          
+
+ 16 16  0  0  1  0            999 V2000
+   14.1065   -8.7427    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2792   -8.7331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9355   -8.1823    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8572   -9.4448    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0322   -9.4351    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.0419   -8.6101    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.7313   -8.7643    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2498   -8.0088    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3322   -8.1892    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6130   -8.5933    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    9.9035   -8.1723    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1843   -8.5764    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6034   -9.4183    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   10.1826  -10.1278    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3130   -9.8391    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   11.3763  -10.7840    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  5  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  6  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  1  0  0  0
+ 10 13  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  1  6  0  0  0
+ 13 15  1  0  0  0  0
+ 15 16  1  1  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01129
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]1(O)O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]1NC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H15NO6/c1-3(11)9-5-7(13)6(12)4(2-10)15-8(5)14/h4-8,10,12-14H,2H2,1H3,(H,9,11)/t4-,5+,6-,7-,8-/m1/s1
+
+> <INCHI_KEY>
+OVRNDRQMDRJTHS-OZRXBMAMSA-N
+
+> <FORMULA>
+C8H15NO6
+
+> <MOLECULAR_WEIGHT>
+221.2078
+
+> <EXACT_MASS>
+221.089937217
+
+> <JCHEM_ACCEPTOR_COUNT>
+6
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.823604023908107
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+N-[(2R,3S,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
+
+> <ALOGPS_LOGP>
+-2.60
+
+> <JCHEM_LOGP>
+-3.220574411666667
+
+> <ALOGPS_LOGS>
+0.06
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.811681816701025
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+11.604129514800581
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-0.7815744979932194
+
+> <JCHEM_POLAR_SURFACE_AREA>
+119.25000000000001
+
+> <JCHEM_REFRACTIVITY>
+47.024699999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.54e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+N-acetylmannosamine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01129
+
+> <GENERIC_NAME>
+N-Acetylmannosamine
+
+> <SYNONYMS>
+2-Acetamido-2-deoxy-D-mannopyranose; 2-Acetamido-2-deoxy-D-mannose; ManNAc; N-Acetyl-D-mannosamine; N-Acetylmannosamine
+
+$$$$

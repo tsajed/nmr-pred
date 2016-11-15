@@ -1,0 +1,138 @@
+
+  Mrv0541 02231219432D          
+
+ 17 16  0  0  0  0            999 V2000
+   28.6534  -10.2584    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9392   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.2247  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.5103   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7960  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0816   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3673  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6528   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9385  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.2243   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.5098  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7954   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0812  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3667   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6525  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.9381   -9.8458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2236  -10.2584    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03424
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCCCO
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C16H34O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17/h17H,2-16H2,1H3
+
+> <INCHI_KEY>
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+
+> <FORMULA>
+C16H34O
+
+> <MOLECULAR_WEIGHT>
+242.4406
+
+> <EXACT_MASS>
+242.26096571
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+34.38065925757677
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexadecan-1-ol
+
+> <ALOGPS_LOGP>
+7.17
+
+> <JCHEM_LOGP>
+6.140145926
+
+> <ALOGPS_LOGS>
+-6.13
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+16.84394282199214
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.9922594096606376
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+77.34689999999999
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+14
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.81e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+cetyl alcohol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03424
+
+> <GENERIC_NAME>
+1-Hexadecanol
+
+> <SYNONYMS>
+1-Cetanol; 1-Hexadecanol; 1-Hexadecyl alc; 1-Hexadecyl alcohol; 1-Hexanedecanol; 1-Hydroxyhexadecane; 16-Hexadecanol; Adol; Adol 52; Adol 52 NF; Adol 52NF; Adol 54; Alcohol C-16; Aldol 54; Alfol 16; Atalco C; C16 alcohol; Cachalot C-50; Cachalot C-50 NF; Cachalot C-51; Cachalot C-52; Ceraphyl ICA; Cetaffine; Cetal; Cetalol CA; Cetanol; Cetostearyl alcohol; Cetyl alcohol; Cetyl alcohol NF; Cetylic alcohol; Cetylol; Crodacol C; Crodacol C70; Crodacol C95NF; Crodacol-CAS; Crodacol-CAT; Cyclal cetyl alcohol; Dehydag wax 16; Dytol F-11; Elfacos C; Epal 16NF; Ethal; Ethol; Eutanol G16; Exxal 16; Fancol CA; Fatty alcohol; Hexadecan-1-ol; Hexadecanol; Hexadecanol NF; Hexadecyl alcohol; Hyfatol; Hyfatol 16; Isocetyl alcohol; Isohexadecanol; Isohexadecyl alcohol; Lanette 16; Lanol C; Lipocol C; Lorol 24; Lorol C16; LorolL 24; Loxanol K; Loxanol K extra; Loxanwachs SK; Loxiol VPG 1743; Michel XO-150-16; Myristyl alcohol; N-1-Hexadecanol; N-Cetyl alcohol; N-Hexadecan-1-ol; N-Hexadecanol; N-Hexadecyl alcohol; Normal primary hexadecyl alcohol; Palmityl alcohol; Philcohol 1600; Product 308; Rita CA; Siponol CC; Siponol wax-A; SSD; SSD RP
+
+$$$$

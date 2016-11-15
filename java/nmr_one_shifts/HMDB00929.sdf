@@ -1,0 +1,139 @@
+150
+  Mrv0541 02231214282D          
+
+ 15 16  0  0  1  0            999 V2000
+    5.9868    1.6183    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6286    2.0622    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -1.6183    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4742    0.0498    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8597   -0.2904    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1159    0.4938    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0791   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9232    0.6639    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.0791   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3412   -0.9543    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -0.1293    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3645   -1.7793    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1795    1.4482    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -0.5418    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6500   -1.3668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  2  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  8  4  1  1  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8 13  1  0  0  0  0
+  9 12  2  0  0  0  0
+ 11 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 14 15  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00929
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CC1=CNC2=CC=CC=C12)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C11H12N2O2/c12-9(11(14)15)5-7-6-13-10-4-2-1-3-8(7)10/h1-4,6,9,13H,5,12H2,(H,14,15)/t9-/m0/s1
+
+> <INCHI_KEY>
+QIVBCDIJIAJPQS-VIFPVBQESA-N
+
+> <FORMULA>
+C11H12N2O2
+
+> <MOLECULAR_WEIGHT>
+204.2252
+
+> <EXACT_MASS>
+204.089877638
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+21.04741401319241
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid
+
+> <ALOGPS_LOGP>
+-1.10
+
+> <JCHEM_LOGP>
+-1.0854569138833579
+
+> <ALOGPS_LOGS>
+-2.18
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+16.1565885064574
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.5439286383469866
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.396082567807317
+
+> <JCHEM_POLAR_SURFACE_AREA>
+79.11
+
+> <JCHEM_REFRACTIVITY>
+56.20280000000001
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+L-tryptophan
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00929
+
+> <GENERIC_NAME>
+L-Tryptophan
+
+> <SYNONYMS>
+(-)-tryptophan; (2S)-2-amino-3-(1H-indol-3-yl)propanoate; (2S)-2-amino-3-(1H-indol-3-yl)propanoic acid; (L)-tryptophan; (S)-1H-Indole-3-alanine; (S)-2-Amino-3-(3-indolyl)propionic acid; (S)-a-Amino-1H-indole-3-propanoate; (S)-a-Amino-1H-indole-3-propanoic acid; (S)-a-amino-b-indolepropionate; (S)-a-amino-b-indolepropionic acid; (S)-a-Aminoindole-3-propionate; (S)-a-Aminoindole-3-propionic acid; (S)-alpha-Amino-1H-indole-3-propanoate; (S)-alpha-Amino-1H-indole-3-propanoic acid; (S)-alpha-Amino-beta-(3-indolyl)-propionic acid; (S)-alpha-amino-beta-indolepropionate; (S)-alpha-amino-beta-indolepropionic acid; (S)-alpha-Aminoindole-3-propionate; (S)-alpha-Aminoindole-3-propionic acid; (S)-tryptophan; 1-beta-3-Indolylalanine; 1beta-3-Indolylalanine; 1H-Indole-3-Alanine; 2-Amino-3-indolylpropanoate; 2-Amino-3-indolylpropanoic acid; 3-(1H-Indol-3-yl)-L-Alanine; 3-Indol-3-ylalanine; alpha'-Amino-3-indolepropionic acid; alpha-Aminoindole-3-propionic acid; Ardeytropin; H-TRP-oh; Indole-3-alanine; Kalma; L-(-)-Tryptophan; L-alpha-Amino-3-indolepropionic acid; L-alpha-Aminoindole-3-propionic acid; L-b-3-Indolylalanine; L-beta-3-Indolylalanine; L-Tryptofan; L-Tryptophan; L-Tryptophane; Lopac-T-0254; Lyphan; Optimax; Pacitron; Sedanoct; Triptofano; Trofan; Tryptacin; Tryptan; Tryptophan; Tryptophane; Tryptophanum
+
+$$$$

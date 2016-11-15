@@ -1,0 +1,134 @@
+Homovanillic acid.mol
+  Mrv0541 02231218202D          
+
+ 13 13  0  0  0  0            999 V2000
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434    1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+  3 11  2  0  0  0  0
+  1 12  2  0  0  0  0
+  1 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00118
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC(CC(O)=O)=CC=C1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H10O4/c1-13-8-4-6(5-9(11)12)2-3-7(8)10/h2-4,10H,5H2,1H3,(H,11,12)
+
+> <INCHI_KEY>
+QRMZSPFSDQBLIX-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H10O4
+
+> <MOLECULAR_WEIGHT>
+182.1733
+
+> <EXACT_MASS>
+182.057908808
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.738134603087857
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+2-(4-hydroxy-3-methoxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+1.02
+
+> <JCHEM_LOGP>
+1.1497575179999997
+
+> <ALOGPS_LOGS>
+-1.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.948757939292548
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.7448569898637887
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.892538176084046
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.76
+
+> <JCHEM_REFRACTIVITY>
+45.8097
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.72e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+homovanillic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00118
+
+> <GENERIC_NAME>
+Homovanillic acid
+
+> <SYNONYMS>
+(4-Hydroxy-3-methoxyphenyl)acetate; (4-Hydroxy-3-methoxyphenyl)acetic acid; 3-Methoxy-4-hydroxy-phenylacetic acid; 3-Methoxy-4-hydroxyphenylacetate; 3-Methoxy-4-hydroxyphenylacetic acid; 4-hydroxy 3-methoxyphenylacetic acid; 4-Hydroxy-3-methoxybenzeneacetate; 4-Hydroxy-3-methoxybenzeneacetic acid; 4-Hydroxy-3-methoxyphenylacetic acid; Homovanilate; Homovanilic acid; Homovanillate; Homovanillinic acid; Vanilacetate; Vanilacetic acid
+
+$$$$

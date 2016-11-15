@@ -1,0 +1,124 @@
+
+  Mrv0541 02231216552D          
+
+  8  8  0  0  0  0            999 V2000
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  2  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00300
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+O=C1NC=CC(=O)N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H4N2O2/c7-3-1-2-5-4(8)6-3/h1-2H,(H2,5,6,7,8)
+
+> <INCHI_KEY>
+ISAKRJDGNUQOIC-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H4N2O2
+
+> <MOLECULAR_WEIGHT>
+112.0868
+
+> <EXACT_MASS>
+112.027277382
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.365510550968738
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+> <ALOGPS_LOGP>
+-1.20
+
+> <JCHEM_LOGP>
+-0.8552909999999998
+
+> <ALOGPS_LOGS>
+-0.63
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+13.791445484531952
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+9.768625171737702
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.5116186106051215
+
+> <JCHEM_POLAR_SURFACE_AREA>
+58.2
+
+> <JCHEM_REFRACTIVITY>
+25.9693
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.65e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+uracil
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00300
+
+> <GENERIC_NAME>
+Uracil
+
+> <SYNONYMS>
+2,4-Dihydroxypyrimidine; 2,4-Dioxopyrimidine; 2,4-Pyrimidinediol; 2,4-Pyrimidinedione; Hybar X; Pirod; Pyrod; Uracil
+
+$$$$

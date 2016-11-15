@@ -1,0 +1,127 @@
+
+  Mrv0541 02231217182D          
+
+ 11 10  0  0  0  0            999 V2000
+    1.7605   -1.0164    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4750   -1.4289    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+    2.0625   -2.1434    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8875   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1895   -1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9039   -1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6184   -1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3329   -1.4289    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0474   -1.0164    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7454   -2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  2  0  0  0  0
+M  CHG  1   2   1
+M  END
+> <DATABASE_ID>
+HMDB01565
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[N+](C)(C)CCOP(O)(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C5H14NO4P/c1-6(2,3)4-5-10-11(7,8)9/h4-5H2,1-3H3,(H-,7,8,9)/p+1
+
+> <INCHI_KEY>
+YHHSONZFOIEMCP-UHFFFAOYSA-O
+
+> <FORMULA>
+C5H15NO4P
+
+> <MOLECULAR_WEIGHT>
+184.1507
+
+> <EXACT_MASS>
+184.073869485
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+17.23194201375079
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+[2-(trimethylazaniumyl)ethoxy]phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.43
+
+> <JCHEM_LOGP>
+-4.7858351941384125
+
+> <ALOGPS_LOGS>
+-1.70
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+6.179536689159681
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.149843466514803
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.75999999999999
+
+> <JCHEM_REFRACTIVITY>
+53.066900000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+ChoP
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01565
+
+> <GENERIC_NAME>
+Phosphorylcholine
+
+> <SYNONYMS>
+Choline phosphate; N-Trimethyl-2-aminoethylphosphonate; O-Phosphocholine; Phosphocholine; Phosphoryl-choline
+
+$$$$

@@ -1,0 +1,125 @@
+
+  Mrv0541 02231218432D          
+
+  9  8  0  0  1  0            999 V2000
+   18.4486  -12.8990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.8776  -12.0740    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1631  -10.8364    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0196  -12.0740    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7342  -11.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4486  -12.0740    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.3052  -11.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0196  -12.8990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1631  -11.6615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  6  1  1  1  0  0  0
+  2  9  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00746
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)C[C@H](O)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H12O3/c1-4(2)3-5(7)6(8)9/h4-5,7H,3H2,1-2H3,(H,8,9)/t5-/m0/s1
+
+> <INCHI_KEY>
+LVRFTAZAXQPQHI-YFKPBYRVSA-N
+
+> <FORMULA>
+C6H12O3
+
+> <MOLECULAR_WEIGHT>
+132.1577
+
+> <EXACT_MASS>
+132.07864425
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.64976720303692
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-hydroxy-4-methylpentanoic acid
+
+> <ALOGPS_LOGP>
+0.50
+
+> <JCHEM_LOGP>
+0.7822806383333333
+
+> <ALOGPS_LOGS>
+-0.03
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+14.276112311717824
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.257807082104199
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.801045430820605
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+32.513400000000004
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.24e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+(+)-α-hydroxyisocaproate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00746
+
+> <GENERIC_NAME>
+Hydroxyisocaproic acid
+
+> <SYNONYMS>
+(+)-2-Hydroxyisocaproate; (+)-2-Hydroxyisocaproic acid; (+)-a-Hydroxyisocaproate; (+)-a-Hydroxyisocaproic acid; (+)-alpha-Hydroxyisocaproate; (+)-alpha-Hydroxyisocaproic acid; (2S)-2-Hydroxy-4-methylpentanoate; (2S)-2-Hydroxy-4-methylpentanoic acid; (S)-2-hydroxy-4-methyl-Pentanoate; (S)-2-hydroxy-4-methyl-Pentanoic acid; (S)-2-Hydroxyisocaproate; (S)-2-Hydroxyisocaproic acid; (S)-Leucate; (S)-Leucic acid; Hydroxyisocaproate; Hydroxyisocaproic acid; L-2-Hydroxy-4-methylvalerate; L-2-Hydroxy-4-methylvaleric acid; L-2-Hydroxyisocaproate; L-2-Hydroxyisocaproic acid; L-a-Hydroxyisocaproate; L-a-Hydroxyisocaproic acid; L-alpha-Hydroxyisocaproate; L-alpha-Hydroxyisocaproic acid; L-Leucate; L-Leucic acid; S-2-Hydroxy-4-methylpentanoate; S-2-Hydroxy-4-methylpentanoic acid
+
+$$$$

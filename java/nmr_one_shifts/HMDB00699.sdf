@@ -1,0 +1,126 @@
+
+  Mrv0541 02231218412D          
+
+ 10 10  0  0  0  0            999 V2000
+    0.2183    0.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2183   -0.5356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4980    0.6993    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9210    0.7026    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4980   -0.9551    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   -1.2075    0.2899    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6339    0.2934    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9176    1.5179    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2075   -0.5356    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4980   -1.7636    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6  9  1  0  0  0  0
+M  CHG  1   5   1
+M  END
+> <DATABASE_ID>
+HMDB00699
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[N+]1=CC=CC(=C1)C(N)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H8N2O/c1-9-4-2-3-6(5-9)7(8)10/h2-5H,1H3,(H-,8,10)/p+1
+
+> <INCHI_KEY>
+LDHMAVIPBRSVRG-UHFFFAOYSA-O
+
+> <FORMULA>
+C7H9N2O
+
+> <MOLECULAR_WEIGHT>
+137.1592
+
+> <EXACT_MASS>
+137.07148792
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.251177983907596
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+1
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3-carbamoyl-1-methylpyridin-1-ium
+
+> <ALOGPS_LOGP>
+-3.72
+
+> <JCHEM_LOGP>
+-4.337154676471745
+
+> <ALOGPS_LOGS>
+-2.38
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+12.235695057290888
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-2.1524690316556887
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.97
+
+> <JCHEM_REFRACTIVITY>
+39.1349
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+7.25e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+1-methylnicotinamide
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00699
+
+> <GENERIC_NAME>
+1-Methylnicotinamide
+
+> <SYNONYMS>
+1-Methyl-3-carbamoylpyridinium; 1-Methyl-3-carbamoylpyridinium cation; 1-Methylnicotinamide; 3-Amido-N-methylpyridinium: 1-methyl-3-Pyridinecarboxamide; 3-Carbamoyl-1-methyl-Pyridinium; I-Methyl nicotinamide; N'-Methylnicotinamide; N'Methylnicotinamide; N-1-Methylnicotinamide; N-Methyl-3-carbamidopyridinium; N-Methyl-3-carbamoylpyridinium ion; N1-Methylnicotinamide; Trigonellinamide
+
+$$$$

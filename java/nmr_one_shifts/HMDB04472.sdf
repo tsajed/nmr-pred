@@ -1,0 +1,128 @@
+Cineol (1,8)-
+  Mrv1572001071617072D          
+
+ 11 12  0  0  0  0            999 V2000
+   23.0260   -9.4412    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.1081   -8.6109    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4437   -8.4328    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.5205  -11.3538    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6217   -9.0973    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.6986  -10.6894    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.8766  -10.0249    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9587  -11.2114    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5072  -11.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1632  -10.7815    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1368  -10.5469    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  6  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB04472
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC12CCC(CC1)C(C)(C)O2
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C10H18O/c1-9(2)8-4-6-10(3,11-9)7-5-8/h8H,4-7H2,1-3H3
+
+> <INCHI_KEY>
+WEEGYLXZBRQIMU-UHFFFAOYSA-N
+
+> <FORMULA>
+C10H18O
+
+> <MOLECULAR_WEIGHT>
+154.253
+
+> <EXACT_MASS>
+154.1357652
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_ATOM_COUNT>
+29
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+18.538015531968256
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1,3,3-trimethyl-2-oxabicyclo[2.2.2]octane
+
+> <ALOGPS_LOGP>
+3.36
+
+> <JCHEM_LOGP>
+2.3484196063333327
+
+> <ALOGPS_LOGS>
+-3.84
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.205900916339655
+
+> <JCHEM_POLAR_SURFACE_AREA>
+9.23
+
+> <JCHEM_REFRACTIVITY>
+45.8609
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.25e-02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+eucalyptol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB04472
+
+> <GENERIC_NAME>
+Eucalyptol
+
+> <SYNONYMS>
+1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane; 1,8-Cineol; 1,8-Cineole; 1,8-Epoxy-p-menthane; 1,8-Oxido-p-menthane; 2-Oxa-1,3,3-trimethylbicyclo[2.2.2]octane; Cajeputol; CINEOL; Cineole; CNL; Cucalyptol; Eucalyptole; Eucapur; Eukalyptol; Limonene oxide; p-Cineole; Terpan; Zedoary oil; Zineol
+
+$$$$

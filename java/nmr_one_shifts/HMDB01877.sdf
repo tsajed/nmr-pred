@@ -1,0 +1,121 @@
+
+  Mrv0541 02231214352D          
+
+ 10  9  0  0  0  0            999 V2000
+   -1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.2475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01877
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCC(CCC)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)
+
+> <INCHI_KEY>
+NIJJYAXOARWZEE-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H16O2
+
+> <MOLECULAR_WEIGHT>
+144.2114
+
+> <EXACT_MASS>
+144.115029756
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.996878483662712
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-propylpentanoic acid
+
+> <ALOGPS_LOGP>
+2.54
+
+> <JCHEM_LOGP>
+2.7984510709999997
+
+> <ALOGPS_LOGS>
+-1.79
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+5.144389811177235
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+40.2491
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.36e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+valproic acid
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01877
+
+> <GENERIC_NAME>
+Valproic acid
+
+> <SYNONYMS>
+(N-C3H7)2CHCOOH; (S)-2-propyl-4-pentanoate; (S)-2-propyl-4-pentanoic acid; 2-N-Propyl-N-valeric acid; 2-Propyl-Pentanoate; 2-Propyl-Pentanoic acid; 2-Propylpentanoate; 2-Propylpentanoic acid; 2-Propylvaleric acid; 4-Heptanecarboxylic acid; Acide valproique [inn-french]; Acido valproico [inn-spanish]; Acidum valproicum [inn-latin]; Alti-valproic; APO-divalproex; Apo-valproic; Apo-valproic syrup; Avugane; Baceca; Convulex; Delepsine; Depakene; Depakin; Depakin chrono; Depakine; Depakine chrono; Deproic; Di-N-propylacetic acid; Di-N-propylessigsaure; Di-N-propylessigsaure [german]; Dipropylacetate; Dipropylacetic acid; Divalproex; DOM-divalproex; Dom-valproate; DOM-valproic; Dom-valproic acid; DOM-valproic acid E.C.; Dom-valproic acid syrup; DPA; Epiject I.V.; Epilex; Epilim; Epival; Epival er; Ergenyl; Gen-divalproex; Kyselina 2-propylvalerova; Kyselina 2-propylvalerova [Czech]; Med valproic; Mylproin; Myproate; Myproic acid; N-Dipropylacetic acid; N-DPA; Novo-divalproex; Novo-valproic; Novo-Valproic - ECC; Novo-valproic soft gel cap; Nu-valproic; PEAC; Penta-valproic; PHL-valproate; PHL-valproic acid; PHL-valproic acid E.C.; PMS-Divalproex; PMS-valproate; PMS-valproic acid; PMS-valproic acid E.C.; Propylvaleric acid; Ratio-Valproic - ECC; S(-)-4-En-valproate; S(-)-4-En-valproic acid; S-2-N-Propyl-4-pentenoate; S-2-N-Propyl-4-pentenoic acid; Sandoz valproic; Savicol; Sprinkle; Valcote; Valparin; Valproate; Valproic acid; Valproic acid USP; Valproic acid [usan:ban:inn]; VPA
+
+$$$$

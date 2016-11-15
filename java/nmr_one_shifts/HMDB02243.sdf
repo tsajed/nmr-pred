@@ -1,0 +1,123 @@
+
+  Mrv0541 02231219262D          
+
+  9  9  0  0  0  0            999 V2000
+   24.7030   -5.1933    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4175   -6.4308    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8465   -5.6058    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1320   -5.1933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1320   -4.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8465   -3.9558    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5609   -4.3683    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5609   -5.1933    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4175   -5.6058    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  2  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02243
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC=CC=N1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H5NO2/c8-6(9)5-3-1-2-4-7-5/h1-4H,(H,8,9)
+
+> <INCHI_KEY>
+SIOXPEMLGUPBBT-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H5NO2
+
+> <MOLECULAR_WEIGHT>
+123.1094
+
+> <EXACT_MASS>
+123.032028409
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+11.38096993037629
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+pyridine-2-carboxylic acid
+
+> <ALOGPS_LOGP>
+0.22
+
+> <JCHEM_LOGP>
+-0.6724588114819479
+
+> <ALOGPS_LOGS>
+-0.30
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+0.9919277451158584
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+5.526023388726365
+
+> <JCHEM_POLAR_SURFACE_AREA>
+50.19
+
+> <JCHEM_REFRACTIVITY>
+30.7853
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.11e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+picolinic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02243
+
+> <GENERIC_NAME>
+Picolinic acid
+
+> <SYNONYMS>
+2-Carboxypyridine; 2-Methoxy-5-aminopyridine; 2-Picolinic acid; 2-Pyridinecarboxylic acid; 4,5-Dehydropipecolic acid; 5-Amino-2-fluoropyridine; 5-Amino-2-methoxypyridine; 5-Amino-2-Pyridinecarboxylic acid; 5-Aminopicolinic acid; 5-Aminopyridine-2-carboxylic acid; 6-Methoxy-pyridin-3-ylamine; a-Pyridinecarboxylic acid; Acide picolique; alpha-Picolinic acid; alpha-Pyridinecarboxylic acid; L-Baikiain; O-Pyridinecarboxylic acid; Phenyl-(2-pyridyl)acetonitrile; Picolinate; PLA; Pyridine-2-carboxylic acid; Pyridine-carboxylique-2; Pyridinecarboxylic acid-(2)
+
+$$$$

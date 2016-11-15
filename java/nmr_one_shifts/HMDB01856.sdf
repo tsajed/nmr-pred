@@ -1,0 +1,133 @@
+Protocatechuic acid
+  Mrv1572001071617312D          
+
+ 11 11  0  0  0  0            999 V2000
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+ 10 11  2  0  0  0  0
+  4 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01856
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C1=CC(O)=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H6O4/c8-5-2-1-4(7(10)11)3-6(5)9/h1-3,8-9H,(H,10,11)
+
+> <INCHI_KEY>
+YQUVCSBJEUQKSH-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H6O4
+
+> <MOLECULAR_WEIGHT>
+154.121
+
+> <EXACT_MASS>
+154.026608673
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_ATOM_COUNT>
+17
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.851000704716842
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+3
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+3,4-dihydroxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.32
+
+> <JCHEM_LOGP>
+1.0236980806666667
+
+> <ALOGPS_LOGS>
+-1.10
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.401748678864411
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.160229176821464
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-6.341303650784174
+
+> <JCHEM_POLAR_SURFACE_AREA>
+77.76
+
+> <JCHEM_REFRACTIVITY>
+37.275999999999996
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.24e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3,4-dihydroxybenzoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01856
+
+> <GENERIC_NAME>
+Protocatechuic acid
+
+> <SYNONYMS>
+2,4-Dihydroxybenzoate; 2,4-Dihydroxybenzoic acid; 3,4-Dihydroxybenzoate; 3,4-Dihydroxybenzoic acid; 4-Carboxy-1,2-dihydroxybenzene; b-Resorcylate; b-Resorcylic acid; beta-Resorcylate; beta-Resorcylic acid; Protocatechuate
+
+$$$$

@@ -1,0 +1,162 @@
+
+  Mrv0541 02231218502D          
+
+ 26 28  0  0  1  0            999 V2000
+   15.6185   -8.8074    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8329  -10.8711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7714   -9.9771    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7683  -11.7719    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9639   -5.2279    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0242   -6.1859    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0604  -12.3236    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.0604  -13.6514    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5652  -12.1625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.8508  -13.4000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5652  -14.6375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8578   -6.4522    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1032  -10.4608    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.1017  -11.2858    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   15.3190  -10.2045    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.3166  -11.5394    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.0654   -9.4194    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2798  -12.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5419  -12.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2798  -13.4000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3649   -8.0223    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9180   -7.4102    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.5652  -13.8125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6645   -6.6251    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   12.8508  -12.5750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.2175   -6.0129    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 17  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2 15  1  0  0  0  0
+  2 16  1  0  0  0  0
+ 13  3  1  1  0  0  0
+ 14  4  1  1  0  0  0
+  5 26  1  0  0  0  0
+  6 26  2  0  0  0  0
+ 16  7  1  6  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 19  2  0  0  0  0
+  8 20  1  0  0  0  0
+  9 18  2  0  0  0  0
+  9 25  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 25  2  0  0  0  0
+ 11 23  1  0  0  0  0
+ 24 12  1  6  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  6  0  0  0
+ 18 20  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 21 22  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 24 26  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00939
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+N[C@@H](CCSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C(N)N=CN=C12)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C14H20N6O5S/c15-6(14(23)24)1-2-26-3-7-9(21)10(22)13(25-7)20-5-19-8-11(16)17-4-18-12(8)20/h4-7,9-10,13,21-22H,1-3,15H2,(H,23,24)(H2,16,17,18)/t6-,7+,9+,10+,13+/m0/s1
+
+> <INCHI_KEY>
+ZJUKTBDSGOFHSH-WFMPWKQPSA-N
+
+> <FORMULA>
+C14H20N6O5S
+
+> <MOLECULAR_WEIGHT>
+384.411
+
+> <EXACT_MASS>
+384.12158847
+
+> <JCHEM_ACCEPTOR_COUNT>
+10
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+38.40582069900971
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(2S)-2-amino-4-({[(2S,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl}sulfanyl)butanoic acid
+
+> <ALOGPS_LOGP>
+-2.37
+
+> <JCHEM_LOGP>
+-4.028528350820399
+
+> <ALOGPS_LOGS>
+-1.97
+
+> <JCHEM_MDDR_LIKE_RULE>
+1
+
+> <JCHEM_NUMBER_OF_RINGS>
+3
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+12.4722800533069
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.8122035172953703
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+9.501861968958137
+
+> <JCHEM_POLAR_SURFACE_AREA>
+182.63000000000005
+
+> <JCHEM_REFRACTIVITY>
+92.7235
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+7
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+4.08e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+S-adenosyl-L-homocysteine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00939
+
+> <GENERIC_NAME>
+S-Adenosylhomocysteine
+
+> <SYNONYMS>
+(S)-5'-(S)-(3-Amino-3-carboxypropyl)-5'-thioadenosine; 2-S-Adenosyl-L-homocysteine; 5'-Deoxy-S-adenosyl-L-homocysteine; 5'-S-(3-Amino-3-carboxypropyl)-5'-thio-L-Adenosine; Adenosyl-homo-CYS; Adenosyl-L-homocysteine; Adenosylhomo-CYS; Adenosylhomocysteine; Adohcy; Formycinylhomocysteine; L-5'-S-(3-Amino-3-carboxypropyl)-5'-thior-Adenosine; L-S-Adenosyl-Homocysteine; L-S-Adenosylhomocysteine; S-(5'-Adenosyl)-L-homocysteine; S-(5'-Deoxyadenosin-5'-yl)-L-homocysteine; S-(5'-Deoxyadenosine-5')-L-homocysteine; S-Adenosyl-homocysteine; S-Adenosyl-L-homocysteine; SAH
+
+$$$$

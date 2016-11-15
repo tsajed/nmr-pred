@@ -1,0 +1,127 @@
+
+  Mrv0541 02231216282D          
+
+ 11 11  0  0  0  0            999 V2000
+    1.4289   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -1.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  3  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 11  2  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01101
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+COC1=CC=C(C=C1)C(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c1-11-7-4-2-6(3-5-7)8(9)10/h2-5H,1H3,(H,9,10)
+
+> <INCHI_KEY>
+ZEYHEAKUIGZSGI-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.987426796627249
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+4-methoxybenzoic acid
+
+> <ALOGPS_LOGP>
+1.63
+
+> <JCHEM_LOGP>
+1.4731574583333336
+
+> <ALOGPS_LOGS>
+-1.88
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.366688111140357
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-4.845611234615028
+
+> <JCHEM_POLAR_SURFACE_AREA>
+46.53
+
+> <JCHEM_REFRACTIVITY>
+39.7774
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+2.00e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+P-anisic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01101
+
+> <GENERIC_NAME>
+p-Anisic acid
+
+> <SYNONYMS>
+4-Anisic acid; 4-Methoxybenzoate; 4-Methoxybenzoic acid; Anisic acid; Draconic acid; p-Methoxybenzoate; p-Methoxybenzoic acid
+
+$$$$

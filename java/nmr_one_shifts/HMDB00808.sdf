@@ -1,0 +1,127 @@
+N-Butyrylglycine.mol
+  Mrv0541 02231218452D          
+
+ 10  9  0  0  0  0            999 V2000
+    1.7862   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3572   -0.2063    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0717    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7862   -1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5006    0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0717   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7862    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5006   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  5  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+  2  6  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00808
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCC(=O)NCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H11NO3/c1-2-3-5(8)7-4-6(9)10/h2-4H2,1H3,(H,7,8)(H,9,10)
+
+> <INCHI_KEY>
+WPSSBBPLVMTKRN-UHFFFAOYSA-N
+
+> <FORMULA>
+C6H11NO3
+
+> <MOLECULAR_WEIGHT>
+145.1564
+
+> <EXACT_MASS>
+145.073893223
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.640864565136809
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-butanamidoacetic acid
+
+> <ALOGPS_LOGP>
+0.03
+
+> <JCHEM_LOGP>
+-0.18352444200000004
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+15.809584079020937
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.062991582052437
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.2367607167240058
+
+> <JCHEM_POLAR_SURFACE_AREA>
+66.4
+
+> <JCHEM_REFRACTIVITY>
+34.6751
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+4
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.76e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+butyrylglycine
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00808
+
+> <GENERIC_NAME>
+N-Butyrylglycine
+
+> <SYNONYMS>
+Butyrylglycine; N-(1-Oxobutyl)glycine; N-Butanoylglycine; N-Butyryl-Glycine; N-Butyrylglycine
+
+$$$$

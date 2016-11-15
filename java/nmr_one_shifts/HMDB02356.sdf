@@ -1,0 +1,157 @@
+
+  Mrv0541 02231219302D          
+
+ 28 27  0  0  0  0            999 V2000
+    8.2530   -3.3688    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9675   -4.6063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2556   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5412   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.9701   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.8266   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6846   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1123   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3991   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3978   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1136   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6833   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   21.8280   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9688   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.5424   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2543   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.2570   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5398   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9714   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8255   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6859   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1109   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4004   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3965   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1148   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6820   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8294   -3.3688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9675   -3.7813    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 28  1  0  0  0  0
+  2 28  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 20  1  0  0  0  0
+ 19 21  1  0  0  0  0
+ 20 22  1  0  0  0  0
+ 21 23  1  0  0  0  0
+ 22 24  1  0  0  0  0
+ 23 25  1  0  0  0  0
+ 24 26  1  0  0  0  0
+ 25 27  1  0  0  0  0
+ 26 28  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB02356
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CCCCCCCCCCCCCCCCCCCCCCCCCC(O)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C26H52O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26(27)28/h2-25H2,1H3,(H,27,28)
+
+> <INCHI_KEY>
+XMHIUKTWLZUKEX-UHFFFAOYSA-N
+
+> <FORMULA>
+C26H52O2
+
+> <MOLECULAR_WEIGHT>
+396.6899
+
+> <EXACT_MASS>
+396.396730908
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+55.834658066276035
+
+> <JCHEM_BIOAVAILABILITY>
+0
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+hexacosanoic acid
+
+> <ALOGPS_LOGP>
+9.87
+
+> <JCHEM_LOGP>
+10.702269427666668
+
+> <ALOGPS_LOGS>
+-7.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+4.952019655228562
+
+> <JCHEM_POLAR_SURFACE_AREA>
+37.3
+
+> <JCHEM_REFRACTIVITY>
+123.09359999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+24
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.81e-05 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+hexacosanoic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB02356
+
+> <GENERIC_NAME>
+Hexacosanoic acid
+
+> <SYNONYMS>
+Cerate; Ceratinate; Ceratinic acid; Ceric acid; Cerinate; Cerinic acid; Cerotate; Cerotic acid; Cerylate; Cerylic acid; Hexacosanoate; Hexacosanoate (N-C26:0); Hexacosanoic acid; N-Hexacosanoate; N-Hexacosanoic acid
+
+$$$$

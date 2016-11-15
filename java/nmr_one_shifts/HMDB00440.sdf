@@ -1,0 +1,130 @@
+3-Hydroxyphenylacetic acid.mol
+  Mrv0541 02231218312D          
+
+ 11 11  0  0  0  0            999 V2000
+    1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1434   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  2  0  0  0  0
+  9 10  1  0  0  0  0
+  5 10  2  0  0  0  0
+  2  5  1  0  0  0  0
+  7 11  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00440
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)CC1=CC=CC(O)=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C8H8O3/c9-7-3-1-2-6(4-7)5-8(10)11/h1-4,9H,5H2,(H,10,11)
+
+> <INCHI_KEY>
+FVMDYYGIDFPZAX-UHFFFAOYSA-N
+
+> <FORMULA>
+C8H8O3
+
+> <MOLECULAR_WEIGHT>
+152.1473
+
+> <EXACT_MASS>
+152.047344122
+
+> <JCHEM_ACCEPTOR_COUNT>
+3
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+14.777919898848186
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-(3-hydroxyphenyl)acetic acid
+
+> <ALOGPS_LOGP>
+0.93
+
+> <JCHEM_LOGP>
+1.3074287836666667
+
+> <ALOGPS_LOGS>
+-1.34
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.470982050154852
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+3.9988857987295043
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.965684195856604
+
+> <JCHEM_POLAR_SURFACE_AREA>
+57.53
+
+> <JCHEM_REFRACTIVITY>
+39.346500000000006
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.98e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+3-hydroxyphenylacetic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00440
+
+> <GENERIC_NAME>
+3-Hydroxyphenylacetic acid
+
+> <SYNONYMS>
+(3-hydroxy-phenyl)-acetate; (3-hydroxy-phenyl)-acetic acid; 3-Hydroxy-benzeneacetate; 3-Hydroxy-benzeneacetic acid; 3-Hydroxybenzeneacetic acid; 3-Hydroxyphenylacetate; 3-Hydroxyphenylacetic acid; m-Hydroxyphenylacetate; m-Hydroxyphenylacetic acid
+
+$$$$

@@ -1,0 +1,134 @@
+
+  Mrv0541 02231218412D          
+
+ 13 13  0  0  0  0            999 V2000
+   12.2744   -7.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2744   -8.4339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5599   -7.1964    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5599   -8.8464    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8455   -7.6089    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8455   -8.4339    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5599   -6.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2743   -5.9589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.2743   -5.1339    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9888   -6.3714    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9888   -7.1964    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7033   -5.9589    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5599   -9.6714    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  1  2  0  0  0  0
+  4  2  2  0  0  0  0
+  5  3  1  0  0  0  0
+  6  4  1  0  0  0  0
+  6  5  2  0  0  0  0
+  7  3  1  0  0  0  0
+  8  7  1  0  0  0  0
+  9  8  2  0  0  0  0
+ 10  8  1  0  0  0  0
+ 11 10  2  0  0  0  0
+ 12 10  1  0  0  0  0
+ 13  4  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00707
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC(=O)C(=O)CC1=CC=C(O)C=C1
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H8O4/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,10H,5H2,(H,12,13)
+
+> <INCHI_KEY>
+KKADPXVIOXHVKN-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H8O4
+
+> <MOLECULAR_WEIGHT>
+180.1574
+
+> <EXACT_MASS>
+180.042258744
+
+> <JCHEM_ACCEPTOR_COUNT>
+4
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+16.75096068032798
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+1
+
+> <JCHEM_IUPAC>
+3-(4-hydroxyphenyl)-2-oxopropanoic acid
+
+> <ALOGPS_LOGP>
+1.12
+
+> <JCHEM_LOGP>
+1.596648451333333
+
+> <ALOGPS_LOGS>
+-2.08
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-1
+
+> <JCHEM_PKA>
+9.498853206830276
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.91496710599853
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-5.958513128269975
+
+> <JCHEM_POLAR_SURFACE_AREA>
+74.60000000000001
+
+> <JCHEM_REFRACTIVITY>
+44.6925
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.49e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+4-hydroxyphenylpyruvic acid
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00707
+
+> <GENERIC_NAME>
+4-Hydroxyphenylpyruvic acid
+
+> <SYNONYMS>
+(p-hydroxyphenyl)-Pyruvate; (p-hydroxyphenyl)-Pyruvic acid; (p-Hydroxyphenyl)pyruvate; (p-Hydroxyphenyl)pyruvic acid; 3-(4-Hydroxyphenyl)-2-oxo-propanoate; 3-(4-Hydroxyphenyl)-2-oxo-propanoic acid; 3-(4-Hydroxyphenyl)-2-oxopropionate; 3-(4-Hydroxyphenyl)-2-oxopropionic acid; 3-(4-Hydroxyphenyl)pyruvate; 3-(4-Hydroxyphenyl)pyruvic acid; 3-(p-Hydroxyphenyl)-2-oxopropionate; 3-(p-Hydroxyphenyl)-2-oxopropionic acid; 3-(p-Hydroxyphenyl)pyruvate; 3-(p-Hydroxyphenyl)pyruvic acid; 4-Hydroxy-a-oxobenzenepropanoate; 4-Hydroxy-a-oxobenzenepropanoic acid; 4-Hydroxy-alpha-oxobenzenepropanoate; 4-Hydroxy-alpha-oxobenzenepropanoic acid; 4-Hydroxyphenylpyruvate; 4HPPA; HPPA; Hydroxyphenylpyruvate; Hydroxyphenylpyruvic acid; p-Hydroxyphenylpyruvic; Testacid
+
+$$$$

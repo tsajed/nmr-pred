@@ -1,0 +1,112 @@
+
+  Mrv0541 02231219132D          
+
+  4  3  0  0  0  0            999 V2000
+    9.1900   -6.2400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1900   -7.0650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9694   -7.4768    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4987   -7.4592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0  0  0  0
+  3  2  1  0  0  0  0
+  4  2  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01659
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(C)=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C3H6O/c1-3(2)4/h1-2H3
+
+> <INCHI_KEY>
+CSCPPACGZOOCGX-UHFFFAOYSA-N
+
+> <FORMULA>
+C3H6O
+
+> <MOLECULAR_WEIGHT>
+58.0791
+
+> <EXACT_MASS>
+58.041864814
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+6.408374755692389
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+propan-2-one
+
+> <ALOGPS_LOGP>
+-0.29
+
+> <JCHEM_LOGP>
+0.1062798083333333
+
+> <ALOGPS_LOGS>
+0.52
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+19.511239590750403
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-7.194665505565277
+
+> <JCHEM_POLAR_SURFACE_AREA>
+17.07
+
+> <JCHEM_REFRACTIVITY>
+16.1948
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+0
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.93e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+acetone
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB01659
+
+> <GENERIC_NAME>
+Acetone
+
+> <SYNONYMS>
+2-Propanone; Acetone; b-Ketopropane; beta-Ketopropane; Dimethyl ketone; Dimethylformaldehyde; Methyl ketone; Propanone; Pyroacetic ether
+
+$$$$

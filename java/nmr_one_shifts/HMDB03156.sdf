@@ -1,0 +1,119 @@
+
+  Mrv0541 02231219392D          
+
+  6  5  0  0  0  0            999 V2000
+   25.3362  -15.8507    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.1927  -15.4381    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9072  -15.8507    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6217  -15.4381    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.6217  -14.6131    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9072  -16.6757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  4  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB03156
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(O)C(C)O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C4H10O2/c1-3(5)4(2)6/h3-6H,1-2H3
+
+> <INCHI_KEY>
+OWBTYPJTUOEWEK-UHFFFAOYSA-N
+
+> <FORMULA>
+C4H10O2
+
+> <MOLECULAR_WEIGHT>
+90.121
+
+> <EXACT_MASS>
+90.068079564
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+9.86836471486291
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+2
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+butane-2,3-diol
+
+> <ALOGPS_LOGP>
+-0.59
+
+> <JCHEM_LOGP>
+-0.37552903133333315
+
+> <ALOGPS_LOGS>
+0.83
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+0
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+15.678062098346835
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+14.224481598439645
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.006341228739074
+
+> <JCHEM_POLAR_SURFACE_AREA>
+40.46
+
+> <JCHEM_REFRACTIVITY>
+23.3912
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+6.03e+02 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+2,3-butanediol
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB03156
+
+> <GENERIC_NAME>
+2,3-Butanediol
+
+> <SYNONYMS>
+2,3-Butandiol; 2,3-Butanediol; 2,3-Butanodiol; 2,3-Butylene glycol; 2,3-Dihydroxybutane; Butane-2,3-diol; D-2,3-Butane diol; Dimethylethylene glycol
+
+$$$$

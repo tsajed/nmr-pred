@@ -1,0 +1,140 @@
+
+  Mrv0541 02231219072D          
+
+ 16 16  0  0  1  0            999 V2000
+   -1.8588    1.2102    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0330    1.2102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6845    1.2162    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8708    0.3904    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8708    2.0359    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7116    0.4564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1381   -0.0030    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1472   -0.8198    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8498    0.4144    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8648   -1.2281    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5555   -1.2432    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5705    0.0120    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    1.5764   -0.8107    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8708   -2.0509    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2791    0.4294    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2942   -1.2191    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  1  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  7  6  1  1  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 11  1  6  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 14  1  1  0  0  0
+ 12 15  1  4  0  0  0
+ 13 16  1  6  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB01401
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+OC1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]1O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C6H13O9P/c7-3-2(1-14-16(11,12)13)15-6(10)5(9)4(3)8/h2-10H,1H2,(H2,11,12,13)/t2-,3-,4+,5-,6?/m1/s1
+
+> <INCHI_KEY>
+NBSCHQHZLSJFNQ-GASJEMHNSA-N
+
+> <FORMULA>
+C6H13O9P
+
+> <MOLECULAR_WEIGHT>
+260.1358
+
+> <EXACT_MASS>
+260.029718526
+
+> <JCHEM_ACCEPTOR_COUNT>
+8
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+20.555675224936905
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+6
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+{[(2R,3S,4S,5R)-3,4,5,6-tetrahydroxyoxan-2-yl]methoxy}phosphonic acid
+
+> <ALOGPS_LOGP>
+-2.06
+
+> <JCHEM_LOGP>
+-3.056105249333333
+
+> <ALOGPS_LOGS>
+-0.92
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+-2
+
+> <JCHEM_PKA>
+6.248752256962443
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+1.222936327751123
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-3.64935696086094
+
+> <JCHEM_POLAR_SURFACE_AREA>
+156.91
+
+> <JCHEM_REFRACTIVITY>
+46.796299999999995
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+3.14e+01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+glucose 6-phosphate
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB01401
+
+> <GENERIC_NAME>
+Glucose 6-phosphate
+
+> <SYNONYMS>
+a-D-Glucose 6- phosphate; alpha-D-Glucose 6- phosphate; alpha-D-Glucose 6-phosphate; alpha-D-Hexose 6-phosphate; D(+)-Glucopyranose 6-phosphate; D-Glucose 6-phosphate; D-Glucose-6-dihydrogen phosphate; D-Hexose 6-phosphate; Glucose 6-phosphate; Glucose-6-phosphate; Robison ester
+
+$$$$

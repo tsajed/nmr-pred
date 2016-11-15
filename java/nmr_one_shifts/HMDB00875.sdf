@@ -1,0 +1,123 @@
+
+  Mrv0541 02231218472D          
+
+ 10 10  0  0  0  0            999 V2000
+   13.7841   -3.5479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9590   -3.5479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5465   -4.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7216   -4.2624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3091   -3.5479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7216   -2.8335    0.0000 N   0  3  0  0  0  0  0  0  0  0  0  0
+   12.5466   -2.8335    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1966   -4.2624    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1966   -2.8335    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0
+   11.3091   -2.1190    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  2  7  1  0  0  0  0
+  1  8  2  0  0  0  0
+  1  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+M  CHG  2   6   1   9  -1
+M  END
+> <DATABASE_ID>
+HMDB00875
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+C[N+]1=CC(=CC=C1)C([O-])=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C7H7NO2/c1-8-4-2-3-6(5-8)7(9)10/h2-5H,1H3
+
+> <INCHI_KEY>
+WWNNZCOKKKDOPX-UHFFFAOYSA-N
+
+> <FORMULA>
+C7H7NO2
+
+> <MOLECULAR_WEIGHT>
+137.136
+
+> <EXACT_MASS>
+137.047678473
+
+> <JCHEM_ACCEPTOR_COUNT>
+2
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+13.401438455568744
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+0
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+1-methylpyridin-1-ium-3-carboxylate
+
+> <ALOGPS_LOGP>
+-3.30
+
+> <JCHEM_LOGP>
+-3.5302120628050786
+
+> <ALOGPS_LOGS>
+-2.77
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+1
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+2.7829632948236522
+
+> <JCHEM_POLAR_SURFACE_AREA>
+44.01
+
+> <JCHEM_REFRACTIVITY>
+48.1498
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+1
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+3.23e-01 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+trigonelline
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00875
+
+> <GENERIC_NAME>
+Trigonelline
+
+> <SYNONYMS>
+1-Methyl-3-pyridiniumcarboxylate; 1-Methylpyridinio-3-carboxylate; 3-Carboxy-1-methyl-Pyridinium hydroxide inner salt; 3-Carboxy-1-methylpyridinium hydroxide inner salt; Betain nicotinate; Betaine nicotinate; Caffearin; Caffearine; Coffearin; Coffearine; Gynesine; N'-Methylnicotinate; N'-Methylnicotinic acid; N-Methylnicotinate; N-Methylnicotinic acid; Nicotinic acid N-methylbetaine; Trigenelline; Trigenolline; Trigonellin; Trigonelline
+
+$$$$
