@@ -8,12 +8,58 @@ import java.nio.charset.StandardCharsets;
 import weka.core.*;
 import weka.classifiers.functions.*;
 import weka.classifiers.Evaluation;
+import weka.classifiers.evaluation.Prediction;
 
 
 public class NmrPred {
 
   public static void main(String[] argv) {
   	File folder = new File("dataset/");
+    try {
+      LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/isTrainingSet");
+      runLinearRegression(model, isTrainingSet, true); 
+    }
+    catch (Exception e) {
+      e.printStackTrace();
+      buildLinearRegressor(folder);
+    }    
+  }
+
+  static void runLinearRegression(LinearRegression model, Instances isTrainingSet, boolean read)  {
+    try {
+      model.buildClassifier(isTrainingSet);
+      if (!read) {
+        weka.core.SerializationHelper.write("models/regression.model", model);
+        weka.core.SerializationHelper.write("models/isTrainingSet", isTrainingSet);
+      }
+      //Instance test = isTrainingSet.lastInstance();
+      //double ppm = model.classifyInstance(test);
+      //System.out.println("Predicted ppm = "+ ppm);
+      Evaluation eTest = new Evaluation(isTrainingSet);
+      // eTest.evaluateModel(model, isTrainingSet);
+      // String strSummary = eTest.toSummaryString();
+      // System.out.println(strSummary);
+      Random rand = new Random(1);
+      eTest.crossValidateModel(model, isTrainingSet, 2, rand);
+      String strSummary = eTest.toSummaryString();
+      System.out.println(strSummary);
+      ArrayList<Prediction> predictions = eTest.predictions();
+
+      for (Prediction pred : predictions) {
+        
+      }
+      //System.out.println(eTest.toMatrixString());
+ 
+      // Get the confusion matrix (not possible with linear regressor)
+      // double[][] cmMatrix = eTest.confusionMatrix();
+    }
+    catch (Exception e) {
+      e.printStackTrace();
+    }
+  }
+
+  static void buildLinearRegressor(File folder) {
     ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
     getStructures(nmr_structures, folder);
     for (NmrStructure nmr_str : nmr_structures) {
@@ -51,27 +97,7 @@ public class NmrPred {
       }
     }
     LinearRegression model = new LinearRegression();
-    try {
-      model.buildClassifier(isTrainingSet);
-      //Instance test = isTrainingSet.lastInstance();
-      //double ppm = model.classifyInstance(test);
-      //System.out.println("Predicted ppm = "+ ppm);
-      Evaluation eTest = new Evaluation(isTrainingSet);
-      // eTest.evaluateModel(model, isTrainingSet);
-      // String strSummary = eTest.toSummaryString();
-      // System.out.println(strSummary);
-      Random rand = new Random(1);
-      eTest.crossValidateModel(model, isTrainingSet, 2, rand);
-      String strSummary = eTest.toSummaryString();
-      System.out.println(strSummary);
-      //System.out.println(eTest.toMatrixString());
- 
-      // Get the confusion matrix (not possible with linear regressor)
-      // double[][] cmMatrix = eTest.confusionMatrix();
-    }
-    catch (Exception e) {
-      e.printStackTrace();
-    }
+    runLinearRegression(model, isTrainingSet, false);
   }
 
   static ArrayList<NmrStructure> getChemicalShifts(File folder) {
