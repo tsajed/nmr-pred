@@ -2,7 +2,7 @@
 # define compiler and compiler flag variables
 #
 
-JFLAGS = -cp ".:cdk-1.4.13.jar:weka.jar"
+JFLAGS = -cp ".:cdk-1.4.13.jar:weka.jar:jmathplot.jar:jmathio.jar"
 JC = javac
 J = java
 

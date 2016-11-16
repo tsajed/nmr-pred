@@ -4,11 +4,16 @@ import java.util.*;
 import java.util.regex.*;
 import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
+import javax.swing.JFrame;
+import java.awt.*;
 
 import weka.core.*;
 import weka.classifiers.functions.*;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
+
+import org.math.plot.*;
+import org.math.io.*;
 
 
 public class NmrPred {
@@ -33,26 +38,32 @@ public class NmrPred {
         weka.core.SerializationHelper.write("models/regression.model", model);
         weka.core.SerializationHelper.write("models/isTrainingSet", isTrainingSet);
       }
-      //Instance test = isTrainingSet.lastInstance();
-      //double ppm = model.classifyInstance(test);
-      //System.out.println("Predicted ppm = "+ ppm);
+
       Evaluation eTest = new Evaluation(isTrainingSet);
-      // eTest.evaluateModel(model, isTrainingSet);
-      // String strSummary = eTest.toSummaryString();
-      // System.out.println(strSummary);
       Random rand = new Random(1);
       eTest.crossValidateModel(model, isTrainingSet, 2, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
 
-      for (Prediction pred : predictions) {
-        
+      double true_values[] = new double[predictions.size()];
+      double predicted_values[] = new double[predictions.size()];
+
+      for (int i = 0; i < predictions.size(); i++) {
+        true_values[i] = predictions.get(i).actual();
+        predicted_values[i] = predictions.get(i).predicted();
       }
-      //System.out.println(eTest.toMatrixString());
- 
-      // Get the confusion matrix (not possible with linear regressor)
-      // double[][] cmMatrix = eTest.confusionMatrix();
+
+      Plot2DPanel plot = new Plot2DPanel();
+
+      plot.addScatterPlot("Linear Scatter Plot", Color.RED, true_values, predicted_values);
+      plot.addLinePlot("True Regression Plot", Color.BLUE, true_values, true_values);
+
+      // put the PlotPanel in a JFrame, as a JPanel
+      JFrame frame = new JFrame("Panel");
+      frame.setContentPane(plot);
+      frame.setVisible(true);
+
     }
     catch (Exception e) {
       e.printStackTrace();
