@@ -13,6 +13,7 @@ import weka.classifiers.functions.*;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.J48;
+import weka.classifiers.functions.*;
 
 import org.math.plot.*;
 import org.math.io.*;
@@ -23,7 +24,7 @@ public class NmrPred {
   public static void main(String[] argv) {
   	File folder = new File("dataset/");
     try {
-      // LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model");
+      //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model");
       Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification");
       //runLinearRegression(model, isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
@@ -39,7 +40,8 @@ public class NmrPred {
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      J48 d_tree_model = new J48();
+      //J48 d_tree_model = new J48();
+      SMO d_tree_model = new SMO();
       //d_tree_model.buildClassifier(isTrainingSet);
       if (!read) {
         weka.core.SerializationHelper.write("models/classification.model", d_tree_model);
@@ -49,7 +51,7 @@ public class NmrPred {
 
       Evaluation eTest = new Evaluation(isTrainingSet);
       Random rand = new Random(1);
-      eTest.crossValidateModel(d_tree_model, isTrainingSet, 2, rand);
+      eTest.crossValidateModel(d_tree_model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
@@ -88,12 +90,12 @@ public class NmrPred {
       model.buildClassifier(isTrainingSet);
       if (!read) {
         weka.core.SerializationHelper.write("models/regression.model", model);
-        weka.core.SerializationHelper.write("models/isTrainingSet", isTrainingSet);
+        weka.core.SerializationHelper.write("models/train_regression", isTrainingSet);
       }
 
       Evaluation eTest = new Evaluation(isTrainingSet);
       Random rand = new Random(1);
-      eTest.crossValidateModel(model, isTrainingSet, 2, rand);
+      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
