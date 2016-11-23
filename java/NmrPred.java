@@ -149,6 +149,12 @@ public class NmrPred {
     Instances isTrainingSet = new Instances("Rel", wekaAttributes, 500);
     isTrainingSet.setClassIndex(values.size());
 
+    /* i = carbon positions from nmr shift text file
+       j = feature index 
+       atomic_descriptor.get(j)[i] gets jth feature (descriptor) and ith position in molecule
+       namely ith Carbon atom as numbered by molfile and text file
+    */
+
     for (NmrStructure nmr_str : nmr_structures) {
       for (int i = 0; i < nmr_str.carbon_positions.size(); i++) {
         Instance iExample = new DenseInstance(values.size() + 1);
