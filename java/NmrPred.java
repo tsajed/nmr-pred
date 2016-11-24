@@ -14,6 +14,7 @@ import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.J48;
 import weka.classifiers.functions.*;
+import weka.attributeSelection.PrincipalComponents;
 
 import org.math.plot.*;
 import org.math.io.*;
@@ -24,10 +25,10 @@ public class NmrPred {
   public static void main(String[] argv) {
   	File folder = new File("dataset/");
     try {
-      //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_3d");
-      //runLinearRegression(model, isTrainingSet, true); 
-      runClassifier(isTrainingSet, true);
+      LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_regression_3d");
+      runLinearRegression(model, isTrainingSet, true); 
+      //runClassifier(isTrainingSet, true);
     }
     catch (Exception e) {
       e.printStackTrace();
@@ -48,8 +49,13 @@ public class NmrPred {
         weka.core.SerializationHelper.write("models/classification.model_3d", d_tree_model);
         weka.core.SerializationHelper.write("models/train_classification_3d", isTrainingSet);
       }
-      d_tree_model.buildClassifier(isTrainingSet);
 
+      // PrincipalComponents pc = new PrincipalComponents();
+      // pc.buildEvaluator(isTrainingSet);
+      // isTrainingSet = pc.transformedData(isTrainingSet);
+      // System.out.println(pc.toString());
+
+      d_tree_model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
       // eTest.evaluateModel(d_tree_model, isTrainingSet);
       Random rand = new Random(1);
@@ -94,12 +100,16 @@ public class NmrPred {
         weka.core.SerializationHelper.write("models/regression.model_3d", model);
         weka.core.SerializationHelper.write("models/train_regression_3d", isTrainingSet);
       }
+      // PrincipalComponents pc = new PrincipalComponents();
+      // pc.buildEvaluator(isTrainingSet);
+      // isTrainingSet = pc.transformedData(isTrainingSet);
+      // System.out.println(pc.toString());
 
       model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      eTest.evaluateModel(model, isTrainingSet);
-      // Random rand = new Random(1);
-      // eTest.crossValidateModel(model, isTrainingSet, 5, rand);
+      // eTest.evaluateModel(model, isTrainingSet);
+      Random rand = new Random(1);
+      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
