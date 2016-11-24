@@ -1,110 +1,110 @@
+702
+  -OEChem-09101623073D
 
-  Mrv0541 02231215052D          
-
-  3  2  0  0  0  0            999 V2000
-    2.0930   -0.2063    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5219   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  8  0     0  0  0  0  0  0999 V2000
+   -1.1712    0.2997    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0463   -0.5665    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2175    0.2668    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0958   -1.2120    0.8819 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0952   -1.1938   -0.8946 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1050   -0.3720   -0.0177 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2426    0.9307   -0.8704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2616    0.9052    0.8886 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1291    0.8364    0.8099 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0  0  0  0
+  1  9  1  0  0  0  0
   2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00108
+> <PUBCHEM_COMPOUND_CID>
+702
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CCO
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3
-
-> <INCHI_KEY>
-LFQSCWFLJHTTHZ-UHFFFAOYSA-N
-
-> <FORMULA>
-C2H6O
-
-> <MOLECULAR_WEIGHT>
-46.0684
-
-> <EXACT_MASS>
-46.041864814
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-5.303762677439431
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+3
+1 -0.68
+2 0.28
+9 0.4
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+0
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+2
+1 1 acceptor
+1 1 donor
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+3
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_CONFORMER_ID>
+000002BE00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+-1.3096
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+10.148
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 18410856563987595332
+21015797 1 18192151726869919494
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+55.87
+1.48
+0.75
+0.58
+0.08
+0.07
+0
+-0.26
+0
+-0.01
+0
+0.04
+0.01
 0
 
-> <JCHEM_GHOSE_FILTER>
-0
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+84.621
 
-> <JCHEM_IUPAC>
-ethanol
+> <PUBCHEM_SHAPE_VOLUME>
+41.5
 
-> <ALOGPS_LOGP>
--0.40
-
-> <JCHEM_LOGP>
--0.1617691140000001
-
-> <ALOGPS_LOGS>
-1.10
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-16.47061524791562
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.155552890561707
-
-> <JCHEM_POLAR_SURFACE_AREA>
-20.23
-
-> <JCHEM_REFRACTIVITY>
-13.0099
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-5.79e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-ethyl alcohol
-
-> <JCHEM_VEBER_RULE>
-1
-
-> <HMDB_ID>
-HMDB00108
-
-> <GENERIC_NAME>
-Ethanol
-
-> <SYNONYMS>
-1-Hydroxyethane; Absolute alcohol; Absolute ethanol; Absolute ethyl alcohol; Aethanol; Aethylalkohol; Alcare Hand Degermer; Alcohol; Alcohols; Alcool ethylique; Alcool etilico; Algrain; Alkohol; Alkoholu etylowego; Anhydrol; Anhydrous alcohol; Cologne spirit; Cologne spirits; Dehydrated alcohol; Dehydrated ethanol; Denatured alcohol; Denatured ethanol; Desinfektol EL; Diluted Alcohol; Distilled spirits; Ethanol 200 proof; Ethanol solution; Ethicap; Ethyl alc; Ethyl alcohol; Ethyl alcohol anhydrous; Ethyl alcohol in alcoholic beverages; Ethyl alcohol usp; Ethyl hydrate; Ethyl hydroxide; Fermentation alcohol; Grain alcohol; Hinetoless; Hydroxyethane; Infinity Pure; Jaysol; Jaysol S; Lux; Methylcarbinol; Molasses alcohol; Potato alcohol; Punctilious ethyl alcohol; Pyro; Silent spirit; Spirit; Spirits of wine; Spirt; Synasol; Tecsol; Tecsol C; Thanol; Undenatured Ethanol
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

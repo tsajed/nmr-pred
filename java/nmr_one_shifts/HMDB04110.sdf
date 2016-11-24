@@ -1,120 +1,136 @@
+546
+  -OEChem-09111607153D
 
-  Mrv0541 02231216292D          
-
-  8  7  0  0  0  0            999 V2000
-    0.1105   -2.0625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.6039   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 P   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 13 12  0     0  0  0  0  0  0999 V2000
+    1.2184   -0.0156    0.0847 P   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3134    1.1655    0.0506 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2485   -0.6139   -1.4112 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3616   -1.0079    1.1879 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7108    0.7439    0.0679 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5320   -1.1904   -0.1002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3380    0.8897    0.1163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5612    0.0288    0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3918    1.4411    1.0605 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3454    1.6041   -0.7132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2664    0.9334    0.0565 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9995   -1.1837   -1.6823 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5037    0.1691    0.0104 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  5  6  1  0  0  0  0
-  5  7  1  0  0  0  0
-  5  8  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  2  0  0  0  0
+  1  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 10  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB04110
+> <PUBCHEM_COMPOUND_CID>
+546
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)CP(O)(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C2H5O5P/c3-2(4)1-8(5,6)7/h1H2,(H,3,4)(H2,5,6,7)
-
-> <INCHI_KEY>
-XUYJLQHKOGNDPB-UHFFFAOYSA-N
-
-> <FORMULA>
-C2H5O5P
-
-> <MOLECULAR_WEIGHT>
-140.0319
-
-> <EXACT_MASS>
-139.987459782
-
-> <JCHEM_ACCEPTOR_COUNT>
-5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-9.629351340776928
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+2
 3
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+11
+1 1.24
+11 0.5
+12 0.5
+13 0.5
+2 -0.77
+3 -0.77
+4 -0.7
+5 -0.65
+6 -0.57
+7 0.06
+8 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-phosphonoacetic acid
-
-> <ALOGPS_LOGP>
--2.58
-
-> <JCHEM_LOGP>
--1.6011253753333332
-
-> <ALOGPS_LOGS>
--0.75
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
-
-> <JCHEM_PKA>
-4.175716720456989
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-1.6377235892899562
-
-> <JCHEM_POLAR_SURFACE_AREA>
-94.83000000000001
-
-> <JCHEM_REFRACTIVITY>
-23.634
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+3 5 6 8 anion
+4 1 2 3 4 anion
 
-> <ALOGPS_SOLUBILITY>
-2.51e+01 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
 
-> <JCHEM_TRADITIONAL_IUPAC>
-phosphonoacetic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB04110
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Phosphonoacetate
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-Carboxymethanephosphonate; Carboxymethanephosphonic acid; Disodium carboxymethylphosphonate; Disodium phosphonoacetate; Disodium phosphonoacetate monohydrate; Fosfonet; Fosfonet sodium; Fosfonoacetate; Fosfonoacetic acid; Lopac-P-6909; PAE; Phosphonacetate; Phosphonacetic acid; Phosphonoacetate; Phosphonoacetic acid; PPA
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000022200000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+-25.6278
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.618
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 18342736355501576585
+18185500 45 18187077356148465523
+21040471 1 18341049606106718873
+24536 1 17917710167138932105
+29004967 10 17489316307878541440
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+139.14
+3.15
+1.18
+0.93
+0.99
+0.02
+-0.11
+-0.57
+0.06
+-0.11
+0.07
+-0.47
+0.28
+-0.08
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+247.118
+
+> <PUBCHEM_SHAPE_VOLUME>
+90.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

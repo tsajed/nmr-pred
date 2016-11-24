@@ -1,122 +1,150 @@
-Ethylmalonic acid.mol
-  Mrv0541 02231218382D          
+11756
+  -OEChem-09111622573D
 
-  9  8  0  0  0  0            999 V2000
-   -0.4125   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.4125    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2375    0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  1  4  2  0  0  0  0
-  1  5  1  0  0  0  0
-  3  6  2  0  0  0  0
-  3  7  1  0  0  0  0
-  8  9  1  0  0  0  0
-  2  8  1  0  0  0  0
+ 17 16  0     0  0  0  0  0  0999 V2000
+    2.3864   -0.0492   -0.6872 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4060    0.1428   -0.6496 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2212   -1.4809    0.6285 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3683   -1.3872    0.6621 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0136    0.1781   -0.6286 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0388    1.6718   -0.2724 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2041    1.9120    1.2228 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2398   -0.5378   -0.1538 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3025   -0.4496   -0.1217 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0339    0.0575   -1.7201 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8690    2.1813   -0.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8778    2.1468   -0.7952 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2047    2.9878    1.4273 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1484    1.5068    1.5984 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6159    1.4664    1.7942 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1758   -0.5352   -0.3664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2337   -0.2693   -0.3221 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00622
+> <PUBCHEM_COMPOUND_CID>
+11756
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CCC(C(O)=O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8O4/c1-2-3(4(6)7)5(8)9/h3H,2H2,1H3,(H,6,7)(H,8,9)
-
-> <INCHI_KEY>
-UKFXDFUAPNAMPJ-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H8O4
-
-> <MOLECULAR_WEIGHT>
-132.1146
-
-> <EXACT_MASS>
-132.042258744
-
-> <JCHEM_ACCEPTOR_COUNT>
-4
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.975395201369494
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+6
+5
+8
+3
+9
+7
+4
 2
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+16 0.5
+17 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 0.12
+8 0.66
+9 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-ethylpropanedioic acid
-
-> <ALOGPS_LOGP>
-0.43
-
-> <JCHEM_LOGP>
-0.6564376749999998
-
-> <ALOGPS_LOGS>
--0.15
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
-
-> <JCHEM_PKA>
-6.580590600104313
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.495963643151088
-
-> <JCHEM_POLAR_SURFACE_AREA>
-74.6
-
-> <JCHEM_REFRACTIVITY>
-28.1633
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+8
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 anion
+1 7 hydrophobe
+3 1 3 8 anion
+3 2 4 9 anion
 
-> <ALOGPS_SOLUBILITY>
-9.41e+01 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
 
-> <JCHEM_TRADITIONAL_IUPAC>
-ethylmalonic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00622
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Ethylmalonic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-1,1-Propanedicarboxylate; 1,1-Propanedicarboxylic acid; a-Carboxybutyrate; a-Carboxybutyric acid; alpha-Carboxybutyrate; alpha-Carboxybutyric acid; Ethyl-Malonic acid; Ethylmalonate; Ethylmalonic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00002DEC00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+8.3052
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+41.22
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12423570 1 8352403027780922465
+18185500 45 18334582304239422574
+21040471 1 18113327600962409215
+23552333 60 17968657090789684042
+29004967 10 18271815652270630630
+5084963 1 17334782366687813341
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+161.74
+2.34
+1.83
+0.98
+0.23
+0.79
+-0.14
+-0.75
+0.48
+-0.19
+-0.66
+-0.03
+0.18
+0.13
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+309.731
+
+> <PUBCHEM_SHAPE_VOLUME>
+98.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

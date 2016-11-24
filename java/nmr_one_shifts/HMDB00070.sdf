@@ -1,123 +1,159 @@
+849
+  -OEChem-09111618093D
 
-  Mrv0541 02231218192D          
-
-  9  9  0  0  0  0            999 V2000
-   12.8612  -10.1112    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   13.5757  -11.3487    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0047  -10.5237    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2902   -9.2862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.2902  -10.1112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.0047   -8.8737    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.7191   -9.2862    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.7191  -10.1112    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.5757  -10.5237    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 20 20  0     1  0  0  0  0  0999 V2000
+    2.4356   -1.0481   -0.3273 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2363    1.0485    0.5446 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3259    1.2187   -0.0680 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3361   -1.2309    0.3015 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3139   -0.0494   -0.4197 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.8361   -1.2819    0.0288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4794    0.0672    0.3333 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7545    1.2022   -0.3874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7462    0.0738   -0.0058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1646   -1.1574    1.3841 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1177   -2.1764   -0.0190 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2831   -0.1861   -1.5080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3025   -2.0665    0.6346 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0083   -1.5406   -1.0232 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5332    0.0507    0.0336 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4571    0.2458    1.4159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8955    1.1131   -1.4716 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1952    2.1583   -0.0850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1190    1.9809   -0.5797 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3785   -0.9869   -0.0640 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  9  1  0  0  0  0
+  1 20  1  0  0  0  0
   2  9  2  0  0  0  0
   3  5  1  0  0  0  0
   3  8  1  0  0  0  0
+  3 19  1  0  0  0  0
   4  5  1  0  0  0  0
   4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
   5  9  1  0  0  0  0
+  5 12  1  0  0  0  0
   6  7  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
   7  8  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 18  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00070
+> <PUBCHEM_COMPOUND_CID>
+849
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)C1CCCCN1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H11NO2/c8-6(9)5-3-1-2-4-7-5/h5,7H,1-4H2,(H,8,9)
-
-> <INCHI_KEY>
-HXEACLLIILLPRG-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H11NO2
-
-> <MOLECULAR_WEIGHT>
-129.157
-
-> <EXACT_MASS>
-129.078978601
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+8
+6
 3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.474461965926004
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+5
+7
+4
 2
+9
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+8
+1 -0.65
+19 0.36
+2 -0.57
+20 0.5
+3 -0.9
+5 0.33
+8 0.27
+9 0.66
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+2.2
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 2 acceptor
+1 3 cation
+1 3 donor
+3 1 2 9 anion
+6 3 4 5 6 7 8 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-piperidine-2-carboxylic acid
-
-> <ALOGPS_LOGP>
--2.17
-
-> <JCHEM_LOGP>
--2.1239620485400845
-
-> <ALOGPS_LOGS>
-0.09
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.063103444066461
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-10.388033490366288
-
-> <JCHEM_POLAR_SURFACE_AREA>
-49.33
-
-> <JCHEM_REFRACTIVITY>
-32.6653
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.58e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-(+,-)-pipecolic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00070
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <GENERIC_NAME>
-Pipecolic acid
+> <PUBCHEM_COMPONENT_COUNT>
+1
 
-> <SYNONYMS>
-()-Piperidine-2-carboxylic acid; (+/-)-2-Piperidinecarboxylate; (+/-)-2-Piperidinecarboxylic acid; (+/-)-Pipecolate; (+/-)-Pipecolic acid; (+/-)-Pipecolinate; (+/-)-Pipecolinic acid; (.+/-.)-2-Piperidinecarboxylic acid; (RS)-2-Piperidinecarboxylate; (RS)-2-Piperidinecarboxylic acid; .alpha.-Pipecolinic acid; 2-Carboxypiperidine; 2-Pipecolinic acid; 2-Piperidinecarboxylate; 2-Piperidinecarboxylic acid; 2-Piperidinylcarboxylic acid; a-Pipecolinate; a-Pipecolinic acid; Acide pipecolique; Acide piperidine-carboxylique-2; alpha-Pipecolinate; alpha-Pipecolinic acid; Dihydrobaikiane; DL-2-Piperidinecarboxylate; DL-2-Piperidinecarboxylic acid; DL-Homoproline; DL-Pipecolate; DL-Pipecolic acid; DL-Pipecolinate; DL-Pipecolinic acid; Hexahydro-2-picolinate; Hexahydro-2-picolinic acid; Hexahydropicolinate; Hexahydropicolinic acid; Homoproline; Pipecolate; Pipecolic acid; Pipecolic acid free base; Pipecolinate; Pipecolinic acid; Piperidine-2-carboxylic acid; Piperolinate; Piperolinic acid
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000035100000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+1.4019
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.502
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18264481956936834689
+14325111 11 18411136913814801733
+16714656 1 18335144176319472447
+19973954 147 18412827992678858688
+20645464 45 18343294877538433314
+21040471 1 18262518074534986157
+23552423 10 18186805794061911894
+2748010 2 18409730668465358511
+29004967 10 18265618851838635658
+369184 2 18343299279763906035
+5084963 1 18188217506751449989
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+168.5
+3.46
+1.48
+0.68
+0.77
+0.04
+0
+0.01
+-0.2
+-0.27
+0
+0
+-0.02
+0.29
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+331.343
+
+> <PUBCHEM_SHAPE_VOLUME>
+99.9
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

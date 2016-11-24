@@ -1,24 +1,32 @@
-999
-  Mrv0541 02231215102D          
+3639
+  -OEChem-09101623433D
 
- 17 18  0  0  0  0            999 V2000
-    2.8075    1.0170    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-    5.6885   -0.6617    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075   -0.6330    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0927   -1.3808    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.2677   -1.3713    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.2200   -1.3475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.3950    0.0814    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    6.4360   -0.2377    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    5.6885    1.0456    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0930   -1.0455    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.4360    0.6217    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.2365   -0.6330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5220   -0.2205    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.2365    1.0170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5220    0.6045    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 25 26  0     0  0  0  0  0  0999 V2000
+    2.7010   -2.4152   -0.0041 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3843    1.2390    0.0262 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9884    0.8025    0.1072 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6655    1.5600    1.4114 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1586    2.2718   -0.9652 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8058    2.1097    0.7178 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9631   -0.1273    0.6553 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5780    0.1713   -0.5689 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3503   -1.8587   -0.0568 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2964    1.0065   -1.5598 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9702    0.1815    0.0403 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1247   -1.2131    0.0008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6052   -1.1526    0.0785 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2871    0.7920    0.0681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4314    0.0008    0.0573 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0498   -1.9826   -0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3139   -1.3856    0.0119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4034   -1.7454   -0.3796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8572   -1.0340    1.1382 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3584    1.8756    0.0935 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7350    0.1603   -1.5847 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3647   -2.8719   -0.0297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0290   -3.0687   -0.0604 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2437    1.9587   -1.9418 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0330    0.4290   -1.9833 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 17  1  0  0  0  0
   2  4  2  0  0  0  0
   2  5  2  0  0  0  0
@@ -29,115 +37,177 @@
   3 10  1  0  0  0  0
   3 15  1  0  0  0  0
   8 13  1  0  0  0  0
+  8 21  1  0  0  0  0
   9 12  1  0  0  0  0
   9 13  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
  11 12  1  0  0  0  0
  11 14  2  0  0  0  0
  12 16  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 19  1  0  0  0  0
  14 15  1  0  0  0  0
+ 14 20  1  0  0  0  0
  15 17  2  0  0  0  0
  16 17  1  0  0  0  0
+ 16 23  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01928
+> <PUBCHEM_COMPOUND_CID>
+3639
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C7H8ClN3O4S2/c8-4-1-5-7(2-6(4)16(9,12)13)17(14,15)11-3-10-5/h1-2,10-11H,3H2,(H2,9,12,13)
-
-> <INCHI_KEY>
-JZUFKLXOESDKRF-UHFFFAOYSA-N
-
-> <FORMULA>
-C7H8ClN3O4S2
-
-> <MOLECULAR_WEIGHT>
-297.739
-
-> <EXACT_MASS>
-296.964474846
-
-> <JCHEM_ACCEPTOR_COUNT>
-5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-25.351294097644047
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
-3
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-6-chloro-1,1-dioxo-3,4-dihydro-2H-1λ⁶,2,4-benzothiadiazine-7-sulfonamide
-
-> <ALOGPS_LOGP>
--0.16
-
-> <JCHEM_LOGP>
--0.5756177763333332
-
-> <ALOGPS_LOGS>
--2.12
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
 2
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+23
+1 -0.18
+10 -0.98
+11 -0.01
+12 0.1
+13 0.72
+14 -0.15
+15 -0.01
+16 -0.15
+17 0.18
+2 1.45
+20 0.15
+21 0.42
+22 0.4
+23 0.15
+24 0.42
+25 0.42
+3 1.45
+4 -0.65
+5 -0.65
+6 -0.65
+7 -0.65
+8 -0.91
+9 -0.87
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+1.6
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+10
+1 10 donor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+1 7 acceptor
+1 8 donor
+1 9 cation
+1 9 donor
+6 11 12 14 15 16 17 rings
+6 2 8 9 11 12 13 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_PKA>
-9.826927880529535
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-9.087113445194948
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.684926632999791
-
-> <JCHEM_POLAR_SURFACE_AREA>
-118.36
-
-> <JCHEM_REFRACTIVITY>
-63.10960000000001
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-2.24e+00 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-hydrochlorothiazide
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB01928
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Hydrochlorothiazide
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-3,4-Dihydrochlorothiazide; Acuretic; Aldactazide; Aldoril; Apresazide; Aquarills; Aquarius; Bremil; Caplaril; Capozide; Chlorosulthiadil; Chlorothiazide; Chlorsulfonamidodihydrobenzothiadiazine dioxide; Chlorzide; Cidrex; Dichlorosal; Dichlotiazid; Dichlotride; Diclotride; Dihydrochlorothiazid; Dihydrochlorothiazide; Dihydrochlorothiazidum; Dihydrochlorurit; Dihydrochlorurite; Dihydroxychlorothiazidum; Direma; Disalunil; Diuril; Drenol; Dyazide; Esidrex; Esidrix; Esimil; Fluvin; HCTZ; HCZ; Hidril; Hidrochlortiazid; Hidroronol; Hidrotiazida; Hydril; Hydro-Aquil; Hydro-D; Hydro-Diuril; Hydrochloro Thiazide; Hydrochlorothiazid; Hydrochlorothiazide; Hydrochlorothiazide Intensol; Hydrochlorthiazide; Hydrodiuretic; Hydrodiuril; Hydropres; Hydrosaluric; Hydrothide; Hydrozide; Hypothiazid; Hypothiazide; Hyzaar; Idrotiazide; Inderide; Ivaugan; Jen-Diril; Lopressor HCT; Lotensin HCT; Maschitt; Maxzide; Megadiuril; Microzide; Moduretic; Nefrix; Neo-codema; Neoflumen; Newtolide; Oretic; Panurin; Prinzide; Ro-hydrazide; Ser-Ap-Es; Servithiazid; Thiaretic; Thiuretic; Thlaretic; Timolide; Unipres; Urodiazin; Vaseretic; Vetidrex; Ziac; Zide
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00000E3700000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+23.9785
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+50.827
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10498660 4 18261675973092958724
+10608611 8 18410286986852085604
+10967382 1 18411134783363355843
+11132069 177 18340481274306139705
+12403259 226 18410565189290901312
+12491281 212 18339935843471512961
+12932764 1 17969791769562310763
+13140716 1 18267587905344451739
+13380535 21 18339092509515925266
+13380535 76 18410288116560801506
+14144814 61 18410291406436743352
+14223421 5 18410292523128441579
+14614273 12 18335976511101380149
+14897335 6 18411694366083535574
+15219456 202 18411696552179840671
+15375462 6 18408884044396017367
+15442244 35 18196370325526834090
+15536298 74 18343300328015929810
+15775835 57 18410863126908724177
+16945 1 18339927146147193283
+17802600 8 18411129251593132728
+18186145 218 18200036123021107140
+200 152 18059280037831862567
+20510252 161 18126568048664223936
+20671657 1 18340489976295042042
+21501502 16 18411985719522047747
+21524375 3 18410011039751830298
+2334 1 18410857646266814278
+23366157 5 18041001700866502962
+23402539 116 18268698575476636695
+23463225 33 18334852810159842074
+23557571 272 18055642964530284454
+23559900 14 18269265786264520666
+2748010 2 18410858715734802631
+3071541 158 18047192947467577350
+350125 39 18410016498401724602
+5104073 3 18410854330752555299
+58051976 378 18413383245997845956
+7364860 26 18341892948884927510
+74978 22 18267864978058681467
+81228 2 18050007997565844522
+9709674 26 18411700980291512655
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+321
+6.48
+2.53
+0.91
+0.46
+0.34
+0.07
+-0.93
+0.06
+0.26
+0.01
+0.14
+-0.41
+-0.08
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+651.371
+
+> <PUBCHEM_SHAPE_VOLUME>
+187.1
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

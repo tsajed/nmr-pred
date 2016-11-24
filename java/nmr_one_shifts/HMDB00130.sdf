@@ -1,132 +1,173 @@
+780
+  -OEChem-09111618203D
 
-  Mrv0541 02231218212D          
-
- 12 12  0  0  0  0            999 V2000
-   -0.2379    0.1379    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4759   -0.2759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9550   -0.2759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2379    0.9619    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4759   -1.0998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1895    0.1379    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9550   -1.0998    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4793    1.3757    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2379   -1.5136    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.6688   -1.5136    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1929    0.9619    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4793    2.1996    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  0  0  0  0
-  1  3  1  0  0  0  0
-  1  4  1  0  0  0  0
-  2  5  1  0  0  0  0
-  2  6  1  0  0  0  0
-  3  7  2  0  0  0  0
-  4  8  1  0  0  0  0
-  5  9  2  0  0  0  0
+ 20 20  0     0  0  0  0  0  0999 V2000
+   -0.4895    2.3984    0.1323 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9512   -1.9066   -0.0253 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7117   -0.7273    0.2389 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1433   -0.5558   -1.3936 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0943    0.0588    0.4732 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5027   -0.1537    0.9213 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3508    1.3264    0.0984 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7793   -1.0279    0.4312 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0980   -0.8468    0.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6695    1.5074   -0.3186 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5431    0.4208   -0.3608 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4505   -0.4938   -0.2110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8828    0.7369    1.4349 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5371   -0.9753    1.6477 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4329   -2.0170    0.7211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0298    2.4894   -0.6136 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5693    0.5681   -0.6862 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0065    3.1898   -0.1614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4774   -2.7042    0.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3260   -0.9468   -0.4938 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 12  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4 12  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
   7 10  1  0  0  0  0
-  8 11  1  0  0  0  0
-  8 12  2  0  0  0  0
-  7  9  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 15  1  0  0  0  0
+  9 11  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00130
+> <PUBCHEM_COMPOUND_CID>
+780
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OC(=O)CC1=C(O)C=CC(O)=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C8H8O4/c9-6-1-2-7(10)5(3-6)4-8(11)12/h1-3,9-10H,4H2,(H,11,12)
-
-> <INCHI_KEY>
-IGMNYECMUMZDDF-UHFFFAOYSA-N
-
-> <FORMULA>
-C8H8O4
-
-> <MOLECULAR_WEIGHT>
-168.1467
-
-> <EXACT_MASS>
-168.042258744
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+6
+3
+5
+2
 4
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-15.568374170369887
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+18
+1 -0.53
+10 -0.15
+11 -0.15
+12 0.66
+15 0.15
+16 0.15
+17 0.15
+18 0.45
+19 0.45
+2 -0.53
+20 0.5
+3 -0.65
+4 -0.57
+5 -0.14
+6 0.2
+7 0.08
+8 -0.15
+9 0.08
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-3
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-1
-
-> <JCHEM_IUPAC>
-2-(2,5-dihydroxyphenyl)acetic acid
-
-> <ALOGPS_LOGP>
-0.81
-
-> <JCHEM_LOGP>
-1.0038634619999998
-
-> <ALOGPS_LOGS>
--1.32
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA>
-9.566007893833087
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.5738042143024793
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--5.895788377591718
-
-> <JCHEM_POLAR_SURFACE_AREA>
-77.75999999999999
-
-> <JCHEM_REFRACTIVITY>
-41.3274
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 donor
+1 2 donor
+1 3 acceptor
+1 4 acceptor
+3 3 4 12 anion
+6 5 7 8 9 10 11 rings
 
-> <ALOGPS_SOLUBILITY>
-8.10e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
 
-> <JCHEM_TRADITIONAL_IUPAC>
-homogentisic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00130
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Homogentisic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-(2,5-dihydroxyphenyl)-Acetate; (2,5-dihydroxyphenyl)-Acetic acid; 2,5-Dihydroxy-a-toluate; 2,5-Dihydroxy-a-toluic acid; 2,5-Dihydroxy-alpha-toluate; 2,5-Dihydroxy-alpha-toluic acid; 2,5-Dihydroxy-benzeneacetate; 2,5-Dihydroxy-benzeneacetic acid; 2,5-Dihydroxyphenylacetate; 2,5-Dihydroxyphenylacetic acid; Alcapton; Homogentisate; Homogentisate acid; Homogentisinate; Homogentisinic acid; Melanic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+17
+
+> <PUBCHEM_CONFORMER_ID>
+0000030C00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+23.7877
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.504
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+11031198 65 18116724099754726757
+11206711 2 18189065200510410116
+12932764 1 17775286105461781017
+14128692 85 18343303634966291210
+15477762 27 18339079418724820783
+16945 1 18336837488824966712
+17844478 74 17603591854615739817
+20201158 50 18187085091400441834
+20645477 70 18409726283768512087
+20653085 51 15068915100525707294
+20871998 184 17984982587983703598
+21501502 16 18265341616485457848
+22802520 49 17968361369491076365
+23552423 10 18188497869568994848
+2748010 2 18265331716532976116
+528886 8 18338799038642699176
+63268167 104 18339645641205763097
+77492 1 17845948410796519027
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+223.48
+4.46
+1.83
+0.86
+2.25
+0.65
+0.11
+-1.89
+0.58
+-1.01
+-0.03
+0.38
+-0.07
+-0.19
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+468.274
+
+> <PUBCHEM_SHAPE_VOLUME>
+126
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

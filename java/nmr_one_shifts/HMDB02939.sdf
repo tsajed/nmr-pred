@@ -1,118 +1,142 @@
+7909
+  -OEChem-09121611083D
 
-  Mrv0541 02231219372D          
-
-  7  6  0  0  0  0            999 V2000
-   19.6545  -11.2905    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   21.0835  -10.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.3691  -10.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.7980  -10.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.0835  -11.2905    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   19.6545  -10.4654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.9400  -10.0529    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 19 18  0     0  0  0  0  0  0999 V2000
+   -1.4684   -0.9422   -0.8413 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2633   -0.1090   -0.2457 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0342    0.7975   -0.0821 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3330   -1.1623    0.8631 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5406    0.7334   -0.2376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2907    0.0530   -0.1408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4121    0.6296    0.6844 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1999   -0.6304   -1.2090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0110    1.5604   -0.8688 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0932    1.3186    0.8813 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2305   -1.7806    0.7522 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3673   -0.6944    1.8530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4698   -1.8341    0.8363 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4236    0.1025   -0.3841 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6597    1.2685    0.7107 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5220    1.4735   -1.0446 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6125    1.6548    0.3635 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3173    0.0319    0.5457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1364    0.6106    1.7416 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  6  2  0  0  0  0
   2  3  1  0  0  0  0
   2  4  1  0  0  0  0
   2  5  1  0  0  0  0
+  2  8  1  0  0  0  0
   3  6  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
   6  7  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02939
+> <PUBCHEM_COMPOUND_CID>
+7909
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC(C)CC(C)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H12O/c1-5(2)4-6(3)7/h5H,4H2,1-3H3
-
-> <INCHI_KEY>
-NTIZESTWPVYFNL-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H12O
-
-> <MOLECULAR_WEIGHT>
-100.1589
-
-> <EXACT_MASS>
-100.088815006
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.054185299400402
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-0
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-4-methylpentan-2-one
-
-> <ALOGPS_LOGP>
-1.31
-
-> <JCHEM_LOGP>
-1.5384034166666667
-
-> <ALOGPS_LOGS>
--0.96
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-19.613234055754823
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--7.276659769488678
-
-> <JCHEM_POLAR_SURFACE_AREA>
-17.07
-
-> <JCHEM_REFRACTIVITY>
-29.9713
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+3
+4
 2
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+4
+1 -0.57
+3 0.06
+6 0.45
+7 0.06
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+2
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+2
+1 1 acceptor
+3 2 4 5 hydrophobe
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.10e+01 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
 
-> <JCHEM_TRADITIONAL_IUPAC>
-methyl isobutyl ketone
+> <PUBCHEM_CONFORMER_ID>
+00001EE500000001
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_MMFF94_ENERGY>
+5.2941
 
-> <HMDB_ID>
-HMDB02939
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+10.148
 
-> <GENERIC_NAME>
-Methyl isobutyl ketone
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 17917991702308787472
+16714656 1 18060146422444689981
+18185500 45 18410284826494098206
+20096714 4 18412829092148106524
+21040471 1 17632016330126782549
+23235685 24 17749116616345313832
+23552333 60 18336828580846484832
+24536 1 17346585379051036388
+29004967 10 17313109635168056328
+5460574 1 9223232927280546349
 
-> <SYNONYMS>
-2-Methyl-4-pentanal; 2-Methyl-4-pentanone; 2-Methylpropyl methyl ketone; 4-Methyl-2-oxopentane; 4-Methyl-2-pentanon; 4-Methyl-2-pentanone; 4-Methyl-pentan-2-on; 4-Methylpentan-2-one; 4-Metilpentan-2-one; Ethyl iso-butyl ketone; Hexanone; Hexon; Hexone; Isobutyl methyl ketone; Isobutyl-methylketon; Isohexanone; Isopropyl acetone; Isopropylacetone; Methyl I-butyl ketone; Methyl isobutyl ketone; Methyl-isobutyl-cetone; Methylisobutylketon; Methylpentan-2-one; Metilisobutilchetone; Metyloizobutyloketon; Shell mibk
+> <PUBCHEM_SHAPE_MULTIPOLES>
+138.19
+3.41
+1.14
+0.87
+0.18
+0.2
+0.01
+-0.59
+0.34
+-0.36
+0.1
+0.22
+0.15
+-0.45
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+246.485
+
+> <PUBCHEM_SHAPE_VOLUME>
+90.8
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

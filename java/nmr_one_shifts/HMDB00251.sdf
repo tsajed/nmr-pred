@@ -1,118 +1,139 @@
+1123
+  -OEChem-09111604213D
 
-  Mrv0541 02231215512D          
-
-  7  6  0  0  0  0            999 V2000
-    0.1105   -2.0625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1105   -1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250   -0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6500    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+ 14 13  0     0  0  0  0  0  0999 V2000
+    1.0051   -0.1135    0.0174 S   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8821    1.2404   -0.2242 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1465   -0.9745   -1.1426 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2613   -0.6011    1.3605 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0095    0.2190   -0.0003 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5919    0.6381   -0.0192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6936   -0.4084    0.0082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6598    1.3111    0.8420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6527    1.2314   -0.9381 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6083   -1.0765   -0.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6019   -1.0300    0.9055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7281   -0.5027   -0.0366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1192    0.7747   -0.8476 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8365    1.6189   -1.1335 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4  6  2  0  0  0  0
-  4  7  2  0  0  0  0
+  1  3  2  0  0  0  0
+  1  4  2  0  0  0  0
+  1  6  1  0  0  0  0
+  2 14  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 11  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00251
+> <PUBCHEM_COMPOUND_CID>
+1123
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NCCS(O)(=O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C2H7NO3S/c3-1-2-7(4,5)6/h1-3H2,(H,4,5,6)
-
-> <INCHI_KEY>
-XOAAWQZATWQOTB-UHFFFAOYSA-N
-
-> <FORMULA>
-C2H7NO3S
-
-> <MOLECULAR_WEIGHT>
-125.147
-
-> <EXACT_MASS>
-125.014663785
-
-> <JCHEM_ACCEPTOR_COUNT>
-4
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-10.824350988998518
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
+2
+3
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+10
+1 1.38
+12 0.36
+13 0.36
+14 0.5
+2 -0.68
+3 -0.65
+4 -0.65
+5 -0.99
+6 0.11
+7 0.27
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 cation
+1 5 donor
+4 1 2 3 4 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-aminoethane-1-sulfonic acid
-
-> <ALOGPS_LOGP>
--2.19
-
-> <JCHEM_LOGP>
--2.6146873946423876
-
-> <ALOGPS_LOGS>
--0.08
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
--1.4937847370487942
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.343935759428495
-
-> <JCHEM_POLAR_SURFACE_AREA>
-80.39
-
-> <JCHEM_REFRACTIVITY>
-24.605100000000004
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.05e+02 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-taurine
+> <PUBCHEM_CONFORMER_ID>
+0000046300000001
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_MMFF94_ENERGY>
+-1.1436
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.5
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 18261393381756884605
+20096714 4 18337390572958986148
+21040471 1 17560511910485837271
+23552449 11 18114733859006642547
+24536 1 18200870678095378269
+29004967 10 18060423512328213827
+5460574 1 9583525313055145525
+5943 1 14061229483075847746
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+125.32
+3.18
+1.01
+0.95
+2.47
+0.12
+-0.11
+0.32
 0
+-0.43
+0.1
+-0.47
+-0.28
+-0.03
 
-> <HMDB_ID>
-HMDB00251
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+215.631
 
-> <GENERIC_NAME>
-Taurine
+> <PUBCHEM_SHAPE_VOLUME>
+83.9
 
-> <SYNONYMS>
-1-Aminoethane-2-sulfonate; 1-Aminoethane-2-sulfonic acid; 2-Aminoethanesulfonate; 2-Aminoethanesulfonic acid; 2-Aminoethylsulfonate; 2-Aminoethylsulfonic acid; 2-Sulfoethylamine; Aminoethylsulfonate; Aminoethylsulfonic acid; b-Aminoethylsulfonate; b-Aminoethylsulfonic acid; beta-Aminoethylsulfonate; beta-Aminoethylsulfonic acid; Taurine
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

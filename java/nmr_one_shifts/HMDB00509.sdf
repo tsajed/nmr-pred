@@ -1,115 +1,138 @@
+10931
+  -OEChem-09111621303D
 
-  Mrv0541 02231218342D          
-
-  7  6  0  0  0  0            999 V2000
-   11.2908   -7.3772    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0053   -8.6148    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.1487   -7.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.4343   -8.6148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0053   -7.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.4343   -7.7897    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.7198   -7.3772    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  5  1  0  0  0  0
-  2  5  2  0  0  0  0
-  3  6  1  0  0  0  0
-  4  6  1  0  0  0  0
-  5  7  1  0  0  0  0
-  6  7  2  0  0  0  0
+ 15 14  0     0  0  0  0  0  0999 V2000
+   -2.2168    0.9407   -0.3145 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5477   -1.1489    0.2951 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2118    0.1017   -0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5575    0.7635    0.0999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2779   -1.3706   -0.3194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0157    0.6923    0.1728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2983    0.0214    0.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1643    0.2793    0.8717 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4613    1.8216    0.3642 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0880    0.7040   -0.8557 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2152   -1.6102   -0.8352 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2460   -1.9624    0.6009 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4813   -1.6964   -0.9947 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0140    1.7598    0.3786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1139    0.5519   -0.3947 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 14  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00509
+> <PUBCHEM_COMPOUND_CID>
+10931
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC(C)=CC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8O2/c1-4(2)3-5(6)7/h3H,1-2H3,(H,6,7)
-
-> <INCHI_KEY>
-YYPNJNDODFVZLE-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H8O2
-
-> <MOLECULAR_WEIGHT>
-100.1158
-
-> <EXACT_MASS>
-100.0524295
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 2
+1
+3
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-10.254334993369937
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+14 0.15
+15 0.5
+2 -0.57
+3 -0.28
+4 0.14
+5 0.14
+6 -0.14
+7 0.71
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 2 acceptor
+3 1 2 7 anion
+3 3 4 5 hydrophobe
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-3-methylbut-2-enoic acid
-
-> <ALOGPS_LOGP>
-0.79
-
-> <JCHEM_LOGP>
-1.162943559
-
-> <ALOGPS_LOGS>
--0.15
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-5.0217490078951394
-
-> <JCHEM_POLAR_SURFACE_AREA>
-37.3
-
-> <JCHEM_REFRACTIVITY>
-27.2469
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-7.11e+01 g/l
+> <PUBCHEM_CONFORMER_ID>
+00002AB300000002
 
-> <JCHEM_TRADITIONAL_IUPAC>
-β,β-dimethacrylate
+> <PUBCHEM_MMFF94_ENERGY>
+13.1535
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.354
 
-> <HMDB_ID>
-HMDB00509
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 18343579655176631240
+16714656 1 18196095671026397358
+20096714 4 18410293579637440944
+21040471 1 18409167688336370156
+23552423 10 18261116244496630806
+24536 1 18341889654185614400
+29004967 10 18341900709536948952
+5460574 1 9223236247174195648
 
-> <GENERIC_NAME>
-Senecioic acid
+> <PUBCHEM_SHAPE_MULTIPOLES>
+132.32
+3.14
+1.29
+0.63
+0.14
+0.37
+0
+-0.64
+0.08
+0.11
+0.05
+0.01
+0.01
+0.24
 
-> <SYNONYMS>
-3,3-Dimethylacrylate; 3,3-Dimethylacrylic acid; 3-Methyl-2-butenoate; 3-Methyl-2-butenoic acid; 3-Methyl-crotonate; 3-Methyl-Crotonic acid; 3-Methylbut-2-enoate; 3-Methylbut-2-enoic acid; 3-Methylcrotonate; 3-Methylcrotonic acid; b,b-Dimethylacrylate; b,b-Dimethylacrylic acid; b-Methylcrotonate; b-Methylcrotonic acid; beta,beta-Dimethacrylate; beta,beta-Dimethacrylic acid; beta,beta-Dimethylacrylate; beta,beta-Dimethylacrylic acid; beta-Methylcrotonate; beta-Methylcrotonic acid; Senecate; Senecic acid; Senecioate; Senecioic acid
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+246.128
+
+> <PUBCHEM_SHAPE_VOLUME>
+83.8
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

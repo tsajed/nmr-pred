@@ -1,122 +1,158 @@
+159664
+  -OEChem-09121605133D
 
-  Mrv0541 02231219142D          
-
-  9  8  0  0  0  0            999 V2000
-   19.6857   -4.1660    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   18.9711   -2.9285    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   18.2568   -4.9910    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   16.8280   -4.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.1134   -3.7534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.5423   -3.7534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.3990   -4.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.9711   -3.7534    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.2568   -4.1660    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  8  1  0  0  0  0
-  2  8  2  0  0  0  0
+ 19 18  0     0  0  0  0  0  0999 V2000
+   -0.8267    1.5848   -0.0192 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1438    0.5814    0.0258 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2608   -1.5356   -0.0098 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6906    0.2888   -0.0257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9193   -0.6191   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3980   -0.5249   -0.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2074    0.1876    0.0327 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8245    0.3629   -0.0054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1594   -0.3259    0.0217 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7209    0.9298   -0.9156 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7084    0.9574    0.8443 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9214   -1.2671   -0.8844 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8829   -1.2713    0.8801 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3530   -1.1576   -0.9132 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3654   -1.1638    0.8695 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2510    0.8212    0.9244 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2907    0.8298   -0.8499 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0734   -0.4814    0.0490 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0325    0.1661    0.0189 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  9  1  0  0  0  0
+  2 19  1  0  0  0  0
   3  9  2  0  0  0  0
   4  5  1  0  0  0  0
   4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
   5  7  1  0  0  0  0
-  6  9  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
   8  9  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01864
+> <PUBCHEM_COMPOUND_CID>
+159664
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CCCCC(=O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H10O3/c1-2-3-4-5(7)6(8)9/h2-4H2,1H3,(H,8,9)
-
-> <INCHI_KEY>
-XNIHZNNZJHYHLC-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H10O3
-
-> <MOLECULAR_WEIGHT>
-130.1418
-
-> <EXACT_MASS>
-130.062994186
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+13
+7
+12
+9
+14
+6
+11
+16
+4
+2
+8
+15
 3
+5
+10
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.188514079727398
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+7
+1 -0.57
+19 0.5
+2 -0.65
+3 -0.57
+6 0.06
+8 0.51
+9 0.72
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-1
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-oxohexanoic acid
-
-> <ALOGPS_LOGP>
-0.94
-
-> <JCHEM_LOGP>
-1.6555471303333333
-
-> <ALOGPS_LOGS>
--1.21
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.528763234882678
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--9.656705905216171
-
-> <JCHEM_POLAR_SURFACE_AREA>
-54.37
-
-> <JCHEM_REFRACTIVITY>
-31.818599999999996
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 4
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 7 hydrophobe
+3 2 3 9 anion
 
-> <ALOGPS_SOLUBILITY>
-8.02e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
 
-> <JCHEM_TRADITIONAL_IUPAC>
-2-oxohexanoic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB01864
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-2-Ketohexanoic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-2-Keto-N-caproate; 2-Keto-N-caproic acid; 2-Ketocaproate; 2-Ketocaproic acid; 2-Ketohexanoate; 2-Ketohexanoic acid; 2-Oxo-hexanoate; 2-Oxo-hexanoic acid; 2-Oxohexanoate; 2-Oxohexanoic acid; alpha-Ketocaproate; alpha-Ketocaproic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+00026FB000000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+5.1747
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.441
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18342448283459951866
+11062470 55 17676206866346301012
+12897270 3 18410572877266238078
+12932764 1 17458051669078487028
+14325111 11 18410855452013084806
+20201158 50 18272933808393720990
+20871998 184 18202005468674584559
+23552423 10 18187646963248331070
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+167.61
+6.16
+1.17
+0.58
+4.27
+0.02
+0
+-0.27
+0.09
+-0.65
+-0.01
+0.07
+-0.01
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+312.967
+
+> <PUBCHEM_SHAPE_VOLUME>
+104.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

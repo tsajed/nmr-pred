@@ -1,118 +1,135 @@
+867
+  -OEChem-09111604513D
 
-  Mrv0541 02231216012D          
-
-  7  6  0  0  0  0            999 V2000
-    1.2375    2.1434    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  4  5  1  0  0  0  0
+ 11 10  0     0  0  0  0  0  0999 V2000
+    2.3669    0.8008    0.0072 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3647    0.8055    0.0057 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3137   -1.2182    0.0020 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3258   -1.2144    0.0023 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0055    0.8153   -0.0063 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2701    0.0037   -0.0067 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2657    0.0073   -0.0043 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0066    1.4400    0.8932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0052    1.4393   -0.9061 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1981    0.2799    0.0182 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1954    0.2836    0.0143 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3  6  2  0  0  0  0
+  4  7  2  0  0  0  0
   5  6  1  0  0  0  0
-  5  7  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00691
+> <PUBCHEM_COMPOUND_CID>
+867
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)CC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H4O4/c4-2(5)1-3(6)7/h1H2,(H,4,5)(H,6,7)
-
-> <INCHI_KEY>
-OFOBLEOULBTSOW-UHFFFAOYSA-N
-
-> <FORMULA>
-C3H4O4
-
-> <MOLECULAR_WEIGHT>
-104.0615
-
-> <EXACT_MASS>
-104.010958616
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
 4
+5
+2
+3
+6
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.12732897067265
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+10 0.5
+11 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 0.12
+6 0.66
+7 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 anion
+3 1 3 6 anion
+3 2 4 7 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-propanedioic acid
-
-> <ALOGPS_LOGP>
--0.60
-
-> <JCHEM_LOGP>
--0.3311172683333333
-
-> <ALOGPS_LOGS>
-0.28
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_PKA>
-5.919487044057661
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.4284239631132736
-
-> <JCHEM_POLAR_SURFACE_AREA>
-74.6
-
-> <JCHEM_REFRACTIVITY>
-18.9878
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.97e+02 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-malonic acid
+> <PUBCHEM_CONFORMER_ID>
+0000036300000001
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_MMFF94_ENERGY>
+3.9917
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+36.184
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14390081 3 18201434804769897896
+20096714 4 18410576167010668281
+21040471 1 18410575071799328013
+23552423 10 18261115157854087214
+24536 1 18338503196974015879
+29004967 10 17822301175146633336
+5460574 1 9223232944555328577
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+120.58
+2.9
+1.19
+0.56
+0
+0.25
+0
+-0.5
+0.01
+0
+0
+0
+-0.01
 0
 
-> <HMDB_ID>
-HMDB00691
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+228.241
 
-> <GENERIC_NAME>
-Malonic acid
+> <PUBCHEM_SHAPE_VOLUME>
+74
 
-> <SYNONYMS>
-alpha,Omega-dicarboxylic acid; Carboxyacetic acid; Dicarboxylate; Dicarboxylic acid; Dicarboxymethane; Kyselina malonova; Kyselina malonova [czech]; Malonate; Malonate dicarboxylic acid; Malonic acid; Metahnedicarboxylic acid; Methanedicarbonic acid; Methanedicarboxylic acid; Propanedioate; Propanedioic acid; Propanedioic acid dithallium salt; Propanediolic acid; Thallium malonate
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

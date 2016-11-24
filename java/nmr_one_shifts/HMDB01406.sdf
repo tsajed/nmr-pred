@@ -1,123 +1,148 @@
+936
+  -OEChem-09111606213D
 
-  Mrv0541 02231216232D          
-
-  9  9  0  0  0  0            999 V2000
-    0.0000    2.4750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7145    2.0625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4289    2.4750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7145    1.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4289    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  4  5  2  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  2  0  0  0  0
-  7  8  1  0  0  0  0
-  8  9  2  0  0  0  0
-  4  9  1  0  0  0  0
+ 15 15  0     0  0  0  0  0  0999 V2000
+   -2.3940    1.1116   -0.0088 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7614   -1.2284   -0.0034 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4052   -1.1814    0.0027 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2969    0.0397    0.0024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4261    1.2273    0.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4117   -1.1510   -0.0013 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8161    1.1886    0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7494    0.0472    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4302   -0.0535   -0.0018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0720    2.1930    0.0070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0488   -2.1309   -0.0033 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4005    2.1016    0.0029 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5119   -0.1381   -0.0035 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9562   -2.0884    0.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4202   -1.2053   -0.0028 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  8  1  0  0  0  0
+  3 14  1  0  0  0  0
+  3 15  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  8  1  0  0  0  0
+  5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  9 13  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01406
+> <PUBCHEM_COMPOUND_CID>
+936
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NC(=O)C1=CC=CN=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H6N2O/c7-6(9)5-2-1-3-8-4-5/h1-4H,(H2,7,9)
-
-> <INCHI_KEY>
-DFPAKSUCGFBDDF-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H6N2O
-
-> <MOLECULAR_WEIGHT>
-122.1246
-
-> <EXACT_MASS>
-122.048012824
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.711267443233845
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+15
+1 -0.57
+10 0.15
+11 0.15
+12 0.15
+13 0.15
+14 0.37
+15 0.37
+2 -0.62
+3 -0.8
+4 0.09
+5 -0.15
+6 0.16
+7 -0.15
+8 0.54
+9 0.16
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 2 acceptor
+1 3 donor
+6 2 4 5 6 7 9 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+000003A800000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+25.5858
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18339068380415939466
+12897270 3 18337950207302948751
+14325111 11 18410574024022655488
+16945 1 18266740186269114976
+18185500 45 18340205185202580826
+19973954 147 18410014346786892941
+21040471 1 18266459982840094272
+23402655 69 18268696243895068149
+23552423 10 18333453135857147454
+2748010 2 18411136943737018228
+29004967 10 18409169896102515288
+5084963 1 18271529809138022232
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+169.38
+3.44
+1.47
+0.59
+0.91
+0.02
+0
+0.03
+0
+-0.08
+0
+-0.04
+-0.01
 0
 
-> <JCHEM_GHOSE_FILTER>
-0
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+353.863
 
-> <JCHEM_IUPAC>
-pyridine-3-carboxamide
+> <PUBCHEM_SHAPE_VOLUME>
+95.2
 
-> <ALOGPS_LOGP>
--0.45
-
-> <JCHEM_LOGP>
--0.3937863166666665
-
-> <ALOGPS_LOGS>
--0.39
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-13.38576188738299
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-3.634885165831314
-
-> <JCHEM_POLAR_SURFACE_AREA>
-55.980000000000004
-
-> <JCHEM_REFRACTIVITY>
-32.979499999999994
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-5.01e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-nicotinamide
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01406
-
-> <GENERIC_NAME>
-Niacinamide
-
-> <SYNONYMS>
-3-Carbamoylpyridine; 3-Pyridinecarboxamide; 3-Pyridinecarboxylic acid amide; Acid amide; Amid kyseliny nikotinove; Amide PP; Aminicotin; Amixicotyn; Amnicotin; Austrovit PP; b-Pyridinecarboxamide; Benicot; beta-Pyridinecarboxamide; Delonin Amide; Dipegyl; Dipigyl; Endobion; Factor pp; Hansamid; Inovitan PP; m-(Aminocarbonyl)pyridine; Mediatric; NAM; Nandervit-N; Niacevit; Niacinamide; Niamide; Niavit PP; Nicamide; Nicamina; Nicamindon; Nicasir; Nicobion; Nicofort; Nicogen; Nicomidol; Nicosan 2; Nicosylamide; Nicota; Nicotamide; Nicotilamide; Nicotililamido; Nicotinamida; Nicotinamide; Nicotinamidum; Nicotine acid amide; Nicotine amide; Nicotinic acid amide; Nicotinic amide; Nicotinsaureamid; Nicotol; Nicotylamide; Nicotylamidum; Nicovel; Nicovit; Nicovitina; Nicovitol; Nicozymin; Nictoamide; Niko-tamin; Nikotinamid; Nikotinsaeureamid; Niocinamide; Niozymin; Papulex; Pelmin; Pelmine; Pelonin amide; PP-Faktor; Propamine A; Pyridine-3-carboxylic acid amide; Savacotyl; Vi-Nicotyl; Vi-noctyl; Vitamin B3; Vitamin PP; Witamina PP
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

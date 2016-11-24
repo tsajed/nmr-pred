@@ -31,6 +31,8 @@ import org.openscience.cdk.qsar.descriptors.molecular.IPMolecularLearningDescrip
 import org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor;
 import org.openscience.cdk.smiles.SmilesGenerator;
 
+import javax.vecmath.Point3d;
+
 
 /**
  * ApplyCDKDescriptors.java
@@ -170,6 +172,41 @@ public class GetCDKDescriptors {
     return values;
  }
 
+// Find nearest atom to all atoms in a molecule
+public static ArrayList<String> getNearestAtom(String sdf) {
+  List<IMolecule> mols = readMoleculesString(sdf);
+  ArrayList<String> atom_distances = new ArrayList<String>();
+
+  for (IAtomContainer mol : mols) {
+    int atomCount = mol.getAtomCount();
+    List<IAtom> atoms = new ArrayList<IAtom>();
+    for (int i = 0; i < atomCount; i++) {
+      atoms.add(mol.getAtom(i));
+    }
+    for (int i = 0; i < atoms.size(); i++)
+    {
+      Double min_distance = 999999.9999;
+      int min_d_index = -1;
+      for (int j = 0; j < atoms.size(); j++) {
+        if (j == i) 
+          continue;
+
+        Point3d firstPoint = atoms.get(i).getPoint3d();
+        Point3d secondPoint = atoms.get(j).getPoint3d();
+        Double distance = firstPoint.distance(secondPoint);
+
+        if (distance < min_distance) {
+          min_distance = distance;
+          min_d_index = j;
+        }
+      }
+
+      atom_distances.add(String.valueOf(min_d_index));
+    }
+  }
+  return atom_distances;
+}
+
 
  /**
   * Get SMILES code for a molecule
@@ -286,7 +323,7 @@ public class GetCDKDescriptors {
     for (IAtomContainer iAtomContainer : list)
     {
       IMolecule mol = (IMolecule) iAtomContainer;
-      mol = (IMolecule) AtomContainerManipulator.removeHydrogens(mol);
+      //mol = (IMolecule) AtomContainerManipulator.removeHydrogens(mol);
       try
       {
         AtomContainerManipulator.percieveAtomTypesAndConfigureAtoms(mol);
@@ -363,15 +400,12 @@ public class GetCDKDescriptors {
   public static List<Double[]> computeDescriptorsAtomic(IAtomContainer mol, List<IAtom> atoms, IAtomicDescriptor descriptor)
   {
     List<Double[]> vv = new ArrayList<Double[]>();
-
-    //for (int j = 0; j < getSize(descriptor); j++)
     vv.add(new Double[atoms.size()]);
-
+    System.out.println(atoms.size());
     for (int i = 0; i < atoms.size(); i++)
     {
       if (atoms.get(i) == null)
       {
-        //for (int j = 0; j < getSize(descriptor); j++)
           vv.get(0)[i] = null;
       }
       else
@@ -379,16 +413,22 @@ public class GetCDKDescriptors {
         try
         {
           IDescriptorResult res = descriptor.calculate(atoms.get(i), mol).getValue();
-          if (res instanceof IntegerResult)
+          if (res instanceof IntegerResult) {
             vv.get(0)[i] = (double) ((IntegerResult) res).intValue();
-          else if (res instanceof DoubleResult)
+            //System.out.println(vv.get(0)[i]); 
+          }
+          else if (res instanceof DoubleResult) {
             vv.get(0)[i] = ((DoubleResult) res).doubleValue();
-          else if (res instanceof DoubleArrayResult)
-            //for (int j = 0; j < getSize(descriptor); j++)
-              vv.get(0)[i] = ((DoubleArrayResult) res).get(0);
-          else if (res instanceof IntegerArrayResult)
-            //for (int j = 0; j < getSize(descriptor); j++)
-              vv.get(0)[i] = (double) ((IntegerArrayResult) res).get(0);
+            System.out.println(vv.get(0)[i]); 
+          }
+          else if (res instanceof DoubleArrayResult) {
+            vv.get(0)[i] = ((DoubleArrayResult) res).get(0); 
+            System.out.println(vv.get(0)[i]);  
+          }
+          else if (res instanceof IntegerArrayResult) {
+            vv.get(0)[i] = (double) ((IntegerArrayResult) res).get(0);
+            System.out.println(vv.get(0)[i]); 
+          }
           else
             throw new IllegalStateException("Unknown idescriptor result value for '" + descriptor + "' : "
                 + res.getClass());
@@ -397,11 +437,9 @@ public class GetCDKDescriptors {
         {
           System.err.println("Could not compute cdk feature " + descriptor);
           e.printStackTrace();
-          //for (int j = 0; j < getSize(descriptor); j++)
             vv.get(0)[i] = 0.0;
         }
       }
-      //for (int j = 0; j < getSize(descriptor); j++)
       if (vv.get(0)[i] != null && (vv.get(0)[i].isNaN() || vv.get(0)[i].isInfinite()))
         vv.get(0)[i] = 0.0;
     }

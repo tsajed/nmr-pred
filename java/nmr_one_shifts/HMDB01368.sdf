@@ -1,121 +1,132 @@
+98
+  -OEChem-09121603563D
 
-  Mrv0541 02231219052D          
-
-  7  6  0  0  0  0            999 V2000
-   -0.1025    0.1785    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.6112   -0.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.8162   -0.2354    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.1025    1.0021    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.6112   -1.0629    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.3287    0.1785    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.5336    0.1785    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  3  1  0  0  0  0
-  1  4  2  0  0  0  0
-  2  5  1  0  0  0  0
+ 11 10  0     0  0  0  0  0  0999 V2000
+    2.9238   -0.0919    0.0091 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3785    1.4622    0.0107 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0521    0.8232   -0.0056 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5043   -1.4048    0.0208 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2675   -0.8163   -0.0204 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2055    0.2524   -0.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2189   -0.2249   -0.0126 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1498   -1.4546    0.8595 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1600   -1.4149   -0.9290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8256    0.5688   -1.1540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9939    0.5496    0.0122 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 10  1  0  0  0  0
   2  6  2  0  0  0  0
   3  7  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  7  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6  7  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01368
+> <PUBCHEM_COMPOUND_CID>
+98
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)C(=O)CS
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H4O3S/c4-2(1-7)3(5)6/h7H,1H2,(H,5,6)
-
-> <INCHI_KEY>
-OJOLFAIGOXZBCI-UHFFFAOYSA-N
-
-> <FORMULA>
-C3H4O3S
-
-> <MOLECULAR_WEIGHT>
-120.127
-
-> <EXACT_MASS>
-119.988114684
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+4
 3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-10.14702591982988
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+5
 2
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.41
+10 0.18
+11 0.5
+2 -0.57
+3 -0.65
+4 -0.57
+5 0.29
+6 0.51
+7 0.72
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-oxo-3-sulfanylpropanoic acid
-
-> <ALOGPS_LOGP>
-0.15
-
-> <JCHEM_LOGP>
-0.29243937466666664
-
-> <ALOGPS_LOGS>
--1.12
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA>
-9.607725794106228
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.912707283795663
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--9.84658227693415
-
-> <JCHEM_POLAR_SURFACE_AREA>
-54.37
-
-> <JCHEM_REFRACTIVITY>
-25.818900000000003
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+3 3 4 7 anion
 
-> <ALOGPS_SOLUBILITY>
-9.09e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
 
-> <JCHEM_TRADITIONAL_IUPAC>
-β-mercaptopyruvic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB01368
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-3-Mercaptopyruvic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-3-Mercapto-pyruvate; 3-Mercapto-pyruvic acid; 3-Mercaptopyruvate; 3-Mercaptopyruvic acid; beta-3-Mercapto-2-oxo-propanoate; beta-3-Mercapto-2-oxo-propanoic acid; beta-Mercaptopyruvate; beta-Mercaptopyruvic acid; beta-Thiopyruvate; beta-Thiopyruvic acid; Mercaptopyruvate; Mercaptopyruvic acid; Thiopyruvate
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_CONFORMER_ID>
+0000006200000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+9.2
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.368
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18341037623274609338
+139733 1 9223232944491914630
+14390081 3 18273208686437756704
+16714656 1 18338518534444648244
+21040471 1 18266459802134937261
+23552423 10 18260271815566995646
+29004967 10 18341617027094825586
+5460574 1 9223227451292046566
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+130.3
+3.38
+1.25
+0.59
+1.72
+0.04
+0
+-0.18
+0.01
+-0.34
+0.01
+0.09
+-0.01
+0.01
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+237.081
+
+> <PUBCHEM_SHAPE_VOLUME>
+83.8
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

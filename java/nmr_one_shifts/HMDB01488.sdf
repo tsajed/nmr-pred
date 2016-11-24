@@ -1,17 +1,23 @@
-627
-  Mrv0541 02231214492D          
+938
+  -OEChem-09101622053D
 
-  9  9  0  0  0  0            999 V2000
-    3.0790    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6500    1.1880    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6500   -1.2870    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.3644   -0.0495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0790   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6500   -0.4620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0790   -1.2870    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.3644   -1.6995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.3644    0.7755    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 14 14  0     0  0  0  0  0  0999 V2000
+   -2.2827   -1.2029   -0.0007 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4704    1.0624    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7570   -1.2165    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3036    0.0481    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4175    1.2369   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4071   -1.1414    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8075    1.2006   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4237   -0.0404   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7560    0.0531    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0859    2.1999   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0752   -2.1137    0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3902    2.1147   -0.0006 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5056   -0.1232   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2636   -1.1870   -0.0011 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  9  1  0  0  0  0
+  1 14  1  0  0  0  0
   2  9  2  0  0  0  0
   3  6  1  0  0  0  0
   3  8  2  0  0  0  0
@@ -19,105 +25,121 @@
   4  6  2  0  0  0  0
   4  9  1  0  0  0  0
   5  7  2  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
   7  8  1  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01488
+> <PUBCHEM_COMPOUND_CID>
+938
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)C1=CN=CC=C1
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+2
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H5NO2/c8-6(9)5-2-1-3-7-4-5/h1-4H,(H,8,9)
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+14
+1 -0.65
+10 0.15
+11 0.15
+12 0.15
+13 0.15
+14 0.5
+2 -0.57
+3 -0.62
+4 0.09
+5 -0.15
+6 0.16
+7 -0.15
+8 0.16
+9 0.63
 
-> <INCHI_KEY>
-PVNIIMVLHYAWGP-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H5NO2
-
-> <MOLECULAR_WEIGHT>
-123.1094
-
-> <EXACT_MASS>
-123.032028409
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.303434426527122
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+3 1 2 9 anion
+6 3 4 5 6 7 8 rings
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-pyridine-3-carboxylic acid
-
-> <ALOGPS_LOGP>
-0.29
-
-> <JCHEM_LOGP>
--0.16644564754087304
-
-> <ALOGPS_LOGS>
--0.17
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.785610419861248
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-4.193250855836253
-
-> <JCHEM_POLAR_SURFACE_AREA>
-50.19
-
-> <JCHEM_REFRACTIVITY>
-31.157299999999996
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-8.31e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-niacin
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB01488
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <GENERIC_NAME>
-Nicotinic acid
+> <PUBCHEM_COMPONENT_COUNT>
+1
 
-> <SYNONYMS>
-3-Carboxylpyridine; 3-Carboxypyridine; 3-Pyridinecarboxylate; 3-Pyridinecarboxylic acid; 3-Pyridylcarboxylate; 3-Pyridylcarboxylic acid; Akotin; Apelagrin; Daskil; Efacin; Enduracin; Linic; Niac; Niacin; Niacine; Niacor; Nicacid; Nicamin; Nicangin; Nico-Span; Nicobid; Nicocap; Nicodelmine; Nicolar; Niconacid; Nicosan 3; Nicotinate; Nicotinic acid; Nicotinipca; Nicyl; Nyclin; Pellagrin; Pelonin; Slo-niacin; Wampocap
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+000003AA00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+24.4914
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.429
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12897270 3 18337951315399249343
+14325111 11 18410574028344003040
+16945 1 18338797793197239044
+18185500 45 18340205193797790170
+19973954 147 18409732880400103877
+21040471 1 18266458887602341280
+23402655 69 18268696248190028941
+23552423 10 18333453144457638054
+2748010 2 18411138047559437556
+29004967 10 18408606950444074272
+5084963 1 18271529817727963320
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+168.5
+3.39
+1.47
+0.59
+0.88
+0.03
+0
+-0.06
+0
+-0.1
+0
+-0.04
+-0.01
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+353.171
+
+> <PUBCHEM_SHAPE_VOLUME>
+94.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

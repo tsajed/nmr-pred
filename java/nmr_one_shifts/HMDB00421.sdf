@@ -1,125 +1,187 @@
-2,3-dihydroxy-Valeric acid.mol
-  Mrv0541 02231218312D          
+20848966
+  -OEChem-09111620263D
 
-  9  8  0  0  0  0            999 V2000
-    1.0717    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.3572   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.3572    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0717   -0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.7862    0.2062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0717    1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7862   -0.2062    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.3572    1.0312    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.3572   -1.0313    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  1  6  2  0  0  0  0
-  1  7  1  0  0  0  0
-  3  8  1  0  0  0  0
-  2  9  1  0  0  0  0
+ 19 18  0     1  0  0  0  0  0999 V2000
+   -0.3564    0.3729   -1.7811 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1537   -1.7174    0.1253 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7713    1.4373    0.6622 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5354   -0.5482   -0.1281 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7770    0.4548   -0.4191 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.2514    0.0374   -0.3067 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1864   -0.3410    0.4723 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8784    0.1667    1.0744 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6165    0.1374    0.3008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7080    1.5148   -0.1439 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8377    0.6425   -1.0106 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3652   -0.9955   -0.6592 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0721   -0.2583    1.5322 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4122   -0.5190    1.7879 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7743    1.1875    1.4551 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9454   -0.0732    1.0287 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9548    0.9291   -2.3084 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2968   -1.7871   -0.8343 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6954    1.7430    0.5406 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 19  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00421
+> <PUBCHEM_COMPOUND_CID>
+20848966
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CCC(O)C(O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H10O4/c1-2-3(6)4(7)5(8)9/h3-4,6-7H,2H2,1H3,(H,8,9)
-
-> <INCHI_KEY>
-CJXCLBPFKGZXJP-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H10O4
-
-> <MOLECULAR_WEIGHT>
-134.1305
-
-> <EXACT_MASS>
-134.057908808
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+24
+35
 4
+39
+7
+26
+9
+30
+15
+33
+29
+18
+16
+5
+2
+23
+37
+38
+6
+11
+17
+13
+19
+32
+28
+25
+3
+34
+12
+14
+22
+27
+36
+8
+10
+21
+31
+20
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.71720600638373
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+10
+1 -0.68
+17 0.4
+18 0.4
+19 0.5
+2 -0.68
+3 -0.65
+4 -0.57
+5 0.28
+7 0.34
+9 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+8
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 4 acceptor
+1 8 hydrophobe
+3 3 4 9 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+2
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2,3-dihydroxypentanoic acid
-
-> <ALOGPS_LOGP>
--0.87
-
-> <JCHEM_LOGP>
--0.579642065
-
-> <ALOGPS_LOGS>
-0.42
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA>
-13.264842121326641
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.8016080976510094
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--3.254534149492307
-
-> <JCHEM_POLAR_SURFACE_AREA>
-77.76
-
-> <JCHEM_REFRACTIVITY>
-29.326299999999996
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-3
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-3.49e+02 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-2,3-dihydroxyvaleric acid
+> <PUBCHEM_CONFORMER_ID>
+013E214600000001
 
-> <JCHEM_VEBER_RULE>
-0
+> <PUBCHEM_MMFF94_ENERGY>
+6.4817
 
-> <HMDB_ID>
-HMDB00421
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+40.668
 
-> <GENERIC_NAME>
-2,3-Dihydroxyvaleric acid
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 17095521824786859217
+14128692 85 13407376091399357627
+16714656 1 17676489445013685646
+20653085 51 16629692884324267544
+21040471 1 18336541737165805154
+29004967 10 17240205417461434649
+5084963 1 17846769711427576361
+68250623 7 17703227450392961751
 
-> <SYNONYMS>
-2,3-Dihydroxy-Valerate; 2,3-Dihydroxy-Valeric acid; 2,3-Dihydroxyvalerate
+> <PUBCHEM_SHAPE_MULTIPOLES>
+161.74
+3.55
+1.12
+1.11
+0.92
+0.33
+-0.11
+-0.69
+-0.75
+0.32
+0.23
+-0.37
+-0.13
+0.29
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+301.836
+
+> <PUBCHEM_SHAPE_VOLUME>
+101.1
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

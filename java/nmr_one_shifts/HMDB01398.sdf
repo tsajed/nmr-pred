@@ -1,126 +1,151 @@
-Guaiacol
-  Mrv1572001071617312D          
+460
+  -OEChem-09121604133D
 
-  9  9  0  0  0  0            999 V2000
-    6.7374   -6.2455    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3201   -5.4102    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0288   -6.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3201   -6.2455    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0288   -7.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.6086   -6.6629    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3201   -7.9156    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.6086   -7.4980    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.4669   -6.6671    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 17 17  0     0  0  0  0  0  0999 V2000
+    1.8947   -0.3487   -0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0511   -2.3337    0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5722   -0.0221   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4043   -1.0183   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1977    1.3216    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7552   -0.6705   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1531    1.6693    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1295    0.6732    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8286    0.7292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9001    2.1480    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5209   -1.4416   -0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4460    2.7152    0.0005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1813    0.9439    0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7478    1.3330    0.9103 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7479    1.3336   -0.9099 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8306    0.2874   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9203   -2.3895    0.0007 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  3  1  0  0  0  0
   1  9  1  0  0  0  0
   2  4  1  0  0  0  0
-  3  4  2  0  0  0  0
-  3  5  1  0  0  0  0
-  4  6  1  0  0  0  0
-  5  7  2  0  0  0  0
-  6  8  2  0  0  0  0
-  7  8  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  4  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+  9 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01398
+> <PUBCHEM_COMPOUND_CID>
+460
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-COC1=C(O)C=CC=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C7H8O2/c1-9-7-5-3-2-4-6(7)8/h2-5,8H,1H3
-
-> <INCHI_KEY>
-LHGVFZTZFXWLCP-UHFFFAOYSA-N
-
-> <FORMULA>
-C7H8O2
-
-> <MOLECULAR_WEIGHT>
-124.139
-
-> <EXACT_MASS>
-124.052429498
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+3
+1
 2
 
-> <JCHEM_ATOM_COUNT>
-17
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+14
+1 -0.36
+10 0.15
+11 0.15
+12 0.15
+13 0.15
+17 0.45
+2 -0.53
+3 0.08
+4 0.08
+5 -0.15
+6 -0.15
+7 -0.15
+8 -0.15
+9 0.28
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.686283084612246
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+3
+1 1 acceptor
+1 2 donor
+6 3 4 5 6 7 8 rings
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-methoxyphenol
-
-> <ALOGPS_LOGP>
-1.32
-
-> <JCHEM_LOGP>
-1.5120092286666669
-
-> <ALOGPS_LOGS>
--0.27
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-9.977540753803286
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_PKA_STRONGEST_BASIC>
--4.8904950754181264
-
-> <JCHEM_POLAR_SURFACE_AREA>
-29.46
-
-> <JCHEM_REFRACTIVITY>
-34.5021
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
 
-> <ALOGPS_SOLUBILITY>
-6.74e+01 g/l
+> <PUBCHEM_CONFORMER_ID>
+000001CC00000003
 
-> <JCHEM_TRADITIONAL_IUPAC>
-guaiacol
+> <PUBCHEM_MMFF94_ENERGY>
+30.0665
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+15.223
 
-> <HMDB_ID>
-HMDB01398
+> <PUBCHEM_SHAPE_FINGERPRINT>
+16714656 1 18410294739310369812
+16945 1 18338517563639718437
+18185500 45 17904764727655213998
+193761 8 17834395618605919777
+20645464 45 18060128873661914936
+20871998 184 18056485173394461174
+21040471 1 18410573955208116292
+23552423 10 18191309277672450374
+241688 4 16249405463366197915
+2748010 2 18338239266949233077
+369184 2 18410006645968443128
+5084963 1 18202562843601764584
 
-> <GENERIC_NAME>
-Guaiacol
+> <PUBCHEM_SHAPE_MULTIPOLES>
+173.48
+2.97
+1.89
+0.6
+1.74
+0.57
+0
+-0.71
+0
+-0.41
+0
+-0.02
+-0.03
+0
 
-> <SYNONYMS>
-1-Hydroxy-2-methoxybenzene; 2-Hydroxyanisole; 2-Methoxy-Phenol; 2-Methoxyphenol; Anastil; Catechol monomethyl ether; Creodon; Guaiacol; Guaiacol (liquid) extra pure; Guaiastil; Guaicol; Guaicolina; Guajakol; Guajol; Guasol; Guiacol; Methoxyphenol; Methylcatachol; Methylcatechol; O-Guaiacol; O-Hydroxyanisole; O-Methoxy-Phenol; O-Methoxyphenol; O-Methyl catechol; Pyrocatechol monomethyl ether; Pyroguaiac acid
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+358.601
+
+> <PUBCHEM_SHAPE_VOLUME>
+100
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

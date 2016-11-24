@@ -1,123 +1,144 @@
+2944
+  -OEChem-09121606543D
 
-  Mrv0541 02231219222D          
-
-  9  9  0  0  0  0            999 V2000
-   26.1320   -3.4467    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.7030   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   27.5609   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   26.1320   -5.9218    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   25.4175   -4.6842    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   25.4175   -5.5093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.8465   -5.5093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.1320   -4.2717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.8465   -4.6842    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  8  2  0  0  0  0
+ 15 15  0     0  0  0  0  0  0999 V2000
+   -1.2898   -2.3120    0.0002 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6238    1.1603    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4247   -0.0141   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7700    0.0816    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3532    2.3370    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4015    0.0205   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7501    1.1060    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7593   -1.1642   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7368   -1.2152    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1162    2.0467    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2889   -2.1110   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3206   -0.7678   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2222    0.9868   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8092    3.1929   -0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3635    2.4265   -0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  2  0  0  0  0
   2  6  1  0  0  0  0
-  3  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3  7  2  0  0  0  0
+  3  9  1  0  0  0  0
   4  6  1  0  0  0  0
-  4  7  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5  8  1  0  0  0  0
-  7  9  2  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  8  2  0  0  0  0
   8  9  1  0  0  0  0
+  8 11  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02128
+> <PUBCHEM_COMPOUND_CID>
+2944
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NC1=CC(=O)N=C(N)N1
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H6N4O/c5-2-1-3(9)8-4(6)7-2/h1H,(H5,5,6,7,8,9)
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+15
+1 -0.57
+10 0.4
+11 0.15
+12 0.4
+13 0.4
+14 0.4
+15 0.4
+2 -0.55
+3 -0.66
+4 -0.9
+5 -0.85
+6 0.2
+7 0.55
+8 -0.14
+9 0.77
 
-> <INCHI_KEY>
-SWELIMKTDYHAOY-UHFFFAOYSA-N
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+0
 
-> <FORMULA>
-C4H6N4O
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 2 donor
+1 3 donor
+1 4 cation
+1 4 donor
+1 5 donor
+6 2 3 6 7 8 9 rings
 
-> <MOLECULAR_WEIGHT>
-126.1166
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
 
-> <EXACT_MASS>
-126.054160834
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
 
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+17
+
+> <PUBCHEM_CONFORMER_ID>
+00000B8000000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+28.945
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.681
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+18185500 45 18050289472479290382
+21040471 1 18266459798035161760
+23552423 10 18260270784901386726
+23552449 1 18339357590713145934
+2748010 2 18121786023460483927
+29004967 10 17615969245487281914
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+159.42
+2.37
+2.23
+0.56
+0.81
+1.07
+0
+-1.31
+0
+-0.77
+0
+0.01
+0.01
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+330.201
+
+> <PUBCHEM_SHAPE_VOLUME>
+89.8
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
 5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.37273159208533
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-3
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2,6-diamino-1,4-dihydropyrimidin-4-one
-
-> <ALOGPS_LOGP>
--1.43
-
-> <JCHEM_LOGP>
--1.627665486333333
-
-> <ALOGPS_LOGS>
--1.05
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-9.251795887555813
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-3.1865454648409273
-
-> <JCHEM_POLAR_SURFACE_AREA>
-93.5
-
-> <JCHEM_REFRACTIVITY>
-40.8845
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.13e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-6-aminoisocytosine
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB02128
-
-> <GENERIC_NAME>
-2,4-Diamino-6-hydroxypyrimidine
-
-> <SYNONYMS>
-2,4-Diamino-6-hydroxypyrimidine; 2,4-Diamino-6-pyrimidinone; 2,6-Diamino-4(1H)-pyrimidinone; 2,6-Diamino-4(3H)-pyrimidinone; 2,6-Diamino-4-hydroxypyrimidine; 2,6-Diamino-4-pyrimidinol; 2,6-Diaminopyrimidin-4-one; 6-Aminoisocytosine; 6-Hydroxy-2,4-pyrimidinediamine
+10
 
 $$$$

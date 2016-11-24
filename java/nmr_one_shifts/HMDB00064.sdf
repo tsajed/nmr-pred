@@ -1,122 +1,161 @@
-148
-  Mrv0541 02231214282D          
+586
+  -OEChem-09101620073D
 
-  9  8  0  0  0  0            999 V2000
-    5.6655   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5220    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0930    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    4.2365   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5220    1.1592    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 18 17  0     0  0  0  0  0  0999 V2000
+    2.9551   -0.4391   -0.2970 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4662    0.0437    1.3508 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5505    0.5168   -0.3703 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6825    0.0107    0.5093 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3674   -1.7387   -0.2336 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7512    0.1847   -0.9467 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7951    1.9372   -0.1268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5112   -0.4512   -0.0468 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7341   -0.0641    0.1611 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1230    0.9982   -1.5789 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6771   -0.7169   -1.5640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0646    2.5550   -0.4092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9812    2.1203    0.9368 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6514    2.2860   -0.7133 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8698    0.9920    0.6751 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4214   -0.6339    0.7699 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2162   -2.2151    0.0899 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5857   -0.6055    0.4359 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  9  1  0  0  0  0
+  1 18  1  0  0  0  0
   2  9  2  0  0  0  0
   3  6  1  0  0  0  0
   3  7  1  0  0  0  0
   3  8  1  0  0  0  0
   4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 16  1  0  0  0  0
   5  8  2  0  0  0  0
+  5 17  1  0  0  0  0
   6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00064
+> <PUBCHEM_COMPOUND_CID>
+586
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CN(CC(O)=O)C(N)=N
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)
-
-> <INCHI_KEY>
-CVSVTCORWBXHQV-UHFFFAOYSA-N
-
-> <FORMULA>
-C4H9N3O2
-
-> <MOLECULAR_WEIGHT>
-131.1332
-
-> <EXACT_MASS>
-131.069476547
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+2
+13
+3
+15
+6
+7
 5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.170880209533152
-
-> <JCHEM_BIOAVAILABILITY>
+9
+14
+8
+12
+11
+10
+4
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+13
+1 -0.65
+15 0.4
+16 0.4
+17 0.4
+18 0.5
+2 -0.57
+3 -0.79
+4 -0.85
+5 -0.85
+6 0.43
+7 0.37
+8 0.55
+9 0.66
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 2 acceptor
+1 4 donor
+1 5 donor
+3 1 2 9 anion
+4 3 4 5 8 cation
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-(1-methylcarbamimidamido)acetic acid
-
-> <ALOGPS_LOGP>
--1.59
-
-> <JCHEM_LOGP>
--2.8642238844128185
-
-> <ALOGPS_LOGS>
--1.50
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.501029063602651
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-12.429771248504041
-
-> <JCHEM_POLAR_SURFACE_AREA>
-90.41
-
-> <JCHEM_REFRACTIVITY>
-42.0127
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-4.11e+00 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-creatine
+> <PUBCHEM_CONFORMER_ID>
+0000024A00000002
 
-> <JCHEM_VEBER_RULE>
-0
+> <PUBCHEM_MMFF94_ENERGY>
+19.6128
 
-> <HMDB_ID>
-HMDB00064
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.552
 
-> <GENERIC_NAME>
-Creatine
+> <PUBCHEM_SHAPE_FINGERPRINT>
+16714656 1 18409452466174593031
+18185500 45 18040994089456077451
+20653091 64 17901952168622063337
+21040471 1 17977094665553849460
+23552333 60 17312816082890989472
+29004967 10 15719389550998692300
+5084963 1 17917424306958420708
 
-> <SYNONYMS>
-((amino(imino)methyl)(methyl)amino)acetate; ((amino(imino)methyl)(methyl)amino)acetic acid; (alpha-Methylguanido)acetate; (alpha-Methylguanido)acetic acid; Cosmocair C 100; Creatin; Creatine; Creatine hydrate; Kreatin; Krebiozon; Methylguanidoacetate; Methylguanidoacetic acid; N-(Aminoiminomethyl)-N-Methyl-Glycine; N-Methyl-N-guanylglycine; Phosphagen; [[Amino(imino)methyl](methyl)amino]acetate; [[Amino(imino)methyl](methyl)amino]acetic acid
+> <PUBCHEM_SHAPE_MULTIPOLES>
+158.53
+3.34
+1.42
+0.91
+0.9
+0.33
+0.13
+-0.74
+0.38
+-0.79
+-0.13
+0.28
+0.02
+-0.03
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+298.877
+
+> <PUBCHEM_SHAPE_VOLUME>
+97.1
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

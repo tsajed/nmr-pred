@@ -1,107 +1,110 @@
 1068
-  Mrv0541 02231219282D          
+  -OEChem-09121608543D
 
-  3  2  0  0  0  0            999 V2000
-    2.3644   -0.2063    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-    3.0789    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6499    0.2063    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  9  8  0     0  0  0  0  0  0999 V2000
+    0.0000   -0.7864    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3707    0.3932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3707    0.3932    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3327    1.0212    0.8939 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3171   -0.1541    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3326    1.0214   -0.8937 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327    1.0213    0.8939 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3326    1.0214   -0.8937 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3171   -0.1541   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0  0  0  0
   1  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02303
+> <PUBCHEM_COMPOUND_CID>
+1068
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CSC
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C2H6S/c1-3-2/h1-2H3
-
-> <INCHI_KEY>
-QMMFVYPAHWMCMS-UHFFFAOYSA-N
-
-> <FORMULA>
-C2H6S
-
-> <MOLECULAR_WEIGHT>
-62.134
-
-> <EXACT_MASS>
-62.019020882
-
-> <JCHEM_ACCEPTOR_COUNT>
-0
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-7.2363481552868425
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+3
+1 -0.46
+2 0.23
+3 0.23
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 0
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+1
+3 1 2 3 hydrophobe
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+3
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-(methylsulfanyl)methane
-
-> <ALOGPS_LOGP>
-0.59
-
-> <JCHEM_LOGP>
-1.2235795016666668
-
-> <ALOGPS_LOGS>
--0.53
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_BASIC>
--9.914377197455742
-
-> <JCHEM_POLAR_SURFACE_AREA>
-0
-
-> <JCHEM_REFRACTIVITY>
-18.8917
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.85e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-dimethyl sulfide
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <HMDB_ID>
-HMDB02303
+> <PUBCHEM_CONFORMER_ID>
+0000042C00000001
 
-> <GENERIC_NAME>
-Dimethylsulfide
+> <PUBCHEM_MMFF94_ENERGY>
+3.231
 
-> <SYNONYMS>
-  Dimethyl sulfoxide(Reduced);  Methyl sulfide;  Methylthiomethane; (methylsulfanyl)methane; 2-Thiapropane; 2-Thiopropane; Dimethyl monosulfide; Dimethyl sulfide (natural); Dimethyl sulfide [UN1164] [Flammable liquid]; Dimethyl thioether; Dimethylsulfid; DMS; Methanethiomethane; Methyl monosulfide; Methyl thioether; Methylthiomethyl radical; MSM; Reduced-dmso; Thiobis-methane; Thiopropane; [SMe2]
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+5.074
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 18410856563934782853
+21015797 1 18264205983728866390
+5943 1 10762523569386019106
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+65.59
+1.82
+0.97
+0.64
+0
+0.16
+0
+-0.5
+0
+0
+0
+0
+0.02
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+88.944
+
+> <PUBCHEM_SHAPE_VOLUME>
+53
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

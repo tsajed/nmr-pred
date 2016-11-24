@@ -1,123 +1,154 @@
+778
+  -OEChem-09121600023D
 
-  Mrv0541 02231218432D          
-
-  8  7  0  0  0  0            999 V2000
-   23.7337  -12.6807    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-   25.8772  -10.6181    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   25.1627   -9.3806    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   23.7337  -10.2056    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   24.4482  -10.6181    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.4482  -11.4431    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.7337  -11.8556    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.1627  -10.2056    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 17 16  0     1  0  0  0  0  0999 V2000
+    3.3715   -0.5548    0.3014 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4911   -1.5744   -0.5671 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9048   -0.1686    1.1624 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6146    1.8818    0.0401 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5530    0.6208   -0.7056 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.9109    0.1720   -0.8193 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6563    0.0088    0.5086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3753   -0.3855    0.0795 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0044    0.7570   -1.6939 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9421   -0.7815   -1.3632 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4487    0.8988   -1.4436 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1483   -0.7220    1.1452 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6908    0.9569    1.0538 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5746    2.2248    0.0505 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0661    2.5910   -0.4452 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7948    0.4986   -0.4124 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0323   -2.2157   -0.0590 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  7  1  0  0  0  0
+  1 16  1  0  0  0  0
   2  8  1  0  0  0  0
+  2 17  1  0  0  0  0
   3  8  2  0  0  0  0
   4  5  1  0  0  0  0
+  4 14  1  0  0  0  0
+  4 15  1  0  0  0  0
   5  6  1  0  0  0  0
   5  8  1  0  0  0  0
+  5  9  1  0  0  0  0
   6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00742
+> <PUBCHEM_COMPOUND_CID>
+778
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-NC(CCS)C(O)=O
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+4
+8
+16
+12
+17
+11
+15
+10
+5
+7
+2
+9
+1
+3
+13
+14
+6
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H9NO2S/c5-3(1-2-8)4(6)7/h3,8H,1-2,5H2,(H,6,7)
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+11
+1 -0.41
+14 0.36
+15 0.36
+16 0.18
+17 0.5
+2 -0.65
+3 -0.57
+4 -0.99
+5 0.33
+7 0.23
+8 0.66
 
-> <INCHI_KEY>
-FFFHZYDWPBMWHY-UHFFFAOYSA-N
-
-> <FORMULA>
-C4H9NO2S
-
-> <MOLECULAR_WEIGHT>
-135.185
-
-> <EXACT_MASS>
-135.035399227
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.436789867145503
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 2 acceptor
+1 3 acceptor
+1 4 cation
+1 4 donor
+3 2 3 8 anion
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-3
-
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-amino-4-sulfanylbutanoic acid
-
-> <ALOGPS_LOGP>
--2.29
-
-> <JCHEM_LOGP>
--2.5764673824810185
-
-> <ALOGPS_LOGS>
--0.96
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-10.279400411474743
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.458553724459435
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.413365429707895
-
-> <JCHEM_POLAR_SURFACE_AREA>
-63.31999999999999
-
-> <JCHEM_REFRACTIVITY>
-32.935
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-3
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.48e+01 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-homocysteine
+> <PUBCHEM_CONFORMER_ID>
+0000030A00000004
 
-> <JCHEM_VEBER_RULE>
-0
+> <PUBCHEM_MMFF94_ENERGY>
+5.6146
 
-> <HMDB_ID>
-HMDB00742
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.431
 
-> <GENERIC_NAME>
-Homocysteine
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12897270 3 12685097020288215930
+15310529 11 12540688215320704272
+29004967 10 16878792741070617412
 
-> <SYNONYMS>
-(+-)-homocysteine; (S)-2-amino-4-mercapto-Butanoate; (S)-2-amino-4-mercapto-Butanoic acid; 2-Amino-4-mercapto-Butanoate; 2-Amino-4-mercapto-Butanoic acid; 2-Amino-4-mercapto-Butyric acid; 2-Amino-4-mercapto-DL-Butyrate; 2-Amino-4-mercapto-DL-Butyric acid; 2-Amino-4-mercaptobutyric acid; 2-Amino-4-sulfanylbutanoate; 2-Amino-4-sulfanylbutanoic acid; D,L-Homocysteine; DL-2-amino-4-mercapto-Butyric acid; DL-2-Amino-4-mercaptobutyric acid; DL-Homocysteine; DL-homocysteine (free base); HCY; Homo-CYS; Homocysteine; L-2-Amino-4-mercapto-Butyric acid; L-Homocysteine; Usaf B-12
+> <PUBCHEM_SHAPE_MULTIPOLES>
+151.77
+3.76
+1.32
+0.96
+3.76
+0.25
+0.05
+-1.17
+0.73
+-0.67
+-0.1
+-0.2
+-0.05
+-0.12
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+269.786
+
+> <PUBCHEM_SHAPE_VOLUME>
+100.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

@@ -1,131 +1,201 @@
-ChEBI
-  Mrv0541 04191212142D          
+6251
+  -OEChem-09101622423D
 
- 12 11  0  0  1  0            999 V2000
-    4.3754   -2.8827    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.0946   -3.2870    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    5.8075   -2.8663    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    6.5267   -3.2705    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    7.2397   -2.8498    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    7.9588   -3.2540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.6748   -3.2962    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.1008   -4.1119    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.8013   -2.0413    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    6.5329   -4.0955    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    7.2334   -2.0248    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    7.9650   -4.0790    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  7  1  1  0  0  0  0
-  2  1  1  0  0  0  0
-  2  8  1  6  0  0  0
-  3  2  1  0  0  0  0
-  3  9  1  1  0  0  0
-  4  3  1  0  0  0  0
-  4 10  1  1  0  0  0
-  5  4  1  0  0  0  0
-  5 11  1  6  0  0  0
-  6  5  1  0  0  0  0
- 12  6  1  0  0  0  0
+ 26 25  0     1  0  0  0  0  0999 V2000
+    0.5166    1.3302   -1.1366 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5157   -1.3358   -1.1294 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0667   -1.0186    1.2058 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0654    1.0310    1.1961 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3613   -0.1186   -0.0185 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3721    0.1020   -0.0138 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6071    0.4748    0.0024 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.6047   -0.4724    0.0035 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.9649   -0.2560   -0.0037 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.9614    0.2601   -0.0078 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.1762    0.6728   -0.0496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1735   -0.6693   -0.0484 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5532    1.1123    0.8929 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5591   -1.1051    0.8973 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0388   -0.9551   -0.8453 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0253    0.9595   -0.8487 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2010    1.3426    0.8162 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1900    1.2728   -0.9637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1910   -1.3300    0.8242 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1844   -1.2845   -0.9531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6781    0.7909   -1.9291 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6726   -0.8010   -1.9259 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4878   -1.7939    1.1145 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0136    0.4178    1.9492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3348   -0.6503    0.7954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3698    0.6793   -0.7963 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 22  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 23  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 24  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 25  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 26  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
+ 12 20  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00765
+> <PUBCHEM_COMPOUND_CID>
+6251
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2/t3-,4-,5-,6-/m1/s1
-
-> <INCHI_KEY>
-FBPFZTCFMRRESA-KVTDHHQDSA-N
-
-> <FORMULA>
-C6H14O6
-
-> <MOLECULAR_WEIGHT>
-182.1718
-
-> <EXACT_MASS>
-182.07903818
-
-> <JCHEM_ACCEPTOR_COUNT>
-6
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-16.819193636818536
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+2
 1
-
-> <JCHEM_DONOR_COUNT>
+9
+18
 6
+8
+12
+15
+17
+3
+4
+7
+5
+16
+11
+13
+10
+14
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+18
+1 -0.68
+10 0.28
+11 0.28
+12 0.28
+2 -0.68
+21 0.4
+22 0.4
+23 0.4
+24 0.4
+25 0.4
+26 0.4
+3 -0.68
+4 -0.68
+5 -0.68
+6 -0.68
+7 0.28
+8 0.28
+9 0.28
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(2R,3R,4R,5R)-hexane-1,2,3,4,5,6-hexol
-
-> <ALOGPS_LOGP>
--2.68
-
-> <JCHEM_LOGP>
--3.7300188486666666
-
-> <ALOGPS_LOGS>
-0.10
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-13.37874915684328
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-12.585200956788803
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.974211614825128
-
-> <JCHEM_POLAR_SURFACE_AREA>
-121.38000000000001
-
-> <JCHEM_REFRACTIVITY>
-38.40359999999999
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 5
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+12
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 4 donor
+1 5 acceptor
+1 5 donor
+1 6 acceptor
+1 6 donor
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <ALOGPS_SOLUBILITY>
-2.29e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-mannitol
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00765
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Mannitol
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <SYNONYMS>
-1,2,3,4,5,6-Hexanehexol; Cordycepate; Cordycepic acid; D-Mannitol; Diosmol; Hexahydroxyhexane; Hexanhexol; Invenex; Isotol; Manicol; Maniton S; Maniton-S; Manna sugar; Mannazucker; Mannidex; Mannigen; Mannistol; Mannit; Mannit p; Mannite; Mannitol; Mannogem 2080; Marine crystal; Mushroom sugar; Osmitrol; Osmofundin; Osmosal; Resectisol; SDM No. 35
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000186B00000002
+
+> <PUBCHEM_MMFF94_ENERGY>
+27.6641
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+60.928
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10219947 1 18335423460667702855
+11062470 55 15574712499601305235
+12932764 1 18339062861419945556
+14325111 11 17989211412545896697
+14993402 34 18410573998036359774
+15775835 57 18411982464020967169
+190213 19 18410294722436319330
+20201158 50 16225765207528629336
+20279233 1 15719114643011042913
+20281407 28 15068623790168821256
+20645477 70 17604416402110737403
+22485316 2 17095237033852731682
+23235685 24 17917709106260904599
+23402539 116 17060333020434345565
+29004967 10 17167865257530475024
+5084963 1 18407760352455766633
+57812782 119 15770057228628787236
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+211.74
+6.63
+1.1
+0.94
+0.03
+0
+-0.04
+-0.01
+-0.53
+0
+0.09
+0
+0
+-0.49
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+397.123
+
+> <PUBCHEM_SHAPE_VOLUME>
+131.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

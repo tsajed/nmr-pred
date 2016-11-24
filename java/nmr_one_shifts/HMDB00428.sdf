@@ -1,127 +1,175 @@
+181976
+  -OEChem-09111616043D
 
-  Mrv0541 02231217472D          
-
- 10  9  0  0  0  0            999 V2000
-    3.9039    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.9039    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.1895    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7605    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  4  6  2  0  0  0  0
-  2  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  8  9  1  0  0  0  0
-  8 10  2  0  0  0  0
+ 18 17  0     0  0  0  0  0  0999 V2000
+    0.0641    0.8600    0.9611 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6181   -0.7823   -0.0363 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5149   -0.6441    0.5320 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5669    1.2361   -0.0335 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6266    1.0433   -0.7056 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0068    0.0172   -0.1915 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2683   -0.8293   -0.1285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2491   -0.8722   -0.1788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5194    0.0157   -0.0628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5113   -0.0445   -0.1561 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0016    0.6630   -1.0776 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2563   -1.4491    0.7762 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3295   -1.4749   -1.0112 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2791   -1.5287   -1.0541 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2423   -1.4919    0.7265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6432    1.5218    0.8814 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4477   -0.2607    0.0080 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3316   -0.1007    0.5359 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  9  2  0  0  0  0
+  5 10  2  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00428
+> <PUBCHEM_COMPOUND_CID>
+181976
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OC(CC(O)=O)CC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8O5/c6-3(1-4(7)8)2-5(9)10/h3,6H,1-2H2,(H,7,8)(H,9,10)
-
-> <INCHI_KEY>
-ZQHYXNSQOIDNTL-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H8O5
-
-> <MOLECULAR_WEIGHT>
-148.114
-
-> <EXACT_MASS>
-148.037173366
-
-> <JCHEM_ACCEPTOR_COUNT>
-5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.809688049876742
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+20
+15
+18
+4
+24
+23
+7
+5
+16
+8
+22
+19
+11
+10
+9
+25
+21
+14
+6
+2
+13
 3
+12
+17
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+13
+1 -0.68
+10 0.66
+16 0.4
+17 0.5
+18 0.5
+2 -0.65
+3 -0.65
+4 -0.57
+5 -0.57
+6 0.28
+7 0.06
+8 0.06
+9 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-3-hydroxypentanedioic acid
-
-> <ALOGPS_LOGP>
--1.17
-
-> <JCHEM_LOGP>
--1.0288179093333332
-
-> <ALOGPS_LOGS>
-0.06
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
-
-> <JCHEM_PKA>
-4.294116866528298
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.5233997663487395
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.913303860550256
-
-> <JCHEM_POLAR_SURFACE_AREA>
-94.83000000000001
-
-> <JCHEM_REFRACTIVITY>
-29.4995
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 4
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+8
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 acceptor
+3 2 4 9 anion
+3 3 5 10 anion
 
-> <ALOGPS_SOLUBILITY>
-1.72e+02 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
 
-> <JCHEM_TRADITIONAL_IUPAC>
-3-hydroxyglutaric acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00428
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-3-Hydroxyglutaric acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-3-Hydroxy-glutarate; 3-Hydroxy-glutaric acid; 3-Hydroxyglutarate; 3-Hydroxyglutaric acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0002C6D800000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+9.333
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+40.716
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+11062470 55 12823296805736558403
+12162725 195 18261114071068969452
+12932764 1 17275097327910160255
+14325111 11 18408042909405455359
+14390081 3 18411700993233845645
+15310529 11 18409166619132243127
+21293036 1 17703513284692710940
+23552423 10 18267873774188860879
+3248919 1 18409166601741448807
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+176.45
+5.66
+1.1
+0.72
+0.25
+0.13
+-0.04
+-0.3
+0.02
+0.15
+0.01
+-0.21
+0.08
+-0.24
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+337.536
+
+> <PUBCHEM_SHAPE_VOLUME>
+107.2
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

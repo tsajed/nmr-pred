@@ -5,6 +5,7 @@ public class NmrStructure {
   ArrayList<String> carbon_positions;
   ArrayList<Float> chemical_shifts;
   ArrayList<String> c_shift_classes;
+  ArrayList<String> nearest_atoms;
 
   String structure_sdf;
   String hmdb_id;
@@ -24,6 +25,14 @@ public class NmrStructure {
     DecimalFormat df = new DecimalFormat("#.#");
     for (Float c_shift : c_shifts) {
       c_shift_classes.add(df.format(c_shift));
+    }
+  }
+
+  public void findNearestAtomToHydrogens(ArrayList<String> n_atom) {
+    nearest_atoms = new ArrayList<String>();
+    for (String h_position : carbon_positions) {
+      String nearest_pos = n_atom.get(Integer.valueOf(h_position));
+      nearest_atoms.add(nearest_pos);
     }
   }
 }

@@ -1,122 +1,166 @@
+999
+  -OEChem-09111618273D
 
-  Mrv0541 02231218232D          
-
- 10 10  0  0  0  0            999 V2000
-   -0.2852    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0032   -0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4294   -0.4123    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2852    0.8246    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0032   -1.2369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4294   -1.2369    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4329    1.2403    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2852   -1.6526    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4329    2.0615    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1441    0.8280    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  0  0  0  0
-  1  3  1  0  0  0  0
-  1  4  1  0  0  0  0
-  2  5  1  0  0  0  0
-  3  6  2  0  0  0  0
-  4  7  1  0  0  0  0
-  5  8  2  0  0  0  0
-  7  9  1  0  0  0  0
-  7 10  2  0  0  0  0
-  6  8  1  0  0  0  0
+ 18 18  0     0  0  0  0  0  0999 V2000
+    3.5314    0.0473    0.2492 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9610   -0.0884   -1.3846 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1699    0.0141    0.4888 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2511    0.0238    0.9422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8312    1.2170    0.2412 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8375   -1.1978    0.3128 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1602    1.2080   -0.1823 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1665   -1.2070   -0.1109 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8278   -0.0040   -0.3584 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2494   -0.0130   -0.1981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4421   -0.8398    1.5906 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4443    0.9248    1.5370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3217    2.1680    0.3727 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3329   -2.1420    0.5004 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6751    2.1445   -0.3756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6863   -2.1506   -0.2485 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8624   -0.0111   -0.6885 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1773    0.0230   -0.4888 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2 10  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  2  0  0  0  0
+  3  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 14  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 16  1  0  0  0  0
+  9 17  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00209
+> <PUBCHEM_COMPOUND_CID>
+999
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)CC1=CC=CC=C1
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+7
+6
+5
+3
+8
+4
+2
+9
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C8H8O2/c9-8(10)6-7-4-2-1-3-5-7/h1-5H,6H2,(H,9,10)
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+16
+1 -0.65
+10 0.66
+13 0.15
+14 0.15
+15 0.15
+16 0.15
+17 0.15
+18 0.5
+2 -0.57
+3 -0.14
+4 0.2
+5 -0.15
+6 -0.15
+7 -0.15
+8 -0.15
+9 -0.15
 
-> <INCHI_KEY>
-WLJVXDMOQOGPHL-UHFFFAOYSA-N
-
-> <FORMULA>
-C8H8O2
-
-> <MOLECULAR_WEIGHT>
-136.1479
-
-> <EXACT_MASS>
-136.0524295
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.84990113140731
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 2 acceptor
+3 1 2 10 anion
+6 3 5 6 7 8 9 rings
 
-> <JCHEM_BIOAVAILABILITY>
-1
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
 
-> <JCHEM_DONOR_COUNT>
-1
-
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-phenylacetic acid
-
-> <ALOGPS_LOGP>
-1.72
-
-> <JCHEM_LOGP>
-1.610994105333333
-
-> <ALOGPS_LOGS>
--1.58
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-4.546943579612796
+> <PUBCHEM_CONFORMER_ID>
+000003E700000001
 
-> <JCHEM_POLAR_SURFACE_AREA>
-37.3
+> <PUBCHEM_MMFF94_ENERGY>
+18.8681
 
-> <JCHEM_REFRACTIVITY>
-37.3656
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.356
 
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12716758 59 18341052912920462875
+12897270 3 18412826893156402078
+13024252 1 17530966895276665139
+15310529 11 15626223489870712097
+15775835 57 17895193264160932332
+16945 1 18410004442855760297
+20201158 50 17775566433566179062
+20653085 51 16153425056150609591
+21040471 1 18266166237215672201
+21293036 1 18409439302558740813
+23402539 116 18342161255001019164
+23552423 10 18116147951345679713
+2748010 2 17977088378317515195
+29004967 10 16558750122056971106
+369184 2 18411699880789706851
+5084963 1 17167857582133643259
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+194.06
+4.5
+1.22
+0.9
+2.41
+0.01
+-0.12
+0.02
+-0.66
+-0.88
+0.04
+0.38
+-0.01
+0.03
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+400.324
+
+> <PUBCHEM_SHAPE_VOLUME>
+111
+
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-3.61e+00 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-ω-phenylacetic acid
-
-> <JCHEM_VEBER_RULE>
-1
-
-> <HMDB_ID>
-HMDB00209
-
-> <GENERIC_NAME>
-Phenylacetic acid
-
-> <SYNONYMS>
-2-Phenylacetate; 2-Phenylacetic acid; 2-Phenylethanoate; 2-Phenylethanoic acid; a-Toluate; a-Toluic acid; alpha-Toluate; alpha-Toluic acid; Benzeneacetate; Benzeneacetic acid; Benzylformate; Benzylformic acid; Omega-Phenylacetate; Omega-Phenylacetic acid; Phenylacetate; Phenylacetic acid; Phenylethanoate; Phenylethanoic acid; w-Phenylacetate; w-Phenylacetic acid
+5
+10
 
 $$$$

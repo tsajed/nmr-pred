@@ -1,131 +1,189 @@
+93072
+  -OEChem-09111614053D
 
-  Mrv0541 02231217332D          
-
- 12 11  0  0  1  0            999 V2000
-    1.7605    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4750    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4750    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.1895    1.8414    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    3.9039    1.4289    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    4.6184    1.8414    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3329    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.0474    1.8414    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3329    0.6039    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.9039    0.6039    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.6184    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.1895    0.1914    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  5  4  1  1  0  0  0
-  5  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  2  0  0  0  0
-  5 10  1  0  0  0  0
- 10 11  1  0  0  0  0
- 10 12  2  0  0  0  0
+ 20 19  0     1  0  0  0  0  0999 V2000
+   -1.9106   -1.5293    0.8858 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3810    0.2915    0.8071 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7610   -2.8462   -0.5562 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2586    1.1049   -0.9908 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0273    1.3338   -1.1580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5177    0.6057    0.4549 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7783    2.4953    0.8065 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0261   -0.5561   -0.2461 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.4162   -0.8740    0.1583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9163   -1.7638   -0.0037 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3652    0.2784   -0.0956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4835    1.4597   -0.0622 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0799   -0.3387   -1.3201 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7932   -1.7452   -0.3891 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4450   -1.1177    1.2283 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2074    0.7611    1.4095 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4728   -2.3212    1.0248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3177    2.5838    1.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4664    3.2014    0.5677 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0009    1.0351    0.6486 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3 10  2  0  0  0  0
+  4 11  2  0  0  0  0
+  5 12  2  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 16  1  0  0  0  0
+  7 12  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00828
+> <PUBCHEM_COMPOUND_CID>
+93072
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-NC(=O)N[C@@H](CC(O)=O)C(O)=O
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+12
+16
+15
+27
+11
+26
+8
+7
+25
+6
+17
+21
+3
+19
+18
+22
+23
+10
+2
+14
+13
+5
+24
+4
+9
+20
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8N2O5/c6-5(12)7-2(4(10)11)1-3(8)9/h2H,1H2,(H,8,9)(H,10,11)(H3,6,7,12)/t2-/m0/s1
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+17
+1 -0.65
+10 0.66
+11 0.66
+12 0.69
+16 0.37
+17 0.5
+18 0.37
+19 0.37
+2 -0.65
+20 0.5
+3 -0.57
+4 -0.57
+5 -0.57
+6 -0.73
+7 -0.8
+8 0.36
+9 0.06
 
-> <INCHI_KEY>
-HLKXYZVTANABHZ-REOHCLBHSA-N
-
-> <FORMULA>
-C5H8N2O5
-
-> <MOLECULAR_WEIGHT>
-176.1274
-
-> <EXACT_MASS>
-176.043321376
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 5
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-14.723989238645803
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+9
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 acceptor
+1 6 donor
+1 7 donor
+3 1 3 10 anion
+3 2 4 11 anion
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-4
-
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-(2S)-2-(carbamoylamino)butanedioic acid
-
-> <ALOGPS_LOGP>
--1.12
-
-> <JCHEM_LOGP>
--1.7352221553333331
-
-> <ALOGPS_LOGS>
--0.92
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
-
-> <JCHEM_PKA>
-5.2526016307709105
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.333225520739885
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.589637248709309
-
-> <JCHEM_POLAR_SURFACE_AREA>
-129.72000000000003
-
-> <JCHEM_REFRACTIVITY>
-34.653200000000005
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-4
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-2.13e+01 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
 
-> <JCHEM_TRADITIONAL_IUPAC>
-carbamylaspartic acid
+> <PUBCHEM_CONFORMER_ID>
+00016B9000000001
 
-> <JCHEM_VEBER_RULE>
-0
+> <PUBCHEM_MMFF94_ENERGY>
+16.6634
 
-> <HMDB_ID>
-HMDB00828
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+45.842
 
-> <GENERIC_NAME>
-Ureidosuccinic acid
+> <PUBCHEM_SHAPE_FINGERPRINT>
+1 1 17979634528823843574
+100427 49 17618787293799613207
+15490181 8 18122627158619857299
+16945 1 18269282411787251494
+19021347 4 18267585714921368219
+19837323 101 18272371940566167601
+21028194 46 18265331698888915725
+21040471 1 18339365149982226420
+23211744 25 17915717830774167129
+2748010 2 18266752293760998958
+305870 269 17907010682203311664
+81228 2 18338240486762377067
 
-> <SYNONYMS>
-2-Ureidobutanedioate; 2-Ureidobutanedioic acid; Carbamoylaspartic acid; Carbamyl-L-aspartic acid; Carbamylaspartic acid; L-N-Carbamoylaspartic acid; L-Ureidosuccinate; L-Ureidosuccinic acid; N-(Aminocarbonyl)-L-aspartic acid; N-Carbamoyl-L-aspartate; N-Carbamoyl-L-aspartic acid; N-Carbamoyl-S-aspartic acid; N-Carbamoylaspartate; N-Carbamoylaspartic acid; NCD; Ureidosuccinate
+> <PUBCHEM_SHAPE_MULTIPOLES>
+207.65
+3.63
+2.64
+0.92
+2.73
+0.93
+0.06
+-1.71
+-0.34
+-1.96
+0.02
+-0.1
+-0.19
+-0.06
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+405.371
+
+> <PUBCHEM_SHAPE_VOLUME>
+123.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

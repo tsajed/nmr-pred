@@ -1,122 +1,157 @@
+637511
+  -OEChem-09121611383D
 
-  Mrv0541 02231219442D          
-
- 10 10  0  0  0  0            999 V2000
-   23.5366  -19.5245    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.2511  -19.9370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.2511  -20.7620    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.5366  -21.1744    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.5366  -21.9995    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.2511  -22.4120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.8221  -22.4120    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.2511  -23.2370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.8221  -23.2370    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.5366  -23.6495    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  2  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  2  0  0  0  0
-  4  5  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5  7  1  0  0  0  0
+ 18 18  0     0  0  0  0  0  0999 V2000
+    4.3579    0.4145   -0.1669 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4363   -0.2819    0.0928 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8263    1.0571    0.1133 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3970   -1.2865   -0.0224 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1772    1.3916    0.0186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7479   -0.9521   -0.1173 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9725   -0.6306    0.1911 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1379    0.3870   -0.0968 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0042    0.1995   -0.0732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3880   -0.2986    0.0608 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1150    1.8710    0.2200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1121   -2.3357   -0.0415 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1820   -1.6553    0.4922 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4820    2.4339    0.0389 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4962   -1.7341   -0.2071 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1899    0.6473   -0.1696 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8888    1.2254   -0.4003 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5005   -1.3484    0.3790 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4 12  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 14  1  0  0  0  0
   6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
   7  9  2  0  0  0  0
-  8 10  2  0  0  0  0
+  7 13  1  0  0  0  0
+  8 16  1  0  0  0  0
   9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+ 10 18  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB03441
+> <PUBCHEM_COMPOUND_CID>
+637511
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-O=C\C=C\C1=CC=CC=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C9H8O/c10-8-4-7-9-5-2-1-3-6-9/h1-8H/b7-4+
-
-> <INCHI_KEY>
-KJPRLNWUNMBNBZ-QPJJXVBHSA-N
-
-> <FORMULA>
-C9H8O
-
-> <MOLECULAR_WEIGHT>
-132.1592
-
-> <EXACT_MASS>
-132.057514878
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-14.476246951483134
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-0
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(2E)-3-phenylprop-2-enal
-
-> <ALOGPS_LOGP>
-2.00
-
-> <JCHEM_LOGP>
-1.9774700076666665
-
-> <ALOGPS_LOGS>
--2.51
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--4.439447314621728
-
-> <JCHEM_POLAR_SURFACE_AREA>
-17.07
-
-> <JCHEM_REFRACTIVITY>
-42.1345
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
 2
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+18
+1 -0.57
+10 0.5
+11 0.15
+12 0.15
+13 0.15
+14 0.15
+15 0.15
+16 0.15
+17 0.15
+18 0.06
+2 0.03
+3 -0.15
+4 -0.15
+5 -0.15
+6 -0.15
+7 -0.18
+8 -0.15
+9 -0.14
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+2
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+2
+1 1 acceptor
+6 2 3 4 5 6 8 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-4.09e-01 g/l
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <JCHEM_TRADITIONAL_IUPAC>
-cinnamal
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <HMDB_ID>
-HMDB03441
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <GENERIC_NAME>
-Cinnamaldehyde
+> <PUBCHEM_CONFORMER_ID>
+0009BA4700000001
 
-> <SYNONYMS>
-(2E)-3-Phenyl-2-propenal; (2E)-3-phenylacrylaldehyde; (E)-3-Phenyl-2-propenal; (E)-3-Phenylpropenal; (E)-Cinnamaldehyde; 3-Fenylpropenal; 3-Phenyl-2-propen-1-al; 3-Phenyl-2-propenaldehyde; 3-Phenylacrolein; 3-Phenylacrylaldehyde; 3-Phenylprop-2-enal; 3-Phenylpropenal; Benzylideneacetaldehyde; beta-Phenylcrolein; Cinnamal; Cinnamic aldehyde; Cinnamyl aldehyde; Cinnamylaldehyde; Cinnemaldehyde; trans-3-Phenyl-2-propenal; trans-Cinnamaldehyde; trans-Cinnamic aldehyde; trans-Cinnamylaldehyde
+> <PUBCHEM_MMFF94_ENERGY>
+23.0959
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+10.148
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+11062470 55 16877660162558012894
+12932764 1 17489575767043037138
+13024252 1 16443066097542169297
+14144814 61 18334293141540206090
+14325111 11 18410292480452925754
+15669948 3 18340477945822925926
+15775835 57 18261112924339075128
+20201158 50 18060138730226763190
+20645464 45 17988931058803628695
+20871998 184 18201442527437704847
+23402539 116 18343011199486216655
+23552423 10 18189051069872859565
+369184 2 15863788391884423513
+6333449 129 18342736316994122127
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+199.93
+6.25
+1.28
+0.62
+6.32
+0.06
+0.01
+0.53
+-0.39
+-0.89
+0.01
+-0.03
+0
+-0.08
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+411.065
+
+> <PUBCHEM_SHAPE_VOLUME>
+114.9
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$
