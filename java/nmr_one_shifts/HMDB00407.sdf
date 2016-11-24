@@ -1,123 +1,146 @@
-  
-  Mrv0541 02231218302D          
+99823
+  -OEChem-09111620223D
 
-  8  7  0  0  0  0            999 V2000
-   14.1033   -6.9211    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.1033   -7.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3889   -8.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.6744   -7.7461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3889   -8.9836    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   11.9599   -8.1586    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.6744   -6.9211    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8178   -8.1586    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  5  1  0  0  0  0
-  3  4  1  0  0  0  0
+ 18 17  0     1  0  0  0  0  0999 V2000
+   -0.1755    1.6806   -0.1335 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6918   -1.3261   -0.5762 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0686    0.5643    0.6194 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1632   -0.5384   -0.0529 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0225    0.3405   -0.6001 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5175   -0.0930   -0.6190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2267   -0.5299    1.4758 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3451   -0.0980   -0.1136 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9890   -1.5730   -0.3750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0154    0.3660   -1.6945 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5052   -0.1176   -1.7137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7714    0.9248   -0.3045 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3170   -0.7600   -0.2793 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4895    0.4557    1.8733 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9910   -1.2333    1.8256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2763   -0.8393    1.9213 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0815    1.6894    0.8334 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5757   -1.6026   -0.2531 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  5  1  0  0  0  0
   4  6  1  0  0  0  0
-  4  7  2  0  0  0  0
-  8  2  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00407
+> <PUBCHEM_COMPOUND_CID>
+99823
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC(C)C(O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H10O3/c1-3(2)4(6)5(7)8/h3-4,6H,1-2H3,(H,7,8)
-
-> <INCHI_KEY>
-NGEWQZIDQIYUNV-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H10O3
-
-> <MOLECULAR_WEIGHT>
-118.1311
-
-> <EXACT_MASS>
-118.062994186
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+4
+7
+6
+2
 3
+5
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.76765686155458
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+7
+1 -0.68
+17 0.4
+18 0.5
+2 -0.65
+3 -0.57
+5 0.34
+8 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 3 acceptor
+3 2 3 8 anion
+3 4 6 7 hydrophobe
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-hydroxy-3-methylbutanoic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <ALOGPS_LOGP>
-0.10
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_LOGP>
-0.4156657033333334
+> <PUBCHEM_COMPONENT_COUNT>
+1
 
-> <ALOGPS_LOGS>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+000185EF00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+6.3526
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.516
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+137420 1 13321734159764523861
+16714656 1 15791725304667843591
+21040471 1 16732974298088395891
+23552333 60 17703781518285507823
+24536 1 18041294208938431222
+29004967 10 18410294747910763019
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+147.03
+2.82
+1.18
+1.05
+0.22
+0.22
+-0.19
+-0.29
 0.26
+-0.05
+-0.1
+0.13
+-0.24
+0.44
 
-> <JCHEM_MDDR_LIKE_RULE>
-0
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+273.066
 
-> <JCHEM_NUMBER_OF_RINGS>
-0
+> <PUBCHEM_SHAPE_VOLUME>
+93.1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA>
-14.053181861607996
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-4.138361788089717
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--3.8921886131871277
-
-> <JCHEM_POLAR_SURFACE_AREA>
-57.53
-
-> <JCHEM_REFRACTIVITY>
-27.8354
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-2.15e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-2-hydroxyisovaleric acid
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB00407
-
-> <GENERIC_NAME>
-2-Hydroxy-3-methylbutyric acid
-
-> <SYNONYMS>
-2-Hydroxy-3-methyl-Butyric acid; 2-Hydroxy-3-methylbutanoate; 2-Hydroxy-3-methylbutanoic acid; 2-Hydroxy-3-methylbutyrate; 2-Hydroxyisopentanoate; 2-Hydroxyisopentanoic acid; 2-Hydroxyisovalerate; 2-Hydroxyisovaleric acid; 2-Oxyisovalerate; 2-Oxyisovaleric acid; 3-Methyl-2-hydroxybutyrate; 3-Methyl-2-hydroxybutyric acid; A-Hydroxyisovalerate; A-Hydroxyisovaleric acid; alpha-Hydroxyisovalerate; alpha-Hydroxyisovaleric acid; DL-2-Hydroxy-3-methylbutanoate; DL-2-Hydroxy-3-methylbutanoic acid; DL-2-Hydroxyisovalerate; DL-2-Hydroxyisovaleric acid; DL-a-hydroxyisovalerate; DL-a-hydroxyisovaleric acid; DL-alpha-hydroxyisovalerate; DL-alpha-hydroxyisovaleric acid
+5
+10
 
 $$$$

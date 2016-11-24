@@ -1,120 +1,151 @@
+763
+  -OEChem-09111606473D
 
-  Mrv0541 02231216262D          
-
-  8  7  0  0  0  0            999 V2000
-   -0.1914    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.5230    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.5230    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375    0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    1.9520    1.1270    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6  8  2  0  0  0  0
+ 15 14  0     0  0  0  0  0  0999 V2000
+    2.8450    0.8519    0.0118 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0511   -1.2806   -0.0014 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5155   -0.4236   -0.0062 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7823   -0.9325    0.0081 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2141    1.2748    0.0013 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5147    0.6071   -0.0139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7516   -0.0223    0.0006 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8525   -0.0749   -0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4442    1.2342    0.8815 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4508    1.2137   -0.9238 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5999   -1.9302    0.0090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7520   -0.6357    0.0144 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2084    1.4754    0.0067 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5875    2.0717   -0.0048 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7335    0.4362    0.0200 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 11  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00128
+> <PUBCHEM_COMPOUND_CID>
+763
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NC(=N)NCC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H7N3O2/c4-3(5)6-1-2(7)8/h1H2,(H,7,8)(H4,4,5,6)
-
-> <INCHI_KEY>
-BPMFZUMJYQTVII-UHFFFAOYSA-N
-
-> <FORMULA>
-C3H7N3O2
-
-> <MOLECULAR_WEIGHT>
-117.1066
-
-> <EXACT_MASS>
-117.053826483
-
-> <JCHEM_ACCEPTOR_COUNT>
-5
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-10.445075102512387
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+9
+6
+3
+5
+8
+2
 4
+7
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+13
+1 -0.65
+11 0.4
+12 0.4
+13 0.4
+14 0.4
+15 0.5
+2 -0.57
+3 -0.7
+4 -0.85
+5 -0.85
+6 0.31
+7 0.55
+8 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-carbamimidamidoacetic acid
-
-> <ALOGPS_LOGP>
--1.76
-
-> <JCHEM_LOGP>
--3.1262055894355907
-
-> <ALOGPS_LOGS>
--1.45
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.3686966251675314
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-12.241335630709775
-
-> <JCHEM_POLAR_SURFACE_AREA>
-99.20000000000002
-
-> <JCHEM_REFRACTIVITY>
-36.718
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 2 acceptor
+1 4 donor
+1 5 donor
+3 1 2 8 anion
+4 3 4 5 7 cation
 
-> <ALOGPS_SOLUBILITY>
-4.19e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
 
-> <JCHEM_TRADITIONAL_IUPAC>
-glycocyamine
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00128
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Guanidoacetic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-(carboxymethyl)-Guanidine; 2-[[Amino(imino)methyl]amino]acetate; 2-[[Amino(imino)methyl]amino]acetic acid; a-Guanidinoacetate; a-Guanidinoacetic acid; alpha-Guanidinoacetate; alpha-Guanidinoacetic acid; b-Guanidinoacetate; b-Guanidinoacetic acid; beta-Guanidinoacetate; beta-Guanidinoacetic acid; Betacyamine; Betasyamine; Glycocyamine; Guanidineacetate; Guanidineacetic acid; Guanidinoacetate; Guanidinoacetic acid; Guanidoacetate; Guanidoacetic acid; Guanidylacetate; Guanidylacetic acid; Guanyl glycine; N-Amidino-Glycine; N-Amidinoglycine; [(aminoiminomethyl)amino]-Acetate; [(aminoiminomethyl)amino]-Acetic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+000002FB00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+16.3901
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.559
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12932764 1 17489581285785641293
+14325111 11 18410855455854306501
+14390081 3 18341891909138682664
+15310529 11 18343017804697524687
+21040471 1 18410575128013756462
+23552423 10 18261115127662624578
+29004967 10 18334017206939405960
+3248919 1 17385448729952284322
+5460574 1 9295296035934968164
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+137.95
+4.34
+1.16
+0.55
+0.03
+0.01
+0
+0.06
+0.02
+0.08
+0
+0
+-0.01
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+259.66
+
+> <PUBCHEM_SHAPE_VOLUME>
+84.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

@@ -1,117 +1,133 @@
+1030
+  -OEChem-09111603553D
 
-  Mrv0541 02231215462D          
-
-  5  4  0  0  1  0            999 V2000
-    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
+ 13 12  0     1  0  0  0  0  0999 V2000
+   -0.4721   -1.3536   -0.1558 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9340    0.0013    0.1076 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4535   -0.0168    0.3428 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7489    0.7009   -0.2569 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7573    0.6681   -0.0377 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3491   -0.0765    1.4317 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7012    0.7211   -1.3507 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8260    1.7275    0.1130 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6111    0.1308    0.3890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7824    1.7013    0.3216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8983    0.6691   -1.1241 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2339   -1.8054    0.2456 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8475   -0.9097   -0.2214 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0  0  0  0
+  1 12  1  0  0  0  0
   2  4  1  0  0  0  0
-  4  5  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01881
+> <PUBCHEM_COMPOUND_CID>
+1030
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC(O)CO
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H8O2/c1-3(5)2-4/h3-5H,2H2,1H3
-
-> <INCHI_KEY>
-DNIAPMSPPWPWGF-UHFFFAOYSA-N
-
-> <FORMULA>
-C3H8O2
-
-> <MOLECULAR_WEIGHT>
-76.0944
-
-> <EXACT_MASS>
-76.0524295
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+3
+4
+6
+5
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.010010240094317
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+6
+1 -0.68
+12 0.4
+13 0.4
+2 -0.68
+3 0.28
+4 0.28
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+5
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000040600000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+4.4699
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.306
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 8861018625503705223
+16714656 1 18334301933180102884
+20096714 4 18334579048585757289
+21015797 1 9652537233723985521
+21040471 1 18411140207912286433
+5460574 1 9511460021977043184
+5943 1 13204420109008349723
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+91.16
+2.08
+1.08
+0.62
+0.28
+0.31
+-0.01
+-0.42
+-0.03
+-0.17
+0.09
+-0.03
+-0.02
+-0.03
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+155.098
+
+> <PUBCHEM_SHAPE_VOLUME>
+62.1
+
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-propane-1,2-diol
-
-> <ALOGPS_LOGP>
--1.10
-
-> <JCHEM_LOGP>
--0.7921040560000001
-
-> <ALOGPS_LOGS>
-1.10
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-15.996044021064442
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-14.470762978766011
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.8584492517004216
-
-> <JCHEM_POLAR_SURFACE_AREA>
-40.46
-
-> <JCHEM_REFRACTIVITY>
-18.9724
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-9.52e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-1,2-propanediol
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01881
-
-> <GENERIC_NAME>
-Propylene glycol
-
-> <SYNONYMS>
-(RS)-1,2-Propanediol; 1,2-(RS)-Propanediol; 1,2-Dihydroxypropane; 1,2-Propanediol; 1,2-Propylene glycol; 1,2-Propylenglykol; 2,3-Propanediol; 2-Hydroxypropanol; a-Propylene glycol; Aliphatic alcohol; alpha-Propylene glycol; Chilisa FE; DL-1,2-Propanediol; Dl-Propylene glycol; Dowfrost; Glycol; Ilexan P; Inhibited 1,2-propylene glycol; Isopropylene glycol; Methyl glycol; Methylethyl glycol; Methylethylene glycol; Monopropylene glycol; Prolugen; Propane-1,2-diol; Propanediol; Propylene glycol; Propylene glycol usp; Propylenglycol; Sentry Propylene Glycol; Sirlene; Solar Winter Ban; Solargard P; Trimethyl glycol; Ucar 35
+5
+10
 
 $$$$

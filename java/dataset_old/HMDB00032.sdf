@@ -1,0 +1,168 @@
+7-Dehydrocholesterol.mol
+  Mrv0541 02231218182D          
+
+ 30 33  0  0  0  0            999 V2000
+   -2.3522   -3.0167    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.3522   -2.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6377   -1.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6377   -3.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9233   -3.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2088   -3.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -3.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -2.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -1.7792    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.0048   -2.0342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4897   -1.3667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0048   -0.6993    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.2597    0.0853    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6763    0.6687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8899    1.4656    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3065    2.0490    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5200    2.8459    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9367    3.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3169    3.0594    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0667    0.2569    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -0.9542    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.2201   -0.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5057   -0.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2088   -0.9542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2088   -1.7792    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9233   -2.1917    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9233   -1.3667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0667   -3.4292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2088   -2.6042    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2201   -2.6042    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 12 11  1  1  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 13 20  1  1  0  0  0
+ 12 21  1  0  0  0  0
+  9 21  1  0  0  0  0
+ 21 22  1  1  0  0  0
+ 21 23  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+  8 25  1  0  0  0  0
+ 25 26  1  0  0  0  0
+  3 26  1  0  0  0  0
+  5 26  1  0  0  0  0
+ 26 27  1  1  0  0  0
+  1 28  1  1  0  0  0
+ 25 29  1  6  0  0  0
+  9 30  1  6  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00032
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+[H][C@@]12CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC[C@@]1([H])C2=CC=C2C[C@@H](O)CC[C@]12C
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C27H44O/c1-18(2)7-6-8-19(3)23-11-12-24-22-10-9-20-17-21(28)13-15-26(20,4)25(22)14-16-27(23,24)5/h9-10,18-19,21,23-25,28H,6-8,11-17H2,1-5H3/t19-,21+,23-,24+,25+,26+,27-/m1/s1
+
+> <INCHI_KEY>
+UCTLRSWJYQTBFZ-DDPQNLDTSA-N
+
+> <FORMULA>
+C27H44O
+
+> <MOLECULAR_WEIGHT>
+384.6377
+
+> <EXACT_MASS>
+384.33921603
+
+> <JCHEM_ACCEPTOR_COUNT>
+1
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+49.936020549247246
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+1
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+(1S,2R,5S,11R,14R,15R)-2,15-dimethyl-14-[(2R)-6-methylheptan-2-yl]tetracyclo[8.7.0.0²,⁷.0¹¹,¹⁵]heptadeca-7,9-dien-5-ol
+
+> <ALOGPS_LOGP>
+7.30
+
+> <JCHEM_LOGP>
+6.707309549333335
+
+> <ALOGPS_LOGS>
+-6.41
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+4
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+18.270805421445605
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+-1.3681497086596925
+
+> <JCHEM_POLAR_SURFACE_AREA>
+20.23
+
+> <JCHEM_REFRACTIVITY>
+121.46649999999997
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+5
+
+> <JCHEM_RULE_OF_FIVE>
+0
+
+> <ALOGPS_SOLUBILITY>
+1.48e-04 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+dehydrocholesterol
+
+> <JCHEM_VEBER_RULE>
+1
+
+> <HMDB_ID>
+HMDB00032
+
+> <GENERIC_NAME>
+7-Dehydrocholesterol
+
+> <SYNONYMS>
+(-)-7-dehydrocholesterol; (3b)-Cholesta-5,7-dien-3-ol; (3beta)-Cholesta-5,7-dien-3-ol; 10,13-Dimethyl-17-(6-methylheptan-2-yl)-2,3,4,9,11,12,14,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-3-ol; 17-(1,5-Dimethylhexyl)-10,13-dimethyl-2,3,4,9,10,11,12,13,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol; 5,7-Cholestadien-3-beta-ol; 5,7-Cholestandien-3-ol; 5,7-Cholestandien-3beta-ol; 7,8-Dehydro-cholesterol; 7,8-Didehydrocholesterol; 7-Dehydro-cholesterol; 7-Dehydrocholesterin; 7-Dehydrocholesterol; 7DHC; Cholesta-5,7-dien-3 beta -ol; Cholesta-5,7-dien-3-beta-ol; Cholesta-5,7-dien-3-ol; Cholesta-5,7-dien-3b-ol; Cholesta-5,7-dien-3beta-ol; Dehydrocholesterin; Dehydrocholesterol; Delta5,7-Cholestadien-3beta-ol; Delta5,7-Cholesterol; Delta7-Cholesterol; Provitamin D3; Provitamin-D3
+
+$$$$

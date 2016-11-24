@@ -1,122 +1,195 @@
+122356
+  -OEChem-09121606253D
 
-  Mrv0541 02231219202D          
-
-  9  8  0  0  0  0            999 V2000
-   27.9132   -3.4480    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   27.1988   -4.6855    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   23.6263   -4.2730    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   26.4842   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.3408   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.7698   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.0553   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   28.6277   -4.6855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   27.9132   -4.2730    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  9  2  0  0  0  0
-  2  4  1  0  0  0  0
-  2  9  1  0  0  0  0
-  3  5  1  0  0  0  0
+ 23 22  0     0  0  0  0  0  0999 V2000
+    2.6303    0.4368   -1.0629 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2239    0.0563    0.7541 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9188   -1.0770   -0.0213 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7760    1.1327   -0.2052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7481    0.0672    0.3164 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4616    1.2723    0.6768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0202   -0.0462   -0.5265 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2495   -0.2612   -0.1266 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8979   -1.5809    0.1951 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4749    0.8765   -1.2283 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2883    2.1009   -0.2523 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2470   -0.9087    0.3354 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0207    0.3046    1.3527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1019    2.0701    0.2848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1746    1.5438    1.6982 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5483    0.9134   -0.5286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7571   -0.2783   -1.5645 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9953   -0.5970    1.4979 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4482   -1.9809   -0.0394 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7220   -1.1601   -0.6429 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5231   -1.8981   -0.6441 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5197   -1.4726    1.0879 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1362   -2.3457    0.3718 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2  8  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 20  1  0  0  0  0
+  4  5  1  0  0  0  0
   4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
   5  7  1  0  0  0  0
-  6  7  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
   8  9  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+  9 23  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02064
+> <PUBCHEM_COMPOUND_CID>
+122356
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CC(=O)NCCCCN
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H14N2O/c1-6(9)8-5-3-2-4-7/h2-5,7H2,1H3,(H,8,9)
-
-> <INCHI_KEY>
-KLZGKIDSEJWEDW-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H14N2O
-
-> <MOLECULAR_WEIGHT>
-130.1882
-
-> <EXACT_MASS>
-130.11061308
-
-> <JCHEM_ACCEPTOR_COUNT>
-2
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-15.281189133700957
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
-2
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-N-(4-aminobutyl)acetamide
-
-> <ALOGPS_LOGP>
--0.84
-
-> <JCHEM_LOGP>
--1.0262736609999996
-
-> <ALOGPS_LOGS>
-0.04
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-16.482677381445896
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.904074103997283
-
-> <JCHEM_POLAR_SURFACE_AREA>
-55.120000000000005
-
-> <JCHEM_REFRACTIVITY>
-36.8224
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+39
+6
+33
+10
+37
+31
+18
+38
+41
+15
+23
+34
+3
+24
+36
+40
 4
+22
+32
+28
+8
+2
+42
+11
+20
+35
+29
+16
+30
+26
+13
+5
+19
+9
+12
+14
+25
+27
+17
+7
+21
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+10
+1 -0.57
+18 0.37
+19 0.36
+2 -0.73
+20 0.36
+3 -0.99
+6 0.3
+7 0.27
+8 0.57
+9 0.06
 
-> <ALOGPS_SOLUBILITY>
-1.41e+02 g/l
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+5
 
-> <JCHEM_TRADITIONAL_IUPAC>
-acetylputrescine
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 acceptor
+1 2 donor
+1 3 cation
+1 3 donor
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB02064
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-N-Acetylputrescine
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-Acetylputrescine; Monoacetylputrescine; N-(4-Aminobutyl)acetamide
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+0001DDF400000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+-1.1415
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10149128 111 10665233618078228775
+12897270 3 16805326573858398912
+14390081 3 11746928781318439997
+20281407 28 18342175561779597129
+21293036 1 17386007307966640905
+22485316 2 18342170068484750951
+23552423 10 18043250141319014962
+29004967 10 16128085642800304872
+94968 8 18411419557086147751
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+169.38
+5.96
+1.37
+0.85
+3.01
+0.13
+-0.06
+3.19
+-0.82
+-0.28
+0.13
+-0.27
+-0.12
+-0.15
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+303.639
+
+> <PUBCHEM_SHAPE_VOLUME>
+109.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

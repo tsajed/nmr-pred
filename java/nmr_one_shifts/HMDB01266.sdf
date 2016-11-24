@@ -1,132 +1,182 @@
+441484
+  -OEChem-09121603233D
 
-  Mrv0541 02231219012D          
-
- 12 12  0  0  1  0            999 V2000
-   15.5117   -6.7519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.7612   -7.3372    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.9610   -6.9682    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   14.6867   -6.1333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   13.2466   -6.5557    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.5321   -6.9682    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.5321   -7.7932    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   11.8177   -8.2057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   13.2466   -8.2057    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-   13.2466   -9.0307    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   13.9610   -7.7932    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-   14.6755   -8.2057    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  1  0  0  0
-  3  5  1  0  0  0  0
-  3 11  1  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  1  0  0  0
+ 24 24  0     1  0  0  0  0  0999 V2000
+   -0.6660    1.2896    0.4772 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3458   -2.2975   -0.2441 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1870    0.0534   -1.4762 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3774   -1.5024    0.4063 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9172    1.2343   -0.3115 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3391    0.6635    0.1834 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0061   -1.0392    0.3261 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.0519    0.0130   -0.0524 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3996   -0.6240   -0.1531 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7170    0.7946    0.3158 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.5845    1.7539   -0.0247 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4121   -0.3392    0.5532 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0429   -1.1702    1.4158 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4885   -0.7124   -1.2425 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8937    0.7931    1.3979 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7853    2.7338    0.4227 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5133    1.9286   -1.1054 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3630   -0.3699    1.6464 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7925   -1.2917    0.1724 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0952   -2.6545    0.2611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0733    0.3935   -1.6852 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1417   -2.4068    0.1374 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7679    1.2469   -1.2723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1943    0.4254    0.5800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 20  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 21  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 22  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 23  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 24  1  0  0  0  0
+  7  8  1  0  0  0  0
   7  9  1  0  0  0  0
-  9 10  1  6  0  0  0
-  9 11  1  0  0  0  0
- 11 12  1  1  0  0  0
+  7 13  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 16  1  0  0  0  0
+ 11 17  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 12 19  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01266
+> <PUBCHEM_COMPOUND_CID>
+441484
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OC[C@@]1(O)OC[C@H](O)[C@@H](O)[C@@H]1O
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+3
+2
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H12O6/c7-2-6(11)5(10)4(9)3(8)1-12-6/h3-5,7-11H,1-2H2/t3-,4+,5-,6+/m0/s1
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+17
+1 -0.56
+10 0.28
+11 0.28
+12 0.28
+2 -0.68
+20 0.4
+21 0.4
+22 0.4
+23 0.4
+24 0.4
+3 -0.68
+4 -0.68
+5 -0.68
+6 -0.68
+7 0.28
+8 0.56
+9 0.28
 
-> <INCHI_KEY>
-LKDRXBCSQODPBY-BGPJRJDNSA-N
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+2.2
 
-> <FORMULA>
-C6H12O6
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+12
+1 1 acceptor
+1 2 acceptor
+1 2 donor
+1 3 acceptor
+1 3 donor
+1 4 acceptor
+1 4 donor
+1 5 acceptor
+1 5 donor
+1 6 acceptor
+1 6 donor
+6 1 7 8 9 10 11 rings
 
-> <MOLECULAR_WEIGHT>
-180.1559
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
 
-> <EXACT_MASS>
-180.063388116
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+4
 
-> <JCHEM_ACCEPTOR_COUNT>
-6
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-16.051261078337294
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0006BC8C00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+30.727
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+60.966
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10219947 1 18410580561189525617
+12423570 1 15447454280899789079
+14325111 11 18410577305483028401
+15310529 11 16878211043838195592
+16945 1 18193553586952167705
+193761 8 17547292666863502753
+21040471 1 18340205318325481064
+23235685 24 18338515347663602992
+23402655 69 18341039732636730469
+23552423 10 18334577897660960226
+241688 4 17186163067857131322
+2748010 2 18337387119868668212
+29004967 10 18333734632287732185
+5084963 1 17917152667435777546
+528862 383 18334856121294615402
+528886 8 18412823611717050568
+63268167 104 18342741814489178625
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+211.74
+3.65
+1.85
+0.81
+0.76
+0.45
+-0.19
+-0.69
+0.27
+-0.61
+0.04
+0.2
+-0.01
+-0.15
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+425.187
+
+> <PUBCHEM_SHAPE_VOLUME>
+123.2
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
 5
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(2R,3S,4R,5S)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol
-
-> <ALOGPS_LOGP>
--2.51
-
-> <JCHEM_LOGP>
--2.7579993179999995
-
-> <ALOGPS_LOGS>
-0.82
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-12.643871080491373
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-10.291030669254257
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--3.450704169945884
-
-> <JCHEM_POLAR_SURFACE_AREA>
-110.38000000000001
-
-> <JCHEM_REFRACTIVITY>
-36.3608
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.19e+03 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-α-L-sorbopyranose
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01266
-
-> <GENERIC_NAME>
-L-Sorbose
-
-> <SYNONYMS>
-alpha-L-Sorbopyranose; Hex-2-ulose; L(-) Sorbose for biochemistry; L(-)-Sorbose; L-(-)-Sorbose; L-(-)-Sorbose 99%; L-1,3,4,5,6-Pentahydroxyhexan-2-one; L-Sorbinose; L-Sorbose; L-Xylo-2-Hexulose; L-Xylo-hexulose; Sorbin; Sorbinose; Sorbose; Xylo-Hexulose
+10
 
 $$$$

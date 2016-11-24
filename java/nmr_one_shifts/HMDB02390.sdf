@@ -1,130 +1,166 @@
+6738
+  -OEChem-09121610153D
 
-  Mrv0541 02231219312D          
-
- 11 11  0  0  0  0            999 V2000
-   26.3240  -13.9012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.1805  -15.1387    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.8950  -13.9012    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.1805  -16.7887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.6095  -14.3137    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.8950  -15.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.8950  -16.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.6095  -15.1387    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.6095  -16.7887    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.3240  -15.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.3240  -16.3762    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 19 19  0     0  0  0  0  0  0999 V2000
+   -0.1009   -2.0304    0.1296 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8191    0.7921    0.5205 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4518   -1.2203   -0.4704 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7412   -0.2979    0.0351 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4068   -0.7038    0.0427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6117    0.2459   -0.0372 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0572    1.0579   -0.0524 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2957    1.6017   -0.1248 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0388    2.0078   -0.1324 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8456   -1.2992    0.1210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0121   -0.1538   -0.0318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0916    1.3911   -0.0602 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0656    2.3650   -0.2016 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2852    3.0632   -0.2036 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7967   -1.9930   -0.7247 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7736   -1.8656    1.0554 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8320   -0.8236    0.0995 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8586   -2.1616    0.1862 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7602    0.5151    0.5194 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  5  1  0  0  0  0
-  2  6  1  0  0  0  0
-  3  5  2  0  0  0  0
+  1 18  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 19  1  0  0  0  0
+  3 11  2  0  0  0  0
+  4  5  2  0  0  0  0
   4  7  1  0  0  0  0
-  5  8  1  0  0  0  0
-  6  7  2  0  0  0  0
-  6  8  1  0  0  0  0
-  7  9  1  0  0  0  0
-  8 10  2  0  0  0  0
-  9 11  2  0  0  0  0
- 10 11  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6 11  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 12  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 13  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02390
+> <PUBCHEM_COMPOUND_CID>
+6738
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC1=C(O)C(=CC=C1)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C8H8O3/c1-5-3-2-4-6(7(5)9)8(10)11/h2-4,9H,1H3,(H,10,11)
-
-> <INCHI_KEY>
-WHSXTWFYRGOBGO-UHFFFAOYSA-N
-
-> <FORMULA>
-C8H8O3
-
-> <MOLECULAR_WEIGHT>
-152.1473
-
-> <EXACT_MASS>
-152.047344122
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-14.890108721588039
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 2
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-hydroxy-3-methylbenzoic acid
-
-> <ALOGPS_LOGP>
-2.38
-
-> <JCHEM_LOGP>
-2.490684791666667
-
-> <ALOGPS_LOGS>
--1.72
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
+3
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+16
+1 -0.53
+10 0.14
+11 0.63
+12 0.15
+13 0.15
+14 0.15
+18 0.45
+19 0.5
+2 -0.65
+3 -0.57
+4 -0.14
+5 0.08
+6 0.09
+7 -0.15
+8 -0.15
+9 -0.15
 
-> <JCHEM_PKA>
-13.887434553832179
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.7957377865848425
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--6.269370235218735
-
-> <JCHEM_POLAR_SURFACE_AREA>
-57.53
-
-> <JCHEM_REFRACTIVITY>
-40.33630000000001
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 donor
+1 2 acceptor
+1 3 acceptor
+3 2 3 11 anion
+6 4 5 6 7 8 9 rings
 
-> <ALOGPS_SOLUBILITY>
-2.88e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+11
 
-> <JCHEM_TRADITIONAL_IUPAC>
-cresotic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB02390
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-3-Cresotinic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-2,3-Cresotate; 2,3-Cresotic acid; 2,3-Cresotinate; 2,3-Cresotinic acid; 2-Hydroxy-3-methyl-benzoate; 2-Hydroxy-3-methyl-benzoic acid; 2-Hydroxy-3-methylbenzoate; 2-Hydroxy-3-methylbenzoic acid; 2-Hydroxy-m-toluate; 2-Hydroxy-m-toluic acid; 3-Cresotinate; 3-Methyl-2-hydroxybenzoate; 3-Methyl-2-hydroxybenzoic acid; 3-Methylsalicylate; 3-Methylsalicylic acid; beta-Cresotinate; beta-Cresotinic acid; Hydroxytoluic acid; O-Cresotic acid; O-Cresotinic acid; O-Homosalicylic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_CONFORMER_ID>
+00001A5200000002
+
+> <PUBCHEM_MMFF94_ENERGY>
+32.2121
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.429
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18338506534216489089
+12423570 1 11461468169457296401
+12524768 44 18267583687754826626
+12897270 3 18338233756548390301
+14325111 11 18411418384422705040
+16945 1 18267588098670506325
+193761 8 17905325131009643803
+19973954 147 18340770351580913248
+20871998 184 18272370888378392551
+20871998 22 18339654441773295375
+21040471 1 17976539412208131285
+23552423 10 18260272910498540230
+23559900 14 17838338481069651078
+241688 4 18409731759508572481
+2748010 2 18410573963718877821
+369184 2 18272929397261763472
+5084963 1 18272655640335911643
+5255222 1 17976259032532405724
+66348 1 18194119603559672159
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+208.77
+3.64
+2.02
+0.63
+0.82
+0.19
+0
+-0.81
+0.16
+-0.54
+-0.06
+0.05
+0.02
+0.25
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+441.312
+
+> <PUBCHEM_SHAPE_VOLUME>
+117.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

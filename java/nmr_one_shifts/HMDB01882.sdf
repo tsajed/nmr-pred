@@ -1,119 +1,138 @@
+670
+  -OEChem-09111603413D
 
-  Mrv0541 02231215432D          
-
-  6  5  0  0  0  0            999 V2000
-    2.4750   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0625   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250   -1.4289    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
+ 12 11  0     0  0  0  0  0  0999 V2000
+   -2.4087    0.0956   -0.0031 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4087    0.0955    0.0027 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    1.2771    0.0003 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0470   -0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2837   -0.7576    0.0057 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2837   -0.7575   -0.0053 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3178   -1.3664    0.9131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3182   -1.4051   -0.8749 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3178   -1.3671   -0.9121 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3182   -1.4040    0.8759 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4082    0.5715   -0.8512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4082    0.5723    0.8503 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1 11  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2 12  1  0  0  0  0
   3  4  2  0  0  0  0
-  3  5  1  0  0  0  0
-  5  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 10  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01882
+> <PUBCHEM_COMPOUND_CID>
+670
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OCC(=O)CO
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+4
+12
+9
+6
+11
+8
+10
+5
+7
+3
+2
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H6O3/c4-1-3(6)2-5/h4-5H,1-2H2
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+8
+1 -0.68
+11 0.4
+12 0.4
+2 -0.68
+3 -0.57
+4 0.45
+5 0.34
+6 0.34
 
-> <INCHI_KEY>
-RXKJFZQQPQGTFL-UHFFFAOYSA-N
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+2
 
-> <FORMULA>
-C3H6O3
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+1 3 acceptor
 
-> <MOLECULAR_WEIGHT>
-90.0779
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+6
 
-> <EXACT_MASS>
-90.031694058
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
 
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 3
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.104016589966424
+> <PUBCHEM_CONFORMER_ID>
+0000029E00000001
 
-> <JCHEM_BIOAVAILABILITY>
-1
+> <PUBCHEM_MMFF94_ENERGY>
+-3.2513
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.387
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 9223230745315710755
+16714656 1 18341614802016929654
+20096714 4 18339080522393960483
+29004967 10 18335145301358369522
+5460574 1 9223234048219479363
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+105.87
+2.82
+1.01
+0.56
+0
+0.14
+0
+-0.18
+0
+0
+0
+0
+-0.03
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+189.442
+
+> <PUBCHEM_SHAPE_VOLUME>
+68.3
+
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-1,3-dihydroxypropan-2-one
-
-> <ALOGPS_LOGP>
--1.65
-
-> <JCHEM_LOGP>
--1.5282162836666666
-
-> <ALOGPS_LOGS>
-0.97
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-14.20569157000131
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-13.491443966912374
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--3.3219094004199308
-
-> <JCHEM_POLAR_SURFACE_AREA>
-57.53
-
-> <JCHEM_REFRACTIVITY>
-19.599199999999996
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-8.38e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-dihydroxyacetone
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01882
-
-> <GENERIC_NAME>
-Dihydroxyacetone
-
-> <SYNONYMS>
-1,3-Dihydroxy-2-propanone; 1,3-Dihydroxyacetone; 1,3-Dihydroxydimethyl ketone; 1,3-Dihydroxypropan-2-one; 1,3-Dihydroxypropanone; a,a'-Dihydroxyacetone; Aliphatic ketone; Bis(hydroxymethyl) ketone; Chromelin; Dihydroxy-acetone; Dihydroxyacetone; Dihyxal; Glycerone; Ketochromin; Otan; Oxantin; Oxatone; Protosol; Soleal; Triulose; Viticolor
+5
+10
 
 $$$$

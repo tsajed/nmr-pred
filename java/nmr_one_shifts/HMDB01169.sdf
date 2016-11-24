@@ -1,121 +1,144 @@
+403
+  -OEChem-09121602463D
 
-  Mrv0541 02231218582D          
-
-  8  8  0  0  0  0            999 V2000
-    0.7152    0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7152   -0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.8257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4304    0.8257    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -0.8257    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.7152    0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.7152   -0.4146    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.4304   -0.8257    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  3  2  0  0  0  0
-  1  4  1  0  0  0  0
-  2  5  2  0  0  0  0
-  3  6  1  0  0  0  0
-  5  7  1  0  0  0  0
-  7  8  1  0  0  0  0
+ 15 15  0     0  0  0  0  0  0999 V2000
+   -2.7620   -0.0002    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7991   -0.0001   -0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3887    0.0002    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6915   -1.2079    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6911    1.2082    0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4010   -0.0001   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7034   -1.2080   -0.0001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7038    1.2079    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2236   -2.1557    0.0002 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2229    2.1561    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2349   -2.1559   -0.0001 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2417    2.1521    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3050   -0.8758    0.0004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3055    0.8753    0.0003 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0771   -0.9205    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 13  1  0  0  0  0
+  2 14  1  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5 10  1  0  0  0  0
   6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  7 11  1  0  0  0  0
+  8 12  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01169
+> <PUBCHEM_COMPOUND_CID>
+403
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NC1=CC=C(O)C=C1
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H7NO/c7-5-1-3-6(8)4-2-5/h1-4,8H,7H2
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+15
+1 -0.53
+10 0.15
+11 0.15
+12 0.15
+13 0.4
+14 0.4
+15 0.45
+2 -0.9
+3 0.1
+4 -0.15
+5 -0.15
+6 0.08
+7 -0.15
+8 -0.15
+9 0.15
 
-> <INCHI_KEY>
-PLIKAWJENQZMHA-UHFFFAOYSA-N
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+0
 
-> <FORMULA>
-C6H7NO
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 donor
+1 2 cation
+1 2 donor
+6 3 4 5 6 7 8 rings
 
-> <MOLECULAR_WEIGHT>
-109.1259
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
 
-> <EXACT_MASS>
-109.052763851
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
 
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+4
+
+> <PUBCHEM_CONFORMER_ID>
+0000019300000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+28.1291
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+16714656 1 18410858763163727814
+18185500 45 18410852183084049671
+20096714 4 18338799017194314155
+21040471 1 18338516459875204451
+23235685 24 18410852170183304000
+23402655 69 18195226842820668589
+23552423 10 18045228145837368814
+29004967 10 18261399935618171313
+5084963 1 18343864419971378272
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+153.79
+2.9
+1.38
+0.59
+0.1
+0
+0
+0
+0
+-0.01
+0
+0
+0
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+319.66
+
+> <PUBCHEM_SHAPE_VOLUME>
+88.4
+
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.228679945567695
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-2
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-4-aminophenol
-
-> <ALOGPS_LOGP>
-0.47
-
-> <JCHEM_LOGP>
-0.8407545403333332
-
-> <ALOGPS_LOGS>
-0.04
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-10.399947855076482
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-5.427758069827587
-
-> <JCHEM_POLAR_SURFACE_AREA>
-46.25
-
-> <JCHEM_REFRACTIVITY>
-32.7393
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.21e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-aminophenol
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01169
-
-> <GENERIC_NAME>
-4-Aminophenol
-
-> <SYNONYMS>
-1-Amino-4-hydroxybenzene; 4-Amino-1-hydroxybenzene; 4-Aminobenzenol; 4-Aminophenol; 4-Hydroxyaniline; Activol; Aminophenol; Energol; Fouramine P; p-Aminophenol; p-Hydroxyaniline; p-Hydroxyphenylamine; Paramidophenol; Paranol
+5
+10
 
 $$$$

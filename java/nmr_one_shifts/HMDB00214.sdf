@@ -1,122 +1,194 @@
+6262
+  -OEChem-09101620023D
 
-  Mrv0541 09081312202D          
-
-  9  8  0  0  1  0            999 V2000
-   -1.6671    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9526   -0.1833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2382    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4763   -0.1833    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    1.1908    0.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1908    1.0542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.3816   -0.1833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.4763   -1.0083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    1.9053   -0.1833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  2  1  1  0  0  0  0
-  3  2  1  0  0  0  0
-  4  3  1  0  0  0  0
-  5  4  1  0  0  0  0
-  6  5  2  0  0  0  0
-  7  1  1  0  0  0  0
-  4  8  1  1  0  0  0
-  9  5  1  0  0  0  0
+ 21 20  0     1  0  0  0  0  0999 V2000
+    1.6884   -1.5615    0.7827 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1485   -0.6169   -1.2261 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2965    1.8348   -0.4347 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6082   -0.4932   -0.7057 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3416    0.5599    0.9520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2979    0.1323   -0.1704 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1222    0.7429    0.5227 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7133   -0.0799    0.3687 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7055   -0.5185   -0.0891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7035    1.4975    1.3939 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3832   -0.1908    1.7520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9430   -0.7970   -0.6317 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3168    0.8981   -0.9550 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7249    0.9851    1.4059 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0897    0.8452    0.8190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7091   -0.8521    1.1454 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8153    1.6194   -1.3066 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2836    1.9358   -0.6682 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6426    0.2311   -1.4219 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5561   -0.5799   -0.3414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0654   -2.3755    0.3857 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  9  2  0  0  0  0
+  3  7  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 18  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 19  1  0  0  0  0
+  4 20  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00214
+> <PUBCHEM_COMPOUND_CID>
+6262
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-NCCC[C@H](N)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H12N2O2/c6-3-1-2-4(7)5(8)9/h4H,1-3,6-7H2,(H,8,9)/t4-/m0/s1
-
-> <INCHI_KEY>
-AHLPHDHHMVZTML-BYPYZUCNSA-N
-
-> <FORMULA>
-C5H12N2O2
-
-> <MOLECULAR_WEIGHT>
-132.161
-
-> <EXACT_MASS>
-132.089877638
-
-> <JCHEM_ACCEPTOR_COUNT>
-4
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.853261407645917
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+4
+28
+35
+37
+27
+29
+38
+7
+30
+11
+8
+34
+26
+36
+32
+21
+19
+33
+16
+24
+12
+2
+31
+9
+13
+23
+17
+5
 3
+22
+15
+25
+6
+14
+10
+18
+20
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+12
+1 -0.65
+17 0.36
+18 0.36
+19 0.36
+2 -0.57
+20 0.36
+21 0.5
+3 -0.99
+4 -0.99
+7 0.33
+8 0.27
+9 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(2S)-2,5-diaminopentanoic acid
-
-> <ALOGPS_LOGP>
--3.64
-
-> <JCHEM_LOGP>
--3.6582876081320586
-
-> <ALOGPS_LOGS>
-0.11
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.666422703275891
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-10.2868213384358
-
-> <JCHEM_POLAR_SURFACE_AREA>
-89.34
-
-> <JCHEM_REFRACTIVITY>
-33.20850000000001
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 4
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 2 acceptor
+1 3 cation
+1 3 donor
+1 4 cation
+1 4 donor
+3 1 2 9 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.72e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-ornithine
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00214
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Ornithine
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-(+)-S-Ornithine; (S)-2,5-Diaminopentanoate; (S)-2,5-Diaminopentanoic acid; (S)-a,D-Diaminovalerate; (S)-a,D-Diaminovaleric acid; (S)-Ornithine; 5-Amino-L-Norvaline; L-(-)-Ornithine; L-Ornithine
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000187600000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+0.371
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.579
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12897270 3 18040722488841145951
+12932741 1 17676211316227883945
+12932764 1 18333170566180617535
+14128692 85 18059584567660365368
+14390081 3 12973608841615520295
+20653091 64 18343303664830706464
+23552333 60 18202566202181833248
+23552423 10 18411703192573592897
+23552449 11 18201145603088674817
+29004967 10 18334576823924443680
+3248919 1 18338230570199725449
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+163.52
+4.32
+1.32
+1
+4.26
+0.21
+0.02
+-1.26
+0.97
+-0.89
+0.01
+-0.23
+-0.09
+-0.26
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+299.933
+
+> <PUBCHEM_SHAPE_VOLUME>
+102.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

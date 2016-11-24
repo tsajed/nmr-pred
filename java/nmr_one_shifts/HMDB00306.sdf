@@ -1,125 +1,167 @@
-Indole-3-acetic acid.mol
-  Mrv0541 02231218262D          
+5610
+  -OEChem-09111619053D
 
- 10 10  0  0  0  0            999 V2000
-   -2.2687   -0.7145    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.4438   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0312    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2062    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.2062    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0313    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4438    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.2687    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.0313   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.2062   -0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
+ 21 21  0     0  0  0  0  0  0999 V2000
+   -3.5985    0.0061    0.3965 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2131    0.0140    0.3305 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9446   -0.0085   -0.6547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4797   -0.0044   -0.3767 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7850   -0.0078    0.6288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2083   -1.2105   -0.2445 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2026    1.2055   -0.2491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5787   -1.2068    0.0154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5731    1.2093    0.0108 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2612    0.0031    0.1431 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1998   -0.8830   -1.2683 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2016    0.8640   -1.2706 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5618   -0.8956    1.2314 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5401    0.8646    1.2453 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3123   -2.1598   -0.3398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3224    2.1519   -0.3481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1030   -2.1532    0.1167 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0992    2.1549    0.1097 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4308    0.8355   -0.2324 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4523   -0.7909   -0.2475 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9099   -0.9134    0.4568 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  1  0  0  0  0
+  1 21  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2 19  1  0  0  0  0
+  2 20  1  0  0  0  0
   3  4  1  0  0  0  0
-  4  5  2  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  2  0  0  0  0
-  7  8  1  0  0  0  0
-  7  9  1  0  0  0  0
-  9 10  2  0  0  0  0
-  4 10  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7  9  2  0  0  0  0
+  7 16  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 17  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 18  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00306
+> <PUBCHEM_COMPOUND_CID>
+5610
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NCCC1=CC=C(O)C=C1
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+5
+2
+4
+3
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C8H11NO/c9-6-5-7-1-3-8(10)4-2-7/h1-4,10H,5-6,9H2
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+17
+1 -0.53
+10 0.08
+15 0.15
+16 0.15
+17 0.15
+18 0.15
+19 0.36
+2 -0.99
+20 0.36
+21 0.45
+3 0.14
+4 -0.14
+5 0.27
+6 -0.15
+7 -0.15
+8 -0.15
+9 -0.15
 
-> <INCHI_KEY>
-DZGWFCGJZKJUFP-UHFFFAOYSA-N
-
-> <FORMULA>
-C8H11NO
-
-> <MOLECULAR_WEIGHT>
-137.179
-
-> <EXACT_MASS>
-137.084063979
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-15.332804080654087
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 1 donor
+1 2 cation
+1 2 donor
+6 4 6 7 8 9 10 rings
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_CONFORMER_ID>
+000015EA00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+16.4563
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10857977 72 18412823607432645625
+11062470 55 18411136943694839529
+13024252 1 14851602163645658357
+14325111 11 18339923714763476044
+16945 1 18410584980584214207
+20645464 45 17917713500175952734
+20653085 51 14261058922264131170
+20871998 184 18201159974049702023
+21040471 1 18266751194381012677
+23402539 116 18272922826473367445
+23402655 69 18195511607895341221
+23552423 10 17755027732358128125
+2748010 2 18049454642869828589
+369184 2 18413100663014524678
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+194.94
+5.31
+1.22
+0.74
+3.48
+0
+0.02
+-0.02
+-1.27
+-0.55
+0.07
+0.19
+0
 0
 
-> <JCHEM_GHOSE_FILTER>
-0
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+396.676
 
-> <JCHEM_IUPAC>
-4-(2-aminoethyl)phenol
+> <PUBCHEM_SHAPE_VOLUME>
+114
 
-> <ALOGPS_LOGP>
--0.14
-
-> <JCHEM_LOGP>
-0.6797131598312175
-
-> <ALOGPS_LOGS>
--1.38
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-10.410817992116419
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.663317955732815
-
-> <JCHEM_POLAR_SURFACE_AREA>
-46.25
-
-> <JCHEM_REFRACTIVITY>
-41.267300000000006
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-5.72e+00 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-tyramine
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB00306
-
-> <GENERIC_NAME>
-Tyramine
-
-> <SYNONYMS>
-2-(4'-Hydroxyphenyl)ethylamine; 2-(4-Hydroxyphenyl)ethylamine; 2-(p-Hydroxyphenyl)ethylamine; 4- (2-Aminoethyl)-Phenol; 4-(2-Aminoethyl)-Phenol; 4-(2-Aminoethyl)-phenol(thyramin); 4-(2-Aminoethyl)phenol; 4-Hydroxy-b-phenylethylamine; 4-Hydroxy-Benzeneethanamine; 4-Hydroxy-beta-phenylethylamine; 4-Hydroxyphenethylamine; 4-Hydroxyphenylethylamine; a-(4-Hydroxyphenyl)-b-aminoethane; alpha-(4-Hydroxyphenyl)-beta-aminoethane; alpha.-(4-Hydroxyphenyl)-beta-aminoethane; b-(4-Hydroxyphenyl)ethylamine; beta-(4-Hydroxyphenyl)ethylamine; p-(2-Aminoethyl)-Phenol; p-(2-Aminoethyl)phenol; P-beta-Aminoethylphenol; P-Hydroxy-b-phenethylamine; P-Hydroxy-b-phenylethylamine; P-Hydroxy-beta-phenethylamine; P-Hydroxy-beta-phenylethylamine; P-Hydroxyphenethylamine; P-Hydroxyphenylethylamine; P-Tyramine; Systogene; Tenosin-wirkstoff; Tocosine; Tyramin; Tyramine base; Tyrosamine; Uteramine
+5
+10
 
 $$$$

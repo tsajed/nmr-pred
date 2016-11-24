@@ -1,0 +1,143 @@
+
+  Mrv0541 02231218182D          
+
+ 17 18  0  0  0  0            999 V2000
+    0.6257    0.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6257   -0.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0942    1.0629    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3419    1.0743    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0942   -0.5918    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3494   -0.5918    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8029    0.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0693    0.6596    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8029   -0.1734    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0732   -0.1772    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3494   -1.4098    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7742    1.0743    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5152   -0.5804    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2239   -0.1658    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5191   -1.4022    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2164    0.6559    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9363   -0.5692    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  7  1  0  0  0  0
+  4  8  2  0  0  0  0
+  5  9  2  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  2  0  0  0  0
+  8 12  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 17  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <DATABASE_ID>
+HMDB00038
+
+> <DATABASE_NAME>
+hmdb
+
+> <SMILES>
+CC(O)C(O)C1=NC2=C(NC1)N=C(N)NC2=O
+
+> <INCHI_IDENTIFIER>
+InChI=1S/C9H13N5O3/c1-3(15)6(16)4-2-11-7-5(12-4)8(17)14-9(10)13-7/h3,6,15-16H,2H2,1H3,(H4,10,11,13,14,17)
+
+> <INCHI_KEY>
+FEMXZDUTFRTWPE-UHFFFAOYSA-N
+
+> <FORMULA>
+C9H13N5O3
+
+> <MOLECULAR_WEIGHT>
+239.2312
+
+> <EXACT_MASS>
+239.101839307
+
+> <JCHEM_ACCEPTOR_COUNT>
+7
+
+> <JCHEM_AVERAGE_POLARIZABILITY>
+23.041007497131417
+
+> <JCHEM_BIOAVAILABILITY>
+1
+
+> <JCHEM_DONOR_COUNT>
+5
+
+> <JCHEM_FORMAL_CHARGE>
+0
+
+> <JCHEM_GHOSE_FILTER>
+0
+
+> <JCHEM_IUPAC>
+2-amino-6-(1,2-dihydroxypropyl)-3,4,7,8-tetrahydropteridin-4-one
+
+> <ALOGPS_LOGP>
+-1.65
+
+> <JCHEM_LOGP>
+-1.947500499333333
+
+> <ALOGPS_LOGS>
+-2.17
+
+> <JCHEM_MDDR_LIKE_RULE>
+0
+
+> <JCHEM_NUMBER_OF_RINGS>
+2
+
+> <JCHEM_PHYSIOLOGICAL_CHARGE>
+0
+
+> <JCHEM_PKA>
+11.702764152834801
+
+> <JCHEM_PKA_STRONGEST_ACIDIC>
+10.809058275672374
+
+> <JCHEM_PKA_STRONGEST_BASIC>
+3.669805135971821
+
+> <JCHEM_POLAR_SURFACE_AREA>
+132.32999999999998
+
+> <JCHEM_REFRACTIVITY>
+68.31329999999998
+
+> <JCHEM_ROTATABLE_BOND_COUNT>
+2
+
+> <JCHEM_RULE_OF_FIVE>
+1
+
+> <ALOGPS_SOLUBILITY>
+1.63e+00 g/l
+
+> <JCHEM_TRADITIONAL_IUPAC>
+7,8-dihydrobiopterin
+
+> <JCHEM_VEBER_RULE>
+0
+
+> <HMDB_ID>
+HMDB00038
+
+> <GENERIC_NAME>
+Dihydrobiopterin
+
+> <SYNONYMS>
+(6R)-6-(L-erythro-1,2-Dihydroxypropyl)-7,8-dihydro-6H-pterin; (S-(R*,S*))-2-amino-6-(1,2-dihydroxypropyl)-7,8-dihydro-4(1H)-Pteridinone; 2-Amino-6-((1R,2S)-1,2-dihydroxypropyl)-7,8-dihydro-4(1H)-Pteridinone; 2-Amino-6-(1,2-dihydroxypropyl)-7,8-dihydro-4(1H)-Pteridinone; 6,7-Dihydrobiopterin; 7,8-Dihydro-L-biopterin; 7,8-Dihydrobiopterin; BH2; Dihydrobiopterin; L-Erythro-1-(2-amino-7,8-dihydro-4-hydroxy-6-pteridinyl)-1,2-Propanediol; L-Erythro-7,8-Dihydrobiopterin; L-Erythro-Dihydrobiopterin; L-Erythro-q-Dihydrobiopterin; Quinoid-dihydrobiopterin; Quinonoid dihydrobiopterin
+
+$$$$

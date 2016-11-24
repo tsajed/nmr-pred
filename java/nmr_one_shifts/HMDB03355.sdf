@@ -1,120 +1,172 @@
+138
+  -OEChem-09121611343D
 
-  Mrv0541 02231219422D          
-
-  8  7  0  0  0  0            999 V2000
-   23.2152  -11.1336    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   23.9297  -12.3711    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   27.5021  -11.1336    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   26.7877  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.0731  -11.1336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.3587  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.6442  -11.1336    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.9297  -11.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 19 18  0     0  0  0  0  0  0999 V2000
+    3.2957   -0.7928   -0.0030 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3505    1.2737    0.0329 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0849   -0.2163    0.0491 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2736    0.2901   -0.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6189   -0.4443    0.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9138   -0.6680   -0.0067 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8198    0.5025   -0.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2372    0.0551    0.0084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2249    0.8972   -0.9588 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2119    0.9894    0.7975 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6622   -1.0392    0.9297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6775   -1.1515   -0.8289 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8602   -1.2883    0.8949 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8903   -1.3194   -0.8873 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8020    1.0708   -0.9792 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7585    1.2237    0.7797 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8534    0.4527    0.0714 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1250   -0.7279    0.9296 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1505   -0.3116    0.0093 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  1  0  0  0  0
+  1 19  1  0  0  0  0
   2  8  2  0  0  0  0
-  3  4  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3 17  1  0  0  0  0
+  3 18  1  0  0  0  0
   4  5  1  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  7  8  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB03355
+> <PUBCHEM_COMPOUND_CID>
+138
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-NCCCCC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H11NO2/c6-4-2-1-3-5(7)8/h1-4,6H2,(H,7,8)
-
-> <INCHI_KEY>
-JJMDCOVWQOJGCB-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H11NO2
-
-> <MOLECULAR_WEIGHT>
-117.1463
-
-> <EXACT_MASS>
-117.078978601
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.65225454487906
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+29
+16
+19
+25
+7
+27
+26
+3
+14
+8
+30
+24
+4
+5
+23
+12
+18
+11
+21
+15
+28
+20
+10
+13
+6
+9
+22
+17
 2
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+17 0.36
+18 0.36
+19 0.5
+2 -0.57
+3 -0.99
+6 0.06
+7 0.27
+8 0.66
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-5-aminopentanoic acid
-
-> <ALOGPS_LOGP>
--2.75
-
-> <JCHEM_LOGP>
--2.441462136430473
-
-> <ALOGPS_LOGS>
-0.24
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-4.6510543313288055
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-10.205972024771656
-
-> <JCHEM_POLAR_SURFACE_AREA>
-63.31999999999999
-
-> <JCHEM_REFRACTIVITY>
-30.058799999999998
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 4
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 2 acceptor
+1 3 cation
+1 3 donor
+3 1 2 8 anion
 
-> <ALOGPS_SOLUBILITY>
-2.06e+02 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
 
-> <JCHEM_TRADITIONAL_IUPAC>
-5-aminovaleric acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB03355
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-5-Aminopentanoic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovalerate; 5-Aminovaleric acid; delta-Amino-N-valerate; delta-Amino-N-valeric acid; delta-Aminovalerate; delta-Aminovaleric acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0000008A00000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+-1.445
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.429
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+11062470 55 18342176665707465905
+12932764 1 17385712608527247435
+14325111 11 18410855477592913071
+14390081 3 18410291419532830065
+3248919 1 17132124545247678967
+5460574 1 9439403532062000527
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+147.92
+6.26
+0.95
+0.58
+2.99
+0.14
+0
+-0.16
+-0.08
+-0.48
+0
+0.03
+0
+0.03
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+265.824
+
+> <PUBCHEM_SHAPE_VOLUME>
+95.2
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

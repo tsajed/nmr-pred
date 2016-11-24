@@ -1,121 +1,203 @@
+3121
+  -OEChem-09101620423D
 
-  Mrv0541 02231214352D          
-
- 10  9  0  0  0  0            999 V2000
-   -1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7145   -0.2475    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4289    0.1650    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -1.4850    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000   -2.3100    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.7145   -1.0725    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.1434   -0.2475    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4289    0.9900    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  2  1  1  0  0  0  0
-  2  3  1  0  0  0  0
+ 26 25  0     0  0  0  0  0  0999 V2000
+    0.0361   -2.0835    0.9381 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0363   -1.6209   -1.2811 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0033    0.2266    0.3127 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2719    0.9645   -0.1373 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2906    0.9120   -0.1867 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5822    0.3510    0.3741 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5926    0.3283    0.3715 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0073   -1.2331   -0.1204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8289    1.0594   -0.1333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8041    1.0956   -0.1376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0205    0.2489    1.4110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2180    2.0088    0.1953 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3027    0.9869   -1.2345 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3229    0.8661   -1.2832 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2442    1.9763    0.0783 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6438   -0.7010    0.0737 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5834    0.3685    1.4704 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6920   -0.7237    0.0826 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5748    0.3657    1.4667 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8806    1.0230   -1.2260 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7283    0.5815    0.2674 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8333    2.1093    0.1762 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7580    2.1471    0.1636 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7237    0.6655    0.2713 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8651    1.0526   -1.2297 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0365   -3.0220    0.6527 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  1 26  1  0  0  0  0
+  2  8  2  0  0  0  0
   3  4  1  0  0  0  0
-  4  8  1  0  0  0  0
-  4  5  1  0  0  0  0
-  5  9  1  0  0  0  0
-  5 10  2  0  0  0  0
-  6  7  1  0  0  0  0
-  6  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 16  1  0  0  0  0
+  6 17  1  0  0  0  0
+  7 10  1  0  0  0  0
+  7 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  9 20  1  0  0  0  0
+  9 21  1  0  0  0  0
+  9 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+ 10 25  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01877
+> <PUBCHEM_COMPOUND_CID>
+3121
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CCCC(CCC)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)
-
-> <INCHI_KEY>
-NIJJYAXOARWZEE-UHFFFAOYSA-N
-
-> <FORMULA>
-C8H16O2
-
-> <MOLECULAR_WEIGHT>
-144.2114
-
-> <EXACT_MASS>
-144.115029756
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+27
+8
+33
+23
+26
+39
+36
+18
+40
+6
+29
+30
+11
+42
+43
+24
+16
+3
+17
+10
+32
+20
+41
+31
+25
+12
+13
+22
+37
+35
+15
+7
+28
+38
+9
+14
+34
+19
+4
+5
+21
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-16.996878483662712
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+5
+1 -0.65
+2 -0.57
+26 0.5
+3 0.06
+8 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
-1
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-propylpentanoic acid
-
-> <ALOGPS_LOGP>
-2.54
-
-> <JCHEM_LOGP>
-2.7984510709999997
-
-> <ALOGPS_LOGS>
--1.79
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-5.144389811177235
-
-> <JCHEM_POLAR_SURFACE_AREA>
-37.3
-
-> <JCHEM_REFRACTIVITY>
-40.2491
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 5
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 10 hydrophobe
+1 2 acceptor
+1 9 hydrophobe
+3 1 2 8 anion
+5 3 4 5 6 7 hydrophobe
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-2.36e+00 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-valproic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <HMDB_ID>
-HMDB01877
+> <PUBCHEM_CONFORMER_ID>
+00000C3100000001
 
-> <GENERIC_NAME>
-Valproic acid
+> <PUBCHEM_MMFF94_ENERGY>
+4.2122
 
-> <SYNONYMS>
-(N-C3H7)2CHCOOH; (S)-2-propyl-4-pentanoate; (S)-2-propyl-4-pentanoic acid; 2-N-Propyl-N-valeric acid; 2-Propyl-Pentanoate; 2-Propyl-Pentanoic acid; 2-Propylpentanoate; 2-Propylpentanoic acid; 2-Propylvaleric acid; 4-Heptanecarboxylic acid; Acide valproique [inn-french]; Acido valproico [inn-spanish]; Acidum valproicum [inn-latin]; Alti-valproic; APO-divalproex; Apo-valproic; Apo-valproic syrup; Avugane; Baceca; Convulex; Delepsine; Depakene; Depakin; Depakin chrono; Depakine; Depakine chrono; Deproic; Di-N-propylacetic acid; Di-N-propylessigsaure; Di-N-propylessigsaure [german]; Dipropylacetate; Dipropylacetic acid; Divalproex; DOM-divalproex; Dom-valproate; DOM-valproic; Dom-valproic acid; DOM-valproic acid E.C.; Dom-valproic acid syrup; DPA; Epiject I.V.; Epilex; Epilim; Epival; Epival er; Ergenyl; Gen-divalproex; Kyselina 2-propylvalerova; Kyselina 2-propylvalerova [Czech]; Med valproic; Mylproin; Myproate; Myproic acid; N-Dipropylacetic acid; N-DPA; Novo-divalproex; Novo-valproic; Novo-Valproic - ECC; Novo-valproic soft gel cap; Nu-valproic; PEAC; Penta-valproic; PHL-valproate; PHL-valproic acid; PHL-valproic acid E.C.; PMS-Divalproex; PMS-valproate; PMS-valproic acid; PMS-valproic acid E.C.; Propylvaleric acid; Ratio-Valproic - ECC; S(-)-4-En-valproate; S(-)-4-En-valproic acid; S-2-N-Propyl-4-pentenoate; S-2-N-Propyl-4-pentenoic acid; Sandoz valproic; Savicol; Sprinkle; Valcote; Valparin; Valproate; Valproic acid; Valproic acid USP; Valproic acid [usan:ban:inn]; VPA
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.505
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10219947 1 18187085027039450149
+10922049 32 18411426110994959046
+12138202 97 17988647457818087428
+14325111 11 18410575088968888112
+14993402 34 18334294300970710804
+15775835 57 18412260640283693185
+170605 34 18341614772273879357
+21524375 3 18412543206219039792
+23235685 24 18412541011501359496
+23402539 116 17988635303129730908
+366044 4 18272369784650814540
+528862 383 17969210166708419594
+81539 233 18261952947033080927
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+194.06
+5.46
+1.74
+0.84
+0.08
+1.03
+-0.09
+-3.63
+0.03
+-0.02
+-0.03
+0
+0.31
+-0.02
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+352.683
+
+> <PUBCHEM_SHAPE_VOLUME>
+124.6
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

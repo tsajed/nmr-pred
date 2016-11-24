@@ -1,120 +1,154 @@
+24417
+  -OEChem-09111604553D
 
-  Mrv0541 02231216032D          
-
-  8  7  0  0  1  0            999 V2000
-   -0.1914    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.5230    1.1270    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.9520    1.1270    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
-    1.9520    1.9520    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6664    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.3809    1.1270    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.6664   -0.1105    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  6  0  0  0
-  4  6  1  0  0  0  0
-  6  7  1  0  0  0  0
-  6  8  2  0  0  0  0
+ 17 16  0     1  0  0  0  0  0999 V2000
+    1.9616    0.3073   -0.8957 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0429    1.5958    0.8278 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7150    0.5917   -1.0922 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2328   -1.7659    0.6034 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2950   -0.6571    0.4156 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.7814   -1.0479   -0.5988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0978    0.5492   -0.0342 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6405    0.4269    0.7741 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1504   -0.4471    1.3933 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3362   -1.9329   -0.2676 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3284   -1.2935   -1.5664 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8867   -1.5380    1.3518 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7253   -2.5941    0.9130 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9017   -0.5602    1.1643 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9387    0.9237    1.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5517    1.0309    0.7397 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5572    2.3652    0.5025 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  7  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4 12  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  8 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  8 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02108
+> <PUBCHEM_COMPOUND_CID>
+24417
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-CSC[C@H](N)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H9NO2S/c1-8-2-3(5)4(6)7/h3H,2,5H2,1H3,(H,6,7)/t3-/m0/s1
-
-> <INCHI_KEY>
-IDIDJDIHTAOVLG-VKHMYHEASA-N
-
-> <FORMULA>
-C4H9NO2S
-
-> <MOLECULAR_WEIGHT>
-135.185
-
-> <EXACT_MASS>
-135.035399227
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.556713228582215
-
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+4
+6
+5
+8
 2
+10
+7
+1
+3
+9
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+11
+1 -0.46
+12 0.36
+13 0.36
+17 0.5
+2 -0.65
+3 -0.57
+4 -0.99
+5 0.33
+6 0.23
+7 0.66
+8 0.23
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(2R)-2-amino-3-(methylsulfanyl)propanoic acid
-
-> <ALOGPS_LOGP>
--2.21
-
-> <JCHEM_LOGP>
--2.404744262255893
-
-> <ALOGPS_LOGS>
--0.31
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.4449295067998698
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.146384026498897
-
-> <JCHEM_POLAR_SURFACE_AREA>
-63.32
-
-> <JCHEM_REFRACTIVITY>
-32.8746
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 2 acceptor
+1 3 acceptor
+1 4 cation
+1 4 donor
+1 8 hydrophobe
+3 2 3 7 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-6.58e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-S-methylcysteine
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB02108
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Methylcysteine
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-3-(Methylthio)-L-(8CI)alanine; 3-(Methylthio)-L-alanine; Acm-thiopropionate; Acm-thiopropionic acid; L-Aspartic acid Dimethyl Ester; L-Methylcysteine; S-Acetamidomethyl-deamino-cysteine; S-Methyl-(9CI)-L-cysteine; S-Methyl-cysteine; S-Methyl-DL-cysteine; S-Methyl-L-cysteine; S-Methylcysteine
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00005F6100000004
+
+> <PUBCHEM_MMFF94_ENERGY>
+9.2929
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.505
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12897270 3 17131536289399872788
+20096714 4 17981058409235027796
+20651381 17 18269251526898835684
+21040471 1 18263938643579100316
+21922407 69 16299528251660023316
+23235685 24 18338248076154296292
+23552449 1 18269272542036697390
+24536 1 18339375097115908708
+5084963 1 18188778236301802878
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+151.77
+2.93
+1.48
+1.09
+1.7
+0.19
+0.11
+-0.55
+-0.13
+-0.72
+-0.28
+0.17
+-0.12
+0.25
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+265.934
+
+> <PUBCHEM_SHAPE_VOLUME>
+101.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

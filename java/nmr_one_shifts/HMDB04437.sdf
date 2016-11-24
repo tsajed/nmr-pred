@@ -1,121 +1,159 @@
+8113
+  -OEChem-09131601253D
 
-  Mrv0541 02231219562D          
-
-  7  6  0  0  0  0            999 V2000
-   24.3011  -10.0878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   20.0142  -10.0878    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   22.1577  -10.5003    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   23.5867  -10.5003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.7287  -10.5003    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.8721  -10.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.4432  -10.0878    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  4  1  0  0  0  0
-  2  5  1  0  0  0  0
-  3  6  1  0  0  0  0
-  3  7  1  0  0  0  0
+ 18 17  0     0  0  0  0  0  0999 V2000
+    3.5915   -0.3494    0.0029 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5918   -0.3491   -0.0029 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0007    0.4525    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1997   -0.3720   -0.0191 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2001   -0.3726    0.0190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4481    0.4953    0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4481    0.4953   -0.0051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2214   -1.0031   -0.9163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2211   -1.0520    0.8421 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2186   -1.0110    0.9114 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2206   -1.0456   -0.8474 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0116    1.0623    0.8172 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4807    1.1166    0.9065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4942    1.1446   -0.8756 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4847    1.1120   -0.9089 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5018    1.1560    0.8667 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3731    0.2288    0.0182 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5719   -0.8685    0.8189 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 17  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2 18  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 12  1  0  0  0  0
   4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4  9  1  0  0  0  0
   5  7  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB04437
+> <PUBCHEM_COMPOUND_CID>
+8113
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OCCNCCO
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H11NO2/c6-3-1-5-2-4-7/h5-7H,1-4H2
-
-> <INCHI_KEY>
-ZBCBWPMODOFKDW-UHFFFAOYSA-N
-
-> <FORMULA>
-C4H11NO2
-
-> <MOLECULAR_WEIGHT>
-105.1356
-
-> <EXACT_MASS>
-105.078978601
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.631840007441804
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+19
 3
-
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-2-[(2-hydroxyethyl)amino]ethan-1-ol
-
-> <ALOGPS_LOGP>
--1.41
-
-> <JCHEM_LOGP>
--1.5730824956666665
-
-> <ALOGPS_LOGS>
-0.65
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-1
-
-> <JCHEM_PKA>
-15.903482663910026
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-15.300873044120795
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.257814453689106
-
-> <JCHEM_POLAR_SURFACE_AREA>
-52.49
-
-> <JCHEM_REFRACTIVITY>
-27.278
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+16
+15
+18
+5
+7
+2
+12
+10
+9
+11
+6
+17
+8
+14
+13
 4
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+10
+1 -0.68
+12 0.36
+17 0.4
+18 0.4
+2 -0.68
+3 -0.9
+4 0.27
+5 0.27
+6 0.28
+7 0.28
 
-> <ALOGPS_SOLUBILITY>
-4.66e+02 g/l
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+4
 
-> <JCHEM_TRADITIONAL_IUPAC>
-diethanolamine
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 2 donor
+1 3 cation
+1 3 donor
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB04437
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Diethanolamine
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-2,2'-Dihydroxydiethylamine; 2,2'-Iminobis; 2,2'-Iminobisethanol; 2,2'-Iminodi-1-ethanol; 2,2'-Iminodiethanol; 2,2'Iminobisethanol; 2-(2-Hydroxyethylamino)ethanol; 2-[(2-Hydroxyethyl)amino]ethanol; Aliphatic amine; Bis(2-hydroxyethyl)amine; Bis(2-hydroxyethyl)tallow amine oxide; Bis(hydroxyethyl)amine; Bis-2-hydroxyethylamine; DEA; Di(2-hydroxyethyl)amine; Di(beta-hydroxyethyl)amine; Diaethanolamin; Diethanolamin; Diethanolamine; Diethylolamine; Dihydroxyethyl tallowamine oxide; Diolamine; H2dea; Iminodiethanol; N,N'-Iminodiethanol; N,N-Bis(2-hydroxyethyl)amine; N,N-Di(hydroxyethyl)amine; N,N-Diethanolamine; Niax DEOA-LF
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00001FB100000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+-1.7306
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.446
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+11062470 55 18410575088979216673
+14325111 11 18410573985151464130
+14390081 3 18413105065282410017
+5460574 1 9223231845006647617
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+127.34
+5.96
+0.75
+0.58
+0
+0.03
+0
+-0.33
+0
+0
+0
+0
+0
+0
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+219.256
+
+> <PUBCHEM_SHAPE_VOLUME>
+85.2
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

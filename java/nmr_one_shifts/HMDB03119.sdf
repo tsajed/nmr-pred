@@ -1,121 +1,144 @@
+244
+  -OEChem-09121611183D
 
-  Mrv0541 02231219392D          
-
-  8  8  0  0  0  0            999 V2000
-   21.7215  -14.7720    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   21.0069  -16.0095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.0069  -15.1845    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.2925  -16.4220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.7215  -16.4220    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.2925  -17.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.7215  -17.2470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.0069  -17.6595    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 16 16  0     0  0  0  0  0  0999 V2000
+    2.7427    0.0002   -0.7083 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5758   -0.0002    0.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0447   -0.0001    0.5309 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1110    1.2079    0.1508 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1111   -1.2082    0.1507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4847    1.2081   -0.0915 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4848   -1.2079   -0.0917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1715    0.0002   -0.2128 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3502    0.8799    1.1071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3501   -0.8828    1.1025 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4133    2.1555    0.2415 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4130   -2.1559    0.2413 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0194    2.1486   -0.1864 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0198   -2.1484   -0.1868 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2410    0.0003   -0.4018 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3709    0.7034   -1.2677 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  3  1  0  0  0  0
+  1 16  1  0  0  0  0
   2  3  1  0  0  0  0
   2  4  2  0  0  0  0
   2  5  1  0  0  0  0
+  3  9  1  0  0  0  0
+  3 10  1  0  0  0  0
   4  6  1  0  0  0  0
+  4 11  1  0  0  0  0
   5  7  2  0  0  0  0
+  5 12  1  0  0  0  0
   6  8  2  0  0  0  0
+  6 13  1  0  0  0  0
   7  8  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB03119
+> <PUBCHEM_COMPOUND_CID>
+244
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OCC1=CC=CC=C1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2
-
-> <INCHI_KEY>
-WVDDGKGOMKODPV-UHFFFAOYSA-N
-
-> <FORMULA>
-C7H8O
-
-> <MOLECULAR_WEIGHT>
-108.1378
-
-> <EXACT_MASS>
-108.057514878
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.891241514942019
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+14
+1 -0.68
+11 0.15
+12 0.15
+13 0.15
+14 0.15
+15 0.15
+16 0.4
+2 -0.14
+3 0.42
+4 -0.15
+5 -0.15
+6 -0.15
+7 -0.15
+8 -0.15
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+3
+1 1 acceptor
+1 1 donor
+6 2 4 5 6 7 8 rings
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+8
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-phenylmethanol
-
-> <ALOGPS_LOGP>
-1.07
-
-> <JCHEM_LOGP>
-1.2058960486666668
-
-> <ALOGPS_LOGS>
--0.61
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
-1
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-15.019332111730257
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.7903441343291844
-
-> <JCHEM_POLAR_SURFACE_AREA>
-20.23
-
-> <JCHEM_REFRACTIVITY>
-32.8739
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-2.68e+01 g/l
+> <PUBCHEM_CONFORMER_ID>
+000000F400000001
 
-> <JCHEM_TRADITIONAL_IUPAC>
-benzyl alcohol
+> <PUBCHEM_MMFF94_ENERGY>
+18.7456
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+15.223
 
-> <HMDB_ID>
-HMDB03119
+> <PUBCHEM_SHAPE_FINGERPRINT>
+15310529 11 16732976518407068417
+16714656 1 18410576184216904725
+18185500 45 18261101989336378835
+20645464 45 17916850405191731970
+21040471 1 18267012856562888449
+23552423 10 18188207581251275778
+29004967 10 16343701045279990650
+369184 2 18412252939581138634
+5084963 1 18272369775913199944
 
-> <GENERIC_NAME>
-Benzyl alcohol
+> <PUBCHEM_SHAPE_MULTIPOLES>
+158.77
+3.06
+1.36
+0.71
+1.48
+0
+0.01
+0
+0.45
+-0.56
+-0.03
+0.19
+0
+0
 
-> <SYNONYMS>
-(hydroxymethyl)benzene; .alpha.-hydroxytoluene; .alpha.-toluenol; a-Hydroxytoluene; a-Toluenol; Alcool benzylique; alpha-Hydroxytoluene; alpha-Toluenol; Aromatic primary alcohol; Bentalol; Benzal alcohol; Benzenecarbinol; Benzenemethanol; Benzenmethanol; Benzoyl alcohol; Benzyl alkohol; Benzyl-alcohol; BenzylAlcohol; Benzylic alcohol; Benzylicum; Caswell No. 081F; Enzylalcohol; Euxyl K 100; Hydroxymethylbenzene; Hydroxytoluene; Itch-x; MBN; Methanol benzene; Phenolcarbinol; Phenylcarbinol; Phenylcarbinolum; Phenylmethanol; Phenylmethyl alcohol; Sunmorl BK 20; TB 13G
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+324.495
+
+> <PUBCHEM_SHAPE_VOLUME>
+92.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

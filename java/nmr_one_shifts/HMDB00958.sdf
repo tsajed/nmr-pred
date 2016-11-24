@@ -1,128 +1,188 @@
+444212
+  -OEChem-09121601233D
 
-  Mrv0541 02231218502D          
-
- 12 11  0  0  0  0            999 V2000
-   13.3834   -6.2653    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.6689   -4.2027    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   12.6689   -5.0277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3834   -2.9652    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2414   -3.7902    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   15.5268   -5.0277    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0979   -5.0277    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.0979   -4.2027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8124   -3.7902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3834   -5.4402    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3834   -3.7902    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.5268   -4.2027    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 18 17  0     0  0  0  0  0  0999 V2000
+    1.7585   -2.6788    0.4209 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2424    1.4624   -0.2047 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1901   -1.3892   -1.3586 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5888    2.9876    0.1178 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3728    0.2173   -0.4662 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0639   -1.4052    0.4498 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7299   -0.5952    0.9045 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1103    0.6252    0.2777 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1771    0.7838   -0.0801 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2345   -1.5609   -0.1483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9672    1.8273    0.0671 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2079   -0.2744    0.0202 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5775   -0.3037    1.5363 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0226   -1.1135    1.5578 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5176    1.7238   -0.5093 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0876   -3.3115   -0.2527 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8234    2.2391   -0.3510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0949   -0.4457   -0.4290 H   0  0  0  0  0  0  0  0  0  0  0  0
   1 10  1  0  0  0  0
+  1 16  1  0  0  0  0
   2 11  1  0  0  0  0
+  2 17  1  0  0  0  0
   3 10  2  0  0  0  0
   4 11  2  0  0  0  0
   5 12  1  0  0  0  0
+  5 18  1  0  0  0  0
   6 12  2  0  0  0  0
   7  8  1  0  0  0  0
   7 10  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
   8  9  2  0  0  0  0
   8 11  1  0  0  0  0
   9 12  1  0  0  0  0
+  9 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00958
+> <PUBCHEM_COMPOUND_CID>
+444212
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-OC(=O)C\C(=C/C(O)=O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H6O6/c7-4(8)1-3(6(11)12)2-5(9)10/h1H,2H2,(H,7,8)(H,9,10)(H,11,12)/b3-1+
-
-> <INCHI_KEY>
-GTZCVFVGUGFEME-HNQUOIGGSA-N
-
-> <FORMULA>
-C6H6O6
-
-> <MOLECULAR_WEIGHT>
-174.1082
-
-> <EXACT_MASS>
-174.016437924
-
-> <JCHEM_ACCEPTOR_COUNT>
-6
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.956434370606482
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+22
+21
 3
+5
+4
+25
+20
+26
+15
+14
+6
+27
+17
+18
+19
+23
+16
+11
+12
+8
+2
+9
+7
+24
+13
+10
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+16
+1 -0.65
+10 0.66
+11 0.71
+12 0.71
+15 0.15
+16 0.5
+17 0.5
+18 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 -0.65
+6 -0.57
+7 0.2
+8 -0.12
+9 -0.14
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-(1E)-prop-1-ene-1,2,3-tricarboxylic acid
-
-> <ALOGPS_LOGP>
--0.41
-
-> <JCHEM_LOGP>
--0.521036942
-
-> <ALOGPS_LOGS>
--1.41
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--3
-
-> <JCHEM_PKA>
-3.787966109115829
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.145216334617251
-
-> <JCHEM_POLAR_SURFACE_AREA>
-111.9
-
-> <JCHEM_REFRACTIVITY>
-35.2305
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 4
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+9
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 acceptor
+1 6 acceptor
+3 1 3 10 anion
+3 2 4 11 anion
+3 5 6 12 anion
 
-> <ALOGPS_SOLUBILITY>
-6.72e+00 g/l
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+12
 
-> <JCHEM_TRADITIONAL_IUPAC>
-trans-aconitic acid
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00958
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-trans-Aconitic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
 
-> <SYNONYMS>
-(1E)-1-propene-1,2,3-tricarboxylic acid; (1E)-Prop-1-ene-1,2,3-tricarboxylic; (1E)1-Propene-1,2,3-tricarboxylate; (1E)1-Propene-1,2,3-tricarboxylic acid; (E)-1-propene-1,2,3-tricarboxylic acid; (E)-Aconitic acid; 1-Propene-1-trans-2,3-tricarboxylic acid; 1-trans-Propene-1,2,3-tricarboxylic acid; Acid; TRA; trans-1-Propene-1,2,3-tricarboxylic acid; trans-Aconitate; trans-Aconitic acid; trans-Propene-1,2,3-tricarboxylic acid
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+0006C73400000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+20.3652
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+45.849
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+1 1 18266735977138017397
+12716758 59 16756624514034654498
+16945 1 18410292557561968121
+17990270 104 18411131450758930003
+193761 8 18122342380977242120
+20645476 183 17534917586837665540
+20645477 70 18412819210320279143
+20711985 344 17550686421166534391
+20871998 184 17113830587290468272
+21040471 1 17689714581268288448
+23552423 10 18411699911324067151
+241688 4 18051408461883786113
+2748010 2 18194392299834486161
+528862 383 18342451569136443503
+7364860 26 18413103983150981561
+81228 2 17691972557260328065
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+211.74
+3.24
+2.81
+0.83
+2.71
+0.82
+0.09
+-0.9
+0.37
+-1.9
+-0.1
+-0.18
+-0.25
+0.09
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+422.188
+
+> <PUBCHEM_SHAPE_VOLUME>
+123.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

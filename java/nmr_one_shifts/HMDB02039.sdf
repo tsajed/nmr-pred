@@ -1,117 +1,128 @@
+12025
+  -OEChem-09121606033D
 
-  Mrv0541 02231219202D          
-
-  6  6  0  0  0  0            999 V2000
-   18.7986   -4.4667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3466   -4.6966    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6791   -4.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9340   -3.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.7591   -3.4271    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.0140   -4.2117    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 13 13  0     0  0  0  0  0  0999 V2000
+   -2.0479    0.0086    0.0625 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0135    1.1205    0.0322 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4242   -0.7051    0.2246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3956    0.7667   -0.1327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0430   -1.2047   -0.1854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8284    0.0139   -0.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5469   -0.8220    1.3087 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2376   -1.2469   -0.2660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0209    1.3780    0.5225 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6694    0.9414   -1.1777 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2956   -2.0299    0.4455 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0193   -1.4998   -1.2390 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3215    2.0758    0.1075 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  6  2  0  0  0  0
-  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
   2  6  1  0  0  0  0
+  2 13  1  0  0  0  0
   3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  7  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  9  1  0  0  0  0
+  4 10  1  0  0  0  0
   5  6  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5 12  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02039
+> <PUBCHEM_COMPOUND_CID>
+12025
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-O=C1CCCN1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H7NO/c6-4-2-1-3-5-4/h1-3H2,(H,5,6)
-
-> <INCHI_KEY>
-HNJBEVLQSNELDL-UHFFFAOYSA-N
-
-> <FORMULA>
-C4H7NO
-
-> <MOLECULAR_WEIGHT>
-85.1045
-
-> <EXACT_MASS>
-85.052763851
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.701107143343416
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+6
+1 -0.57
+13 0.37
+2 -0.73
+4 0.3
+5 0.06
+6 0.57
 
-> <JCHEM_BIOAVAILABILITY>
-1
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+0.8
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+3
+1 1 acceptor
+1 2 donor
+5 2 3 4 5 6 rings
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+6
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-pyrrolidin-2-one
-
-> <ALOGPS_LOGP>
--0.90
-
-> <JCHEM_LOGP>
--0.5796092983333335
-
-> <ALOGPS_LOGS>
-0.80
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-14.745904083510869
+> <PUBCHEM_CONFORMER_ID>
+00002EF900000001
 
-> <JCHEM_PKA_STRONGEST_BASIC>
--1.18488202635506
+> <PUBCHEM_MMFF94_ENERGY>
+5.2576
 
-> <JCHEM_POLAR_SURFACE_AREA>
-29.1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+15.223
 
-> <JCHEM_REFRACTIVITY>
-22.2579
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 9511160959130198490
+16714656 1 18412270523414690206
+20096714 4 18339363088149985004
+21015797 1 9150297935869465678
+21040471 1 18339643467904753924
+29004967 10 18187652383533995089
+5943 1 12849873049751931242
 
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
+> <PUBCHEM_SHAPE_MULTIPOLES>
+112.63
+1.97
+1.22
+0.61
+0.53
+0.07
+-0.01
+-0.08
+0.08
+-0.26
+-0.04
+-0.05
+0.03
+-0.07
 
-> <JCHEM_RULE_OF_FIVE>
-1
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+221.406
 
-> <ALOGPS_SOLUBILITY>
-5.37e+02 g/l
+> <PUBCHEM_SHAPE_VOLUME>
+69.2
 
-> <JCHEM_TRADITIONAL_IUPAC>
-pyrrolidone
-
-> <JCHEM_VEBER_RULE>
-1
-
-> <HMDB_ID>
-HMDB02039
-
-> <GENERIC_NAME>
-2-Pyrrolidinone
-
-> <SYNONYMS>
-1-Methyl-2-pyrrolidinone; 2-Oxopyrrolidine; 2-Pyrol4-aminobutyric acid lactam; 2-Pyrrolidinone; 2-Pyrrolidone; 2-Pyrrolidone for synthesis; 2-Pyrrolidone-Butyrolactam; alpha-Pyrrolidinone; alpha-Pyrrolidone; Aminobutyric acid lactam; Aminobutyric lactam; Aminobutyrolactam; Butyrolactam; gamma-Aminobutyric lactam; gamma-Butyrolactam; N-Methyl-2-pyrrolidinone; Pyrrolidin-2-one; Pyrrolidinone; Pyrrolidon; Pyrrolidone; Pyrrolidone-2; Tetrahydropyrrolone
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

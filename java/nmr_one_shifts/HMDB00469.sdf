@@ -1,128 +1,152 @@
-5-Hydroxymethyluracil.mol
-  Mrv0541 02231218322D          
+78168
+  -OEChem-09111620433D
 
- 10 10  0  0  0  0            999 V2000
-   -0.6187   -1.0717    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.0313   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8563   -0.3572    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.6188    0.3572    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.2062    0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.6187    1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.6188   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.2063   -1.0717    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4437   -0.3572    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.8563   -1.0717    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  2  0  0  0  0
-  2  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  5  6  2  0  0  0  0
-  5  7  1  0  0  0  0
-  7  8  2  0  0  0  0
-  1  8  1  0  0  0  0
-  9 10  1  0  0  0  0
-  7  9  1  0  0  0  0
+ 16 16  0     0  0  0  0  0  0999 V2000
+   -2.9961   -0.5351    0.8078 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9504    2.0407   -0.1115 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1659   -0.0136    0.2507 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1133    1.0261    0.0731 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2857   -1.3011   -0.0670 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8759   -0.3303   -0.2640 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2655    1.0211   -0.0965 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0676   -1.3974   -0.2388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3561   -0.4162   -0.4511 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9467   -0.0942    0.0972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4430   -2.4077   -0.3534 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6211   -1.2992   -1.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7604    0.4520   -0.9816 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5590    1.9317    0.1898 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8249   -2.1619   -0.0606 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8120    0.2762    1.3117 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3 10  2  0  0  0  0
+  4  7  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5  8  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  6  9  1  0  0  0  0
+  8 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+  9 13  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00469
+> <PUBCHEM_COMPOUND_CID>
+78168
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OCC1=CNC(=O)NC1=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H6N2O3/c8-2-3-1-6-5(10)7-4(3)9/h1,8H,2H2,(H2,6,7,9,10)
-
-> <INCHI_KEY>
-JDBGXEHEIRGOBU-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H6N2O3
-
-> <MOLECULAR_WEIGHT>
-142.1127
-
-> <EXACT_MASS>
-142.037842068
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+2
+4
 3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-12.341956480680965
-
-> <JCHEM_BIOAVAILABILITY>
 1
 
-> <JCHEM_DONOR_COUNT>
-3
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+14
+1 -0.68
+10 0.69
+11 0.15
+14 0.37
+15 0.37
+16 0.4
+2 -0.57
+3 -0.57
+4 -0.49
+5 -0.54
+6 -0.12
+7 0.62
+8 -0.04
+9 0.42
 
-> <JCHEM_FORMAL_CHARGE>
-0
-
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-5-(hydroxymethyl)-1,2,3,4-tetrahydropyrimidine-2,4-dione
-
-> <ALOGPS_LOGP>
--1.31
-
-> <JCHEM_LOGP>
--1.7405116673333332
-
-> <ALOGPS_LOGS>
--1.01
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 1 donor
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+1 5 donor
+6 4 5 6 7 8 10 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_PKA>
-13.37933049651761
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-9.612353744745416
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--2.8444949646289412
-
-> <JCHEM_POLAR_SURFACE_AREA>
-78.43
-
-> <JCHEM_REFRACTIVITY>
-32.1011
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.40e+01 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-5-hydroxymethyluracil
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00469
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-5-Hydroxymethyluracil
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-5-(Hydroxymethyl)-1,3-dihydropyrimidine-2,4-dione; 5-(Hydroxymethyl)-2,4(1H,3H)-pyrimidinedione; 5-(Hydroxymethyl)uracil; 5-Hydroxymethyluracil; a-Hydroxythymine; alpha-Hydroxythymine
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+6
+
+> <PUBCHEM_CONFORMER_ID>
+0001315800000002
+
+> <PUBCHEM_MMFF94_ENERGY>
+17.1134
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.565
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+10219947 1 18411985801342580763
+10857977 72 18336258020168777835
+16945 1 18411975875499034534
+18185500 45 18269265940476882231
+21040471 1 18051691345498980204
+23402655 69 18196632035797421645
+23552423 10 18117562825400666734
+2748010 2 18124590890766409342
+29004967 10 18334860532342150827
+5084963 1 18131066030664300962
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+178.23
+3.64
+1.55
+0.67
+0.24
+0.47
+0.02
+-0.54
+0.61
+-0.16
+-0.09
+-0.24
+-0.05
+0.08
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+366.424
+
+> <PUBCHEM_SHAPE_VOLUME>
+101
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

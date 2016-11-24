@@ -1,126 +1,146 @@
-609-36-9.mol
-  Mrv0541 02231218452D          
+499
+  -OEChem-09121600213D
 
-  9  9  0  0  0  0            999 V2000
-    1.1747   -0.0915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.1352    0.5760    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.3497   -0.0915    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.1352   -0.7589    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9198   -0.5040    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9198    0.3210    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.5872    0.8059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.5872    0.6230    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.5872   -0.8059    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  2  3  1  0  0  0  0
-  1  3  1  0  0  0  0
-  3  4  1  0  0  0  0
-  4  5  1  0  0  0  0
-  5  6  1  0  0  0  0
-  6  7  2  0  0  0  0
-  2  6  1  0  0  0  0
+ 16 16  0     1  0  0  0  0  0999 V2000
+   -2.6942    0.7797    0.1776 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6708   -0.3940    0.1704 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4229    1.4789    0.5325 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6089    0.5366   -0.8589 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5212   -0.3440   -0.7683 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.0326   -1.5725   -0.0722 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1968   -1.0409    0.7632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6378    0.1902    0.0101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5554    0.3659    0.0455 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9066   -0.5426   -1.7722 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6946   -2.1160    0.5384 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4251   -2.2708   -0.8225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8676   -0.7425    1.7634 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0093   -1.7677    0.8366 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6424    1.3527   -1.4621 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3625    0.0551    0.7016 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  2  0  0  0  0
-  1  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3  9  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 15  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00805
+> <PUBCHEM_COMPOUND_CID>
+499
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-OC(=O)C1CCC(=O)N1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H7NO3/c7-4-2-1-3(6-4)5(8)9/h3H,1-2H2,(H,6,7)(H,8,9)
-
-> <INCHI_KEY>
-ODHCTXKNWHHXJC-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H7NO3
-
-> <MOLECULAR_WEIGHT>
-129.114
-
-> <EXACT_MASS>
-129.042593095
-
-> <JCHEM_ACCEPTOR_COUNT>
-3
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.59805185223352
-
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
-
-> <JCHEM_DONOR_COUNT>
+3
+4
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+10
+1 -0.57
+15 0.37
+16 0.5
+2 -0.65
+3 -0.57
+4 -0.73
+5 0.36
+7 0.06
+8 0.57
+9 0.66
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
+1.8
+
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+6
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 donor
+3 2 3 9 anion
+5 4 5 6 7 8 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
-0
-
-> <JCHEM_IUPAC>
-5-oxopyrrolidine-2-carboxylic acid
-
-> <ALOGPS_LOGP>
--1.01
-
-> <JCHEM_LOGP>
--0.8896697023333333
-
-> <ALOGPS_LOGS>
-0.07
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA>
-12.760445138872768
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-3.6133555504913617
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--1.7569547770416478
-
-> <JCHEM_POLAR_SURFACE_AREA>
-66.4
-
-> <JCHEM_REFRACTIVITY>
-28.0878
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-1
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-1.51e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-pyroglutamate
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00805
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-Pyrrolidonecarboxylic acid
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <SYNONYMS>
-(+)-2-Pyrrolidone-5-carboxylate; (+)-2-Pyrrolidone-5-carboxylic acid; (+)-Pyroglutamate; (+)-Pyroglutamic acid; (2R)-2-Carboxy-5-pyrrolidinone; (R)-(+)-2-Pyrrolidone-5-carboxylate; (R)-(+)-2-Pyrrolidone-5-carboxylic acid; (R)-2-Pyrrolidone-5-carboxylate; (R)-2-Pyrrolidone-5-carboxylic acid; (R)-5-Oxopyrrolidine-2-carboxylate; (R)-5-Oxopyrrolidine-2-carboxylic acid; 5-Oxo-D-proline; D-2-Pyrrolidone-5-carboxylic; D-5-Pyrrolidone-2-carboxylate; D-5-Pyrrolidone-2-carboxylic acid; D-Pyroglutamate; D-Pyroglutamic acid
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+3
+
+> <PUBCHEM_CONFORMER_ID>
+000001F300000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+15.0518
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+30.502
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+14128692 85 11675469338485328137
+18185500 45 16968866047973147342
+20645464 45 18270955851763592016
+20653085 51 16845303755798117768
+21040471 1 18261966192796734695
+24536 1 17606391305366453238
+29004967 10 18130514050152357590
+369184 2 17988920132169522266
+5084963 1 18113616802548238599
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+162.63
+2.96
+1.35
+0.82
+0.14
+0.2
+0.05
+-0.67
+-0.47
+-0.03
+-0.15
+-0.03
+0.01
+0.22
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+332.294
+
+> <PUBCHEM_SHAPE_VOLUME>
+95.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

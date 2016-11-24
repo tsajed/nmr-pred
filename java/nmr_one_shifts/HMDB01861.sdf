@@ -1,120 +1,160 @@
+69520
+  -OEChem-09121605123D
 
-  Mrv0541 02231219142D          
-
-  9  9  0  0  0  0            999 V2000
-   19.3441   -4.0816    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4944   -4.6088    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   16.0819   -3.3392    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-   18.5595   -3.8267    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.9464   -4.3788    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4944   -5.4337    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.1618   -4.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.8270   -4.1238    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.9069   -3.3392    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  4  1  0  0  0  0
-  2  6  1  0  0  0  0
+ 20 20  0     0  0  0  0  0  0999 V2000
+    0.9442   -0.7720    0.0272 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2253    1.0249   -0.2223 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5907    0.1110   -0.1532 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2751    0.1796    0.6830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1768    0.3028    0.2949 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1882    0.2091   -0.5433 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9561    1.3975    0.1437 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1844   -0.2876   -0.2832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5672   -2.1653    0.0530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4401   -0.7360    1.2637 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5264    1.0143    1.3510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9513   -0.6157   -1.2241 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0415    1.1374   -1.1071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6927    2.4372    0.2721 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0142   -0.9306   -0.5438 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4102   -2.7759   -0.2810 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3023   -2.4339    1.0786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2802   -2.3140   -0.6199 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8220    0.8735    0.4826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7379   -0.7478    0.3761 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  1  0  0  0  0
+  1  8  1  0  0  0  0
+  1  9  1  0  0  0  0
   2  7  1  0  0  0  0
-  2  8  1  0  0  0  0
-  3  8  2  0  0  0  0
-  3  9  1  0  0  0  0
+  2  8  2  0  0  0  0
+  3  6  1  0  0  0  0
+  3 19  1  0  0  0  0
+  3 20  1  0  0  0  0
   4  5  1  0  0  0  0
-  5  7  1  0  0  0  0
-  7  9  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  7  2  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 15  1  0  0  0  0
+  9 16  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01861
+> <PUBCHEM_COMPOUND_CID>
+69520
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CN1C=NC=C1CCN
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+6
+8
+7
+9
+2
+5
+4
+3
 
-> <INCHI_IDENTIFIER>
-InChI=1S/C6H11N3/c1-9-5-8-4-6(9)2-3-7/h4-5H,2-3,7H2,1H3
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+13
+1 0.05
+14 0.15
+15 0.15
+19 0.36
+2 -0.57
+20 0.36
+3 -0.99
+4 0.18
+5 -0.33
+6 0.27
+7 0.08
+8 0.04
+9 0.26
 
-> <INCHI_KEY>
-CPAGZVLINCPJEH-UHFFFAOYSA-N
-
-> <FORMULA>
-C6H11N3
-
-> <MOLECULAR_WEIGHT>
-125.1716
-
-> <EXACT_MASS>
-125.095297367
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-13.917294955909455
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+4
+1 3 cation
+1 3 donor
+3 1 2 8 cation
+5 1 2 5 7 8 rings
 
-> <JCHEM_BIOAVAILABILITY>
-1
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
 
-> <JCHEM_DONOR_COUNT>
-1
-
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-2-(1-methyl-1H-imidazol-5-yl)ethan-1-amine
-
-> <ALOGPS_LOGP>
--0.83
-
-> <JCHEM_LOGP>
--0.8158188426666664
-
-> <ALOGPS_LOGS>
--1.41
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
+
+> <PUBCHEM_CONFORMER_ID>
+00010F9000000001
+
+> <PUBCHEM_MMFF94_ENERGY>
+3.271
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+20.297
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+12897270 3 18409165515431162581
+14325111 11 18337953492926627717
+18185500 45 18200593570979101363
+20645477 70 18339917109689681927
+21040471 1 18266461095241905256
+23552333 60 18130786711703105379
+23552423 10 18194970642934664219
+29004967 10 18336271154015238657
+5084963 1 18202284710051665880
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+170.27
+3.81
+1.57
+0.71
+3.41
+0.78
+0.02
+-0.54
+-0.64
+-0.84
+0.05
+0.12
+-0.02
+-0.01
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+340.653
+
+> <PUBCHEM_SHAPE_VOLUME>
+102.6
+
+> <PUBCHEM_COORDINATE_TYPE>
 2
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-9.779748590476665
-
-> <JCHEM_POLAR_SURFACE_AREA>
-43.84
-
-> <JCHEM_REFRACTIVITY>
-37.125800000000005
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
-1
-
-> <ALOGPS_SOLUBILITY>
-4.85e+00 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-3-methylhistamine
-
-> <JCHEM_VEBER_RULE>
-0
-
-> <HMDB_ID>
-HMDB01861
-
-> <GENERIC_NAME>
-3-Methylhistamine
-
-> <SYNONYMS>
-L-Histamine deriv. 1; N(T)-Methylhistamine; N(Tau)-methylhistamine; N-Tau-methylhistamine; Tau-methylhistamine
+5
+10
 
 $$$$

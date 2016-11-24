@@ -1,112 +1,123 @@
+8028
+  -OEChem-09111618443D
 
-  Mrv0541 02231218242D          
-
-  5  5  0  0  0  0            999 V2000
-    9.2080  -11.1626    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.6205   -9.8930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.7954   -9.8930    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.8754  -10.6776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.5405  -10.6776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 13 13  0     0  0  0  0  0  0999 V2000
+    1.2328   -0.0005    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0107   -0.7202   -0.2205 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0102    0.7210    0.2205 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3936   -1.1560    0.1374 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3946    1.1557   -0.1375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7823   -1.3279    0.2593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1544   -0.7757   -1.3060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7812    1.3292   -0.2593 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1537    0.7766    1.3061 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4518   -1.4889    1.1792 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7622   -1.9589   -0.5071 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4532    1.4885   -1.1793 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7639    1.9583    0.5070 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  4  1  0  0  0  0
   1  5  1  0  0  0  0
   2  3  1  0  0  0  0
   2  4  1  0  0  0  0
+  2  6  1  0  0  0  0
+  2  7  1  0  0  0  0
   3  5  1  0  0  0  0
+  3  8  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4 10  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00246
+> <PUBCHEM_COMPOUND_CID>
+8028
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-C1CCOC1
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H8O/c1-2-4-5-3-1/h1-4H2
-
-> <INCHI_KEY>
-WYURNTSHIVDZCO-UHFFFAOYSA-N
-
-> <FORMULA>
-C4H8O
-
-> <MOLECULAR_WEIGHT>
-72.1057
-
-> <EXACT_MASS>
-72.057514878
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
 1
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.143121394001174
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+3
+1 -0.56
+4 0.28
+5 0.28
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+2
+1 1 acceptor
+5 1 2 3 4 5 rings
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+5
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-oxolane
-
-> <ALOGPS_LOGP>
-0.35
-
-> <JCHEM_LOGP>
-0.5303469016666666
-
-> <ALOGPS_LOGS>
--0.01
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA_STRONGEST_BASIC>
--4.122667250833544
-
-> <JCHEM_POLAR_SURFACE_AREA>
-9.23
-
-> <JCHEM_REFRACTIVITY>
-20.5535
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-0
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-6.97e+01 g/l
+> <PUBCHEM_CONFORMER_ID>
+00001F5C00000001
 
-> <JCHEM_TRADITIONAL_IUPAC>
-tetrahydrofuran
+> <PUBCHEM_MMFF94_ENERGY>
+4.873
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+10.148
 
-> <HMDB_ID>
-HMDB00246
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 8934459422386089895
+16714656 1 17620205230145170438
+20096714 4 18411706452110905065
+21015797 1 9151180852212108359
+21040471 1 18195529186098808441
+5943 1 13065861874110754583
 
-> <GENERIC_NAME>
-Tetrahydrofuran
+> <PUBCHEM_SHAPE_MULTIPOLES>
+97.03
+1.38
+1.32
+0.63
+0
+0.04
+0
+-0.03
+0
+0
+0
+0
+0.04
+0.09
 
-> <SYNONYMS>
-1,4-Epoxy-Butane; 1,4-Epoxybutane; Butane a,D-oxide; Butane alpha,delta-oxide; Butylene oxide; Cyclotetramethylene; Cyclotetramethylene oxide; Diethylene oxide; Furanidine; Hydrofuran; Oxacyclopentane; Oxolane; Polytetrahydrofuran; Tetrahydrofuraan; Tetrahydrofuran; Tetrahydrofurane; Tetrahydrofuranne; Tetraidrofurano; Tetramethylene oxide; THF
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+183.391
+
+> <PUBCHEM_SHAPE_VOLUME>
+62.4
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

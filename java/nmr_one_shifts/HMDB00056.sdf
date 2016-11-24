@@ -1,116 +1,139 @@
+239
+  -OEChem-09111608083D
 
-  Mrv0541 02231216422D          
-
-  6  5  0  0  0  0            999 V2000
-    1.2375    2.1434    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    1.4289    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375    0.7145    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8250    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.2375   -0.7145    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0000    0.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  3  4  1  0  0  0  0
+ 13 12  0     0  0  0  0  0  0999 V2000
+   -2.0404    0.9037    0.0084 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2993   -1.2480   -0.0005 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7105    0.2249    0.0054 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2904    0.6014   -0.0139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4105   -0.4344    0.0026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0716   -0.0476   -0.0021 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3637    1.2200   -0.9160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3667    1.2475    0.8686 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3351   -1.0905   -0.8721 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3270   -1.0680    0.8925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8099    0.7921   -0.8355 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4465   -0.4788   -0.0360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9390    0.5104    0.0169 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1 13  1  0  0  0  0
+  2  6  2  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 12  1  0  0  0  0
   4  5  1  0  0  0  0
-  4  6  2  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00056
+> <PUBCHEM_COMPOUND_CID>
+239
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-NCCC(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C3H7NO2/c4-2-1-3(5)6/h1-2,4H2,(H,5,6)
-
-> <INCHI_KEY>
-UCMIRNVEIXFBKS-UHFFFAOYSA-N
-
-> <FORMULA>
-C3H7NO2
-
-> <MOLECULAR_WEIGHT>
-89.0932
-
-> <EXACT_MASS>
-89.047678473
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+5
+6
+7
+2
+4
 3
+8
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-8.617827871828379
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+11 0.36
+12 0.36
+13 0.5
+2 -0.57
+3 -0.99
+4 0.06
+5 0.27
+6 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 2 acceptor
+1 3 cation
+1 3 donor
+3 1 2 6 anion
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+6
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-3-aminopropanoic acid
-
-> <ALOGPS_LOGP>
--3.26
-
-> <JCHEM_LOGP>
--3.173589452576714
-
-> <ALOGPS_LOGS>
-0.74
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-4.084398800362644
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-10.307201201262663
-
-> <JCHEM_POLAR_SURFACE_AREA>
-63.32
-
-> <JCHEM_REFRACTIVITY>
-20.7028
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-4.94e+02 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-β alanine
+> <PUBCHEM_CONFORMER_ID>
+000000EF00000001
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_MMFF94_ENERGY>
+-1.5184
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.428
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+139733 1 9295021158086085414
+14390081 3 18273208712176087384
+16714656 1 18335422331091414445
+20096714 4 18335984185812272993
+21040471 1 18338517417684624941
+29004967 10 17274829073064254722
+5460574 1 9223229645872667748
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+106.76
+3.06
+1.01
+0.57
+1.37
+0.15
+0
+-0.3
+-0.01
+-0.42
+0
+0.02
+0
 0
 
-> <HMDB_ID>
-HMDB00056
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+190.619
 
-> <GENERIC_NAME>
-Beta-Alanine
+> <PUBCHEM_SHAPE_VOLUME>
+69.2
 
-> <SYNONYMS>
-2-Carboxyethylamine; 3-Amino-Propanoate; 3-Amino-Propanoic acid; 3-Aminopropanoate; 3-Aminopropanoic acid; 3-Aminopropionate; 3-Aminopropionic acid; Abufene; B-Alanine; b-Aminopropanoate; b-Aminopropanoic acid; b-Aminopropionate; b-Aminopropionic acid; beta Alanine; beta-Alanine; beta-Aminopropanoate; beta-Aminopropanoic acid; beta-Aminopropionate; beta-Aminopropionic acid; Omega-Aminopropionate; Omega-Aminopropionic acid
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

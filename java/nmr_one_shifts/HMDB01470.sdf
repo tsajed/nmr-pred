@@ -1,115 +1,136 @@
+125468
+  -OEChem-09121604413D
 
-  Mrv0541 02231219092D          
-
-  7  6  0  0  0  0            999 V2000
-    0.1029   -0.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.6140    0.2333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8163    0.2333    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1029   -1.0016    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.3275   -0.1750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.6140    1.0599    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    1.5333   -0.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  1  3  2  0  0  0  0
-  1  4  1  0  0  0  0
-  2  5  1  0  0  0  0
-  2  6  2  0  0  0  0
+ 15 14  0     0  0  0  0  0  0999 V2000
+    2.0550   -0.7088    0.0134 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4255    1.4726   -0.0079 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2464   -0.2737    0.0021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2444    0.6294   -0.0055 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4102   -1.7648   -0.0122 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7157    0.3593    0.0101 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1362    0.2860    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0072    1.6921   -0.0118 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0042   -2.2009    0.9030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1121   -2.1983   -0.8721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4501   -2.0892   -0.0836 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1670    0.7235   -0.9181 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9741   -0.6946    0.1225 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1757    0.8989    0.8444 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9724   -0.3614    0.0141 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  7  2  0  0  0  0
+  3  4  2  0  0  0  0
+  3  5  1  0  0  0  0
   3  7  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  8  1  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  6 14  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB01470
+> <PUBCHEM_COMPOUND_CID>
+125468
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-C\C=C(/C)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8O2/c1-3-4(2)5(6)7/h3H,1-2H3,(H,6,7)/b4-3+
-
-> <INCHI_KEY>
-UIERETOOQGIECD-ONEGZZNKSA-N
-
-> <FORMULA>
-C5H8O2
-
-> <MOLECULAR_WEIGHT>
-100.1158
-
-> <EXACT_MASS>
-100.0524295
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
 2
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-10.386001376106984
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+15 0.5
+2 -0.57
+3 -0.12
+4 -0.29
+5 0.14
+6 0.14
+7 0.71
+8 0.15
 
-> <JCHEM_BIOAVAILABILITY>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 1
 
-> <JCHEM_DONOR_COUNT>
-1
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+5
+1 1 acceptor
+1 2 acceptor
+1 5 hydrophobe
+1 6 hydrophobe
+3 1 2 7 anion
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+7
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-(2E)-2-methylbut-2-enoic acid
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
 
-> <ALOGPS_LOGP>
-1.13
-
-> <JCHEM_LOGP>
-1.3151327766666667
-
-> <ALOGPS_LOGS>
--0.08
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--1
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-4.971335232759619
-
-> <JCHEM_POLAR_SURFACE_AREA>
-37.3
-
-> <JCHEM_REFRACTIVITY>
-27.322000000000003
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-8.30e+01 g/l
+> <PUBCHEM_CONFORMER_ID>
+0001EA1C00000001
 
-> <JCHEM_TRADITIONAL_IUPAC>
-tiglic acid
+> <PUBCHEM_MMFF94_ENERGY>
+9.2308
 
-> <JCHEM_VEBER_RULE>
-1
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+25.43
 
-> <HMDB_ID>
-HMDB01470
+> <PUBCHEM_SHAPE_FINGERPRINT>
+20096714 4 18410292527381100369
+21040471 1 18338797921956574145
+24536 1 18194666284287726484
+29004967 10 18265055725833746747
+5084963 1 18201435852899855297
+5460574 1 9295280647125240329
 
-> <GENERIC_NAME>
-Tiglic acid
+> <PUBCHEM_SHAPE_MULTIPOLES>
+132.32
+2.89
+1.47
+0.59
+1.05
+0.42
+0
+-0.59
+0.01
+-0.26
+-0.01
+0.05
+0.01
+-0.01
 
-> <SYNONYMS>
-(2E)-2-Methyl-2-butenoate; (2E)-2-Methyl-2-butenoic acid; (E)-2,3-Dimethylacrylate; (E)-2,3-Dimethylacrylic acid; (E)-2-methyl-2-Butenoate; (E)-2-methyl-2-Butenoic acid; (E)-2-methyl-Crotonate; (E)-2-methyl-Crotonic acid; (E)-2-Methylcrotonate; (E)-2-Methylcrotonic acid; 2,3-Dimethylacrylate; 2,3-Dimethylacrylic acid; 2-Methyl-(E)-2-butenoate; 2-Methyl-(E)-2-butenoic acid; 2-Methyl-2-butenoate; 2-Methyl-2-butenoic acid; 2-Methyl-Crotonate; 2-Methyl-Crotonic acid; 2-Methylbut-2-enoate; 2-Methylbut-2-enoic acid; Cevadate; Cevadic acid; E-Tiglate; E-Tiglic acid; epsilon-Tiglate; epsilon-Tiglic acid; Methylbutenoicacid; Tiglate; Tiglinate; Tiglinic acid; trans-2,3-Dimethylacrylate; trans-2,3-Dimethylacrylic acid; trans-2-Methyl-2-butenoate; trans-2-Methyl-2-butenoic acid; trans-2-Methylcrotonate; trans-2-Methylcrotonic acid; trans-2-Methylcrotonic acid = trans-2-Methyl-2-butenoate; trans-2-Methylcrotonic acid = trans-2-Methyl-2-butenoic acid; trans-2-Methylcrotonic acid = trans-2-Methyl-2-butenoic acid = Tiglinate; trans-2-Methylcrotonic acid = trans-2-Methyl-2-butenoic acid = Tiglinic acid; trans-alpha,beta-Dimethylacrylate; trans-alpha,beta-Dimethylacrylic acid
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+246.577
+
+> <PUBCHEM_SHAPE_VOLUME>
+83.3
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

@@ -1,122 +1,147 @@
+11686
+  -OEChem-09121605423D
 
-  Mrv0541 02231219182D          
-
-  9  8  0  0  0  0            999 V2000
-   14.8255  -10.8812    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.5400  -10.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2545  -10.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   15.5400   -9.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.1110  -10.4687    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.3966  -10.8812    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8255  -11.7062    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.8255  -10.0562    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   14.1110   -9.6437    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-  1  2  1  0  0  0  0
-  2  3  1  0  0  0  0
-  2  4  2  0  0  0  0
-  1  5  1  0  0  0  0
-  5  6  2  0  0  0  0
-  1  7  1  0  0  0  0
+ 17 16  0     0  0  0  0  0  0999 V2000
+    2.4353   -0.0947   -0.0385 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5106    1.2277    0.7763 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0551    1.6360   -0.4885 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1762   -0.1922   -0.8542 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0499   -0.5018    0.1257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1057   -1.0423    1.5638 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1555   -1.6691   -0.8710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2050    0.4656   -0.1565 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3196    0.1707   -0.0571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7691   -1.6613    1.7930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1365   -0.2249    2.2934 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0029   -1.6504    1.7254 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1329   -1.3075   -1.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6725   -2.3771   -0.7486 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0888   -2.2287   -0.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1502    0.5463   -0.2394 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3921    1.6388    0.6485 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  1  0  0  0  0
+  1 16  1  0  0  0  0
+  2  9  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5  8  1  0  0  0  0
   5  9  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  6 12  1  0  0  0  0
+  7 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  7 15  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB02001
+> <PUBCHEM_COMPOUND_CID>
+11686
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.4
 
-> <SMILES>
-CC(C)(C(O)=O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C5H8O4/c1-5(2,3(6)7)4(8)9/h1-2H3,(H,6,7)(H,8,9)
-
-> <INCHI_KEY>
-OREAFAJWWJHCOT-UHFFFAOYSA-N
-
-> <FORMULA>
-C5H8O4
-
-> <MOLECULAR_WEIGHT>
-132.1146
-
-> <EXACT_MASS>
-132.042258744
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+1
+5
+2
 4
+3
+6
 
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.86420757075582
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+9
+1 -0.65
+16 0.5
+17 0.5
+2 -0.65
+3 -0.57
+4 -0.57
+5 0.12
+8 0.66
+9 0.66
 
-> <JCHEM_BIOAVAILABILITY>
-1
-
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 2
 
-> <JCHEM_FORMAL_CHARGE>
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+3 1 3 8 anion
+3 2 4 9 anion
+3 5 6 7 hydrophobe
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_GHOSE_FILTER>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_IUPAC>
-dimethylpropanedioic acid
-
-> <ALOGPS_LOGP>
-0.22
-
-> <JCHEM_LOGP>
-0.7678833120000002
-
-> <ALOGPS_LOGS>
-0.09
-
-> <JCHEM_MDDR_LIKE_RULE>
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
 0
 
-> <JCHEM_NUMBER_OF_RINGS>
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
 0
 
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
--2
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
 
-> <JCHEM_PKA>
-6.502721330205223
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-2.493424981474213
-
-> <JCHEM_POLAR_SURFACE_AREA>
-74.6
-
-> <JCHEM_REFRACTIVITY>
-28.063299999999998
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-2
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_COMPONENT_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.61e+02 g/l
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+1
 
-> <JCHEM_TRADITIONAL_IUPAC>
-dimethylmalonic acid
+> <PUBCHEM_CONFORMER_ID>
+00002DA600000001
 
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_MMFF94_ENERGY>
+18.1076
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.646
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+137420 1 9851888548715937146
+20096714 4 18334575780162968460
+21040471 1 18343868839677257700
+24536 1 17172921005326520212
+29004967 10 18194702374755697970
+5084963 1 18113899407006435093
+5943 1 10906908197950739394
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+161.74
+2.26
+1.5
+1.13
+0.07
 0
+-0.33
+-0.54
+0.33
+0.15
+0.1
+-0.17
+0.39
+-0.23
 
-> <HMDB_ID>
-HMDB02001
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+314.332
 
-> <GENERIC_NAME>
-Dimethylmalonic acid
+> <PUBCHEM_SHAPE_VOLUME>
+97.9
 
-> <SYNONYMS>
-2,2-Dimethylmalonate; 2,2-Dimethylmalonic acid; 2,2-Propanedicarboxylate; 2,2-Propanedicarboxylic acid; Dimethylmalonate; Propanedioate; Propanedioic acid; Propanedioic acid dimethyl
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$

@@ -1,125 +1,166 @@
-174
-  Mrv0541 02231214292D          
+6267
+  -OEChem-09101620143D
 
-  9  8  0  0  1  0            999 V2000
-    5.6655   -0.0784    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    1.1592    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075   -0.9034    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
-    4.2365   -0.9034    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    2.0930    0.3341    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
-    4.2365   -0.0784    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
-    3.5220    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.9509    0.3341    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
-    2.8075   -0.0784    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 17 16  0     1  0  0  0  0  0999 V2000
+    0.6999   -1.5909    0.8956 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0189   -0.9167   -0.8203 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1454   -0.6098   -1.0603 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7805    1.6834    0.0854 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1032    0.1565    1.1081 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6990    0.7436    0.3906 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.5174    1.0666   -0.4797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2275   -0.6457    0.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6597    0.1130   -0.1934 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4822    0.8127    1.4611 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8691    2.0889   -0.2945 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2732    0.9867   -1.5466 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0356    1.6193   -0.8994 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6135    1.4403    0.6200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7155    0.7905    1.7990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8660   -0.4370    1.4170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0341   -2.4882    0.6823 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  8  1  0  0  0  0
+  1 17  1  0  0  0  0
   2  8  2  0  0  0  0
   3  9  2  0  0  0  0
-  6  4  1  1  0  0  0
+  4  6  1  0  0  0  0
+  4 13  1  0  0  0  0
+  4 14  1  0  0  0  0
   5  9  1  0  0  0  0
+  5 15  1  0  0  0  0
+  5 16  1  0  0  0  0
   6  7  1  0  0  0  0
   6  8  1  0  0  0  0
+  6 10  1  0  0  0  0
   7  9  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7 12  1  0  0  0  0
 M  END
-> <DATABASE_ID>
-HMDB00168
+> <PUBCHEM_COMPOUND_CID>
+6267
 
-> <DATABASE_NAME>
-hmdb
+> <PUBCHEM_CONFORMER_RMSD>
+0.6
 
-> <SMILES>
-N[C@@H](CC(N)=O)C(O)=O
-
-> <INCHI_IDENTIFIER>
-InChI=1S/C4H8N2O3/c5-2(4(8)9)1-3(6)7/h2H,1,5H2,(H2,6,7)(H,8,9)/t2-/m0/s1
-
-> <INCHI_KEY>
-DCXYFEDJOCDNAF-REOHCLBHSA-N
-
-> <FORMULA>
-C4H8N2O3
-
-> <MOLECULAR_WEIGHT>
-132.1179
-
-> <EXACT_MASS>
-132.053492132
-
-> <JCHEM_ACCEPTOR_COUNT>
+> <PUBCHEM_CONFORMER_DIVERSEORDER>
+2
+5
+14
+15
+3
 4
-
-> <JCHEM_AVERAGE_POLARIZABILITY>
-11.67708018795786
-
-> <JCHEM_BIOAVAILABILITY>
 1
+17
+16
+7
+11
+12
+13
+8
+18
+6
+10
+9
 
-> <JCHEM_DONOR_COUNT>
+> <PUBCHEM_MMFF94_PARTIAL_CHARGES>
+14
+1 -0.65
+13 0.36
+14 0.36
+15 0.37
+16 0.37
+17 0.5
+2 -0.57
+3 -0.57
+4 -0.99
+5 -0.8
+6 0.33
+7 0.06
+8 0.66
+9 0.57
+
+> <PUBCHEM_EFFECTIVE_ROTOR_COUNT>
 3
 
-> <JCHEM_FORMAL_CHARGE>
-0
+> <PUBCHEM_PHARMACOPHORE_FEATURES>
+7
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 cation
+1 4 donor
+1 5 donor
+3 1 2 8 anion
 
-> <JCHEM_GHOSE_FILTER>
-0
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+9
 
-> <JCHEM_IUPAC>
-(2S)-2-amino-3-carbamoylpropanoic acid
-
-> <ALOGPS_LOGP>
--3.36
-
-> <JCHEM_LOGP>
--4.2878308444801645
-
-> <ALOGPS_LOGS>
-0.10
-
-> <JCHEM_MDDR_LIKE_RULE>
-0
-
-> <JCHEM_NUMBER_OF_RINGS>
-0
-
-> <JCHEM_PHYSIOLOGICAL_CHARGE>
-0
-
-> <JCHEM_PKA>
-16.090480696758792
-
-> <JCHEM_PKA_STRONGEST_ACIDIC>
-1.99854250149491
-
-> <JCHEM_PKA_STRONGEST_BASIC>
-8.43348720502326
-
-> <JCHEM_POLAR_SURFACE_AREA>
-106.41
-
-> <JCHEM_REFRACTIVITY>
-28.354899999999997
-
-> <JCHEM_ROTATABLE_BOND_COUNT>
-3
-
-> <JCHEM_RULE_OF_FIVE>
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
 1
 
-> <ALOGPS_SOLUBILITY>
-1.68e+02 g/l
-
-> <JCHEM_TRADITIONAL_IUPAC>
-L-asparagine
-
-> <JCHEM_VEBER_RULE>
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
 0
 
-> <HMDB_ID>
-HMDB00168
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
 
-> <GENERIC_NAME>
-L-Asparagine
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
 
-> <SYNONYMS>
-(-)-Asparagine; (S)-2,4-Diamino-4-oxobutanoate; (S)-2,4-Diamino-4-oxobutanoic acid; (S)-Asparagine; 2-Aminosuccinamate; 2-Aminosuccinamic acid; a-Aminosuccinamate; a-Aminosuccinamic acid; Agedoite; alpha Amminosuccinamate; alpha Amminosuccinamic acid; alpha-Aminosuccinamate; alpha-Aminosuccinamic acid; Altheine; Asn; Asparagine; Asparagine acid; Asparamide; Aspartamate; Aspartamic acid; Aspartic acid amide; Aspartic acid b-amide; Aspartic acid beta amide; B2,4-(S)-diamino-4-oxo-utanoate; B2,4-(S)-diamino-4-oxo-utanoic acid; Crystal VI; L-2,4-Diamino-4-oxobutanoate; L-2,4-Diamino-4-oxobutanoic acid; L-Asparagine; L-Aspartamine; L-b-Asparagine; L-beta-Asparagine
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_CONFORMER_ID>
+0000187B00000002
+
+> <PUBCHEM_MMFF94_ENERGY>
+11.171
+
+> <PUBCHEM_FEATURE_SELFOVERLAP>
+35.581
+
+> <PUBCHEM_SHAPE_FINGERPRINT>
+137420 1 16620464601833680024
+18185500 45 18048307847535900314
+21040471 1 18118682368671456656
+21922407 69 17417519323976970017
+23552333 60 18128798885085369927
+23552423 10 18410004429765273061
+24536 1 17345736521872826085
+29004967 10 18186807958614600921
+5084963 1 18197197338638332064
+
+> <PUBCHEM_SHAPE_MULTIPOLES>
+157.65
+2.82
+1.47
+0.98
+0.75
+0.12
+-0.03
+-0.23
+0.26
+-0.78
+-0.1
+0.3
+-0.18
+-0.02
+
+> <PUBCHEM_SHAPE_SELFOVERLAP>
+301.304
+
+> <PUBCHEM_SHAPE_VOLUME>
+96.1
+
+> <PUBCHEM_COORDINATE_TYPE>
+2
+5
+10
 
 $$$$
