@@ -25,7 +25,7 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_regressin_3d");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_3d");
       //runLinearRegression(model, isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
@@ -51,6 +51,7 @@ public class NmrPred {
       d_tree_model.buildClassifier(isTrainingSet);
 
       Evaluation eTest = new Evaluation(isTrainingSet);
+      // eTest.evaluateModel(d_tree_model, isTrainingSet);
       Random rand = new Random(1);
       eTest.crossValidateModel(d_tree_model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
@@ -96,8 +97,9 @@ public class NmrPred {
 
       model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      Random rand = new Random(1);
-      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
+      eTest.evaluateModel(model, isTrainingSet);
+      // Random rand = new Random(1);
+      // eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
