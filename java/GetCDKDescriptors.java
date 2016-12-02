@@ -185,6 +185,7 @@ public static ArrayList<String> getNearestAtom(String sdf) {
     }
     for (int i = 0; i < atoms.size(); i++)
     {
+      
       Double min_distance = 999999.9999;
       int min_d_index = -1;
       for (int j = 0; j < atoms.size(); j++) {
