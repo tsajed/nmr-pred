@@ -20,6 +20,7 @@ import weka.attributeSelection.PrincipalComponents;
 import weka.attributeSelection.AttributeSelection;
 import weka.attributeSelection.Ranker;
 import weka.attributeSelection.WrapperSubsetEval;
+import weka.classifiers.meta.*;
 
 import org.math.plot.*;
 import org.math.io.*;
@@ -31,23 +32,24 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classificatio_1");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_1");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
     catch (Exception e) {
       e.printStackTrace();
-      Instances trainingSet = buildTrainingClassification(folder);
-      //Instances trainingSet = buildTrainingRegression(folder);
-      //runRegression(trainingSet, false);
-      runClassifier(trainingSet, false);
+      //Instances trainingSet = buildTrainingClassification(folder);
+      Instances trainingSet = buildTrainingRegression(folder);
+      runRegression(trainingSet, false);
+      //runClassifier(trainingSet, false);
     }    
   }
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      //RandomForest d_tree_model = new RandomForest();
       RandomForest d_tree_model = new RandomForest();
+      //Bagging d_tree_model = new Bagging();
+
       //Setting Parameters
       // d_tree_model.setLearningRate(0.1);
       // d_tree_model.setMomentum(0.2);
@@ -69,12 +71,12 @@ public class NmrPred {
         }
       }
 
-      isTrainingSet = performFeatureExtraction(isTrainingSet);
+      //isTrainingSet = performFeatureExtraction(isTrainingSet);
       d_tree_model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
      // eTest.evaluateModel(d_tree_model, isTrainingSet);
       Random rand = new Random(1);
-      eTest.crossValidateModel(d_tree_model, isTrainingSet, 5, rand);
+      eTest.crossValidateModel(d_tree_model, isTrainingSet, 10, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
@@ -119,11 +121,11 @@ public class NmrPred {
       //Setting Parameters
       model.setLearningRate(0.1);
       model.setMomentum(0.2);
-      model.setTrainingTime(1000);
-      //model.setHiddenLayers("116,50,25");
+      model.setTrainingTime(2000);
+      //model.setHiddenLayers("116,75,50,10");
       if (!read) {
-        weka.core.SerializationHelper.write("models/regression.model_3d", model);
-        weka.core.SerializationHelper.write("models/train_regression_3d", isTrainingSet);
+        weka.core.SerializationHelper.write("models/regression.model_1", model);
+        weka.core.SerializationHelper.write("models/train_regression_1", isTrainingSet);
       }
 
       // for (int i = 29; i < 116; i++) {
@@ -132,12 +134,12 @@ public class NmrPred {
       // }
 
 
-      isTrainingSet = performFeatureExtraction(isTrainingSet);
+      //sisTrainingSet = performFeatureExtraction(isTrainingSet);
       model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      //eTest.evaluateModel(model, isTrainingSet);
-      Random rand = new Random(1);
-      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
+      eTest.evaluateModel(model, isTrainingSet);
+      //Random rand = new Random(1);
+      //eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
