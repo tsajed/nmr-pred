@@ -10,13 +10,16 @@ import java.text.DecimalFormat;
 
 import weka.core.*;
 import weka.classifiers.functions.*;
+import weka.classifiers.functions.supportVector.*;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.J48;
-import weka.classifiers.functions.*;
+import weka.classifiers.trees.*;
+import weka.classifiers.*;
 import weka.attributeSelection.PrincipalComponents;
 import weka.attributeSelection.AttributeSelection;
 import weka.attributeSelection.Ranker;
+import weka.attributeSelection.WrapperSubsetEval;
 
 import org.math.plot.*;
 import org.math.io.*;
@@ -28,50 +31,54 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_3d");
-      //runLinearRegression(isTrainingSet, true); 
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classificatio_1");
+      //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
     catch (Exception e) {
       e.printStackTrace();
-      //Instances trainingSet = buildTrainingClassification(folder);
-      Instances trainingSet = buildTrainingRegression(folder);
-      runLinearRegression(trainingSet, false);
-      //runClassifier(trainingSet, false);
+      Instances trainingSet = buildTrainingClassification(folder);
+      //Instances trainingSet = buildTrainingRegression(folder);
+      //runRegression(trainingSet, false);
+      runClassifier(trainingSet, false);
     }    
   }
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      //J48 d_tree_model = new J48();
-      MultilayerPerceptron d_tree_model = new MultilayerPerceptron();
+      //RandomForest d_tree_model = new RandomForest();
+      RandomForest d_tree_model = new RandomForest();
       //Setting Parameters
-      d_tree_model.setLearningRate(0.1);
-      d_tree_model.setMomentum(0.2);
-      d_tree_model.setTrainingTime(500);
-      //d_tree_model.setHiddenLayers("24,12,6");
-      //SMO d_tree_model = new SMO();
+      // d_tree_model.setLearningRate(0.1);
+      // d_tree_model.setMomentum(0.2);
+      // d_tree_model.setTrainingTime(500);
+      //d_tree_model.setHiddenLayers("100");
+      // SMO d_tree_model = new SMO();
       //d_tree_model.buildClassifier(isTrainingSet);
       if (!read) {
-        weka.core.SerializationHelper.write("models/classification.model_3d", d_tree_model);
-        weka.core.SerializationHelper.write("models/train_classification_3d", isTrainingSet);
+        weka.core.SerializationHelper.write("models/classification.model_1", d_tree_model);
+        weka.core.SerializationHelper.write("models/train_classification_1", isTrainingSet);
       }
 
-      // PrincipalComponents pc = new PrincipalComponents();
-      // pc.buildEvaluator(isTrainingSet);
-      // isTrainingSet = pc.transformedData(isTrainingSet);
-      // System.out.println(pc.toString());
 
+      for (int i = 29; i < 117; i++) {
+        //int j = 58;
+        for (int j = 0; j < 20; j++) {
+          //System.out.println(isTrainingSet.instance(j).value(i));
+          //isTrainingSet.deleteAttribute(j);
+        }
+      }
+
+      isTrainingSet = performFeatureExtraction(isTrainingSet);
       d_tree_model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      //eTest.evaluateModel(d_tree_model, isTrainingSet);
+     // eTest.evaluateModel(d_tree_model, isTrainingSet);
       Random rand = new Random(1);
-      eTest.crossValidateModel(d_tree_model, isTrainingSet, 4, rand);
+      eTest.crossValidateModel(d_tree_model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
 
-      System.out.println(d_tree_model.getHiddenLayers());
       double true_values[] = new double[predictions.size()];
       double predicted_values[] = new double[predictions.size()];
 
@@ -104,7 +111,7 @@ public class NmrPred {
     }
   }
 
-  static void runLinearRegression(Instances isTrainingSet, boolean read)  {
+  static void runRegression(Instances isTrainingSet, boolean read)  {
     try {
       //model.buildClassifier(isTrainingSet);
       //LinearRegression model = new LinearRegression();
@@ -112,22 +119,25 @@ public class NmrPred {
       //Setting Parameters
       model.setLearningRate(0.1);
       model.setMomentum(0.2);
-      model.setTrainingTime(500);
-
+      model.setTrainingTime(1000);
+      //model.setHiddenLayers("116,50,25");
       if (!read) {
         weka.core.SerializationHelper.write("models/regression.model_3d", model);
         weka.core.SerializationHelper.write("models/train_regression_3d", isTrainingSet);
       }
-      // PrincipalComponents pc = new PrincipalComponents();
-      // pc.buildEvaluator(isTrainingSet);
-      // isTrainingSet = pc.transformedData(isTrainingSet);
-      // System.out.println(pc.toString());
 
+      // for (int i = 29; i < 116; i++) {
+      //   int j = 29;
+      //   isTrainingSet.deleteAttributeAt(j);
+      // }
+
+
+      isTrainingSet = performFeatureExtraction(isTrainingSet);
       model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
       //eTest.evaluateModel(model, isTrainingSet);
       Random rand = new Random(1);
-      eTest.crossValidateModel(model, isTrainingSet, 4, rand);
+      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
@@ -159,19 +169,23 @@ public class NmrPred {
     }
   }
 
-  Instances performPrincipalComponentAnalysis(Instances data) {
-    PrincipalComponents pcaEvaluator = new PrincipalComponents();
+  static Instances performFeatureExtraction(Instances data) {
+    //PrincipalComponents pcaEvaluator = new PrincipalComponents();
+    WrapperSubsetEval evaluator = new WrapperSubsetEval();
     int k = data.numAttributes();
+    J48 classifier = new J48();
+    evaluator.setClassifier(classifier);
+
     // Sets the amount of variance to account for when retaining principal
     // components.
-    pcaEvaluator.setVarianceCovered(1.0);
+    //pcaEvaluator.setVarianceCovered(1);
     // Sets maximum number of attributes to include in transformed attribute
     // names.
-    pcaEvaluator.setMaximumAttributeNames(-1);
+    //pcaEvaluator.setMaximumAttributeNames(-1);
 
     // Scaled X such that the variance of each feature is 1.
     //boolean scale = Utils.getFlag('s', args);
-    pcaEvaluator.setCenterData(true);
+    //pcaEvaluator.setCenterData(true);
 
       //pcaEvaluator.setCenterData(false);
     // Ranking the attributes.
@@ -181,12 +195,13 @@ public class NmrPred {
 
     try {
       AttributeSelection selector = new AttributeSelection();
-      selector.setSearch(ranker);
-      selector.setEvaluator(pcaEvaluator);
+      //selector.setSearch(ranker);
+      selector.setEvaluator(evaluator);
       selector.SelectAttributes(data);
 
       // Transform data into eigenvector basis.
       Instances transformedData = selector.reduceDimensionality(data);
+      System.out.println(transformedData.numAttributes());
       return transformedData;
     } catch (Exception e) {
       e.printStackTrace();
@@ -196,7 +211,7 @@ public class NmrPred {
   }
 
   static Instances buildTrainingRegression(File folder) {
-    int feature_factor = 2;
+    int feature_factor = 4;
 
     ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
     getStructures(nmr_structures, folder);
@@ -204,7 +219,7 @@ public class NmrPred {
       try {
         System.out.println(nmr_str.hmdb_id);
         nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
-        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtom(nmr_str.structure_sdf));
+        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
       }
       catch (Exception e)
       {
@@ -226,20 +241,25 @@ public class NmrPred {
 
     /* i = carbon positions from nmr shift text file
        j = feature index 
-       atomic_descriptor.get(j)[i] gets jth feature (descriptor) and ith position in carbon_positions
+       atomic_descriptor.get(j)[i] gets jth feature (descriptor) and ith position in hydrogen_positions
        namely ith Carbon atom as numbered by molfile and text file
+
+       k is how many feature factors we are taking as descriptors
+       If we take 2 nearest atoms, so all 29 features of those 2 nearest atoms are included. k = 3
     */
 
     for (NmrStructure nmr_str : nmr_structures) {
-      for (int i = 0; i < nmr_str.carbon_positions.size(); i++) {
+      for (int i = 0; i < nmr_str.hydrogen_positions.size(); i++) {
         Instance iExample = new DenseInstance(feature_factor*values.size() + 1);
         for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
           iExample.setValue((Attribute)wekaAttributes.elementAt(j), 
-                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.carbon_positions.get(i))]);
+                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.hydrogen_positions.get(i))]);
         }
-        for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
-          iExample.setValue((Attribute)wekaAttributes.elementAt(j + values.size()), 
-                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.nearest_atoms.get(i))]);
+        for (int k = 0; k < feature_factor - 1; k++) {
+          for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
+            iExample.setValue((Attribute)wekaAttributes.elementAt(j + (k+1)*values.size()), 
+                              nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.nearest_atoms.get(i).get(k))]);
+          }
         }
         iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size()), nmr_str.chemical_shifts.get(i));
 
@@ -250,23 +270,24 @@ public class NmrPred {
   }
 
   static Instances buildTrainingClassification(File folder) {
-    int feature_factor = 2;
+    int feature_factor = 4;
     ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
     getStructures(nmr_structures, folder);
     for (NmrStructure nmr_str : nmr_structures) {
       try {
         System.out.println(nmr_str.hmdb_id);
         nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
-        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtom(nmr_str.structure_sdf));
+        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
       }
       catch (Exception e)
       {
         e.printStackTrace();
       }
     }
+    //nmr_structures.get(0).printDescriptors();
     ArrayList<Double[]> values = nmr_structures.get(0).atomic_descriptors;
     ArrayList<Attribute> attributes = new ArrayList<Attribute>();
-    for (int i = 0; i < 2* values.size(); i++) {
+    for (int i = 0; i < feature_factor* values.size(); i++) {
       attributes.add(new Attribute(String.valueOf(i)));
     }
 
@@ -286,15 +307,17 @@ public class NmrPred {
     isTrainingSet.setClassIndex(feature_factor*values.size());
 
     for (NmrStructure nmr_str : nmr_structures) {
-      for (int i = 0; i < nmr_str.carbon_positions.size(); i++) {
+      for (int i = 0; i < nmr_str.hydrogen_positions.size(); i++) {
         Instance iExample = new DenseInstance(feature_factor*values.size() + 1);
         for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
           iExample.setValue((Attribute)wekaAttributes.elementAt(j), 
-                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.carbon_positions.get(i))]);
+                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.hydrogen_positions.get(i))]);
         }
-        for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
-          iExample.setValue((Attribute)wekaAttributes.elementAt(j + values.size()), 
-                            nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.nearest_atoms.get(i))]);
+        for (int k = 0; k < feature_factor - 1; k++) {
+          for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
+            iExample.setValue((Attribute)wekaAttributes.elementAt(j + (k+1)*values.size()), 
+                              nmr_str.atomic_descriptors.get(j)[Integer.valueOf(nmr_str.nearest_atoms.get(i).get(k))]);
+          }
         }
 
         iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size()), nmr_str.c_shift_classes.get(i));

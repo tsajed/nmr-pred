@@ -173,9 +173,9 @@ public class GetCDKDescriptors {
  }
 
 // Find nearest atom to all atoms in a molecule
-public static ArrayList<String> getNearestAtom(String sdf) {
+public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);
-  ArrayList<String> atom_distances = new ArrayList<String>();
+  ArrayList<ArrayList<String>> atom_distances = new ArrayList<ArrayList<String>>();
 
   for (IAtomContainer mol : mols) {
     int atomCount = mol.getAtomCount();
@@ -185,25 +185,42 @@ public static ArrayList<String> getNearestAtom(String sdf) {
     }
     for (int i = 0; i < atoms.size(); i++)
     {
-      
-      Double min_distance = 999999.9999;
-      int min_d_index = -1;
+      Double[] distances = new Double[atoms.size()];
+      // Double min_distance = 999999.9999;
+      // int min_d_index = -1;
       for (int j = 0; j < atoms.size(); j++) {
-        if (j == i) 
+        if (j == i) {
+          // Large number so that sorting puts it last
+          distances[j] = 99999.12;
           continue;
+        }
 
         Point3d firstPoint = atoms.get(i).getPoint3d();
         Point3d secondPoint = atoms.get(j).getPoint3d();
         Double distance = firstPoint.distance(secondPoint);
+        distances[j] = distance;
 
-        if (distance < min_distance) {
-          min_distance = distance;
-          min_d_index = j;
-        }
+        // if (distance < min_distance) {
+        //   min_distance = distance;
+        //   min_d_index = j;
+        // }
       }
 
-      atom_distances.add(String.valueOf(min_d_index));
+      //atom_distances.add(String.valueOf(min_d_index));
+
+      ArrayList<String> indices = new ArrayList<String>();
+      Double[] d = distances.clone();
+      Arrays.sort(d);
+      List<Double> d_list = Arrays.asList(distances);
+
+      for (int j = 0; j < distances.length; j++)
+      {
+        String index = String.valueOf(d_list.indexOf(d[j]));
+        indices.add(index);
+      }
+      atom_distances.add(indices);
     }
+
   }
   return atom_distances;
 }
@@ -402,7 +419,6 @@ public static ArrayList<String> getNearestAtom(String sdf) {
   {
     List<Double[]> vv = new ArrayList<Double[]>();
     vv.add(new Double[atoms.size()]);
-    System.out.println(atoms.size());
     for (int i = 0; i < atoms.size(); i++)
     {
       if (atoms.get(i) == null)
@@ -420,15 +436,15 @@ public static ArrayList<String> getNearestAtom(String sdf) {
           }
           else if (res instanceof DoubleResult) {
             vv.get(0)[i] = ((DoubleResult) res).doubleValue();
-            System.out.println(vv.get(0)[i]); 
+            //System.out.println(vv.get(0)[i]); 
           }
           else if (res instanceof DoubleArrayResult) {
             vv.get(0)[i] = ((DoubleArrayResult) res).get(0); 
-            System.out.println(vv.get(0)[i]);  
+            //System.out.println(vv.get(0)[i]);  
           }
           else if (res instanceof IntegerArrayResult) {
             vv.get(0)[i] = (double) ((IntegerArrayResult) res).get(0);
-            System.out.println(vv.get(0)[i]); 
+            //System.out.println(vv.get(0)[i]); 
           }
           else
             throw new IllegalStateException("Unknown idescriptor result value for '" + descriptor + "' : "
