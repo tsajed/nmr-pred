@@ -225,6 +225,31 @@ public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
   return atom_distances;
 }
 
+// Calculate RDF Proton descriptors by calculating aromaticity
+
+// public static ArrayList<String> calculateRDFProtonDescriptor(IAtomContainer molecule, Descriptor desc) {
+//   ElectronDonation model       = ElectronDonation.cdk();
+//   CycleFinder      cycles      = Cycles.cdkAromaticSet();
+//   Aromaticity      aromaticity = new Aromaticity(model, cycles);
+
+//   // apply our configured model to each molecule, the CDK model
+//   // requires that atom types are perceived
+//   AtomContainerManipulator.percieveAtomTypesAndConfigureAtoms(molecule);
+//   boolean aromaticity = aromaticity.apply(molecule);
+
+//   int atomCount = mol.getAtomCount();
+//   List<IAtom> atoms = new ArrayList<IAtom>();
+
+//   for (int i = 0; i < atomCount; i++) {
+//     atoms.add(mol.getAtom(i));
+//   }
+//   // check for RDF descriptors
+//   Array<String> value_desc = new Array<String>();
+//   for (int i = 0; i < atoms.size(); i++) {
+//     value_desc.add(Double.valueOf(descriptor.calculate(molecule, atoms.get(i), aromaticity));
+//   }
+// }
+
 
  /**
   * Get SMILES code for a molecule
