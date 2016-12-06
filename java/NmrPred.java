@@ -13,13 +13,9 @@ import weka.classifiers.functions.*;
 import weka.classifiers.functions.supportVector.*;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
-import weka.classifiers.trees.J48;
 import weka.classifiers.trees.*;
 import weka.classifiers.*;
-import weka.attributeSelection.PrincipalComponents;
-import weka.attributeSelection.AttributeSelection;
-import weka.attributeSelection.Ranker;
-import weka.attributeSelection.WrapperSubsetEval;
+import weka.attributeSelection.*;
 import weka.classifiers.meta.*;
 
 import org.math.plot.*;
@@ -32,7 +28,7 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_1");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_2");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
@@ -59,15 +55,29 @@ public class NmrPred {
       //d_tree_model.buildClassifier(isTrainingSet);
       if (!read) {
         weka.core.SerializationHelper.write("models/classification.model_1", d_tree_model);
-        weka.core.SerializationHelper.write("models/train_classification_1", isTrainingSet);
+        weka.core.SerializationHelper.write("models/train_classification_2", isTrainingSet);
       }
 
 
-      for (int i = 29; i < 117; i++) {
-        //int j = 58;
-        for (int j = 0; j < 20; j++) {
+      for (int i = 25; i < 116; i++) {
+        int j = 25;
+        //for (int j = 0; j < 20; j++) {
           //System.out.println(isTrainingSet.instance(j).value(i));
-          //isTrainingSet.deleteAttribute(j);
+        isTrainingSet.deleteAttributeAt(j);
+        //}
+      }
+
+      for (int i = 0; i < 21; i++) {
+        int j = 0;
+        //for (int j = 0; j < 20; j++) {
+          //System.out.println(isTrainingSet.instance(j).value(i));
+        isTrainingSet.deleteAttributeAt(j);
+        //}
+      }
+
+      for (int i = 0; i < 5; i++) {
+        for (int j = 0; j < 200; j++) {
+          System.out.println(isTrainingSet.instance(j).value(i));
         }
       }
 
@@ -122,7 +132,7 @@ public class NmrPred {
       model.setLearningRate(0.1);
       model.setMomentum(0.2);
       model.setTrainingTime(2000);
-      //model.setHiddenLayers("116,75,50,10");
+      model.setHiddenLayers("116,116,116,116");
       if (!read) {
         weka.core.SerializationHelper.write("models/regression.model_1", model);
         weka.core.SerializationHelper.write("models/train_regression_1", isTrainingSet);
@@ -134,12 +144,12 @@ public class NmrPred {
       // }
 
 
-      //sisTrainingSet = performFeatureExtraction(isTrainingSet);
+      //isTrainingSet = performFeatureExtraction(isTrainingSet);
       model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
-      eTest.evaluateModel(model, isTrainingSet);
-      //Random rand = new Random(1);
-      //eTest.crossValidateModel(model, isTrainingSet, 5, rand);
+      //eTest.evaluateModel(model, isTrainingSet);
+      Random rand = new Random(1);
+      eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
@@ -173,10 +183,12 @@ public class NmrPred {
 
   static Instances performFeatureExtraction(Instances data) {
     //PrincipalComponents pcaEvaluator = new PrincipalComponents();
-    WrapperSubsetEval evaluator = new WrapperSubsetEval();
+    //WrapperSubsetEval evaluator = new WrapperSubsetEval();
+    System.out.println(data.numAttributes());
+    CfsSubsetEval evaluator = new CfsSubsetEval();
     int k = data.numAttributes();
     J48 classifier = new J48();
-    evaluator.setClassifier(classifier);
+    //evaluator.setClassifier(classifier);
 
     // Sets the amount of variance to account for when retaining principal
     // components.
@@ -191,13 +203,13 @@ public class NmrPred {
 
       //pcaEvaluator.setCenterData(false);
     // Ranking the attributes.
-    Ranker ranker = new Ranker();
+    BestFirst ranker = new BestFirst();
     // Specify the number of attributes to select from the ranked list.
-    ranker.setNumToSelect(k - 1);
+    //ranker.setNumToSelect(k - 1);
 
     try {
       AttributeSelection selector = new AttributeSelection();
-      //selector.setSearch(ranker);
+      selector.setSearch(ranker);
       selector.setEvaluator(evaluator);
       selector.SelectAttributes(data);
 
