@@ -17,6 +17,8 @@ import weka.classifiers.trees.*;
 import weka.classifiers.*;
 import weka.attributeSelection.*;
 import weka.classifiers.meta.*;
+import weka.gui.treevisualizer.PlaceNode2;
+import weka.gui.treevisualizer.TreeVisualizer;
 
 import org.math.plot.*;
 import org.math.io.*;
@@ -43,20 +45,20 @@ public class NmrPred {
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      //J48 d_tree_model = new J48();
+      J48 d_tree_model = new J48();
       //RandomForest d_tree_model = new RandomForest();
-      Bagging d_tree_model = new Bagging();
+      //Bagging d_tree_model = new Bagging();
       //AdaBoostM1 d_tree_model = new AdaBoostM1();
-      String[] options = {"-W", "weka.classifiers.trees.J48"};
-      d_tree_model.setOptions(options);
+      //String[] options = {"-W", "weka.classifiers.trees.J48"};
+      //d_tree_model.setOptions(options);
       //MultilayerPerceptron d_tree_model = new MultilayerPerceptron();
 
-      //Setting Parameters
+      // //Setting Parameters
       // d_tree_model.setLearningRate(0.1);
       // d_tree_model.setMomentum(0.2);
       // d_tree_model.setTrainingTime(500);
       //d_tree_model.setHiddenLayers("100");
-      // SMO d_tree_model = new SMO();
+      //SMO d_tree_model = new SMO();
       if (!read) {
         weka.core.SerializationHelper.write("models/classification.model_1", d_tree_model);
         weka.core.SerializationHelper.write("models/train_classification_6", isTrainingSet);
@@ -92,6 +94,7 @@ public class NmrPred {
       Random rand = new Random(1);
       eTest.crossValidateModel(d_tree_model, isTrainingSet, 10, rand);
       String strSummary = eTest.toSummaryString();
+      System.out.println(d_tree_model.toString());
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
 
@@ -115,6 +118,9 @@ public class NmrPred {
       error = error / predictions.size();
       System.out.println(error);
       System.out.println(outliers);
+
+      // Only for J48
+      // displayClassifier(d_tree_model);
 
       Plot2DPanel plot = new Plot2DPanel();
 
@@ -160,6 +166,7 @@ public class NmrPred {
       Random rand = new Random(1);
       eTest.crossValidateModel(model, isTrainingSet, 5, rand);
       String strSummary = eTest.toSummaryString();
+      System.out.println(model.toString());
       System.out.println(strSummary);
       ArrayList<Prediction> predictions = eTest.predictions();
 
@@ -186,6 +193,29 @@ public class NmrPred {
 
     }
     catch (Exception e) {
+      e.printStackTrace();
+    }
+  }
+
+  static void displayClassifier(J48 cls) {
+    final javax.swing.JFrame jf = 
+      new javax.swing.JFrame("Weka Classifier Tree Visualizer: J48");
+    jf.setSize(500,400);
+    jf.getContentPane().setLayout(new BorderLayout());
+    try {
+      TreeVisualizer tv = new TreeVisualizer(null,
+         cls.graph(),
+         new PlaceNode2());
+      jf.getContentPane().add(tv, BorderLayout.CENTER);
+      jf.addWindowListener(new java.awt.event.WindowAdapter() {
+       public void windowClosing(java.awt.event.WindowEvent e) {
+         jf.dispose();
+       }
+      });
+
+      jf.setVisible(true);
+      tv.fitToScreen();
+    } catch (Exception e) {
       e.printStackTrace();
     }
   }
