@@ -44,9 +44,13 @@ public class NmrPred {
   }
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
+    // int[] outliers = {1065, 894, 640, 389, 380, 378, 227, 217, 185};
+    // for (int i : outliers) {
+    //   isTrainingSet.delete(i);
+    // }
     try {
-      J48 d_tree_model = new J48();
-      //RandomForest d_tree_model = new RandomForest();
+      //J48 d_tree_model = new J48();
+      RandomForest d_tree_model = new RandomForest();
       //Bagging d_tree_model = new Bagging();
       //AdaBoostM1 d_tree_model = new AdaBoostM1();
       //String[] options = {"-W", "weka.classifiers.trees.J48"};
@@ -88,49 +92,79 @@ public class NmrPred {
       // }
 
       //isTrainingSet = performFeatureExtraction(isTrainingSet);
-      d_tree_model.buildClassifier(isTrainingSet);
-      Evaluation eTest = new Evaluation(isTrainingSet);
-     // eTest.evaluateModel(d_tree_model, isTrainingSet);
-      Random rand = new Random(1);
-      eTest.crossValidateModel(d_tree_model, isTrainingSet, 10, rand);
-      String strSummary = eTest.toSummaryString();
-      System.out.println(d_tree_model.toString());
-      System.out.println(strSummary);
-      ArrayList<Prediction> predictions = eTest.predictions();
+      // String[] eval_options = {"-preserve-order"};
+      //d_tree_model.buildClassifier(isTrainingSet);
+      // Evaluation eTest = new Evaluation(isTrainingSet);
+      //eTest.evaluateModel(d_tree_model, isTrainingSet);
+      Random rand = new Random(1); // 500 is a good seed
+      // eTest.crossValidateModel(d_tree_model, isTrainingSet, 10, rand);
+      // String strSummary = eTest.toSummaryString();
+      // System.out.println(d_tree_model.toString());
+      // System.out.println(strSummary);
+      // ArrayList<Prediction> predictions = eTest.predictions();
 
-      double true_values[] = new double[predictions.size()];
-      double predicted_values[] = new double[predictions.size()];
+      int folds = 10;
+      // double true_values[] = new double[predictions.size()];
+      // double predicted_values[] = new double[predictions.size()];
 
-      double error = 0;
-      int outliers = 0;
-      for (int i = 0; i < predictions.size(); i++) {
-        true_values[i] = predictions.get(i).actual();
-        predicted_values[i] = predictions.get(i).predicted();
-        if (Math.abs(predictions.get(i).predicted() - predictions.get(i).actual()) < 20) {
-          //error = Math.abs(true_values[i] - predicted_values[i]) + error;
+      ArrayList<String> hmdb_ids = mapInstancesToMolecules();
+
+      Instances randData = new Instances(isTrainingSet);   // create copy of original data
+      randData.randomize(rand);
+      randData.stratify(folds);
+
+      double average_error = 0;
+      for (int n = 0; n < folds; n++) {
+        Instances train = randData.trainCV(folds, n);
+        Instances test = randData.testCV(folds, n);
+     
+       // further processing, classification, etc.
+        RandomForest model = new RandomForest();
+        model.buildClassifier(train);
+
+        Evaluation evaluation = new Evaluation(train);
+        evaluation.evaluateModel(model, test);
+        System.out.println(evaluation.toSummaryString());
+        
+        ArrayList<Prediction> predictions = evaluation.predictions();
+        double true_values[] = new double[predictions.size()];
+        double predicted_values[] = new double[predictions.size()];
+
+        double error = 0;
+        int outlier_num = 0;
+        for (int i = 0; i < predictions.size(); i++) {
+          true_values[i] = predictions.get(i).actual();
+          predicted_values[i] = predictions.get(i).predicted();
+          if (Math.abs(predictions.get(i).predicted() - predictions.get(i).actual()) < 20) {
+            //error = Math.abs(true_values[i] - predicted_values[i]) + error;
+          }
+          else {
+            outlier_num = outlier_num + 1;
+            System.out.println(true_values[i]);
+            System.out.println(hmdb_ids.get(i));
+          }
+          error = Math.abs(true_values[i] - predicted_values[i]) + error;
         }
-        else {
-          outliers = outliers + 1;
-        }
-        error = Math.abs(true_values[i] - predicted_values[i]) + error;
+
+        error = error / predictions.size();
+        System.out.println(error);
+        System.out.println(outlier_num);
+        average_error = error + average_error;
       }
-
-      error = error / predictions.size();
-      System.out.println(error);
-      System.out.println(outliers);
+      System.out.println(average_error/folds);
 
       // Only for J48
       // displayClassifier(d_tree_model);
 
       Plot2DPanel plot = new Plot2DPanel();
 
-      plot.addScatterPlot("Linear Scatter Plot", Color.RED, true_values, predicted_values);
-      plot.addLinePlot("True Regression Plot", Color.BLUE, true_values, true_values);
+      // plot.addScatterPlot("Linear Scatter Plot", Color.RED, true_values, predicted_values);
+      // plot.addLinePlot("True Regression Plot", Color.BLUE, true_values, true_values);
 
-      // put the PlotPanel in a JFrame, as a JPanel
-      JFrame frame = new JFrame("Panel");
-      frame.setContentPane(plot);
-      frame.setVisible(true);
+      // // put the PlotPanel in a JFrame, as a JPanel
+      // JFrame frame = new JFrame("Panel");
+      // frame.setContentPane(plot);
+      // frame.setVisible(true);
 
     }
     catch (Exception e) {
@@ -220,6 +254,28 @@ public class NmrPred {
     }
   }
 
+  static ArrayList<String> mapInstancesToMolecules() {
+    File folder = new File("dataset/");
+    ArrayList<NmrStructure> nmr_structures = new ArrayList<NmrStructure>();
+    ArrayList<String> hmdb_ids = new ArrayList<String>();
+    try {
+      nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors");
+    }
+    catch (Exception e) { 
+          
+      e.printStackTrace();
+      nmr_structures = getChemicalShifts(folder);
+      getStructures(nmr_structures, folder);
+    }
+
+    for (NmrStructure nmr_str : nmr_structures) {
+      for (Float f : nmr_str.chemical_shifts) {
+        hmdb_ids.add(nmr_str.hmdb_id);
+      }
+    }
+    return hmdb_ids;
+  }
+
   static Instances performFeatureExtraction(Instances data) {
     //PrincipalComponents pcaEvaluator = new PrincipalComponents();
     // WrapperSubsetEval evaluator = new WrapperSubsetEval();
@@ -277,9 +333,9 @@ public class NmrPred {
         getStructures(nmr_structures, folder);
 
         for (NmrStructure nmr_str : nmr_structures) {
-        System.out.println(nmr_str.hmdb_id);
-        nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
-        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
+          System.out.println(nmr_str.hmdb_id);
+          nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
+          nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
         }
         weka.core.SerializationHelper.write("models/descriptors", nmr_structures);
       } catch (Exception ex) { ex.printStackTrace(); }
@@ -342,9 +398,9 @@ public class NmrPred {
         getStructures(nmr_structures, folder);
 
         for (NmrStructure nmr_str : nmr_structures) {
-        System.out.println(nmr_str.hmdb_id);
-        nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
-        nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
+          System.out.println(nmr_str.hmdb_id);
+          nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
+          nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
         }
         weka.core.SerializationHelper.write("models/descriptors", nmr_structures);
       } catch (Exception ex) { ex.printStackTrace(); }
