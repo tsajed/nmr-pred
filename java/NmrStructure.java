@@ -1,7 +1,8 @@
 import java.util.*;
 import java.text.DecimalFormat;
+import java.io.Serializable;
 
-public class NmrStructure {
+public class NmrStructure implements Serializable {
   ArrayList<String> hydrogen_positions;
   ArrayList<Float> chemical_shifts;
   ArrayList<String> c_shift_classes;

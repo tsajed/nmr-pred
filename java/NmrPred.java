@@ -28,7 +28,7 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_5");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_6");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
@@ -43,8 +43,8 @@ public class NmrPred {
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      //J48 d_tree_model = new J48();
-      RandomForest d_tree_model = new RandomForest();
+      J48 d_tree_model = new J48();
+      //RandomForest d_tree_model = new RandomForest();
       //Bagging d_tree_model = new Bagging();
       //MultilayerPerceptron d_tree_model = new MultilayerPerceptron();
 
@@ -56,7 +56,7 @@ public class NmrPred {
       // SMO d_tree_model = new SMO();
       if (!read) {
         weka.core.SerializationHelper.write("models/classification.model_1", d_tree_model);
-        weka.core.SerializationHelper.write("models/train_classification_5", isTrainingSet);
+        weka.core.SerializationHelper.write("models/train_classification_6", isTrainingSet);
       }
 
 
@@ -82,7 +82,7 @@ public class NmrPred {
       //   }
       // }
 
-      isTrainingSet = performFeatureExtraction(isTrainingSet);
+      //isTrainingSet = performFeatureExtraction(isTrainingSet);
       d_tree_model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
      // eTest.evaluateModel(d_tree_model, isTrainingSet);
@@ -96,17 +96,22 @@ public class NmrPred {
       double predicted_values[] = new double[predictions.size()];
 
       double error = 0;
+      int outliers = 0;
       for (int i = 0; i < predictions.size(); i++) {
         true_values[i] = predictions.get(i).actual();
         predicted_values[i] = predictions.get(i).predicted();
-        if (Math.abs(predictions.get(i).predicted() - predictions.get(i).actual()) < 8) {
+        if (Math.abs(predictions.get(i).predicted() - predictions.get(i).actual()) < 20) {
           //error = Math.abs(true_values[i] - predicted_values[i]) + error;
+        }
+        else {
+          outliers = outliers + 1;
         }
         error = Math.abs(true_values[i] - predicted_values[i]) + error;
       }
 
       error = error / predictions.size();
       System.out.println(error);
+      System.out.println(outliers);
 
       Plot2DPanel plot = new Plot2DPanel();
 
@@ -228,19 +233,24 @@ public class NmrPred {
   static Instances buildTrainingRegression(File folder) {
     int feature_factor = 4;
 
-    ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
-    getStructures(nmr_structures, folder);
-    for (NmrStructure nmr_str : nmr_structures) {
-      try {
+    try {
+      nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors");
+    }
+    catch (Exception e) { 
+      try {     
+        e.printStackTrace();
+        nmr_structures = getChemicalShifts(folder);
+        getStructures(nmr_structures, folder);
+
+        for (NmrStructure nmr_str : nmr_structures) {
         System.out.println(nmr_str.hmdb_id);
         nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
         nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
-      }
-      catch (Exception e)
-      {
-        e.printStackTrace();
-      }
+        }
+        weka.core.SerializationHelper.write("models/descriptors", nmr_structures);
+      } catch (Exception ex) { ex.printStackTrace(); }
     }
+
     ArrayList<Double[]> values = nmr_structures.get(0).atomic_descriptors;
     ArrayList<Attribute> attributes = new ArrayList<Attribute>();
     for (int i = 0; i < (feature_factor * values.size())+1; i++) {
@@ -286,19 +296,26 @@ public class NmrPred {
 
   static Instances buildTrainingClassification(File folder) {
     int feature_factor = 4;
-    ArrayList<NmrStructure> nmr_structures = getChemicalShifts(folder);
-    getStructures(nmr_structures, folder);
-    for (NmrStructure nmr_str : nmr_structures) {
-      try {
+    ArrayList<NmrStructure> nmr_structures = new ArrayList<NmrStructure>();
+
+    try {
+      nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors");
+    }
+    catch (Exception e) { 
+      try {     
+        e.printStackTrace();
+        nmr_structures = getChemicalShifts(folder);
+        getStructures(nmr_structures, folder);
+
+        for (NmrStructure nmr_str : nmr_structures) {
         System.out.println(nmr_str.hmdb_id);
         nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
         nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
-      }
-      catch (Exception e)
-      {
-        e.printStackTrace();
-      }
+        }
+        weka.core.SerializationHelper.write("models/descriptors", nmr_structures);
+      } catch (Exception ex) { ex.printStackTrace(); }
     }
+
     //nmr_structures.get(0).printDescriptors();
     ArrayList<Double[]> values = nmr_structures.get(0).atomic_descriptors;
     ArrayList<Attribute> attributes = new ArrayList<Attribute>();
