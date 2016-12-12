@@ -28,23 +28,25 @@ public class NmrPred {
   	File folder = new File("dataset/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_2");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_5");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
     catch (Exception e) {
       e.printStackTrace();
-      //Instances trainingSet = buildTrainingClassification(folder);
-      Instances trainingSet = buildTrainingRegression(folder);
-      runRegression(trainingSet, false);
-      //runClassifier(trainingSet, false);
+      Instances trainingSet = buildTrainingClassification(folder);
+      //Instances trainingSet = buildTrainingRegression(folder);
+      //runRegression(trainingSet, false);
+      runClassifier(trainingSet, false);
     }    
   }
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
+      //J48 d_tree_model = new J48();
       RandomForest d_tree_model = new RandomForest();
       //Bagging d_tree_model = new Bagging();
+      //MultilayerPerceptron d_tree_model = new MultilayerPerceptron();
 
       //Setting Parameters
       // d_tree_model.setLearningRate(0.1);
@@ -52,36 +54,35 @@ public class NmrPred {
       // d_tree_model.setTrainingTime(500);
       //d_tree_model.setHiddenLayers("100");
       // SMO d_tree_model = new SMO();
-      //d_tree_model.buildClassifier(isTrainingSet);
       if (!read) {
         weka.core.SerializationHelper.write("models/classification.model_1", d_tree_model);
-        weka.core.SerializationHelper.write("models/train_classification_2", isTrainingSet);
+        weka.core.SerializationHelper.write("models/train_classification_5", isTrainingSet);
       }
 
 
-      for (int i = 25; i < 116; i++) {
-        int j = 25;
-        //for (int j = 0; j < 20; j++) {
-          //System.out.println(isTrainingSet.instance(j).value(i));
-        isTrainingSet.deleteAttributeAt(j);
-        //}
-      }
+      // for (int i = 25; i < 116; i++) {
+      //   int j = 25;
+      //   //for (int j = 0; j < 20; j++) {
+      //     //System.out.println(isTrainingSet.instance(j).value(i));
+      //   isTrainingSet.deleteAttributeAt(j);
+      //   //}
+      // }
 
-      for (int i = 0; i < 21; i++) {
-        int j = 0;
-        //for (int j = 0; j < 20; j++) {
-          //System.out.println(isTrainingSet.instance(j).value(i));
-        isTrainingSet.deleteAttributeAt(j);
-        //}
-      }
+      // for (int i = 0; i < 21; i++) {
+      //   int j = 0;
+      //   //for (int j = 0; j < 20; j++) {
+      //     //System.out.println(isTrainingSet.instance(j).value(i));
+      //   isTrainingSet.deleteAttributeAt(j);
+      //   //}
+      // }
 
-      for (int i = 0; i < 5; i++) {
-        for (int j = 0; j < 200; j++) {
-          System.out.println(isTrainingSet.instance(j).value(i));
-        }
-      }
+      // for (int i = 0; i < 5; i++) {
+      //   for (int j = 0; j < 200; j++) {
+      //     System.out.println(isTrainingSet.instance(j).value(i));
+      //   }
+      // }
 
-      //isTrainingSet = performFeatureExtraction(isTrainingSet);
+      isTrainingSet = performFeatureExtraction(isTrainingSet);
       d_tree_model.buildClassifier(isTrainingSet);
       Evaluation eTest = new Evaluation(isTrainingSet);
      // eTest.evaluateModel(d_tree_model, isTrainingSet);
