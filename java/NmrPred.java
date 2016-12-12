@@ -232,6 +232,7 @@ public class NmrPred {
 
   static Instances buildTrainingRegression(File folder) {
     int feature_factor = 4;
+    ArrayList<NmrStructure> nmr_structures = new ArrayList<NmrStructure>();
 
     try {
       nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors");
