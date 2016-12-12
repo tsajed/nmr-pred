@@ -43,9 +43,12 @@ public class NmrPred {
 
   static void runClassifier(Instances isTrainingSet, boolean read) {
     try {
-      J48 d_tree_model = new J48();
+      //J48 d_tree_model = new J48();
       //RandomForest d_tree_model = new RandomForest();
-      //Bagging d_tree_model = new Bagging();
+      Bagging d_tree_model = new Bagging();
+      //AdaBoostM1 d_tree_model = new AdaBoostM1();
+      String[] options = {"-W", "weka.classifiers.trees.J48"};
+      d_tree_model.setOptions(options);
       //MultilayerPerceptron d_tree_model = new MultilayerPerceptron();
 
       //Setting Parameters
@@ -189,12 +192,12 @@ public class NmrPred {
 
   static Instances performFeatureExtraction(Instances data) {
     //PrincipalComponents pcaEvaluator = new PrincipalComponents();
-    //WrapperSubsetEval evaluator = new WrapperSubsetEval();
+    // WrapperSubsetEval evaluator = new WrapperSubsetEval();
     System.out.println(data.numAttributes());
     CfsSubsetEval evaluator = new CfsSubsetEval();
     int k = data.numAttributes();
-    J48 classifier = new J48();
-    //evaluator.setClassifier(classifier);
+    // J48 classifier = new J48();
+    // evaluator.setClassifier(classifier);
 
     // Sets the amount of variance to account for when retaining principal
     // components.
@@ -209,7 +212,7 @@ public class NmrPred {
 
       //pcaEvaluator.setCenterData(false);
     // Ranking the attributes.
-    BestFirst ranker = new BestFirst();
+    BestFirst ranker = new BestFirst(); //new Ranker();
     // Specify the number of attributes to select from the ranked list.
     //ranker.setNumToSelect(k - 1);
 
