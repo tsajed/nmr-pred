@@ -1,0 +1,11 @@
+Table of Peaks
+No. 	(ppm) 	(Hz) 	*(ppm) 	*(Hz) 	Height 	*Height 	*FWHH 	*Area 	*LF 	*Function
+1 	7.892 	3944.7 	7.89 	3944.65 	0.0434 	0.0434 	0.70 	1353337.38 	0.50 	GaussLorentz
+
+Table of Multiplets
+No. 	Shift1 (ppm) 	Hs 	Type 	Atom1 	Multiplet1 	 (ppm)
+1 	7.89 	4 	s 	2 	M01 	7.88 .. 7.91
+
+Table of Assignments
+No. 	Atom 	Exp. Shift (ppm) 	Multiplet
+1 	14 	7.89 	M01

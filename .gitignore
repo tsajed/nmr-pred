@@ -1,2 +1,6 @@
 # Gitignore for nmr_pred
-java/dataset/*
+
+#java/dataset/*
+java/nmr_one_shifts/*
+spinach/experiments/*
+spinach/examples/*
