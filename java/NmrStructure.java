@@ -10,6 +10,7 @@ public class NmrStructure implements Serializable {
 
   String structure_sdf;
   String hmdb_id;
+  boolean has_chemical_shift = false;
   ArrayList<Double[]> atomic_descriptors;
 
   public NmrStructure(ArrayList<String> h_pos, ArrayList<Float> c_shifts, String sdf, String id) {
@@ -18,8 +19,11 @@ public class NmrStructure implements Serializable {
     structure_sdf = sdf;
     hmdb_id = id;
     c_shift_classes = new ArrayList<String>();
+    has_chemical_shift = true;
+  }
 
-    assignShiftClasses(chemical_shifts);
+  public NmrStructure(String id) {
+    hmdb_id = id;
   }
 
   public void assignShiftClasses(ArrayList<Float> c_shifts) {

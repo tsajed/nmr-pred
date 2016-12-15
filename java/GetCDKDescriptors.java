@@ -172,6 +172,26 @@ public class GetCDKDescriptors {
     return values;
  }
 
+ // Find all relevant hydrogen atoms in molecule
+public static ArrayList<String> getHydrogenAtoms(String sdf) {
+  List<IMolecule> mols = readMoleculesString(sdf);
+  ArrayList<String> hydrogen_positions = new ArrayList<String>();
+
+  for (IAtomContainer mol : mols) {
+    int atomCount = mol.getAtomCount();
+    for (int i = 0; i < atomCount; i++) {
+      IAtom atom = mol.getAtom(i);
+      if (atom.getSymbol == "H") {
+        List<IAtom> connect_atoms = getConnectedAtomsList(atom);
+        if (connected_atoms.get(0).getSymbol != "O" && connected_atoms.get(0).getSymbol != "N") {
+          hydrogen_positions.add(String.valueof(i);
+        }
+      }
+    }
+  }
+  return hydrogen_positions;
+}
+
 // Find nearest atom to all atoms in a molecule
 public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);

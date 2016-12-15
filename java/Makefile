@@ -42,7 +42,9 @@ J = java
 CLASSES = \
 	NmrPred.java \
 	GetCDKDescriptors.java \
-	NmrStructure.java
+	NmrStructure.java \
+	NmrExperiment.java
+
 
 
 #
