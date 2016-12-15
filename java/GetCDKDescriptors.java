@@ -172,6 +172,7 @@ public class GetCDKDescriptors {
     return values;
  }
 
+<<<<<<< HEAD
  // Find all relevant hydrogen atoms in molecule
 public static ArrayList<String> getHydrogenAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);
@@ -192,6 +193,8 @@ public static ArrayList<String> getHydrogenAtoms(String sdf) {
   return hydrogen_positions;
 }
 
+=======
+>>>>>>> ffe0b8b8a5ae7ba73cb4fbd2b33f72046445ac4c
 // Find nearest atom to all atoms in a molecule
 public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);
