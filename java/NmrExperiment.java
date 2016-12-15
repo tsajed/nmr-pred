@@ -80,7 +80,6 @@ public class NmrExperiment {
       //d_tree_model.setHiddenLayers("100");
       //SMO d_tree_model = new SMO();
       if (!read) {
-        weka.core.SerializationHelper.write("models/classification.model_1", model);
         weka.core.SerializationHelper.write("models/train_classification_6", isTrainingSet);
       }
 
@@ -180,7 +179,7 @@ public class NmrExperiment {
 
       // Only for J48
       // displayClassifier(d_tree_model);
-
+      weka.core.SerializationHelper.write("models/classification.model_1", model);
 
       Plot2DPanel plot = new Plot2DPanel();
 
@@ -633,14 +632,13 @@ public class NmrExperiment {
         String text = new String(Files.readAllBytes(Paths.get(file)), StandardCharsets.UTF_8);  
         nmr_s.structure_sdf = text;
         if (nmr_s.has_chemical_shift == false) {
-          nmr_s.hydrogen_positions = GetCDKDescriptors.getHydrogenAtoms(nrm_s.structure_sdf);
+          nmr_s.hydrogen_positions = GetCDKDescriptors.getHydrogenAtoms(nmr_s.structure_sdf);
           nmr_s.has_chemical_shift = true;
         } 
 
-        for (String s : nmr_str.hydrogen_positions) {
-          hmdb_ids.add(nmr_str.hmdb_id);
+        for (String s : nmr_s.hydrogen_positions) {
+          hmdb_ids.add(nmr_s.hmdb_id);
         }
-        return hmdb_ids
 
       } catch (FileNotFoundException e) {
           e.printStackTrace();
@@ -648,6 +646,7 @@ public class NmrExperiment {
           e.printStackTrace();
       }
     }
+    return hmdb_ids;
   }
 
 

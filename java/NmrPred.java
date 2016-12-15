@@ -15,25 +15,28 @@ import weka.classifiers.*;
 public class NmrPred {
   public static void main(String[] argv) {
     File folder = new File("test/");
-    runPrediction(folder);
-    //NmrExperiment exp = new NmrExperiment();
+    //runPrediction(folder);
+    NmrExperiment exp = new NmrExperiment();
   }
 
-  public static runPrediction(folder) {
+  public static void runPrediction(File folder) {
     try {
-      //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
+    //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
       RandomForest model = (RandomForest) weka.core.SerializationHelper.read("models/classification.model_1");
 
       ArrayList<NmrStructure> structures = NmrExperiment.createNmrStructures(folder);
       ArrayList<String> hmdb_ids = NmrExperiment.getStructures(structures, folder);
 
-      Instances test = buildTestClassification(folder)
+      Instances test = NmrExperiment.buildTestClassification(folder, structures);
       for (int i = 0; i < test.numInstances(); i++) {
-        String clsLabel = model.classifyInstance(test.instance(i));
+        Double clsLabel = model.classifyInstance(test.instance(i));
         test.instance(i).setClassValue(clsLabel);
-        System.out.println(hmdb_ids.get(i) + "\t" + clsLabel);
+        System.out.println(hmdb_ids.get(i) + "\t" + String.valueOf(clsLabel));
       }
-            
     }
+    catch (Exception e) {
+      e.printStackTrace();
+    }
+            
   }
 }

@@ -172,7 +172,6 @@ public class GetCDKDescriptors {
     return values;
  }
 
-<<<<<<< HEAD
  // Find all relevant hydrogen atoms in molecule
 public static ArrayList<String> getHydrogenAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);
@@ -182,10 +181,10 @@ public static ArrayList<String> getHydrogenAtoms(String sdf) {
     int atomCount = mol.getAtomCount();
     for (int i = 0; i < atomCount; i++) {
       IAtom atom = mol.getAtom(i);
-      if (atom.getSymbol == "H") {
-        List<IAtom> connect_atoms = getConnectedAtomsList(atom);
-        if (connected_atoms.get(0).getSymbol != "O" && connected_atoms.get(0).getSymbol != "N") {
-          hydrogen_positions.add(String.valueof(i);
+      if (atom.getSymbol() == "H") {
+        List<IAtom> connected_atoms = mol.getConnectedAtomsList(atom);
+        if (connected_atoms.get(0).getSymbol() != "O" && connected_atoms.get(0).getSymbol() != "N") {
+          hydrogen_positions.add(String.valueOf(i));
         }
       }
     }
@@ -193,8 +192,6 @@ public static ArrayList<String> getHydrogenAtoms(String sdf) {
   return hydrogen_positions;
 }
 
-=======
->>>>>>> ffe0b8b8a5ae7ba73cb4fbd2b33f72046445ac4c
 // Find nearest atom to all atoms in a molecule
 public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
   List<IMolecule> mols = readMoleculesString(sdf);
