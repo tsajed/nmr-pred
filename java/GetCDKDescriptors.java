@@ -181,9 +181,10 @@ public static ArrayList<String> getHydrogenAtoms(String sdf) {
     int atomCount = mol.getAtomCount();
     for (int i = 0; i < atomCount; i++) {
       IAtom atom = mol.getAtom(i);
-      if (atom.getSymbol() == "H") {
+
+      if (atom.getSymbol().equals("H")) {
         List<IAtom> connected_atoms = mol.getConnectedAtomsList(atom);
-        if (connected_atoms.get(0).getSymbol() != "O" && connected_atoms.get(0).getSymbol() != "N") {
+        if (!connected_atoms.get(0).getSymbol().equals("O") && !connected_atoms.get(0).getSymbol().equals("N")) {
           hydrogen_positions.add(String.valueOf(i));
         }
       }

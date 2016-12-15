@@ -495,8 +495,12 @@ public class NmrExperiment {
     }
 
     FastVector fv = new FastVector(100);
+    DecimalFormat df = new DecimalFormat("#.#");
+    for (float i = 1; i <= 100; i++) {
+        fv.addElement(df.format(i/10));
+    } 
     attributes.add(new Attribute("Class", fv));
-    FastVector wekaAttributes = new FastVector(feature_factor * values.size()+1);
+    FastVector wekaAttributes = new FastVector(feature_factor * values.size());
 
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
@@ -506,6 +510,7 @@ public class NmrExperiment {
 
     for (NmrStructure nmr_str : nmr_structures) {
       for (int i = 0; i < nmr_str.hydrogen_positions.size(); i++) {
+        System.out.println(nmr_str.hydrogen_positions.get(i));
         Instance iExample = new DenseInstance(feature_factor*values.size() + 1);
         for (int j = 0; j < nmr_str.atomic_descriptors.size(); j++) {
           iExample.setValue((Attribute)wekaAttributes.elementAt(j), 
@@ -518,7 +523,7 @@ public class NmrExperiment {
           }
         }
 
-        //iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size()), nmr_str.c_shift_classes.get(i));
+        //iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size()), );
         isTestSet.add(iExample);
       }
     }
@@ -540,6 +545,7 @@ public class NmrExperiment {
       Matcher m = r.matcher(name);
       if (m.find( )) {
         NmrStructure structure = new NmrStructure(file_names[0]);
+        structures.add(structure);
       }
     }
 
@@ -631,6 +637,7 @@ public class NmrExperiment {
       try {
         String text = new String(Files.readAllBytes(Paths.get(file)), StandardCharsets.UTF_8);  
         nmr_s.structure_sdf = text;
+
         if (nmr_s.has_chemical_shift == false) {
           nmr_s.hydrogen_positions = GetCDKDescriptors.getHydrogenAtoms(nmr_s.structure_sdf);
           nmr_s.has_chemical_shift = true;
