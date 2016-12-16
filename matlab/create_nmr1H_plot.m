@@ -1,4 +1,4 @@
-function [ spectrum ] = create_nmr1H_plot( input_args )
+function [ spectrum ] = create_nmr1H_plot( sys, inter )
 %% Create a function to plot 1H NMR given chemical shifts in ppm and J-coupling constants
 %   Detailed explanation goes here
     % Spin system

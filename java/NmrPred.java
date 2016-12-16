@@ -48,7 +48,9 @@ public class NmrPred {
             
   }
 
-  public static void callMatlab(File folder) throws MatlabConnectionException, MatlabInvocationException {
+  public static void callMatlab(Instances test, ArrayList<String> hmdb_ids) throws 
+      MatlabConnectionException, MatlabInvocationException {
+        
     MatlabProxyFactoryOptions options =
             new MatlabProxyFactoryOptions.Builder()
                 .setUsePreviouslyControlledSession(true)
@@ -58,6 +60,7 @@ public class NmrPred {
 
     proxy.eval("cd ..");
     proxy.eval("cd matlab");
+    // Create variables like sys and inter
     proxy.feval("create_nmr1H_plot", "");
     //proxy.eval("exit()");
 
