@@ -2,7 +2,7 @@
 # define compiler and compiler flag variables
 #
 
-JFLAGS = -cp ".:cdk-1.4.13.jar:weka.jar:jmathplot.jar:jmathio.jar"
+JFLAGS = -cp ".:cdk-1.4.13.jar:weka.jar:jmathplot.jar:jmathio.jar:matlabcontrol-4.1.0.jar"
 JC = javac
 J = java
 

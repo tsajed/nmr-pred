@@ -12,11 +12,14 @@ import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.*;
 import weka.classifiers.*;
 
+import matlabcontrol.*;
+
 public class NmrPred {
-  public static void main(String[] argv) {
+  public static void main(String[] argv) throws MatlabConnectionException, MatlabInvocationException {
     File folder = new File("test/");
-    runPrediction(folder);
-    //NmrExperiment exp = new NmrExperiment();
+    //runPrediction(folder);
+    ///NmrExperiment exp = new NmrExperiment();
+    callMatlab(folder);
   }
 
   public static void runPrediction(File folder) {
@@ -44,4 +47,21 @@ public class NmrPred {
     }
             
   }
+
+  public static void callMatlab(File folder) throws MatlabConnectionException, MatlabInvocationException {
+    MatlabProxyFactoryOptions options =
+            new MatlabProxyFactoryOptions.Builder()
+                .setUsePreviouslyControlledSession(true)
+                .build();
+    MatlabProxyFactory factory = new MatlabProxyFactory(options);
+    MatlabProxy proxy = factory.getProxy();
+
+    proxy.eval("cd ..");
+    proxy.eval("cd matlab");
+    proxy.feval("create_nmr1H_plot", "");
+    //proxy.eval("exit()");
+
+    proxy.disconnect();
+  }
+
 }
