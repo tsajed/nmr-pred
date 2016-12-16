@@ -24,6 +24,7 @@ public class NmrStructure implements Serializable {
 
   public NmrStructure(String id) {
     hmdb_id = id;
+    chemical_shifts = new ArrayList<Float>();
   }
 
   public void assignShiftClasses(ArrayList<Float> c_shifts) {
