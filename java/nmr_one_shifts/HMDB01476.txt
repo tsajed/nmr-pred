@@ -1,0 +1,23 @@
+3-Hydroxyanthranilic 
+HMDB01476 
+DNMR spectrum600MHz in H2O 
+50mM at PH 7.0
+Reference to DSS
+
+Table if Peaks
+No. 	(ppm) 	(Hz) 	Height
+1 	6.702 	4023.48 	0.4501
+2 	6.949 	4171.81 	0.3141
+3 	7.286 	4373.84 	0.2853
+
+Table of Multiplets
+No. 	Hs 	Type 	J (Hz) 	Atom1 	Multiplet1 	 (ppm)
+1 	1 	t 	7.92 	5 	M01 	6.62 .. 6.83
+2 	1 	d 	7.92 	6 	M02 	6.90 .. 7.01
+3 	1 	d 	7.92 	4 	M03 	7.25 .. 7.34
+
+Table of Assignments
+No. 	Atom 	Multiplet
+1 	5 	M01
+2 	6 	M02
+3 	4 	M03
