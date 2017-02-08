@@ -43,6 +43,9 @@ public class NmrExperiment {
     }    
   }
 
+  /* This constructor function runs experiment on a training set doing 10-fold cross validation
+   * measuring CV accuracy and validating the model
+   */
   public NmrExperiment() {
     File folder = new File("dataset/");
     try {
@@ -450,7 +453,7 @@ public class NmrExperiment {
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
     }
-    Instances isTrainingSet = new Instances("Rel", wekaAttributes, 500);
+    Instances isTrainingSet = new Instances("Rel", wekaAttributes, 1500);
     isTrainingSet.setClassIndex(feature_factor*values.size());
 
     for (NmrStructure nmr_str : nmr_structures) {
@@ -505,7 +508,7 @@ public class NmrExperiment {
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
     }
-    Instances isTestSet = new Instances("Rel", wekaAttributes, 500);
+    Instances isTestSet = new Instances("Rel", wekaAttributes, 1500);
     isTestSet.setClassIndex(feature_factor*values.size());
 
     for (NmrStructure nmr_str : nmr_structures) {

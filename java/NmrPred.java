@@ -17,10 +17,14 @@ import matlabcontrol.*;
 public class NmrPred {
   public static void main(String[] argv) throws MatlabConnectionException, MatlabInvocationException {
     File folder = new File("test/");
-    runPrediction(folder);
-    ///NmrExperiment exp = new NmrExperiment();
+    //runPrediction(folder);
+    NmrExperiment exp = new NmrExperiment();
   }
 
+  /* RunPrediction function builds a classifier from a saved Training Set. It then builds a testing instance
+   * from a test folder. It then runs predict function to calculate ppm values for all Hydrogen atoms in 
+   * for all the test molecules
+   */
   public static void runPrediction(File folder) throws MatlabConnectionException, MatlabInvocationException {
     try {
     //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
