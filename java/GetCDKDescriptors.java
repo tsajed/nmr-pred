@@ -87,7 +87,7 @@ public class GetCDKDescriptors {
     ArrayList<String> colNames = new ArrayList<String>();
     ArrayList<Double[]> values = new ArrayList<Double[]>();
     for (IDescriptor desc : descriptors) {
-      if (desc instanceof IPAtomicLearningDescriptor)
+           if (desc instanceof IPAtomicLearningDescriptor)
         continue;
       String tname = desc.getClass().getName();
       String[] tnamebits = tname.split("\\.");

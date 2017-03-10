@@ -122,8 +122,8 @@ public class NmrExperiment {
       // ArrayList<Prediction> predictions = eTest.predictions();
 
       int folds = 10;
-      double true_values[] = new double[1100];
-      double predicted_values[] = new double[1100];
+      double true_values[] = new double[2000];
+      double predicted_values[] = new double[2000];
 
       Instances train;
       Instances test;

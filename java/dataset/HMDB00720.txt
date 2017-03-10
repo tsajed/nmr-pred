@@ -1,0 +1,21 @@
+Table of Peaks
+No.	(ppm)	(Hz)	Height
+1	2.212	1105.53	1.0000
+2	2.379	1188.93	0.2111
+3	2.392	1195.75	0.4655
+4	2.406	1202.53	0.2503
+5	2.752	1375.63	0.1619
+6	2.766	1382.41	0.2904
+7	2.779	1389.18	0.1406
+
+Table of Multiplets
+No.	Shift1 (ppm)	Hs	Type	J (Hz)	Atom1	Multiplet1	 (ppm)
+1	2.212	3	s	-	8	M03	2.197 .. 2.225
+2	2.392	2	t	6.80	4	M02	2.370 .. 2.417
+3	2.766	2	t	6.78	5	M01	2.741 .. 2.790
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	11	2.212	M03
+2	10	2.392	M02
+3	8	2.766	M01

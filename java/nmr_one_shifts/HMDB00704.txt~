@@ -1,0 +1,12 @@
+Table of Peaks
+No.	(ppm)	Height
+1	7.52	0.1522
+
+Table of Multiplets
+No.	Shift1 (ppm)	Hs	Type	Atom1	Multiplet1	 (ppm)
+1	7.52		1	s	3	M01		7.46 .. 7.56
+
+Table of Assignments
+No.	Atom	Exp. Shift (ppm)	Multiplet
+1	3	7.52			M01
+
