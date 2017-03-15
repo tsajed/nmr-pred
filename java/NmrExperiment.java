@@ -122,8 +122,8 @@ public class NmrExperiment {
       // ArrayList<Prediction> predictions = eTest.predictions();
 
       int folds = 10;
-      double true_values[] = new double[2000];
-      double predicted_values[] = new double[2000];
+      double true_values[] = new double[10];
+      double predicted_values[] = new double[10];
 
       Instances train;
       Instances test;
@@ -453,7 +453,7 @@ public class NmrExperiment {
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
     }
-    Instances isTrainingSet = new Instances("Rel", wekaAttributes, 1500);
+    Instances isTrainingSet = new Instances("Rel", wekaAttributes, 3000);
     isTrainingSet.setClassIndex(feature_factor*values.size());
 
     for (NmrStructure nmr_str : nmr_structures) {
@@ -508,7 +508,7 @@ public class NmrExperiment {
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
     }
-    Instances isTestSet = new Instances("Rel", wekaAttributes, 1500);
+    Instances isTestSet = new Instances("Rel", wekaAttributes, 2000);
     isTestSet.setClassIndex(feature_factor*values.size());
 
     for (NmrStructure nmr_str : nmr_structures) {
