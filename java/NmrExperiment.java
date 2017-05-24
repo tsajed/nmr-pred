@@ -27,10 +27,10 @@ import org.math.io.*;
 public class NmrExperiment {
 
   public static void main(String[] argv) {
-  	File folder = new File("dataset/");
+  	File folder = new File("dataset_temp/");
     try {
       //LinearRegression model = (LinearRegression) weka.core.SerializationHelper.read("models/regression.model_3d");
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_6");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_temp");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
@@ -47,9 +47,9 @@ public class NmrExperiment {
    * measuring CV accuracy and validating the model
    */
   public NmrExperiment() {
-    File folder = new File("dataset/");
+    File folder = new File("dataset_temp/");
     try {
-      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_6");
+      Instances isTrainingSet = (Instances) weka.core.SerializationHelper.read("models/train_classification_temp");
       //runRegression(isTrainingSet, true); 
       runClassifier(isTrainingSet, true);
     }
@@ -83,7 +83,7 @@ public class NmrExperiment {
       //d_tree_model.setHiddenLayers("100");
       //SMO d_tree_model = new SMO();
       if (!read) {
-        weka.core.SerializationHelper.write("models/train_classification_6", isTrainingSet);
+        weka.core.SerializationHelper.write("models/train_classification_temp", isTrainingSet);
       }
 
 
@@ -114,7 +114,7 @@ public class NmrExperiment {
       //d_tree_model.buildClassifier(isTrainingSet);
       // Evaluation eTest = new Evaluation(isTrainingSet);
       //eTest.evaluateModel(d_tree_model, isTrainingSet);
-      Random rand = new Random(1); // 500 is a good seed
+      Random rand = new Random(5); // 500 is a good seed
       // eTest.crossValidateModel(d_tree_model, isTrainingSet, 10, rand);
       // String strSummary = eTest.toSummaryString();
       // System.out.println(d_tree_model.toString());
@@ -135,10 +135,12 @@ public class NmrExperiment {
       //randData.stratify(folds);
 
       double average_error = 0;
+      int outlier_index = 0;
       for (int n = 0; n < folds + 1; n++) {
         if (n == 10) {
           train = randData.trainCV(folds, n-3);
           test = isTrainingSet;
+          break;
         }
         else {
           train = randData.trainCV(folds, n);
@@ -168,9 +170,10 @@ public class NmrExperiment {
           else {
             outlier_num = outlier_num + 1;
             System.out.println(true_values[i]);
-            System.out.println(hmdb_ids.get(i));
+            System.out.println(hmdb_ids.get(outlier_index));
           }
           error = Math.abs(true_values[i] - predicted_values[i]) + error;
+          outlier_index = outlier_index + 1;
         }
 
         error = error / predictions.size();
@@ -178,11 +181,11 @@ public class NmrExperiment {
         System.out.println(outlier_num);
         average_error = error + average_error;
       }
-      System.out.println(average_error/folds+1);
+      System.out.println(average_error/(folds));
 
       // Only for J48
       // displayClassifier(d_tree_model);
-      weka.core.SerializationHelper.write("models/classification.model_1", model);
+      weka.core.SerializationHelper.write("models/classification.model_temp", model);
 
       Plot2DPanel plot = new Plot2DPanel();
 
@@ -417,7 +420,7 @@ public class NmrExperiment {
     ArrayList<NmrStructure> nmr_structures = new ArrayList<NmrStructure>();
 
     try {
-      nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors");
+      nmr_structures = (ArrayList<NmrStructure>) weka.core.SerializationHelper.read("models/descriptors_temp");
     }
     catch (Exception e) { 
       try {     
@@ -430,7 +433,7 @@ public class NmrExperiment {
           nmr_str.atomic_descriptors = GetCDKDescriptors.getAtomicDescriptor(nmr_str.structure_sdf, "");
           nmr_str.findNearestAtomToHydrogens(GetCDKDescriptors.getNearestAtoms(nmr_str.structure_sdf));
         }
-        weka.core.SerializationHelper.write("models/descriptors", nmr_structures);
+        weka.core.SerializationHelper.write("models/descriptors_temp", nmr_structures);
       } catch (Exception ex) { ex.printStackTrace(); }
     }
 
@@ -448,7 +451,8 @@ public class NmrExperiment {
         System.out.println(df.format(i/10));
     } 
     attributes.add(new Attribute("Class", fv));
-    FastVector wekaAttributes = new FastVector(feature_factor * values.size()+1);
+    //attributes.add(new Attribute("HMDB ID", fv));
+    FastVector wekaAttributes = new FastVector(feature_factor * values.size()+1);// + add 2
 
     for(Attribute a : attributes) {
       wekaAttributes.addElement(a);
@@ -471,6 +475,7 @@ public class NmrExperiment {
         }
 
         iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size()), nmr_str.c_shift_classes.get(i));
+        //iExample.setValue((Attribute)wekaAttributes.elementAt(feature_factor*values.size() + 1), nmr_str.hmdb_id);
         isTrainingSet.add(iExample);
       }
     }

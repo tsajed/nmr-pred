@@ -30,6 +30,8 @@ import org.openscience.cdk.tools.manipulator.ChemFileManipulator;
 import org.openscience.cdk.qsar.descriptors.molecular.IPMolecularLearningDescriptor;
 import org.openscience.cdk.qsar.descriptors.atomic.IPAtomicLearningDescriptor;
 import org.openscience.cdk.smiles.SmilesGenerator;
+import org.openscience.cdk.tools.HOSECodeGenerator;
+import org.openscience.cdk.exception.CDKException;
 
 import javax.vecmath.Point3d;
 
@@ -162,6 +164,7 @@ public class GetCDKDescriptors {
           atoms.add(mol.getAtom(i));
         }
         values.addAll(computeListsAtomic(mol, atoms, (IAtomicDescriptor) desc));
+        getHoseCodesForMolecule(mol);
 
         // for (int i = 0; i < atomCount; i++) {
         //   System.out.println(mol.getAtom(i).getSymbol());
@@ -244,6 +247,25 @@ public static ArrayList<ArrayList<String>> getNearestAtoms(String sdf) {
 
   }
   return atom_distances;
+}
+
+public static ArrayList<String> getHoseCodesForMolecule(IAtomContainer mol) {
+  HOSECodeGenerator hoseG = new HOSECodeGenerator();
+  ArrayList<String> hoseCodes = new ArrayList<String>();
+
+  int atomCount = mol.getAtomCount();
+  List<IAtom> atoms = new ArrayList<IAtom>();
+  for (int i = 0; i < atomCount; i++) {
+    try {
+      String hose = hoseG.getHOSECode(mol, mol.getAtom(i), 0);
+      hoseCodes.add(hose);
+      System.out.println("HOSE = " + hose + "\n");
+    }
+    catch (CDKException e) {
+      e.printStackTrace();
+    }
+  }
+  return hoseCodes;
 }
 
 // Calculate RDF Proton descriptors by calculating aromaticity
