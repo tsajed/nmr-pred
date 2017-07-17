@@ -6,6 +6,14 @@ Predict chemical shifts from structures in smiles or inchi. Use open source soft
 
 Use machine learning models to predict NMR Spectra from Structure
 
+CDK Library and Descriptors - http://cdk.github.io/cdk/1.4/docs/api/org/openscience/cdk/qsar/descriptors/atomic/package-summary.html
+
+Spinach Library - http://spindynamics.org/Spinach.php
+
+Spinach Documentation - http://spindynamics.org/wiki/index.php?title=Main_Page
+
+WEKA Documentation - http://www.cs.waikato.ac.nz/ml/weka/
+
 
 # Code Layout and Flow
 
@@ -40,3 +48,4 @@ Layout
   - Matlab Folder contains the only code create_NMR_1H_plot.m in matlab to simulate the NMR spectra based on predicted chemical shifts and known J-Coupling constants. It uses Fourier transformation, apodization etc to create an NMR image.
   - Java folder contains all the prediction algorith, dataset and code in Java
   - Spinach folder contains the Spinach library used for NMR Simulation
+  - Docs folder contains relevant papers including my paper for the individual study course
