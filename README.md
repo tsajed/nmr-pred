@@ -39,5 +39,4 @@ Layout
   - Models folder contains saved training classification or regression sets or trained models like RandomForest
   - Matlab Folder contains the only code create_NMR_1H_plot.m in matlab to simulate the NMR spectra based on predicted chemical shifts and known J-Coupling constants. It uses Fourier transformation, apodization etc to create an NMR image.
   - Java folder contains all the prediction algorith, dataset and code in Java
-
-Spinach folder contains the Spinach library used for NMR Simulation
+  - Spinach folder contains the Spinach library used for NMR Simulation
