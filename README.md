@@ -34,5 +34,13 @@ NmrStructure.java
   - AssignShiftClasses rounds a chemical shift to 0.1 for classification
   
 DataSet folder contains the training set of 3D SDF structures and chemical shifts in text files
+
+Test Folder contains the test set of 3D SDF structures used for prediction and simulation, not for training or cross-validation
+
 Models folder contains saved training classification or regression sets or trained models like RandomForest
+
 Matlab Folder contains the only code create_NMR_1H_plot.m in matlab to simulate the NMR spectra based on predicted chemical shifts and known J-Coupling constants. It uses Fourier transformation, apodization etc to create an NMR image.
+
+Java folder contains all the prediction algorith, dataset and code in Java
+
+Spinach folder contains the Spinach library used for NMR Simulation
