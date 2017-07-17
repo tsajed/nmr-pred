@@ -12,5 +12,23 @@ Use machine learning models to predict NMR Spectra from Structure
 NmrPred.java 
   - Main Function in Program. You will have to call the main function no matter what you do.
   - Code to Run NmrExperiment to do 10 fold cross validation on a training set. 
-  - You can also RunPrediction Tests based on structures in \test folder. 
+  - You can also RunPrediction Tests based on 3D SDF structures in \test folder
   - RunPrediction will CallMatlab function to simulate the NMR Spectra based on predicted chemical shifts and structure
+
+NmrExperiment.java
+  - RunClassifier function starts a 10 fold Cross validation based on a training set ( saved or created ). RandomForest algorithm works th e best currently
+  - BuildTrainingClassification function builds a training set for classification problem. For every Structure in the dataset folder, it calculates 28 atomic descriptors for every atom in the structure. It also reads chemical shifts for every Hydrogen in the structure. Now, for every Hydrogen it takes the 28 descriptors for that hydrogen and the nearest three hydrogen atoms for it to build a 128 descriptor featureset for classification. There are 100 classes of chemical shifts from 0.1 to 10.0 for every 0.1.
+  - BuildTrainingRegression function that builds a training set for regression analysis
+  - BuildTestClassification function builds a test set for classification used by RunPrediction in NmrPred.java
+  - GetChemicalShifts uses ReadChemicalShift function to read a list of chemical shift text files downloaded from HMDB
+  
+GetCDKDescriptors.java
+  - Uses CDK Package built in Java to calculate atomic properties of atoms, molecules, distances of hydrogen atoms from given 3D SDF structure
+  - GetAtomicDescriptor is the main function used to calculate 28 Atomic Descriptors for every atom in a particular structure/molecule. Returns an ArrayList of doubles (descriptors). The Arraylist is the number of atoms in molecule and each molecule will have 28 doubles/descriptors
+  - GetNearestAtoms is used to calculate the nearest atoms to any atom in a molecule. This is used to find the three nearest atoms to any Hydrogen atom in a molecule
+  - ComputeDescriptorsAtomic calculates atomic descriptors for an Arraylist of Atoms
+  - There are molecular descriptors too but they are not currently used for prediction
+  
+NmrStructure.java
+  - A Java class to define an NMR Structure including its chemical shifts of hydrogen atoms, its descriptors for every atom, hydrogen positions, nearest atoms to every atom, hose codes
+  - AssignShiftClasses rounds a chemical shift to 0.1 for classification
